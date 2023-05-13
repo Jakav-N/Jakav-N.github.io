@@ -6,27 +6,34 @@
 
 body {
     font-family: "Open Sans", Arial, sans-serif;
-    margin: 0
+    margin: 0;
 }
+
 
 #header a {
     padding: 1em;
     margin: 0;
     font-size: 1.1em;
-    color: black;
+    color: white;
+    text-decoration: none;
 }
 
-#header-right a {
+#header a:hover {
+    background-color: #777777;
+}
+
+/*#header-right a {
     border-left: 2px solid black;
 }
 
 #header > a:first-child {
     border-right: 2px solid black;
-}
+}*/
 
 #header {
     border-bottom: 2px solid black;
     padding: 1em 0em;
+    background-color: #363636;
 }
 
 #content {
@@ -44,4 +51,5 @@ body {
 
 h2, h3 {
     text-decoration: underline;
+    color: navy;
 }

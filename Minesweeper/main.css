@@ -1,0 +1,19 @@
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#main {
+  width: min-content;
+}
+
+.gameHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+button {
+  border: 2px solid black;
+  font-family: inherit;
+  border-radius: 3px;
+}

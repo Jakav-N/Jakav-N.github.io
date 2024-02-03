@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8" />
-    <title>Hello World</title>
+    <title>Minesweeper</title>
     <link href="main.css" rel="stylesheet"></style>
   </head>
   <body>
@@ -15,8 +15,25 @@
       </div>
       <div id="root"></div>
       <br>
-      <button id="newGameButton">Start a new game</button>
+      <div>
+        <h3>Settings</h3>
+        <label for="numMines">Number of Mines: </label><input id="numMines" type="number" value="5" min="0" max="100" /><br>
+        <label for="boardSize">Size of Board: </label><input id="boardSize" type="number" min="1" max="20" value="10" />
+        <p>Note: settings are only applied for new games.</p>
+        <button id="newGameButton">Start a new game</button>
+      </div>
+      <br>
+      <div>
+        <h3>Bot Stuff</h3>
+        <button id="runBot">Run Bot</button><br><br>
+        <button id="botOneMove">Run Bot (one square)</button>
+      </div>
     </div>
+    <br>
+    <footer>
+      &copy; 2024
+    </footer>
+
     
     <script src="main.js"></script>
   </body>

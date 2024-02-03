@@ -5,6 +5,10 @@ TODO: When unflagging a square that has a zero next to it, make it be whatever i
 Not sure what to do here, perhaps check what good minesweeper does here or some other
 minesweeper implementation
 
+TODO: Use the way to loop through all squares more.
+
+TODO: No too-much-recurtion --> error when Bot.run is called and there are too many moves it needs to make
+
 The board is internally organized with structure[y][x]
 
 */
@@ -21,10 +25,7 @@ type Position = {x: number, y: number};
 type BoardLocationList = Position[];
 type GameState = "lost" | "ongoing" | "won"
 
-const boardWidth = 10;
-const boardHeight = 10;
-const numMines = 5;
-const statusElement = document.getElementById("status");
+
 
 /**
  * Generates a random number between min and max, min inclusive max exclusive
@@ -35,6 +36,12 @@ function randomInt (min: number, max: number): number {
     return Math.floor(Math.random() * (max - min)) + min;
 }
 
+/**
+ * Converts number to emoji (the SquareInfoType form)
+ * @param num Number to be converted to an emoji
+ * @param gameLost Whether the game is lost, used type of mine
+ * @returns The resulting emoji
+ */
 function numToEmoji (num: number, gameLost = false): string {
     //Note: the following line may contain not-so-good invisible emoji
     return ["⬜",gameLost ? "💣": "🚩","🟦","1️⃣","2️⃣","3️⃣","4️⃣","5️⃣","6️⃣", "7️⃣", "8️⃣"][num + 2];
@@ -42,6 +49,18 @@ function numToEmoji (num: number, gameLost = false): string {
 
 function updateRemainingMines (numMines: number | string) {
     document.getElementById("remainingMines").textContent = String(numMines);
+}
+
+function updateGameStatus (state: GameState) {
+    const statusElement = document.getElementById("status");
+
+    const stateToStatus = {
+        "ongoing": "Playing",
+        "won": "You won!",
+        "lost": "You lost"
+    }
+
+    statusElement.textContent = stateToStatus[state];
 }
 
 class Board {
@@ -70,6 +89,19 @@ class Board {
         }
 
         this.generateBoard();
+    }
+
+    
+    positions (): Position[] {
+        const positions: Position[] = [];
+
+        for (let y = 0; y < this.height; y++) {
+            for (let x = 0; x < this.width; x++) {
+                positions.push({x: x, y: y});
+            }
+        }
+
+        return positions;
     }
 
     generateMines (): BoardLocationList {
@@ -109,7 +141,7 @@ class Board {
                 const xLocation = location.x + dx;
                 const yLocation = location.y + dy;
 
-                if (xLocation < 0 || yLocation < 0 || xLocation >= this.width || yLocation >= this.height || (dx == 0 && dy == 0)) {
+                if (xLocation < 0 || yLocation < 0 || xLocation >= this.width || yLocation >= this.height || (dx === 0 && dy === 0)) {
                     continue;
                 } else {
                     locations.push({x: xLocation, y: yLocation});
@@ -207,26 +239,47 @@ class MinesweeperGame {
     state: GameState;
 
     constructor (width: number, height: number, numMines: number, rootElement: HTMLDivElement) {
+        this.reset(width, height, numMines, rootElement, true);
+    }
+
+    reset (width: number, height: number, numMines: number, rootElement: HTMLDivElement, initialize: boolean=false) {
+        let remakeBoard = true;
+
+        //Board has already been made, and width and height are the same.
+        if (!initialize && this.width && this.height && this.width === width && this.height === height) {
+            remakeBoard = false;
+        }
+        
         this.width = width;
         this.height = height;
         this.board = new Board(width, height, numMines);
         updateRemainingMines(this.board.minesLeft);
-        this.boardElement = this.generateBoardHTML();
-        if (rootElement.firstElementChild != undefined) {
-            rootElement.firstElementChild.remove();
-        }
-
-        rootElement.appendChild(this.boardElement);
-        
-
-        //Prevent the context menu from being opened when right-clicking on the board
-        rootElement.addEventListener("contextmenu", function (e) {
-            e.preventDefault();
-            return false;
-        });
 
         this.state = "ongoing";
-        statusElement.textContent = "Playing";
+        updateGameStatus(this.state);
+        
+
+        if (remakeBoard) {
+            this.boardElement = this.generateBoardHTML();
+
+            if (rootElement.firstElementChild != undefined) {
+                rootElement.firstElementChild.remove();
+            }
+
+            rootElement.appendChild(this.boardElement);
+        
+
+            //Prevent the context menu from being opened when right-clicking on the board
+            rootElement.addEventListener("contextmenu", function (e) {
+                e.preventDefault();
+                return false;
+            });
+        }
+        
+        //Make the board go back to unset.
+        if (!initialize) {
+            this.updateBoardHTML();
+        }
     }
 
     generateBoardHTML (): HTMLTableElement {
@@ -305,19 +358,17 @@ class MinesweeperGame {
 
         //https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent/button
         //0 = left click, 2 = right click
-        if (button === 0) {
+        if (this.board.getKnown(pos) === SquareInfo.mine) {
+            this.board.unFlag(pos);
+        } else if (button === 0) {
             this.board.revealSquare(pos);
 
             if (this.board.get(pos) === SquareInfo.mine) {
                 this.handleLosing();
                 return;
             }
-        } else if (button === 2) {
-            if (this.board.getKnown(pos) === SquareInfo.mine) {
-                this.board.unFlag(pos);
-            } else if (this.board.getKnown(pos) === SquareInfo.unknown) {
-                this.board.flag(pos);
-            }
+        } else if (button === 2 && this.board.getKnown(pos) === SquareInfo.unknown) {
+            this.board.flag(pos);
         }
         
         
@@ -357,7 +408,8 @@ class MinesweeperGame {
 
     handleWinning () {
         this.state = "won";
-        statusElement.textContent = "You won!";
+        updateGameStatus(this.state);
+        this.board.minesLeft = 0;
 
         //Make all the mines shown
         for (let y = 0; y < this.width; y++) {
@@ -380,17 +432,196 @@ class MinesweeperGame {
         }
 
         this.updateBoardHTML();
-        statusElement.textContent = "You lost";
+        updateGameStatus(this.state);
     }
 }
 
 
+//0 corrresponds to left click; 2 corresponds to right click. See MinesweeperGame.handleClick
+enum MoveType {
+    reveal = 0,
+    flag = 2
+}
+
+type Move = {pos: Position, type: MoveType};
+
+//Deal with bot stuff
+class Bot {
+    currentMoves: Move[];
+    board: Board;
+    game: MinesweeperGame;
+
+    constructor (board: Board, game: MinesweeperGame) {
+        this.board = board;
+        this.game = game;
+        this.currentMoves = [];
+    }
+
+    reset (game: MinesweeperGame, board: Board) {
+        this.currentMoves = [];
+        this.game = game;
+        this.board = board;
+    }
+
+    generateMoves () {
+        const usefulSquares = this.getUsefulSquares();
+        const newMoves: Move[] = [];
+
+        usefulSquares.forEach(squarePos => {
+            let adjacentMines = 0;
+            let adjacentUnknowns = 0;
+            const squareNumber: number = this.board.getKnown(squarePos);
+            
+
+            //Get number of adjacent mines
+            this.board.getAdjacentSquares(squarePos).forEach(adjPos => {
+                if (this.board.getKnown(adjPos) === SquareInfo.unknown) {
+                    adjacentUnknowns++;
+                } else if (this.board.getKnown(adjPos) === SquareInfo.mine) {
+                    adjacentMines++;
+                }
+            });
+
+           
+            let moveType: MoveType = undefined;
+
+            //TODO: Make sure this logic works, I hope it does.
+            if (squareNumber - adjacentMines === 0) {
+                moveType = MoveType.reveal;
+            } else if (squareNumber - adjacentMines === adjacentUnknowns) {
+                moveType = MoveType.flag;
+            }
+
+
+            
+            //Only do it if it came up with a move
+            if (moveType !== undefined) {
+                this.board.getAdjacentSquares(squarePos).forEach(adjPos => {
+                    if (this.board.getKnown(adjPos) === SquareInfo.unknown) {
+                        //TODO remove the following line, it's for debugging and it's inefficient
+                        this.game.updateBoardHTML()
+                        newMoves.push({pos: adjPos, type: moveType});
+                    }
+                    
+                })
+            }   
+        });
+
+        //New moves without duplicates
+        const newerMoves: Move[] = [];
+
+        //Remove duplicates in newMoves: (big O not ideal) TODO
+        newMoves.forEach(move => {
+            let alreadyInMoves = false;
+            newerMoves.forEach(moveInNewerMoves => {
+                //Only position is needed to root out duplicate moves
+                if (moveInNewerMoves.pos.x === move.pos.x && moveInNewerMoves.pos.y === moveInNewerMoves.pos.y) {
+                    alreadyInMoves = true;
+                }
+            });
+
+            if (!alreadyInMoves) {
+                newerMoves.push(move);
+            }
+        });
+
+        this.currentMoves = this.currentMoves.concat(newerMoves);
+
+    }
+
+    getUsefulSquares (): Position[] {
+        const squares: Position[] = [];
+
+        this.board.positions().forEach((position) => {
+            let squareIsUseful = false;
+
+            this.board.getAdjacentSquares(position).forEach((adjPosition) => {
+                if (this.board.getKnown(adjPosition) === SquareInfo.unknown) {
+                    squareIsUseful = true;
+                }
+            });
+
+            //Only put the square on it's it's "useful" and it's a number square (> 0)
+            if (squareIsUseful && this.board.getKnown(position) > 0) {
+                squares.push(position);
+            }
+        });
+        
+        return squares;
+    }
+
+    run (untilDone=true): void {
+        if (this.game.state !== "ongoing") {
+            alert("Game is over.");
+            return;
+        }
+    
+        if (this.currentMoves.length === 0) {
+            this.generateMoves();
+            if (this.currentMoves.length === 0) {
+                alert("Bot failed");
+                return;
+            }
+        }
+    
+        const nextMove = this.currentMoves.shift();
+        
+        
+        this.game.handleClick(nextMove.type, nextMove.pos); 
+        if (this.game.state === "ongoing" && untilDone === true) {
+            //Let the HTML update before running again
+            window.setTimeout(this.run.bind(this), 0, true);
+        }
+    }
+}
+
+let boardWidth = 10;
+let boardHeight = 10;
+let numMines = 5;
+
 const rootDiv: HTMLDivElement = document.querySelector("div#root");
+const game = new MinesweeperGame(boardWidth, boardHeight, numMines, rootDiv);
+const bot = new Bot(game.board, game);
 
-//Need to have a framework for starting a new game, so the ignores here. TODO
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-let game = new MinesweeperGame(boardWidth, boardHeight, numMines, rootDiv);
+const botRunButton = document.getElementById("runBot");
+const botStepButton = document.getElementById("botOneMove");
 
-document.getElementById("newGameButton").addEventListener("click", function () {
-    game = new MinesweeperGame(boardWidth, boardHeight, numMines, rootDiv);
+botStepButton.addEventListener("click", bot.run.bind(bot, false));
+botRunButton.addEventListener("click", bot.run.bind(bot, true));
+
+function restartGame () {
+    game.reset(boardWidth, boardHeight, numMines, rootDiv);
+    bot.reset(game, game.board);
+}
+
+document.getElementById("newGameButton").addEventListener("click", restartGame);
+
+
+//Input stuff
+const numMinesInput = document.getElementById("numMines") as HTMLInputElement;
+
+numMinesInput.addEventListener("change", function () {
+    if (Number(this.value) > Number(this.max)) {
+        this.value = this.max;
+    }
+
+    numMines = Number(this.value);
 })
+
+const boardSizeInput = document.getElementById("boardSize") as HTMLInputElement;
+
+boardSizeInput.addEventListener("change", function () {
+    if (Number(this.value) > Number(this.max)) {
+        this.value = this.max;
+    }
+
+    boardWidth = Number(this.value);
+    boardHeight = Number(this.value);
+    numMinesInput.max = String(Number(this.value) ** 2);
+
+    if (Number(numMinesInput.value) > Number(numMinesInput.max)) {
+        numMinesInput.value = numMinesInput.max;
+        numMines = Number(numMinesInput.value);
+    }
+});
+

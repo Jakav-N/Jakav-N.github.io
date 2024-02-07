@@ -108,7 +108,7 @@ class StuffState {
   }
 
   tick() {
-    const production = this.amount.times(this.prestige.dividedBy(UPDATE_INTERVAL));
+    const production = this.amount.times(this.prestige);
     if (this.id === 1) {
       game.depression = game.depression.plus(production);
     } else {

@@ -98,12 +98,13 @@ class StuffState {
 
   doPrestige() {
     this.prestige = this.nextPrestige;
-    game = {
+    this.amount = new Decimal(0);
+    /*game = {
       amounts: [new Decimal(0)],
       purchases: [new Decimal(0)],
       depression: new Decimal(1),
       prestige: game.prestige
-    };
+    };*/
     updateUI();
   }
 

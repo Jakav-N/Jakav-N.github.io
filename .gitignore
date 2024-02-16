@@ -1,0 +1,6 @@
+#Don't include nodejs modules for Webpack
+node_modules/
+
+.vscode/
+cspell.json
+

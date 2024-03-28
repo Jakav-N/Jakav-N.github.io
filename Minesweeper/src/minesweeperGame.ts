@@ -1,29 +1,10 @@
-/*
-Notes:
 
-TODO: When unflagging a square that has a zero next to it, make it be whatever it is?
-Not sure what to do here, perhaps check what good minesweeper does here or some other
-minesweeper implementation
-
-TODO: Use the way to loop through all squares more.
-
-TODO: No too-much-recurtion --> error when Bot.run is called and there are too many moves it needs to make
-
-The board is internally organized with structure[y][x]
-
-*/
-
-
-enum SquareInfo {
-    mine = -1,
-    unknown = -2,
-}
+import {Position, SquareInfo, makePosition} from "./generalTypes";
 
 type SquareInfoType = 0|1|2|3|4|5|6|7|8|SquareInfo.mine|SquareInfo.unknown;
 type BoardStructure = SquareInfoType[][];
-type Position = {x: number, y: number};
 type BoardLocationList = Position[];
-type GameState = "lost" | "ongoing" | "won"
+type GameState = "lost" | "ongoing" | "won";
 
 
 
@@ -63,14 +44,23 @@ function updateGameStatus (state: GameState) {
     statusElement.textContent = stateToStatus[state];
 }
 
-class Board {
+
+
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+function posFromStr (str: string) {
+    const items = str.split(",")
+    return {x: items[0], y: items[1]};
+}
+
+//Exported for minesweeperBot.ts
+export class Board {
     width: number;
     height: number;
     numMines: number;
     minesLeft: number;
     structure: BoardStructure;
     knownStructure: BoardStructure;
-
+    allSquares: Position[];
 
     constructor (width: number, height: number, numMines: number) {
         this.width = width;
@@ -85,6 +75,15 @@ class Board {
             this.knownStructure.push([]);
             for (let x = 0; x < this.width; x++) {
                 this.knownStructure[y].push(SquareInfo.unknown);
+            }
+        }
+
+        //Initialize allSquares
+        this.allSquares = [];
+
+        for (let y = 0; y < this.height; y++) {
+            for (let x = 0; x < this.width; x++) {
+                this.allSquares.push(makePosition(x, y));
             }
         }
 
@@ -231,7 +230,7 @@ class Board {
     }
 }
 
-class MinesweeperGame {
+export default class MinesweeperGame {
     width: number;
     height: number;
     board: Board;
@@ -436,192 +435,4 @@ class MinesweeperGame {
     }
 }
 
-
-//0 corrresponds to left click; 2 corresponds to right click. See MinesweeperGame.handleClick
-enum MoveType {
-    reveal = 0,
-    flag = 2
-}
-
-type Move = {pos: Position, type: MoveType};
-
-//Deal with bot stuff
-class Bot {
-    currentMoves: Move[];
-    board: Board;
-    game: MinesweeperGame;
-
-    constructor (board: Board, game: MinesweeperGame) {
-        this.board = board;
-        this.game = game;
-        this.currentMoves = [];
-    }
-
-    reset (game: MinesweeperGame, board: Board) {
-        this.currentMoves = [];
-        this.game = game;
-        this.board = board;
-    }
-
-    generateMoves () {
-        const usefulSquares = this.getUsefulSquares();
-        const newMoves: Move[] = [];
-
-        usefulSquares.forEach(squarePos => {
-            let adjacentMines = 0;
-            let adjacentUnknowns = 0;
-            const squareNumber: number = this.board.getKnown(squarePos);
-            
-
-            //Get number of adjacent mines
-            this.board.getAdjacentSquares(squarePos).forEach(adjPos => {
-                if (this.board.getKnown(adjPos) === SquareInfo.unknown) {
-                    adjacentUnknowns++;
-                } else if (this.board.getKnown(adjPos) === SquareInfo.mine) {
-                    adjacentMines++;
-                }
-            });
-
-           
-            let moveType: MoveType = undefined;
-
-            //TODO: Make sure this logic works, I hope it does.
-            if (squareNumber - adjacentMines === 0) {
-                moveType = MoveType.reveal;
-            } else if (squareNumber - adjacentMines === adjacentUnknowns) {
-                moveType = MoveType.flag;
-            }
-
-
-            
-            //Only do it if it came up with a move
-            if (moveType !== undefined) {
-                this.board.getAdjacentSquares(squarePos).forEach(adjPos => {
-                    if (this.board.getKnown(adjPos) === SquareInfo.unknown) {
-                        //TODO remove the following line, it's for debugging and it's inefficient
-                        this.game.updateBoardHTML()
-                        newMoves.push({pos: adjPos, type: moveType});
-                    }
-                    
-                })
-            }   
-        });
-
-        //New moves without duplicates
-        const newerMoves: Move[] = [];
-
-        //Remove duplicates in newMoves: (big O not ideal) TODO
-        newMoves.forEach(move => {
-            let alreadyInMoves = false;
-            newerMoves.forEach(moveInNewerMoves => {
-                //Only position is needed to root out duplicate moves
-                if (moveInNewerMoves.pos.x === move.pos.x && moveInNewerMoves.pos.y === moveInNewerMoves.pos.y) {
-                    alreadyInMoves = true;
-                }
-            });
-
-            if (!alreadyInMoves) {
-                newerMoves.push(move);
-            }
-        });
-
-        this.currentMoves = this.currentMoves.concat(newerMoves);
-
-    }
-
-    getUsefulSquares (): Position[] {
-        const squares: Position[] = [];
-
-        this.board.positions().forEach((position) => {
-            let squareIsUseful = false;
-
-            this.board.getAdjacentSquares(position).forEach((adjPosition) => {
-                if (this.board.getKnown(adjPosition) === SquareInfo.unknown) {
-                    squareIsUseful = true;
-                }
-            });
-
-            //Only put the square on it's it's "useful" and it's a number square (> 0)
-            if (squareIsUseful && this.board.getKnown(position) > 0) {
-                squares.push(position);
-            }
-        });
-        
-        return squares;
-    }
-
-    run (untilDone=true): void {
-        if (this.game.state !== "ongoing") {
-            alert("Game is over.");
-            return;
-        }
-    
-        if (this.currentMoves.length === 0) {
-            this.generateMoves();
-            if (this.currentMoves.length === 0) {
-                alert("Bot failed");
-                return;
-            }
-        }
-    
-        const nextMove = this.currentMoves.shift();
-        
-        
-        this.game.handleClick(nextMove.type, nextMove.pos); 
-        if (this.game.state === "ongoing" && untilDone === true) {
-            //Let the HTML update before running again
-            window.setTimeout(this.run.bind(this), 0, true);
-        }
-    }
-}
-
-let boardWidth = 10;
-let boardHeight = 10;
-let numMines = 5;
-
-const rootDiv: HTMLDivElement = document.querySelector("div#root");
-const game = new MinesweeperGame(boardWidth, boardHeight, numMines, rootDiv);
-const bot = new Bot(game.board, game);
-
-const botRunButton = document.getElementById("runBot");
-const botStepButton = document.getElementById("botOneMove");
-
-botStepButton.addEventListener("click", bot.run.bind(bot, false));
-botRunButton.addEventListener("click", bot.run.bind(bot, true));
-
-function restartGame () {
-    game.reset(boardWidth, boardHeight, numMines, rootDiv);
-    bot.reset(game, game.board);
-}
-
-document.getElementById("newGameButton").addEventListener("click", restartGame);
-
-
-//Input stuff
-const numMinesInput = document.getElementById("numMines") as HTMLInputElement;
-
-numMinesInput.addEventListener("change", function () {
-    if (Number(this.value) > Number(this.max)) {
-        this.value = this.max;
-    }
-
-    numMines = Number(this.value);
-})
-
-const boardSizeInput = document.getElementById("boardSize") as HTMLInputElement;
-
-boardSizeInput.addEventListener("change", function () {
-    if (Number(this.value) > Number(this.max)) {
-        this.value = this.max;
-    }
-
-    boardWidth = Number(this.value);
-    boardHeight = Number(this.value);
-    numMinesInput.max = String(Number(this.value) ** 2);
-
-    if (Number(numMinesInput.value) > Number(numMinesInput.max)) {
-        numMinesInput.value = numMinesInput.max;
-        numMines = Number(numMinesInput.value);
-    }
-});
 

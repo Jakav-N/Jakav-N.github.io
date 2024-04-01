@@ -2,13 +2,6 @@ import {Position, SquareInfo} from "./generalTypes"
 import {Board} from "./minesweeperGame"
 import MinesweeperGame from "./minesweeperGame"
 
-type Group = {numMines: NumRange, positions: Position[]};
-//Inclusive range type
-type NumRange = {min: number, max: number};
-
-function posToStr (pos: Position) {
-    return pos.x + "x" + pos.y;
-}
 
 //Some types for bots
 

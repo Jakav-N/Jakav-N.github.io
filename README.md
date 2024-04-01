@@ -1,3 +1,4 @@
 # Jakav-N.github.io
-Personal website, for various things
-It has AP Human Geography stuff, but focus is currently on TuFlow development
+This is a website that I put whatever I want on.
+
+It has AP Human Geography stuff, and a Minesweeper implementation with a bot.

@@ -3,14 +3,15 @@ const path = require('path');
 
 // eslint-disable-next-line no-undef
 module.exports = {
-  entry: './src/index.ts',
+  entry: './src/index.tsx',
   devtool: 'inline-source-map',
   mode: "development",
   module: {
     rules: [
       {
+        //Compile both .ts and .tsx files; the following line is regex
         test: /\.tsx?$/,
-        use: 'ts-loader',
+        use: 'babel-loader',
         exclude: /node_modules/,
       },
     ],

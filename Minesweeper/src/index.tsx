@@ -19,6 +19,10 @@ The board is internally organized with structure[y][x]
 
 import MinesweeperGame from "./minesweeperGame";
 import MyBot from "./minesweeperBot";
+import * as React from 'react';
+//import * as ReactDOM from "react-dom";
+import { createRoot } from 'react-dom/client';
+
 
 let boardWidth = 10;
 let boardHeight = 10;
@@ -69,3 +73,14 @@ boardSizeInput.addEventListener("change", function () {
         numMines = Number(numMinesInput.value);
     }
 });
+
+//Create footer to test React functionality
+function Footer () {
+    return <>&copy; 2024</>;
+}
+
+const footer = document.createElement("footer");
+document.body.appendChild(footer);
+const root = createRoot(footer);
+
+root.render(<Footer/>);

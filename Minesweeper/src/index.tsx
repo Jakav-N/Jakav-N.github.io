@@ -20,34 +20,139 @@ The board is internally organized with structure[y][x]
 import MinesweeperGame from "./minesweeperGame";
 import MyBot from "./minesweeperBot";
 import * as React from 'react';
-//import * as ReactDOM from "react-dom";
+import { useState } from 'react';
 import { createRoot } from 'react-dom/client';
 
+const Page = function () {
+    const [boardWidth, setBoardWidth] = useState(10);
+    const [boardHeight, setBoardHeight] = useState(10);
+    const [numMines, setNumMines] = useState(5);
 
-let boardWidth = 10;
-let boardHeight = 10;
-let numMines = 5;
+    const rootDiv: HTMLDivElement = document.querySelector("div#root");
+    const game = new MinesweeperGame(boardWidth, boardHeight, numMines, rootDiv);
+    const bot = new MyBot(game.board, game);
 
-const rootDiv: HTMLDivElement = document.querySelector("div#root");
-const game = new MinesweeperGame(boardWidth, boardHeight, numMines, rootDiv);
-const bot = new MyBot(game.board, game);
+    const botRunButton = document.getElementById("runBot");
+    const botStepButton = document.getElementById("botOneMove");
 
-const botRunButton = document.getElementById("runBot");
-const botStepButton = document.getElementById("botOneMove");
+    botStepButton.addEventListener("click", bot.run.bind(bot, false));
+    botRunButton.addEventListener("click", bot.run.bind(bot, true));
 
-botStepButton.addEventListener("click", bot.run.bind(bot, false));
-botRunButton.addEventListener("click", bot.run.bind(bot, true));
+    function restartGame () {
+        game.reset(boardWidth, boardHeight, numMines, rootDiv);
+        bot.reset(game.board, game);
+    }
 
-function restartGame () {
-    game.reset(boardWidth, boardHeight, numMines, rootDiv);
-    bot.reset(game.board, game);
+    document.getElementById("newGameButton").addEventListener("click", restartGame);
+
+
+    return <>
+        <Rules/>
+        <Game/>
+        <Settings/>
+        <BotStuff/>
+        <Footer/>
+    </>
 }
 
-document.getElementById("newGameButton").addEventListener("click", restartGame);
+function Rules () {
+    return <div>
+        <h2>Game Rules</h2>
+        <p>This is a version of Minesweeper. Search it up for more information.</p>
+    </div>
+}
+
+function Game (): React.JSX.Element {
+    return <div id="gameContainer">
+        <div className="gameHeader">
+            <span>Mines remaining: <span id="remainingMines"></span></span>
+            <span id="status"></span>
+        </div>
+        <div id="root"></div>
+    </div>
+}
+
+function BotStuff () {
+    return <div>
+        <h3>Bot Stuff</h3>
+        <button id="runBot">Run Bot</button><br/><br/>
+        <button id="botOneMove">Run Bot (one square)</button>
+    </div>
+}
+
+function Settings () {
+    
+    const [boardSize, setBoardSize] = useState(10);
+    const [maxNumMines, setMaxNumMines] = useState(boardSize ** 2);
+    const maxBoardSize = 20;
+
+    function numMinesChangeHandler (event: React.ChangeEvent<HTMLInputElement>) {
+        setNumMines(Number(event.currentTarget.value));
+
+        if (Number(event.currentTarget.value) > Number(maxNumMines)) {
+            //Change the value in the form
+            this.value = maxNumMines;
+
+            //Change the value that is used in most of the code
+            setNumMines(maxNumMines);
+        }
+    }
+    
+    function boardSizeChangeHandler (event: React.ChangeEvent<HTMLInputElement>) {
+        const newBoardSize = Number(event.currentTarget.value);
+        setBoardSize(newBoardSize);
+
+        //Deal with board sizes greater than maximum allowed
+        if (newBoardSize > maxBoardSize) {
+            this.value = maxBoardSize;
+            setBoardSize(maxBoardSize);
+        }
+    
+        boardWidth = newBoardSize;
+        boardHeight = newBoardSize;
+        //Square newBoardSize to compute the maximum number of mines the board could fit
+        setMaxNumMines(newBoardSize ** 2);
+    
+        if (numMines > maxNumMines) {
+            //This updates the form
+            const numMinesInput = document.getElementById("numMines") as HTMLInputElement;
+            numMinesInput.value = numMinesInput.max;
+
+            //Update numMines to it's max, since it's above it.
+            setNumMines(maxNumMines);
+        }
+    }
+
+
+    return <div>
+    <h3>Settings</h3>
+        <button id="newGameButton">Start a new game</button>
+        <label htmlFor="numMines">Number of Mines: </label>
+        <input id="numMines" type="number" value="5" min="0" max={maxNumMines} onChange={numMinesChangeHandler} />
+        <br/>
+        <label htmlFor="boardSize">Size of Board: </label>
+        <input id="boardSize" type="number" min="1" max={maxBoardSize} value="10" onChange={boardSizeChangeHandler} />
+        <p>Note: settings are only applied to new games.</p>
+    </div>
+}
+
+function Footer () {
+    return <footer>&copy; 2024</footer>;
+}
+
+const root = createRoot(document.getElementById("reactRoot"));
+
+root.render(<Page/>);
+
+
+
 
 
 //Input stuff
-const numMinesInput = document.getElementById("numMines") as HTMLInputElement;
+
+
+
+/*const numMinesInput = document.getElementById("numMines") as HTMLInputElement;
 
 numMinesInput.addEventListener("change", function () {
     if (Number(this.value) > Number(this.max)) {
@@ -72,15 +177,4 @@ boardSizeInput.addEventListener("change", function () {
         numMinesInput.value = numMinesInput.max;
         numMines = Number(numMinesInput.value);
     }
-});
-
-//Create footer to test React functionality
-function Footer () {
-    return <>&copy; 2024</>;
-}
-
-const footer = document.createElement("footer");
-document.body.appendChild(footer);
-const root = createRoot(footer);
-
-root.render(<Footer/>);
+});*/

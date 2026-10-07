@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Superlinear Lower Bounds</title>
+    <link rel="stylesheet" href="main.css">
+    <script>
+        window.MathJax = { tex: { inlineMath: [["$", "$"], ["\\(", "\\)"]] } };
+    </script>
+    <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+</head>
+<body>
+    <h1>Superlinear lower bounds for problems in NP</h1>
+    <p>
+        What can actually be proved, with complete proofs, and where the line is
+        between what is known and what has resisted decades of attempts.
+    </p>
+
+    <div class="box warn">
+        <p><b>Honest scope.</b> Nobody knows how to prove that SAT (or any
+        NP-complete problem) needs $\omega(n)$ time on a random-access machine,
+        or that any function in NP needs superlinear-size Boolean circuits. The
+        best explicit circuit lower bound for a function in NP is about
+        $3.1n$. This page does <em>not</em> claim to solve that. It proves
+        superlinear lower bounds for NP problems in models where that is
+        possible, and explains why those proofs stop where they do.</p>
+    </div>
+
+    <h2>Theorem 1: Palindromes need $\Omega(n^2)$ time on a one-tape Turing machine</h2>
+
+    <p>Let $\mathrm{PAL} = \{ w \in \{0,1\}^* : w = w^R \}$. PAL is decidable in
+    polynomial time, so $\mathrm{PAL} \in \mathrm{P} \subseteq \mathrm{NP}$.</p>
+
+    <div class="box">
+        <p><b>Theorem 1.</b> Let $M$ be any deterministic single-tape Turing
+        machine with $q \ge 2$ states that decides PAL. Then for all sufficiently
+        large $n$ there is an input of length $n$ on which $M$ runs for at least
+        $\dfrac{n^2}{20 \log_2 q}$ steps. In fact this holds for the
+        <em>average</em> running time over a family of $2^{\lfloor n/3 \rfloor}$
+        inputs of length $n$.</p>
+    </div>
+
+    <p>The bound is tight up to the constant: the obvious zig-zag algorithm runs in
+    $O(n^2)$ on one tape. (With two tapes PAL is solvable in $O(n)$, so this is a
+    genuinely model-dependent statement.)</p>
+
+    <h3>Setup: crossing sequences</h3>
+    <p>The input occupies cells $1, \dots, n$ and the head starts on cell $1$.
+    For $1 \le i \le n-1$, <em>boundary $i$</em> is the edge between cell $i$ and
+    cell $i+1$. The <em>crossing sequence</em> $C_i(x)$ is the list
+    $(p_1, p_2, \dots, p_k)$ where $p_j$ is the state $M$ enters on the step that
+    is its $j$-th move across boundary $i$. Because the head starts to the left of
+    every boundary, odd crossings go left-to-right and even crossings go
+    right-to-left.</p>
+
+    <p><b>Lemma 1 (time).</b> $\mathrm{time}_M(x) \ge \sum_{i=1}^{n-1} |C_i(x)|$.</p>
+    <p class="proof">Each step moves the head by at most one cell, so it crosses at
+    most one boundary. <span class="qed">∎</span></p>
+
+    <p><b>Lemma 2 (cut and paste).</b> Let $x = ab$ and $y = cd$ with
+    $|a| = |c| = i \ge 1$, suppose $M$ halts on $x$ and on $y$, and suppose
+    $C_i(x) = C_i(y)$. Then $M$ halts on $ad$, and its answer on $ad$ is its
+    answer on $x$ (if $|C_i(x)|$ is even) or on $y$ (if odd). In particular, if
+    $M$ accepts both $x$ and $y$, it accepts $ad$.</p>
+
+    <p class="proof">Let $C = (p_1, \dots, p_k)$ be the common crossing sequence.
+    One observation drives everything: between two consecutive crossings the head
+    stays on one side of the boundary, and every cell it writes is on that side
+    (a transition writes the cell it is leaving). So what happens on the left
+    side between crossings depends only on the left side's tape contents and the
+    state at the moment of entry, and symmetrically for the right.
+
+    We show by induction on $j$: right after the $j$-th crossing of boundary $i$
+    in the run on $ad$, the state is $p_j$, the left half of the tape equals the
+    left half of the run on $x$ right after its $j$-th crossing, and the right
+    half equals the right half of the run on $y$ right after its $j$-th crossing.
+    For $j = 0$ (the start), the left half is $a$ in both $ad$ and $x$, the right
+    half is $d$ followed by blanks in both $ad$ and $y$, and the state is the start
+    state. For the step $j \to j+1$: if $j$ is even the head is on the left, and
+    the run on $ad$ repeats exactly what the run on $x$ does on the left until its
+    $(j+1)$-th crossing, entering $p_{j+1}$. The right half is untouched, and in the
+    run on $y$ the right half is also untouched between crossings $j$ and $j+1$,
+    so it still agrees with $y$. The odd case is symmetric, with $y$ in place of
+    $x$.
+
+    After the $k$-th (last) crossing, the head is on the left if $k$ is even and
+    on the right if $k$ is odd. From then on the run on $ad$ copies the
+    corresponding run on $x$ or $y$, which never crosses again and halts with
+    that run's answer. <span class="qed">∎</span></p>
+
+    <h3>The proof of Theorem 1</h3>
+
+    <p class="proof">Let $m = \lfloor n/3 \rfloor$ and, for each
+    $u \in \{0,1\}^m$, let
+    $$x_u = u\, 0^{\,n-2m}\, u^R,$$
+    a palindrome of length $n$. Call a boundary $i$ with $m \le i \le n - m$ a
+    <em>middle boundary</em>. There are $n - 2m + 1 \ge m + 1$ of them, and each
+    one lies inside the block of zeros.
+
+    <p><b>Claim.</b> For each middle boundary $i$, the map
+    $u \mapsto C_i(x_u)$ is injective.</p>
+    <p>Suppose $u \ne v$ but $C_i(x_u) = C_i(x_v)$. Split
+    $x_u = a b$ with $a = u\,0^{\,i-m}$ and $x_v = c d$ with
+    $d = 0^{\,n-m-i}\, v^R$, both at boundary $i$. $M$ accepts both $x_u$ and
+    $x_v$, so by Lemma 2 it accepts
+    $$ad = u\, 0^{\,n-2m}\, v^R.$$
+    But $(ad)^R = v\, 0^{\,n-2m}\, u^R$, which differs from $ad$ in the first $m$
+    symbols because $u \ne v$. So $ad \notin \mathrm{PAL}$, and $M$ would be
+    wrong. This proves the claim.</p>
+
+    <p><b>Counting.</b> Let $\ell = \lfloor m / (2\log_2 q) \rfloor$. The number of
+    state sequences of length less than $\ell$ is
+    $\sum_{k=0}^{\ell-1} q^k < q^\ell \le 2^{m/2}$. By the claim, for each middle
+    boundary $i$ fewer than $2^{m/2}$ of the $2^m$ strings $u$ have
+    $|C_i(x_u)| < \ell$. Summing over all $u$ and all middle boundaries, then
+    using Lemma 1:
+    $$\sum_{u \in \{0,1\}^m} \mathrm{time}_M(x_u)
+      \;\ge\; \sum_{u}\sum_{i\ \text{middle}} |C_i(x_u)|
+      \;\ge\; (m+1)\,\bigl(2^m - 2^{m/2}\bigr)\,\ell.$$
+    Dividing by $2^m$, the average running time over the $x_u$ is at least
+    $(m+1)(1 - 2^{-m/2})\,\ell$. Since $m \approx n/3$ and
+    $\ell \ge m/(2\log_2 q) - 1$, this is
+    $(1 - o(1))\, \dfrac{n^2}{18 \log_2 q} \ge \dfrac{n^2}{20\log_2 q}$ for
+    large $n$. Some input does at least as well as the average.
+    <span class="qed">∎</span></p>
+
+    <h2>Theorem 2: Multitape Turing machines, via the time hierarchy</h2>
+
+    <p>The one-tape bound depends on the single tape being an information
+    bottleneck. Here is a superlinear bound for the standard multitape model,
+    where palindromes are easy.</p>
+
+    <div class="box">
+        <p><b>Theorem 2.</b> There is a language $D \in \mathrm{DTIME}(n^2)
+        \subseteq \mathrm{P} \subseteq \mathrm{NP}$ such that no deterministic
+        multitape Turing machine decides $D$ in time $O(n^{1.9})$. In particular,
+        every machine for $D$ takes more than $c\,n^{1.9}$ steps, for every $c$,
+        on infinitely many input lengths.</p>
+    </div>
+
+    <p class="proof">Fix an encoding $\langle M \rangle$ of multitape machines and a
+    universal machine $U$ that simulates $t$ steps of $M$ in
+    $c_M\, t \log t$ steps (Hennie–Stearns). Define
+    $$D = \{\, w = \langle M\rangle 1 0^k \;:\; U \text{, simulating } M \text{ on } w
+      \text{ for at most } |w|^2 \text{ of its own steps, does not see } M \text{ accept} \,\}.$$
+    Deciding $D$ means running $U$ with a clock of $|w|^2$ steps, so
+    $D \in \mathrm{DTIME}(n^2)$.
+
+    Suppose some $M$ decides $D$ in time at most $c\, n^{1.9}$. Choose $k$ large
+    enough that $w = \langle M \rangle 1 0^k$ satisfies
+    $c_M \cdot c|w|^{1.9} \log(c|w|^{1.9}) < |w|^2$. That is possible because
+    $n^{1.9}\log n = o(n^2)$. Then $U$'s simulation of $M$ on $w$ finishes
+    within the clock, so $w \in D \iff M$ does not accept $w$. That contradicts
+    the assumption that $M$ decides $D$. <span class="qed">∎</span></p>
+
+    <p>The catch is that $D$ is an artificial, diagonal language, not a natural
+    problem like SAT. Diagonalization also <em>relativizes</em>, and
+    Baker–Gill–Solovay showed that relativizing arguments alone cannot settle
+    P vs NP.</p>
+
+    <h2>What is known beyond this, and what is open</h2>
+
+    <table>
+        <tr><th>Model</th><th>Best known lower bound for something in NP</th><th>Status</th></tr>
+        <tr><td>One-tape TM</td><td>$\Omega(n^2)$ for PAL (Theorem 1)</td><td>Proved; technique is model-specific</td></tr>
+        <tr><td>Multitape TM</td><td>Diagonal language (Theorem 2); also
+            $\mathrm{NTIME}(n) \ne \mathrm{DTIME}(n)$ (Paul–Pippenger–Szemerédi–Trotter 1983)</td>
+            <td>Proved, but only for non-natural languages / barely superlinear</td></tr>
+        <tr><td>Time + space</td><td>SAT can't be solved in time $n^{2\cos(\pi/7)} \approx n^{1.80}$ and space $n^{o(1)}$ (R. Williams)</td><td>Proved; needs the space restriction</td></tr>
+        <tr><td>De Morgan formulas</td><td>$n^{3-o(1)}$ for Andreev's function (Håstad; Tal)</td><td>Proved; formulas can't reuse intermediate results</td></tr>
+        <tr><td>General Boolean circuits</td><td>about $3.1n$ (Li–Yang 2022)</td><td><b>Superlinear is open</b></td></tr>
+        <tr><td>Random-access machine, SAT</td><td>nothing superlinear known</td><td><b>Open</b></td></tr>
+    </table>
+
+    <h3>Why the general case is hard</h3>
+    <ul>
+        <li><b>Information bottlenecks disappear.</b> Theorem 1 works because one
+        tape forces $\Omega(n)$ bits to be ferried across each of $\Omega(n)$
+        boundaries. A second tape, or random access, removes the bottleneck.</li>
+        <li><b>Relativization</b> (Baker–Gill–Solovay 1975). Pure diagonalization,
+        as in Theorem 2, gives artificial languages and cannot resolve
+        P vs NP.</li>
+        <li><b>Natural proofs</b> (Razborov–Rudich 1997). Most combinatorial
+        circuit lower-bound techniques would, if they worked against general
+        circuits, break pseudorandom functions.</li>
+        <li><b>Algebrization</b> (Aaronson–Wigderson 2008). This rules out the
+        arithmetization tricks that get around relativization.</li>
+    </ul>
+
+    <p>So the theorems above are real superlinear lower bounds for problems in
+    NP. But an unconditional superlinear bound for SAT on a RAM, or for an
+    explicit NP function against general circuits, would be a major
+    breakthrough. Treat any claimed proof of one, including one produced by an
+    AI, with heavy skepticism until experts have checked it.</p>
+</body>
+</html>

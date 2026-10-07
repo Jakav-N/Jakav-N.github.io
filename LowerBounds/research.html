@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lower Bounds Research Log</title>
+    <link rel="stylesheet" href="main.css">
+    <script>
+        window.MathJax = { tex: { inlineMath: [["$", "$"], ["\\(", "\\)"]] } };
+    </script>
+    <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+</head>
+<body>
+    <p><a href="main.html">← Superlinear lower bounds</a></p>
+    <h1>Research log: counting states instead of steps</h1>
+
+    <div class="box warn">
+        <p><b>Outcome, stated up front.</b> I did <em>not</em> find a new
+        superlinear lower bound for a natural NP problem in an unrestricted model.
+        Here is what this attempt produced:</p>
+        <ol>
+            <li>A tight <b>time-versus-states tradeoff</b> for palindromes on one-tape
+            machines, $T = \Theta(n^2/\log q + n)$. It holds even if the machine is
+            built separately for each $n$, and the matching machines are checked by
+            the code below. I could not find it stated in this form, but it is very
+            likely folklore.</li>
+            <li>A <b>barrier</b>, proved below: every crossing-sequence argument stops
+            at $n^2/\log q$, and getting a superlinear bound for multitape machines
+            requires beating $n^2$ on one tape. Together these show
+            <em>exactly</em> how far the proof on the main page can be pushed.</li>
+            <li>Three genuinely different attempts to get past the barrier, each with
+            the precise point where it breaks.</li>
+        </ol>
+    </div>
+
+    <h2>The idea: treat states as a lookup-table budget</h2>
+    <p>Lower bounds are usually stated for one fixed machine, and the number of
+    states $q$ gets absorbed into the constant. Here $q$ is a resource in its own
+    right: a machine with $q$ states can keep a lookup table, or a buffer, of about
+    $\log_2 q$ bits in its finite control. The question is how much that buys.
+    For palindromes the answer is "exactly a $\log q$ factor, no more". That
+    pins down what a new technique has to do.</p>
+
+    <h2>Theorem 3: the tradeoff is tight</h2>
+    <div class="box">
+        <p><b>Theorem 3.</b> Let $T(n,q)$ be the minimum worst-case time of a
+        deterministic one-tape Turing machine with $q$ states deciding PAL on
+        inputs of length $n$. The machine may depend on $n$, and its tape alphabet
+        may be any constant size. Then for all $q \ge 8$ and all large $n$,
+        $$ T(n, q) = \Theta\!\left(\frac{n^2}{\log q} + n\right). $$</p>
+    </div>
+
+    <p class="proof"><b>Lower bound.</b> The proof of Theorem 1 never uses the
+    fact that one machine works for every $n$. It only uses one deterministic
+    machine on inputs of one length. It gives an average running time of at least
+    $(m+1)(1-2^{-m/2})\lfloor m/(2\log_2 q)\rfloor$ with $m = \lfloor n/3\rfloor$.
+    That is $\Omega(n^2/\log q)$ whenever $\log_2 q \le m/4$. For the
+    $+\,n$ term: on a palindrome, the machine must visit cell $n$. Otherwise,
+    flipping that bit would leave the run unchanged and the machine would accept a
+    non-palindrome. Reaching cell $n$ from cell $1$ takes $n-1$ steps.
+
+    <b>Upper bound.</b> Fix a buffer size $k$. The machine repeatedly does the
+    following. It reads the $k$ leftmost unconsumed symbols into its state,
+    marking them consumed. It walks right to the last unconsumed symbol. It checks
+    the $k$ rightmost unconsumed symbols against the buffer in reverse order,
+    marking them. Then it walks back. When fewer than $2k$ symbols remain, it
+    checks the leftover middle inside its state. Each round costs $O(n)$ and
+    consumes $2k$ symbols, so the time is about $n^2/(2k) + O(n)$. The state
+    count is $q = 2^k(k+2) + O(1)$, so $k = \Theta(\log q)$.
+    <span class="qed">∎</span></p>
+
+    <p><b>Checked by code.</b> <a href="pal_tradeoff.py"><code>pal_tradeoff.py</code></a>
+    builds the <em>full transition table</em> of this machine for a given $k$, so
+    the state count $q$ is exact rather than estimated. It runs the machine on
+    every binary string of length up to 16 and compares each answer with the
+    true palindrome test. All machines answer correctly. On long palindromes, the
+    product $T \cdot \log_2 q / n^2$ settles to a constant, as Theorem 3 predicts:</p>
+
+    <table>
+        <tr><th>buffer $k$</th><th>states $q$</th><th>$n=100$</th><th>$n=400$</th><th>$n=1600$</th></tr>
+        <tr><td>1</td><td>8</td><td>1.55</td><td>1.51</td><td>1.50</td></tr>
+        <tr><td>2</td><td>18</td><td>1.08</td><td>1.05</td><td>1.05</td></tr>
+        <tr><td>4</td><td>98</td><td>0.88</td><td>0.84</td><td>0.83</td></tr>
+        <tr><td>8</td><td>2562</td><td>0.78</td><td>0.73</td><td>0.71</td></tr>
+        <tr><td>12</td><td>57346</td><td>0.75</td><td>0.68</td><td>0.66</td></tr>
+    </table>
+    <p>Each cell shows $T \cdot \log_2 q / n^2$. The proven lower bound
+    corresponds to roughly $1/18$, so upper and lower bounds are within a
+    constant factor.</p>
+
+    <h2>Proposition 4: one tape and many tapes, with states counted</h2>
+    <div class="box">
+        <p><b>Proposition 4 (block simulation).</b> Suppose a $k$-tape machine $M$
+        decides $L$ in time $t(n) \ge n$. Then for every window size $w \ge 1$
+        there is a one-tape machine with $2^{O(kw)}$ states that decides $L$ in
+        time $O(t^2/w + t)$. The constants depend on $M$.</p>
+    </div>
+    <p class="proof">Store the $k$ tapes as tracks on the single tape, with a
+    marker for each head. Each <em>phase</em> sweeps once across the at most
+    $2t+1$ cells in use and copies into the state the $2w+1$ cells around each
+    head. It then simulates $w$ steps of $M$ entirely inside the state, which is
+    safe because no head can leave its window within $w$ steps. Finally it sweeps
+    back, writing the windows and the moved head markers onto the tape. A phase
+    costs $O(t + kw)$ steps, and there are $\lceil t/w \rceil$ phases. The state
+    holds $k$ windows over a constant-size alphabet, giving $2^{O(kw)}$ states.
+    <span class="qed">∎</span></p>
+
+    <p><b>Corollary.</b> Taking $w = 1$: if some problem in NP needs
+    $\omega(n^2)$ time on one-tape machines, then it needs $\omega(n)$ time on
+    multitape machines. More generally, if every one-tape machine with $q$ states
+    needs time $g(n)\, n^2/\log q$, then every multitape machine needs time
+    $\Omega(n\sqrt{g(n)})$. PAL is exactly the case $g = \Theta(1)$, which matches
+    the fact that it takes linear time on two tapes.</p>
+
+    <h2>Proposition 5: the crossing-sequence barrier</h2>
+    <div class="box">
+        <p><b>Proposition 5.</b> Call a <em>cut argument</em> any lower bound of the
+        form "$T \ge \sum_i \log_2 F_i / \log_2 q$", where $F_i$ is the size of a
+        <em>fooling set</em> at boundary $i$. A fooling set is a set of inputs
+        such that for any two of them, $ab$ and $cd$ split at boundary $i$, at
+        least one of the hybrids $ad$ or $cb$ gets a different answer than the
+        originals. By Lemma 2, their crossing sequences must then all differ.
+        Theorem 1 is an argument of this kind. For <em>every</em> language, such
+        an argument proves at most $n^2/(4\log_2 q)$.</p>
+    </div>
+    <p class="proof">If two inputs $ab$ and $cb$ in a fooling set had the same
+    right part $b$, the hybrids would be $ab$ and $cb$ themselves, so no answer
+    changes. So the members of a fooling set have distinct right parts, and
+    likewise distinct left parts. Hence $F_i \le 2^{\min(i,\, n-i)}$, and
+    $\sum_i \min(i, n-i) \le n^2/4$. <span class="qed">∎</span></p>
+
+    <p>Combine Propositions 4 and 5. Cut arguments can never reach the
+    $\omega(n^2)$ that the corollary needs, and Theorem 3 shows PAL already sits
+    at the barrier. So <b>no amount of cleverness inside the crossing-sequence
+    method can produce a superlinear multitape lower bound.</b> A new technique
+    has to charge the machine for <em>computing</em>, not only for
+    <em>moving information across a cut</em>.</p>
+
+    <h2>Three attempts to charge for computation</h2>
+
+    <h3>Attempt A: direct sums and interleaving</h3>
+    <p><b>Idea.</b> Interleave many independent palindrome instances, so that
+    every cut has to carry information about all of them at once, and hope the
+    costs add up.<br>
+    <b>Where it breaks.</b> Proposition 5 applies to <em>any</em> language,
+    including interleaved ones. A cut still separates at most $n$ input bits, so
+    the total stays at most $n^2$. Interleaving only rearranges the same budget.
+    <b>Dead end, provably.</b></p>
+
+    <h3>Attempt B: charge computation through circuits</h3>
+    <p><b>Idea.</b> If deciding $L$ on the gathered data requires a large circuit,
+    a one-tape machine should pay for that circuit in time.<br>
+    <b>Where it breaks.</b> The conversion runs the wrong way for us. A one-tape
+    machine running in time $T$ (it is in particular a multitape machine) can be
+    turned into a circuit of size about $T \log T \cdot \mathrm{poly}(q)$, using
+    the Pippenger–Fischer oblivious simulation. So proving $T = \omega(n^2)$
+    this way would need an explicit circuit lower bound of about $n^2$. The best
+    known is about $3.1n$. <b>Circular: it needs a much stronger result than it
+    gives.</b></p>
+
+    <h3>Attempt C: hardness magnification</h3>
+    <p><b>Idea.</b> For certain versions of MCSP (the problem of deciding whether
+    a truth table has a small circuit), McKay, Murray and Williams (STOC 2019)
+    showed that even an $N^{1.01}$ lower bound against one-tape machines would
+    imply P ≠ NP. This is far <em>below</em> the $n^2$ that crossing sequences
+    give for palindromes, so the target looks tiny.<br>
+    <b>Where it breaks.</b> Chen, Hirahara, Oliveira, Pich, Rajgopal and
+    Santhanam (the "locality barrier", ITCS 2020) observed that essentially all
+    known lower-bound techniques also work against machines with small local
+    oracles, and machines of that kind <em>can</em> solve the magnified
+    problems. So no known technique can prove these targets, however small the
+    exponent looks. Proposition 5 is a
+    concrete instance of that barrier: crossing sequences are local. <b>The most
+    promising direction, and the one where I have nothing new to add.</b></p>
+
+    <h2>Where this leaves things</h2>
+    <ul>
+        <li><b>SAT on random-access machines:</b> even a linear-time algorithm has
+        not been ruled out (van Melkebeek's survey).</li>
+        <li><b>Multitape machines:</b> the best separation of nondeterministic from
+        deterministic time is Santhanam's
+        $\mathrm{NTIME}(n\sqrt{\log^* n}) \ne \mathrm{DTIME}(n\sqrt{\log^* n})$.
+        Reaching SAT would need roughly a polylog gap here, because reducing a
+        nondeterministic linear-time computation to SAT blows up its size by
+        polylog factors.</li>
+        <li><b>One tape:</b> by the corollary above, any $\omega(n^2)$ bound for
+        SAT would already give a superlinear multitape bound for SAT.</li>
+    </ul>
+    <p>The contribution of this attempt is a clean target. Any new method must show
+    that, for some NP problem, extra states (lookup tables) help a one-tape
+    machine by <em>less</em> than a $\log q$ factor. That is,
+    $T \cdot \log q = \omega(n^2)$. Palindromes show that this fails for any
+    method that only counts information crossing cuts.</p>
+</body>
+</html>

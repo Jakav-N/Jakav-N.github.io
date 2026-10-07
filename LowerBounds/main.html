@@ -165,7 +165,7 @@
         <tr><th>Model</th><th>Best known lower bound for something in NP</th><th>Status</th></tr>
         <tr><td>One-tape TM</td><td>$\Omega(n^2)$ for PAL (Theorem 1)</td><td>Proved; technique is model-specific</td></tr>
         <tr><td>Multitape TM</td><td>Diagonal language (Theorem 2); also
-            $\mathrm{NTIME}(n) \ne \mathrm{DTIME}(n)$ (Paul–Pippenger–Szemerédi–Trotter 1983)</td>
+            $\mathrm{NTIME}(n) \ne \mathrm{DTIME}(n)$ (Paul–Pippenger–Szemerédi–Trotter 1983), improved to $n\sqrt{\log^* n}$ (Santhanam)</td>
             <td>Proved, but only for non-natural languages / barely superlinear</td></tr>
         <tr><td>Time + space</td><td>SAT can't be solved in time $n^{2\cos(\pi/7)} \approx n^{1.80}$ and space $n^{o(1)}$ (R. Williams)</td><td>Proved; needs the space restriction</td></tr>
         <tr><td>De Morgan formulas</td><td>$n^{3-o(1)}$ for Andreev's function (Håstad; Tal)</td><td>Proved; formulas can't reuse intermediate results</td></tr>
@@ -193,5 +193,10 @@
     explicit NP function against general circuits, would be a major
     breakthrough. Treat any claimed proof of one, including one produced by an
     AI, with heavy skepticism until experts have checked it.</p>
+
+    <p><b>Follow-up:</b> <a href="research.html">Research log: counting states
+    instead of steps</a>. An attempt to push past these bounds, with a tight
+    time-versus-states tradeoff, a proof of where crossing sequences stop, and
+    the approaches that failed.</p>
 </body>
 </html>

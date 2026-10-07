@@ -331,5 +331,125 @@
         of a matrix that needs $n^{1+\varepsilon}$ wires. Small cases can be
         solved exactly with SAT solvers.</li>
     </ol>
+
+    <h1 id="round3">Round 3: the limits of counting, and a hint of something beyond</h1>
+
+    <div class="box warn">
+        <p><b>Outcome.</b> Still no new lower bound for an NP problem. Round 3 produced
+        three things:</p>
+        <ol>
+            <li>A proved <b>limits-of-the-method theorem</b>. The counting argument
+            behind Proposition 6 cannot certify block rigidity beyond
+            "hint × locality $\approx k\log k$", for <em>any</em> function. Explicit
+            functions already reach "hint × locality $\approx k$".</li>
+            <li><b>Experiments</b> on all small cases. The true answers
+            <em>beat</em> what that method can certify, by more for nonlinear
+            functions, and by more as $k$ grows.</li>
+            <li>A verified example where, even for a <em>linear</em> map, the largest
+            valid input set is not a subspace. So rank arguments do not capture
+            the exact quantity.</li>
+        </ol>
+        <p>Together these point to one specific missing ingredient, described at the
+        end of this round.</p>
+    </div>
+
+    <h2>Proposition 7: what the counting method can never do</h2>
+    <p>The counting method (Proposition 6, in the general form) certifies that $f$
+    is not $(r,s)$-decomposable with dependency pattern $S$ by exhibiting one set
+    $J$ of outputs. Fix the inputs $W_J$ that $J$ is allowed to see. The method then
+    needs the values $f_J$ to carry more than $r$ bits of min-entropy over the
+    untouched inputs $C_J$. Those values can carry at most
+    $n\cdot\min(|J|,|C_J|)$ bits, whatever $f$ is.</p>
+
+    <div class="box">
+        <p><b>Proposition 7.</b> Let $\rho = \lfloor r/n \rfloor$. If
+        $s > \dfrac{2k}{\rho+1}\ln\dfrac{ek}{\rho+1}$, there is a dependency pattern
+        $S$ with $|S_j| = s$ on which the counting method fails, for every function
+        $f$ simultaneously. So the method can only work while
+        $\rho\cdot s = O(k\log(k/\rho))$. Cauchy matrices show that it does work
+        up to $(\rho+1)(s+1) \le k$, so the method is understood up to the log
+        factor.</p>
+    </div>
+    <p class="proof">The method fails on $S$ if every $\rho+1$ of the sets $S_j$
+    together cover all but at most $\rho$ blocks. Then every $J$ has either
+    $|J| \le \rho$ or $|C_J| \le \rho$, so $\min(|J|,|C_J|) \le \rho$ and the
+    min-entropy is at most $n\rho \le r$. (A larger $J$ only shrinks $C_J$.)
+
+    Choose each $S_j$ uniformly at random. For a fixed set $D$ of $\rho+1$ blocks,
+    each $S_j$ avoids $D$ with probability at most $e^{-s(\rho+1)/k}$. The pattern
+    fails to be covering only if some $D$ is avoided by some $\rho+1$ of the sets.
+    By a union bound, that probability is at most
+    $\binom{k}{\rho+1}^2 e^{-s(\rho+1)^2/k} \le
+    \left(\tfrac{ek}{\rho+1}\right)^{2(\rho+1)} e^{-s(\rho+1)^2/k}$, which is
+    below $1$ under the stated condition on $s$. <span class="qed">∎</span></p>
+
+    <p><a href="fiber_method_limit.py"><code>fiber_method_limit.py</code></a> finds
+    such patterns exactly for small $k$, checking every $J$ exhaustively. The
+    union-bound estimate is loose at these sizes, but the picture is already
+    visible:</p>
+    <table>
+        <tr><th>$k$</th><th>$\rho$</th><th>Cauchy: method works up to $s$</th>
+            <th>a random pattern defeats the method at $s$</th>
+            <th>trivial decomposition always exists at $s$</th></tr>
+        <tr><td>16</td><td>1</td><td>7</td><td>14</td><td>15</td></tr>
+        <tr><td>16</td><td>3</td><td>3</td><td>8</td><td>13</td></tr>
+        <tr><td>24</td><td>2</td><td>7</td><td>19</td><td>22</td></tr>
+        <tr><td>24</td><td>3</td><td>5</td><td>14</td><td>21</td></tr>
+    </table>
+
+    <h2>Experiment: the true answers go beyond the method</h2>
+    <p>For tiny cases, with blocks of one bit and $k \le 7$, I computed the
+    <em>exact</em> largest input set on which a given dependency pattern works.
+    This is a maximum independent set in a conflict graph. I compared it with the
+    best bound the counting method can give for that pattern. "Slack" is the
+    number of bits by which the exact answer is better than the method's bound.
+    Script: <a href="global_slack.py"><code>global_slack.py</code></a>.</p>
+    <table>
+        <tr><th>family</th><th>$k=4$</th><th>$k=5$</th><th>$k=6$</th><th>$k=7$</th></tr>
+        <tr><td>random linear</td><td>0.40</td><td>0.61</td><td>0.75</td><td>0.75</td></tr>
+        <tr><td>explicit quadratic $y_j = x_{j+1}x_{j+2} + x_{j+3}$</td><td>0.44</td><td>0.65</td><td>0.79</td><td>1.00</td></tr>
+        <tr><td>random permutation</td><td>0.52</td><td>0.79</td><td>1.38</td><td>1.46</td></tr>
+        <tr><td>random function</td><td>0.68</td><td>0.93</td><td>1.25</td><td>1.40</td></tr>
+    </table>
+    <p>Each cell is the mean slack in bits for locality $s = 1$. With $s = 2$ the
+    pattern is the same and the slack is larger, for example 2.0 bits for random
+    functions at $k=7$. The samples are small, especially at $k = 6, 7$, so read
+    these as trends, not constants.</p>
+    <p>Two things stand out. The slack <b>grows with $k$</b>. And it is
+    <b>larger for nonlinear functions</b> than for linear ones. If that continues,
+    an argument that looks at many output sets together could beat the
+    Proposition 7 ceiling, and it would work best on nonlinear candidates. That
+    fits the Mittal–Raz picture, where the hoped-for global argument is a
+    parallel-repetition theorem.</p>
+
+    <h2>Observation: rank is not the whole story, even for linear maps</h2>
+    <p>For random linear maps the largest valid set had power-of-two size in 609 of
+    610 cases, which is consistent with it being a subspace. The exception is real
+    and was checked by plain brute force:</p>
+    <ul>
+        <li>The map over GF(2) has rows $01100, 00011, 10111, 10010, 10001$.</li>
+        <li>The pattern is $S = (00110, 00011, 11000, 11000, 00011)$.</li>
+        <li>The largest valid set is
+        $\{00000, 00101, 01010, 10111, 11011\}$, with 5 elements. It is not
+        closed under XOR.</li>
+        <li>The best subspace or coset has only 4 elements, and no valid set of
+        size 6 exists.</li>
+    </ul>
+    <p>In this instance the hint still needs 3 bits either way: covering all 32
+    inputs with sets of at most 5 takes 7 sets. So this does not show nonlinear
+    hints <em>winning</em>. It shows that the exact quantity is not a rank
+    quantity, so linear-algebra methods alone cannot pin it down even for linear
+    maps.</p>
+
+    <h2>The missing ingredient</h2>
+    <p>Proposition 7 says any argument built from one output set at a time stops at
+    hint × locality $\approx k\log k$. The experiments say the truth lies beyond
+    that, increasingly so for nonlinear functions. What is needed is an
+    inequality that combines <em>many</em> output sets at once, in the spirit of
+    Shearer's lemma, or a "direct product" argument that charges each extra output
+    a little. For Turing machines this is exactly the content of the strong
+    multiplayer parallel-repetition conjecture. The small-case data suggests the
+    explicit quadratic map above is a reasonable test case for such an
+    inequality.</p>
 </body>
 </html>

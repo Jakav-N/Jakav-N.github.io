@@ -191,5 +191,145 @@
     machine by <em>less</em> than a $\log q$ factor. That is,
     $T \cdot \log q = \omega(n^2)$. Palindromes show that this fails for any
     method that only counts information crossing cuts.</p>
+
+    <h1 id="round2">Round 2: looking where the barriers are thinner</h1>
+
+    <div class="box warn">
+        <p><b>Outcome.</b> Still no new superlinear lower bound for an NP problem.
+        Round 2 produced three things:</p>
+        <ol>
+            <li>A map of open lower-bound questions that have <em>no</em> known formal
+            barrier.</li>
+            <li>A correction to the main page: a <em>natural</em> NP-complete problem
+            is already known not to be solvable in linear time on multitape
+            machines.</li>
+            <li>A small proved result, checked by brute force. For <em>linear</em>
+            functions, the Mittal–Raz route to multitape lower bounds is exactly
+            as hard as matrix rigidity. So any candidate for that route should be
+            nonlinear.</li>
+        </ol>
+        <p>The literature facts below come from abstracts and search summaries.
+        The network here blocks arXiv and ECCC, so I could not read the papers in
+        full.</p>
+    </div>
+
+    <h2>Where the barriers are</h2>
+    <p>The well-known barriers are relativization, natural proofs, algebrization,
+    locality, and the Buss–Williams limit on "alternation-trading" proofs. Each one
+    targets a specific technique or model. These open questions have no formal
+    barrier that I could find:</p>
+    <table>
+        <tr><th>Model / question</th><th>Best known</th><th>Barrier?</th></tr>
+        <tr><td>Multitape TM: sorting, element distinctness, matrix transposition</td>
+            <td>No $\omega(n)$ bound known</td><td>None known. The only route is
+            conditional (Mittal–Raz, below).</td></tr>
+        <tr><td>Off-line TM (two-way read-only input plus one work tape): explicit
+            problems</td><td>Barely superlinear (Maass–Schnitger–Szemerédi–Turán);
+            $n^{1.22}$ for SAT (van Melkebeek–Raz)</td><td>None known</td></tr>
+        <tr><td>On-line TMs: $k$ tapes simulating $k+1$ tapes</td>
+            <td>$\Omega(n(\log n)^{1/(k+1)})$ (Paul), against an $O(n\log n)$ upper bound</td>
+            <td>None known</td></tr>
+        <tr><td>Depth-2 linear circuits over GF(2), explicit matrix</td>
+            <td>about $n\log^2 n/\log\log n$. Matrices needing $n^{1.25}$ exist and
+            can be found in subexponential time (Kumar–Volk).</td>
+            <td>Graph-theoretic arguments stop at superconcentrator size. Nothing
+            formal beyond that is known.</td></tr>
+        <tr><td>Block rigidity (Mittal–Raz) ⇒ multitape TM lower bounds</td>
+            <td>Conditional on a strong multiplayer parallel-repetition theorem</td>
+            <td>None known</td></tr>
+    </table>
+
+    <p><b>Correction to the main page.</b> Grandjean found natural NP-complete
+    problems that are complete for nondeterministic linear time under linear-time
+    reductions. Combined with Paul–Pippenger–Szemerédi–Trotter, this shows they
+    are <em>not</em> in deterministic linear time on multitape machines. That is a
+    superlinear lower bound for a natural NP-complete problem, though only a
+    $\log^*$-type one, nothing like $n\log n$.</p>
+
+    <h2>Proposition 6: linear block rigidity reduces to matrix rigidity</h2>
+    <p>Mittal and Raz showed that a <em>block-rigid</em> function cannot be
+    computed by multitape Turing machines in linear time, even with advice. Here
+    is my version of the definition; it may differ in details from theirs.</p>
+    <p>Write the input as $k$ blocks of $n$ bits. Call $f$
+    <em>$(r,s)$-decomposable</em> if a hint $h(x)$ of $r$ bits can be chosen, as
+    any function of the input at all, such that each output block $j$ is a
+    function of the hint and of at most $s$ input blocks $x_{S_j}$. Block rigidity
+    means <em>not</em> decomposable with a small hint and small $s$.</p>
+    <p>Take $f(x) = Ax$, where $A$ is a $k \times k$ matrix over the field
+    $\mathbb{F} = \mathrm{GF}(2^n)$, so each block is one field element.</p>
+
+    <div class="box">
+        <p><b>Lemma.</b> Let $X$ be any set of inputs on which every output
+        $(Ax)_j$ is a function of $x_{S_j}$ alone. For any set $J$ of outputs, let
+        $W = \bigcup_{j \in J} S_j$ and $C = [k]\setminus W$. Then
+        $|X| \le |\mathbb{F}|^{\,k - \operatorname{rank} A[J,C]}$.</p>
+        <p><b>Consequences.</b></p>
+        <ol>
+            <li>If $f$ is $(r,s)$-decomposable, then for <em>every</em> such $J$,
+            $\operatorname{rank} A[J,C] \le r/n$. This holds even though the hint is
+            allowed to be nonlinear.</li>
+            <li>If $A$ is a Cauchy matrix (needs $2^n \ge 2k$), then $f$ is <em>not</em>
+            $(r,s)$-decomposable whenever $(\lfloor r/n\rfloor+1)(s+1) \le k$.</li>
+            <li>Conversely, if $A = S + L$ where $S$ has at most $s$ nonzeros per row
+            and $\operatorname{rank} L \le \rho$, then $f$ <em>is</em>
+            $(\rho n, s)$-decomposable.</li>
+        </ol>
+    </div>
+
+    <p class="proof"><b>Lemma.</b> For $j \in J$, write $(Ax)_j$ as the sum over
+    columns in $W$ plus the sum over columns in $C$. The left side and the first
+    sum are both functions of $x_W$, so $A[J,C]\,x_C$ is a function of $x_W$ on
+    $X$. Fixing $x_W$ therefore confines $x_C$ to one coset of
+    $\ker A[J,C]$. Counting:
+    $|X| \le |\mathbb{F}|^{|W|}\cdot|\mathbb{F}|^{|C|-\operatorname{rank}A[J,C]}$,
+    and $|W| + |C| = k$.
+
+    <b>(1)</b> Fix the most common hint value. On those inputs $X$ the
+    decomposition is local, and $|X| \ge 2^{nk-r}$.
+
+    <b>(2)</b> In a Cauchy matrix every square submatrix is nonsingular. Take
+    $|J| = \lfloor r/n\rfloor + 1$. Then $|C| \ge k - s|J| \ge |J|$, so
+    $\operatorname{rank}A[J,C] = |J| > r/n$, which contradicts (1).
+
+    <b>(3)</b> Write $L = PQ$ with $Q$ having $\rho$ rows, and use the hint
+    $h(x) = Qx$, which is $\rho$ field elements. Then
+    $(Ax)_j = (Sx)_j + P_j\,h(x)$. <span class="qed">∎</span></p>
+
+    <p><b>Checked by code.</b>
+    <a href="block_rigidity_check.py"><code>block_rigidity_check.py</code></a>
+    tests random matrices over GF(2), the case $n = 1$, with $k \le 4$. For
+    every choice of the sets $S_j$ it finds the <em>largest</em> valid $X$ by
+    exhaustive search. The lemma held in all 20,951 cases and was exactly tight
+    in 13,416 of them.</p>
+
+    <p><b>What this means.</b> For linear functions there are two sides:</p>
+    <ul>
+        <li>The best lower-bound method available is (1), the "untouched submatrix"
+        method. That is the same method classical rigidity proofs use.</li>
+        <li>Any failure of matrix rigidity hands over a decomposition, by (3).</li>
+    </ul>
+    <p>So linear candidates run straight into the decades-old rigidity barrier.
+    Explicit matrices only reach "hint size × locality ≈ $k$", shown by the
+    Cauchy bound. The trivial decomposition only needs "hint size + locality
+    $= k$". The real gap is between a <em>product</em> and a <em>sum</em>.</p>
+    <p><b>Takeaway:</b> candidates for block rigidity should be
+    <em>nonlinear</em>, and as far as I can tell from the abstracts, the
+    parallel-repetition functions Mittal and Raz study are. I couldn't read the
+    exact parameters the Turing-machine application needs, so I can't say how far
+    the Cauchy bound falls short.</p>
+
+    <h2>What I would try next</h2>
+    <ol>
+        <li><b>Off-line one-work-tape machines.</b> Aim for an $n^{1+\varepsilon}$
+        bound for deciding whether $B = A^{T}$. Bounds there are weak, no
+        barrier is known, and no hardness-magnification trap is known.</li>
+        <li><b>Nonlinear block rigidity at small sizes.</b> Use exhaustive search,
+        like the script above, to test whether natural nonlinear candidates
+        (polynomial evaluation, products over a field) beat the linear
+        "product ≈ $k$" bound for small $k$.</li>
+        <li><b>Depth-2 GF(2) circuits.</b> Look for a polynomial-time construction
+        of a matrix that needs $n^{1+\varepsilon}$ wires. Small cases can be
+        solved exactly with SAT solvers.</li>
+    </ol>
 </body>
 </html>

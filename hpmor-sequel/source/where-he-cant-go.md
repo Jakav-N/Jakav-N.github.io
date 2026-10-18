@@ -1,4 +1,4 @@
-# Where He Can’t Go
+# Where He Can't Go
 
 *A sequel to* Harry Potter and the Methods of Rationality
 
@@ -187,7 +187,7 @@ So either he hadn't thought of it, which as hypotheses about Harry Potter went h
 
 *All right,* Hermione told herself. *Look at it properly, and don't skip any steps.*
 
-At her trial, in front of the entire Wizengamot, Harry had said that he would go to Azkaban and start snapping his fingers, and that it might cost him his life. Afterwards Professor Dumbledore had told her that Harry never lied, and that he really would have tried it, *even at cost of his life*. So destroying the Dementors was the kind of thing that could kill you, and this afternoon she had found out why. The True Patronus ran on life rather than magic, and the further away the Dementors were, the more it cost; she had felt that for herself, like a jug tipping over.
+At her trial, in front of the entire Wizengamot, Harry had said that he would go to Azkaban and start snapping his fingers, and that it might cost him his life. Afterwards Professor Dumbledore had told her that Harry never lied, and that he really would have tried it, *even at cost of his life*. So destroying the Dementors was the kind of thing that could kill you, and this evening she had found out why. The True Patronus ran on life rather than magic, and the further away the Dementors were, the more it cost; she had felt that for herself, like a jug tipping over.
 
 There were more than a hundred Dementors in Azkaban, and when she'd asked Harry where she would be standing, he'd said they would *work out the geometry*. That was not a thing Harry *said*. It was a thing Harry *did*, out loud and at length, usually while you were trying to eat your lunch, and the only time Harry didn't tell you a number was when he didn't like the number.
 
@@ -358,7 +358,7 @@ Harry tried to answer, and the Vow stopped his mouth again.
 
 "Then I'm gone forever, I know; you just told me. But I'm choosing between dying *for certain*, tomorrow, for the second time in nine weeks, *alone*, and then being a book for forty minutes—or a *chance* of not dying at all. I'll take the chance, because it's my life—it's *literally my soul*—and I think I get to choose."
 
-On his desk downstairs lay the portkeys Amelia Bones had sent up that afternoon: two tarnished silver sugar spoons, which was apparently what the Department of Magical Law Enforcement used when it wanted to be taken seriously. One was set for the roof of Azkaban at ten tomorrow morning; the other was for afterwards, or emergencies. Harry climbed down the ladder, with Hermione behind him, and picked up the first one, and turned, and held out his hand to give it to her.
+On his desk downstairs lay the portkeys Amelia Bones had sent up that afternoon: two tarnished silver sugar spoons, which was apparently what the Department of Magical Law Enforcement used when it wanted to be taken seriously. One was set for the roof of Azkaban at ten tomorrow morning; the other was for afterwards, or emergencies. (Neither would work until it had been carried out past the gates, since portkeys didn't work inside the wards of Hogwarts; and Azkaban's own wards allowed a few fast ways in, all of them highly restricted, and no fast ways out.) Harry climbed down the ladder, with Hermione behind him, and picked up the first one, and turned, and held out his hand to give it to her.
 
 His hand stopped halfway between them, with his fingers closed tight around the spoon, and it would not go any further. It wasn't that Harry didn't want to move it; it was that moving it any further was no longer a thing that Harry Potter's hand *did*. They both looked at it, and Harry said, "It's my—"
 
@@ -411,7 +411,7 @@ She was halfway out of the door when she stopped and looked back.
 
 ## Chapter 4: Constant Vigilance
 
-*(Thursday, June 18th, 1992. 9:41 in the morning.)*
+*(Thursday, June 18th, 1992. 9:14 in the morning.)*
 
 You could hear Mad-Eye Moody coming up the stairs from a long way off, *clunk*, step, *clunk*, step, and Hermione suspected that this was entirely on purpose, on the theory that an enemy who knew you were coming might decide not to be there when you arrived.
 
@@ -435,13 +435,13 @@ Harry opened his mouth as if to argue, and then, to Hermione's private astonishm
 
 Moody had brought her a present: a small brass button, which he sewed onto the inside of her robe's hem himself, with a needle he took out of somewhere inside his coat, muttering a spell over every single stitch.
 
-"If your heart stops for thirty seconds," he said, biting off the thread, "this brings whatever's left of you straight to me. And then Potter knows what to do with it."
+"If your heart stops," he said, biting off the thread, "the twin to this in my pocket goes warm. Thirty seconds of that, and an Auror goes down the pit on a broom and fetches whatever's left of you, Dementors or no Dementors. And then Potter knows what to do with it."
 
 "That's *horrible*," said Hermione.
 
 "That's *vigilance*," said Moody.
 
-By nearly ten o'clock the sugar spoon was lying on Harry's desk where she had put it, and Harry was standing at the window with his hands shoved into his pockets, staring at the lake, visibly not managing anyone.
+By twenty to ten the sugar spoon was lying on Harry's desk where she had put it, ready to be carried down to the gates, and Harry was standing at the window with his hands shoved into his pockets, staring at the lake, visibly not managing anyone.
 
 Hermione went over and stood beside him. "Is it all right," she said, "if I hug you?"
 
@@ -453,9 +453,9 @@ She hugged him very, very carefully, as if he were made of spun sugar, which com
 
 There was a long pause before Harry said, "Okay. I'll stay."
 
-"Ten o'clock," said Professor McGonagall from behind them, in a voice that wasn't quite as crisp as usual.
+"It's time," said Professor McGonagall from behind them, in a voice that wasn't quite as crisp as usual.
 
-Hermione let go of him, and went to the desk, and put one finger on the spoon next to Mr Moody's gnarled one; and there was a jerk behind her navel, and Hogwarts went away.
+Hermione let go of him, and picked up the spoon, and went down the stairs with Mr Moody. At ten o'clock exactly, just outside the gates, she put one finger on the spoon next to his gnarled one; and there was a jerk behind her navel, and Hogwarts went away.
 
 ---
 
@@ -471,7 +471,7 @@ Mr Moody walked her as far as the top of the stairs that went down into the buil
 
 "I'll remember," Hermione said.
 
-"Good. And girl—" the scarred man's voice rose to a bark that made two of the Aurors jump— "*constant vigilance!*"
+"Good. And girl—" the scarred man's voice rose to a bark that made two of the Aurors jump—"*constant vigilance!*"
 
 She took the Cloak of Invisibility out of her pouch and put it on, and disappeared. As it settled over her it sang, very softly, the strange not-quite-a-sound that she was starting to think of as its voice.
 
@@ -510,7 +510,7 @@ At the top of a tower that couldn't be seen from the ground, Harry Potter sat at
 
 In front of him, in a neat row, lay the Philosopher's Stone, a parchment covered in cramped writing, and a small dark book; and beside them a hand-mirror, through which Mad-Eye Moody's voice had said *She's gone down*, nineteen minutes ago, and nothing since. Professor McGonagall had made tea, which neither of them had drunk.
 
-*We could go,* said Gryffindor, for about the fortieth time. *The second spoon's right there—*
+*We could go,* said Gryffindor, for about the fortieth time. *The second spoon's right there, and it's ten minutes to the gates—*
 
 *She asked us to stay,* said Hufflepuff, and that was the argument that kept winning.
 
@@ -534,7 +534,7 @@ Harry thought about that before he asked, "Did it help?"
 
 In the middle of the pit, surrounded by them, Hermione stopped.
 
-*I don't have to do this,* she thought. *I could go back to the hole in the wall. I could tell Mr Moody it didn't work.* In January, in the snow, with the Headmaster's Patronus guarding the cage, she'd tried to cast the Patronus Charm and nothing had happened at all. She had turned and run—and then turned around and run back, for Harry.
+*I don't have to do this,* she thought. *I could go back to the hole in the wall. I could tell Mr Moody it didn't work.* In January, on the snow-spotted grass, just after the Headmaster's Patronus winked out, she'd tried to cast the Patronus Charm and nothing had happened at all. She had turned and run—and then turned around and run back, for Harry.
 
 She took off the Cloak and folded it up quickly and neatly—she folded everything—and put it in her pouch, so that whatever happened next wouldn't happen to it. Then she raised her wand and said "*Expecto Patronum*," very softly, and made it *small*.
 
@@ -560,7 +560,7 @@ And Hermione, screaming on the marble in the sunlight, thought:
 
 *Then why does it always stop there?*
 
-Every time, it stopped in exactly the same place, at the teeth and the noise and *nobody coming*, and then it started again; it never showed her what came next. But she *knew* what came next—it was right there in her head beside all the rest of it. Somebody *had* come: Harry, late, kneeling on the marble in her blood so that she wouldn't be alone. And then, nine weeks later, a loud *bang*, and a stone altar, and moonlight on a graveyard, and her legs, back.
+Every time, it stopped in exactly the same place, at the teeth and the noise and *nobody coming*, and then it started again; it never showed her what came next. But she *knew* what came next—it was right there in her head beside all the rest of it. Somebody *had* come: Harry, late, kneeling on the marble in her blood so that she wouldn't be alone. And then, eight weeks later, a loud *bang*, and a stone altar, and moonlight on a graveyard, and her legs, back.
 
 The thing had rummaged through her head and taken out the troll and put it on. And it had left the ending behind, because the ending was the one thing in there that it couldn't wear.
 
@@ -596,11 +596,11 @@ In the tower, the mirror on the desk spoke.
 
 "*Potter*," said Moody's voice, very rough. "Something happened down there. Biggest light I've ever seen. Whatever was in that pit, it's gone, the whole lot." Then, after a pause: "And the button's gone warm."
 
-Harry went cold all over, because a warm button meant that her heart had stopped, and if it stayed stopped for thirty seconds the button would bring whatever was left of her to Moody.
+Harry went cold all over, because a warm button meant that her heart had stopped, and if it stayed stopped for thirty seconds an Auror would go down into the pit for whatever was left of her.
 
 His hand was already reaching for the mirror, to shout into it—*get her out, go down there, do something*—and it stopped an inch from the glass, and this time the Vow had nothing to do with it.
 
-She had asked him to stay. She had taken the spoon out of his fingers, one finger at a time, so that this would be her choice and not his. And there was nothing Moody could do in thirty seconds that the button wouldn't do better.
+She had asked him to stay. She had taken the spoon out of his fingers, one finger at a time, so that this would be her choice and not his. And there was nothing Harry could shout into the mirror that Moody didn't already know.
 
 Harry put his hand down flat on the desk next to the book, and counted.
 
@@ -724,7 +724,7 @@ Roberta held on to the door frame and said "Leo," not very loudly. And then "*Le
 
 And their daughter opened her mouth, and he looked.
 
-Roberta looked too, because she could not help it; it was twenty years of habit. She looked for the little amalgam filling in the lower left first molar that Leo had done himself, the year Hermione was eight, while Hermione lectured him on the history of dental anaesthesia, and it wasn't there. Nor was the chip on the upper left central incisor, from the climbing frame, the summer she was six. There was no wear on any of them. There was none of the faint translucency there ought to have been at the biting edges, nothing of the slightly irregular, slightly crowded, entirely ordinary mouth of a twelve-year-old girl who would have needed a brace in a year or two. Every tooth was perfect, and every one of them shone faintly, with a lustre like polished horn, and not one of them was any tooth that Roberta had ever seen.
+Roberta looked too, because she could not help it; it was twenty years of habit. She looked for the little amalgam filling in the lower left first molar that Leo had done himself, the year Hermione was eight, while Hermione lectured him on the history of dental anaesthesia, and it wasn't there. Nor was the chip on the upper left central incisor, from the climbing frame, the summer she was nine. There was no wear on any of them. There was none of the faint translucency there ought to have been at the biting edges, nothing of the slightly irregular, slightly crowded, entirely ordinary mouth of a twelve-year-old girl who would have needed a brace in a year or two. Every tooth was perfect, and every one of them shone faintly, with a lustre like polished horn, and not one of them was any tooth that Roberta had ever seen.
 
 By every rule she knew, it was not her daughter's mouth.
 

@@ -96,6 +96,13 @@ So I didn't polish again. I rewrote each chapter once in HPMOR's register, after
 
 Then came a third note, after the reader had seen chapter 2: *"Avoid short, punchy sentences."* The numbers had been saying the same thing, since my median sentence was still 9 words against HPMOR's 12. The one-line dramatic beat ("The doorbell rang." "They were there." "Not the Vow, this time. Him.") is my habit, not HPMOR's. HPMOR puts that kind of beat inside a longer sentence, so in chapter 7 "The doorbell rang." became the end of the sentence before it: "…and she did not let herself think anything at all, until the doorbell rang." My first rewrite of chapter 2 overcorrected: its median sentence went to 22 words, and a third of its sentences ran past 40. So I rebalanced that chapter and made one pass over the others. In that pass I folded each beat into the sentence next to it, deleted the beats that only restated what the scene had already shown, and split the few sentences that had grown past 40 words. Across the whole story the sentence-length distribution now matches HPMOR's: a median of 13 words against 12, 21% of sentences under six words against 20%, and 5% over forty against 4%.
 
+A last check, for errors only, caught a few more, which I fixed:
+
+- Hermione came back eight weeks after she died, not nine.
+- Portkeys don't work inside Hogwarts' wards, and Azkaban's wards allow "a few fast ways *into* Azkaban, all of them highly restricted, and *no* fast ways out" (ch. 55). The spoons now leave from the gates, and Moody's button calls an Auror instead of carrying her body out.
+- In January the Headmaster's Patronus had winked out just before Hermione cast. It wasn't guarding the cage at that moment.
+- A chip on a six-year-old's front tooth would have been on a baby tooth, so the climbing-frame accident now happens the summer she was nine.
+
 **Gaps that remain, measured:**
 - Sentences with three or more "and"s still come up three times as often as in HPMOR, and "the way…" constructions about eight times as often.
 - The story has a fifth of HPMOR's exclamation marks and half its "just / even / really / actually".

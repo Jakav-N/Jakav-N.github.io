@@ -1,0 +1,1230 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Where He Can’t Go</title>
+<meta name="description" content="A sequel to Harry Potter and the Methods of Rationality, set three days after the final chapter.">
+<style>
+  :root {
+    --bg: #fbf8f1;
+    --fg: #23201b;
+    --muted: #6e665a;
+    --rule: #d8cfbf;
+    --accent: #7a5b2e;
+    --measure: 36rem;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #17150f;
+      --fg: #e9e3d6;
+      --muted: #a39a89;
+      --rule: #3a352c;
+      --accent: #d4b07a;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #17150f; --fg: #e9e3d6; --muted: #a39a89; --rule: #3a352c; --accent: #d4b07a;
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+    font-size: 1.125rem;
+    line-height: 1.68;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+  }
+  main { max-width: var(--measure); margin: 0 auto; padding: 3rem 16px 5rem; }
+  header.title { text-align: center; margin-bottom: 3rem; }
+  h1, h2, h3 { font-family: inherit; }
+  header.title h1 {
+    font-weight: normal; font-size: 2.3rem; line-height: 1.2; margin: 0 0 .4rem;
+    letter-spacing: .01em;
+  }
+  header.title .subtitle { font-style: italic; color: var(--muted); margin: 0; }
+  .disclaimer, .note { font-size: .92rem; color: var(--muted); text-align: center; }
+  .disclaimer { margin: 2rem auto 0; max-width: 30rem; }
+  nav.toc { margin: 2.5rem auto 3.5rem; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); padding: 1rem 0; }
+  nav.toc ol { margin: 0; padding-left: 1.4rem; }
+  nav.toc li { margin: .15rem 0; }
+  a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+  h2 {
+    font-weight: normal; font-size: 1.45rem; text-align: center; line-height: 1.3;
+    margin: 4.5rem 0 .4rem; scroll-margin-top: 1rem;
+  }
+  h2 + p em:only-child, p.stamp { display: block; text-align: center; color: var(--muted); font-size: .95rem; }
+  h2 + p { text-align: center; margin-top: 0; margin-bottom: 2rem; }
+  h2 + p + p::first-letter {
+    float: left; font-size: 3.4em; line-height: .82; padding: .06em .08em 0 0; color: var(--accent);
+  }
+  p { margin: 0 0 1.05rem; }
+  hr { border: 0; text-align: center; margin: 2.2rem 0; color: var(--muted); }
+  hr::before { content: "⁂"; font-size: 1.1rem; letter-spacing: .3em; }
+  .verse { font-style: italic; margin: 1.2rem 0 1.2rem 1.5rem; }
+  footer { margin-top: 4rem; border-top: 1px solid var(--rule); padding-top: 1.2rem; font-size: .92rem; color: var(--muted); text-align: center; }
+  @media (max-width: 480px) {
+    body { font-size: 1.05rem; }
+  header.title h1 { font-size: 1.9rem; }
+  }
+</style>
+</head>
+<body>
+<main>
+<header class="title">
+  <h1>Where He Can’t Go</h1>
+  <p class="subtitle">A sequel to <i>Harry Potter and the Methods of Rationality</i></p>
+  <p class="disclaimer">Disclaimer: J. K. Rowling owns Harry Potter, Eliezer Yudkowsky owns <i>Harry Potter and the Methods of Rationality</i>, and no one owns the methods of rationality.</p>
+</header>
+<nav class="toc" aria-label="Chapters">
+<ol>
+  <li><a href="#ch1">Calibration</a></li>
+  <li><a href="#ch2">Noticing Confusion</a></li>
+  <li><a href="#ch3">Precommitment</a></li>
+  <li><a href="#ch4">Constant Vigilance</a></li>
+  <li><a href="#ch5">Inverse Square</a></li>
+  <li><a href="#ch6">Names</a></li>
+  <li><a href="#ch7">Something to Protect: Roberta Granger</a></li>
+</ol>
+</nav>
+<h2 id="ch1">Chapter 1: Calibration</h2>
+<p><em>(Wednesday, June 17th, 1992. 6:40 in the evening.)</em></p>
+<p>On Monday afternoon, an hour before the Hogwarts Express left, Fred
+and George Weasley had trimmed Hermione Granger’s fingernails with the
+Sword of Gryffindor.</p>
+<p>They had insisted on a parchment first, absolving the Weasley family
+of any curse, doom, or hereditary misfortune that might attach to
+persons who clipped a unicorn, and Hermione had corrected the spelling
+before she signed it. Then Professor Flitwick had turned up out of
+nowhere, swept the clippings into a little lead-lined box, and refused
+to say what he wanted them for.</p>
+<p>By Wednesday Harry had done the arithmetic. Human fingernails grew
+about three and a half millimetres per month, and alicorn sold in Diagon
+Alley—on the rare occasions anyone sold it at all—for a price per ounce
+that the apothecary had only been willing to whisper, so if you
+multiplied that out over ten fingers, and then threw in the toenails,
+which was only reasonable, then the Noble House of Granger could be
+financially self-sufficient by Christmas just from its own manicures,
+and that was before anyone had done a single <em>experiment</em>—</p>
+<p>“I am <em>not</em>,” said Hermione, “selling my fingernails.”</p>
+<p>“I’m only saying that you <em>could</em>—”</p>
+<p>“Nobody,” said Headmistress McGonagall, “is selling anybody’s
+fingernails.” She did not sound like a witch who had expected, when she
+put on the Sorting Hat three days ago, that this would be one of the
+things she’d have to say as Headmistress. “Mr Potter, you told me that
+this experiment was potentially lethal, and that it had to take place
+inside my castle. I would very much like it to begin, so that it can be
+over.”</p>
+<p>They were in Harry’s new office, at the top of a tower that couldn’t
+be seen from anywhere on the grounds, even though the grounds could be
+seen perfectly well from inside it, which would have kept Harry up at
+night if he’d had any nights to spare that week. Four glass walls, four
+chairs, a desk, and a ladder up to the roof.</p>
+<p>“Right,” Harry said. “Um… Headmistress, before we start, I need to
+tell Hermione something. Alone. I’m sorry.”</p>
+<p>“I shall be at the bottom of the stairs,” Professor McGonagall said
+finally. “If anything explodes, Mr Potter, I shall come back up.”</p>
+<p>When her footsteps had gone all the way down, Harry took out the
+Elder Wand and cast three privacy Charms that he’d learned from a book
+on Monday and couldn’t manage with his own wand at all. The Elder Wand
+put up with this, in the manner of a wand that was still wondering how
+it had ended up being used by a first-year.</p>
+<p>“Okay,” Harry said. “The thing you have to understand is that I can’t
+<em>untell</em> you this. Once you know it, you’ll always know it.
+There’s a reason ordinary Patronuses are animals: animals don’t
+<em>know</em>, so they’re protected from it. And if I tell you, and it
+turns out you can’t cast the other kind, then you’ll never be able to
+cast the animal kind either, ever, because you won’t be able to stop
+knowing.”</p>
+<p>“I couldn’t cast the animal kind anyway,” said Hermione. “Not in
+January, and not since. I tried every night for a month.”</p>
+<p>“I know. That’s the only reason I’m allowed to tell you. There’s
+nothing for it to take away.”</p>
+<p>Hermione narrowed her eyes at him. “Is this what’s in the envelope?
+The one you gave me in January, with <em>42</em> on it?”</p>
+<p>“…Sort of. It’s what’s in there, only less cryptic. Did you open
+it?”</p>
+<p>“You said only to open it if I ever had to fight Dementors,” said
+Hermione, with dignity. “So <em>no</em>.”</p>
+<p>So Harry told her what he’d seen under the tattered cloak, back in
+January, when the Headmaster had brought a Dementor to Defence
+class—what it really was, and why none of the books ever said so, and
+what Godric Gryffindor had called them. He told her what he’d been
+thinking when he looked straight at it. He did a bad job of it, because
+it had never really been something made out of words.</p>
+<p>“So it isn’t exactly a happy thought,” Hermione said at last.</p>
+<p>“It’s a happy thought that isn’t about something else.”</p>
+<p>“That’s not a sentence, Harry.”</p>
+<p>“I <em>know</em>. It’s the best I’ve got. And you can’t just borrow
+mine—it has to be yours, it has to be something <em>you</em> actually
+believe while you’re looking straight at it and not looking away.” Harry
+hesitated before going on. “I’m not even sure it’ll work without a real
+Dementor in the room. But we’re not bringing a Dementor into Hogwarts,
+because the last time somebody did, it got <em>lost</em>.”</p>
+<p>Harry went to the door and called down the stairs, and Professor
+McGonagall came up them so fast that she had obviously been standing on
+the bottom step the whole time.</p>
+<p>Hermione stood in the middle of the room and raised her wand.</p>
+<p>“<em>Expecto Patronum!</em>”</p>
+<p>A thin silver mist came out of the end of her wand, curled around
+once, and vanished.</p>
+<p>Hermione glared at her wand, and then closed her eyes and stood there
+for a while with her lips moving silently, and then opened her eyes and
+looked up at the corner of the ceiling, the way she always did in exams
+when she was remembering something word for word, and said “<em>Expecto
+Patronum</em>” in her answering-questions-in-class voice.</p>
+<p>And light came out of her wand, so <em>bright</em> that the glass
+walls threw it back at them and then out across the lake, where a whole
+flock of birds took off from the water at once. There was a shape inside
+the light—two arms, two legs, a head—the shape of a human being, the
+same shape Harry’s had been, because there was only one shape a True
+Patronus could have. It was brighter than Harry’s had been on his first
+try. Harry noticed that, and then noticed himself noticing it, and
+decided that he would have a talk with himself about that later.</p>
+<p>Professor McGonagall had her hand up in front of her eyes, and was
+staring at Hermione through her fingers with her mouth open.</p>
+<p>“Oh,” said Hermione, in a small voice, looking up at the glowing
+figure. “I always sort of thought it would be an otter.”</p>
+<p>In January, when Harry had asked her what she thought her animal
+would be, she had only smiled and not said anything.</p>
+<p>“Why an <em>otter?</em>”</p>
+<p>“I don’t know! I just did.” She tilted her head to one side, and the
+figure got brighter. “Harry, it’s <em>warm</em>, it’s…”</p>
+<p>It kept getting brighter, until Harry could feel the heat of it on
+his face; and then the edges of the shining figure started to blur,
+started to run into the light around it until you couldn’t see where the
+person ended and the light began…</p>
+<p>…and Harry had seen exactly that happen once before, from the inside,
+in a corridor in Azkaban, and he knew what it meant.</p>
+<p>“<em>Stop!</em> Hermione, let it go, <em>now!</em>”</p>
+<p>She let it go, and the light snapped back into her wand, and all at
+once the office was dim and normal again; and Hermione sat down hard on
+the stone floor, as if her legs had decided that for her.</p>
+<p>“That,” she said, a little breathlessly, “felt like being poured out
+of a jug.”</p>
+<p>“It doesn’t run on magic.” Harry was kneeling next to her; he didn’t
+remember crossing the room. “That’s the part nobody knows, because
+nobody else can cast it. It runs on <em>you</em>. Keeping it lit is
+cheap. But making it <em>burn</em>, making it strong enough to actually
+destroy them—that comes straight out of your life. And the further away
+they are, the more it costs. So don’t <em>ever</em> push it like that
+unless you have to. Promise me.”</p>
+<p>“I promise.” Hermione held up one hand and counted her fingers, which
+were all there, and which were also, now, glowing slightly. “How did you
+know when to stop me?”</p>
+<p>“Experience.”</p>
+<p>“<em>Where?</em>”</p>
+<p>“I’ll tell you once you can keep Mr Bester out of your head.”</p>
+<p>Hermione gave him a long look, and Harry could practically see her
+writing it down in some mental notebook with a heading like <em>Things
+Harry Isn’t Telling Me</em>.</p>
+<p>“What thought did you use?” Harry said. “Just now. If you don’t mind
+saying.”</p>
+<p>“I’m not sure yet.” She was still looking at her hand. “It wasn’t
+yours. Not exactly.” And then, before he could ask what <em>not
+exactly</em> was supposed to mean: “How many Dementors are there in
+Azkaban?”</p>
+<p>“More than a hundred.”</p>
+<p>“And when I go there, where will I be standing when I cast it?”</p>
+<p>“We’ll work out the geometry,” said Harry.</p>
+<p>Professor McGonagall had lowered her hand, and she was looking at
+Harry now, not Hermione.</p>
+<p>“Mr Potter,” she said. “What about Miss Granger’s parents?”</p>
+<p>“After,” Harry said. “That’s the plan. They find out after she comes
+back, so they just get the one pleasant surprise, instead of a whole
+week of—” He waved his hand around vaguely, to indicate Azkaban, the
+North Sea, and the general state of the universe. “—of
+<em>that</em>.”</p>
+<p>“I was the one who told them,” said Professor McGonagall. “In April,
+in my office. Mr Granger asked me whether she had been frightened at the
+end, and I told him that she had not been.” She paused for a moment. “I
+have taught at Hogwarts for thirty-six years, Mr Potter, and that was
+the first lie I have ever told to a parent. I did <em>not</em> tell it
+so that you could keep it fresh for them while you arranged a
+<em>surprise</em>.”</p>
+<p><em>Seventy-five percent she’s right,</em> said Ravenclaw, <em>and
+the other twenty-five percent is that she’s right and we just haven’t
+figured out why yet.</em></p>
+<p><em>She was the one who had to tell them,</em> said Hufflepuff
+quietly.</p>
+<p>Slytherin, for once, had nothing to say.</p>
+<p>“It’s not my decision,” Harry said. “It’s Hermione’s. And she agreed
+to it. On Monday.”</p>
+<p>They both looked at Hermione, who was still sitting on the floor, and
+who didn’t say anything at all.</p>
+<hr />
+<p>Hermione left a little after seven, saying something about studying
+for her O.W.L.s, and Harry was already thinking about whether you could
+focus a True Patronus with a lens, and he wouldn’t have noticed anything
+at all if she hadn’t stopped in the doorway and turned around.</p>
+<p>“Harry? On Monday, when I asked you how literal the descent into Hell
+was going to be, and you said eighty-seven—was that how literal the Hell
+is? Or how likely I am to come back?”</p>
+<p>“The first one,” said Harry.</p>
+<p>“Oh,” said Hermione. “All right,” and she went down the stairs.</p>
+<p>It was a few minutes later, staring at the empty doorway, that it
+occurred to Harry that this had been a strange question; and that he
+hadn’t asked her why she wanted to know; and that this wasn’t like
+him.</p>
+<h2 id="ch2">Chapter 2: Noticing Confusion</h2>
+<p><em>(Wednesday, June 17th, 1992. 7:52 in the evening.)</em></p>
+<p>Professor McGonagall hadn’t argued, which was not at all what
+Hermione had expected. She had caught up with the Headmistress on the
+stairs and asked, all in one breath, whether Professor McGonagall would
+please take her to her parents’ house. Professor McGonagall had looked
+at her for a few seconds and then said only, “Side-Along Apparition is
+unpleasant, Miss Granger. You will want to hold on.”</p>
+<p>Hermione was grateful for that, and also a little unnerved by it. She
+suspected that Mr Bester would have had something to say about why.</p>
+<p>Her first Occlumency lesson had been that morning, in a white
+featureless room with a man in black robes, who had looked into her eyes
+and gone quiet for a while before saying, “<em>Well.</em> That was a
+troll.” But the part she kept coming back to was something he had said
+near the end. Your mind would try to protect you by not looking at
+things, Mr Bester had told her, and it was so good at this that you
+would never feel yourself flinch; you would only notice, later, that you
+had been thinking about something else. <em>So when you notice that you
+keep thinking about something else, Miss Granger—that is where to
+look.</em></p>
+<p>She had been thinking about something else for most of the afternoon,
+Hermione realised, and possibly since Monday.</p>
+<hr />
+<p>They walked down to the gates together, since you couldn’t Apparate
+inside Hogwarts. Then the Headmistress held out her arm, and the world
+turned itself inside out, and Hermione found herself at the end of her
+own road being sick into the Pattersons’ privet hedge.</p>
+<p>“Yes,” said Professor McGonagall, not unkindly, “it does that the
+first time. I shall wait here, Miss Granger, for as long as you
+need.”</p>
+<p>Hermione put on the Cloak and walked up the road to her own house. It
+looked exactly the same as it always had, which was somehow offensive:
+the same green front door, the same brass lion knocker, and the same
+roses, which somebody was still deadheading. She went round the side of
+the house, through the gate that had never latched properly, and looked
+in through the kitchen window at her mother, who was cooking.</p>
+<p>There was a wooden stand on the counter that Hermione had never seen
+before. On it was the fat brown cookbook with the broken spine, open to
+page two hundred and twelve, chicken in cider, and Mum was following it
+with one finger moving down the page and her lips moving slightly.
+Hermione knew that recipe by heart, the way she knew every recipe in
+that kitchen by heart. She had always been standing right there at Mum’s
+elbow saying <em>it says two tablespoons, not three</em> and <em>you’re
+supposed to brown the chicken first</em>—</p>
+<p>—and Mum didn’t brown the chicken first.</p>
+<p>She put it straight into the pan with the onions, and Hermione’s lips
+moved, <em>brown it first</em>, but nothing came out of them. Then Mum
+stopped, and read the page again with her finger on the line, and saw
+what she’d done. She stood there for a while holding the wooden spoon
+and looking down at the pan. Hermione had braced herself for crying, but
+Mum didn’t cry; she turned the heat down and went on, and did all the
+rest of it right.</p>
+<p>In the sitting room the telephone rang, and Dad called “I’ll get it,”
+and didn’t, and after a while it stopped ringing.</p>
+<p>On the doormat inside the front door lay that morning’s post, which
+nobody had picked up. On top of the pile was a brown envelope with a
+little window in it, through which Hermione could read the words FINAL
+NOTICE and, under them, MISS H. GRANGER. It was from the public library,
+and Hermione Granger had <em>never in her entire life</em> had an
+overdue library book.</p>
+<p>She found that she was holding the handle of the back door so hard
+that the metal had started to bend.</p>
+<hr />
+<p>There wasn’t any <em>rule</em> to stop her from just going in. Harry
+had said her parents would be told afterwards, and she had said <em>Why,
+that’s very thoughtful of you</em>, in a voice that anyone who actually
+knew her would have recognised. But she was the Head of a Noble House
+now, apparently, and Harry wasn’t her father, and nobody had made her
+promise anything. She could open this door and take off the Cloak and
+say <em>Mum</em>—</p>
+<p>—and then tomorrow she would go to Azkaban, and if she didn’t come
+back…</p>
+<p>Hermione made herself finish the thought, because Mr Bester had said
+to look where she flinched, and right now she was flinching so hard that
+it was almost a physical movement. If she went in tonight and died
+tomorrow, her parents would lose her twice, and that would be worse than
+if she had never come home at all. But if she <em>didn’t</em> go in, and
+died tomorrow, they would never get to see her again, not even once.</p>
+<p>She could have stood there for hours being pulled both ways at once,
+except that some other part of her mind had just noticed something and
+gone very still.</p>
+<p><em>Harry had never had to make this choice.</em></p>
+<p>He hadn’t agonised over it at all, and Harry was someone who couldn’t
+walk past a moral question without picking it up and turning it over to
+look at the bottom. On Monday he’d told her, as if it were nothing, that
+her parents would find out <em>after you come back from your mission, if
+you choose to accept it</em>. The only <em>if</em> in that sentence was
+whether she agreed to go, not whether she came back. Then he’d said they
+would get <em>one pleasant surprise instead of having to worry</em>, as
+though a nice surprise and some worrying were the only two possibilities
+in the universe.</p>
+<p>He had never once mentioned the possibility where she didn’t come
+home. That was strange, because Harry <em>always</em> mentioned that
+possibility; Harry mentioned that possibility when they were crossing a
+<em>road</em>.</p>
+<p>So either he hadn’t thought of it, which as hypotheses about Harry
+Potter went had never once been true of anything, or else he
+<em>had</em> thought of it and found it <em>empty</em>.</p>
+<p><em>All right,</em> Hermione told herself. <em>Look at it properly,
+and don’t skip any steps.</em></p>
+<p>At her trial, in front of the entire Wizengamot, Harry had said that
+he would go to Azkaban and start snapping his fingers, and that it might
+cost him his life. Afterwards Professor Dumbledore had told her that
+Harry never lied, and that he really would have tried it, <em>even at
+cost of his life</em>. So destroying the Dementors was the kind of thing
+that could kill you, and this afternoon she had found out why. The True
+Patronus ran on life rather than magic, and the further away the
+Dementors were, the more it cost; she had felt that for herself, like a
+jug tipping over.</p>
+<p>There were more than a hundred Dementors in Azkaban, and when she’d
+asked Harry where she would be standing, he’d said they would <em>work
+out the geometry</em>. That was not a thing Harry <em>said</em>. It was
+a thing Harry <em>did</em>, out loud and at length, usually while you
+were trying to eat your lunch, and the only time Harry didn’t tell you a
+number was when he didn’t like the number.</p>
+<p>On Monday, when he’d asked whether she was willing to risk the life
+she’d just got back, and she’d said <em>Risk my life?</em>, she had
+<em>seen</em> him not nod. He’d warned her that he would have to keep
+some secrets from her—<em>Dumbledore</em> her, he’d called it—but
+keeping secrets wasn’t the same as lying, and Harry didn’t lie to her.
+He would find six ways not to say a thing before he would say something
+false, so if he hadn’t nodded, it was because <em>risk</em> was the
+wrong word. And afterwards, giving her the Cloak, he’d told her that he
+couldn’t risk himself adventuring, ever, <em>and you… can</em>.</p>
+<p>Through all of it he had been <em>calm</em>, and Harry Potter was not
+calm about her. Harry Potter had once spent twenty minutes looking up
+whether a papercut could get infected.</p>
+<p>Hermione ran the sum again, standing in her parents’ back garden, and
+it came out the same way every time: <em>Hermione Granger, very
+probably, dies.</em> Harry was calm about that, and his plans for her
+parents didn’t have any branch in them where she didn’t come home. Which
+meant that he wasn’t planning to <em>stop</em> it from happening, but to
+<em>undo</em> it.</p>
+<p>There had been a man at St Mungo’s on the first morning, a thin man
+in grey from the Department of Mysteries, who’d come in before Professor
+Flitwick could stop him. He had waved his wand over her in a way that
+made her teeth hum, and then announced to the room that her soul was in
+excellent health and at least a mile away from her body. Professor
+Flitwick had removed him, by a route that Hermione was fairly sure had
+involved a window, and everyone had treated what he’d said as more
+gibberish, like the diagnostic Charm that said she was a unicorn who
+needed her mane combed. And she had been thinking about something else
+every single time she remembered it.</p>
+<p><em>Fine,</em> Hermione thought. <em>I’m looking now.</em></p>
+<p>If her soul was a mile away from her body, then something, somewhere,
+was holding on to it. Tomorrow, when the Patronus took the last of her
+life, Harry was going to go and get her back out of whatever it was, and
+of <em>course</em> he knew where it was.</p>
+<p>She let go of the door handle, which stayed bent, and went back round
+the side of the house to the front path. There she pushed the letterbox
+open with one invisible finger, very slowly so that it wouldn’t clack,
+and reached in as far as her arm would go until she found the brown
+envelope by feel, and pulled it out and put it in her pocket.</p>
+<p>Then she walked back down the road to where Professor McGonagall was
+waiting by the privet hedge, and took off the Cloak.</p>
+<p>“You didn’t go in,” said Professor McGonagall.</p>
+<p>“Not yet,” said Hermione, and her voice came out perfectly steady,
+which surprised her. “Headmistress? When you told my father that I
+wasn’t frightened at the end…”</p>
+<p>The Headmistress’s mouth went thin, and she waited.</p>
+<p>“Thank you,” said Hermione.</p>
+<p>Professor McGonagall looked at her for a moment, and then, rather
+abruptly, held out her arm. As Hermione took it and the world began
+turning itself inside out again, she was already working out, very
+carefully, the first thing she was going to say to Mr Harry James
+Potter-Evans-Verres. It was going to be a question about where, exactly,
+he was keeping her soul.</p>
+<h2 id="ch3">Chapter 3: Precommitment</h2>
+<p><em>(Wednesday, June 17th, 1992. 11:48 at night.)</em></p>
+<p>Harry sat on the roof of his office in the dark, clicking a dead
+Muggle laser pointer on and off and not really thinking about it. On the
+parchment beside him, weighed down with a stone, was the geometry.</p>
+<p>He had exactly two data points to go on. In January he had destroyed
+one Dementor from five paces away, and it had taken something out of
+him, but a lot less than he’d expected. In February he had tried to
+destroy every Dementor in Azkaban from a corridor inside the walls, and
+it had very nearly taken everything. If the cost went up with the square
+of the distance, the way it would if the spell behaved anything like
+light—the only model he had—and if Hermione stood where his Vow would
+let her stand, on the roof, a hundred feet back behind the Aurors…</p>
+<p>Then destroying every Dementor in Azkaban would cost somewhere
+between two and five human lives.</p>
+<p>But Hermione wasn’t exactly human any more: there was troll in her
+now, and unicorn, and the man who’d put them there had said that only
+Fiendfyre and the Killing Curse need ever worry her again; and nobody,
+including Harry, had the faintest idea how much life that added up to.
+Probably enough to finish the job, Harry’s numbers said, and probably
+with nothing left over; and he had checked them three times.</p>
+<p>When the trapdoor creaked behind him Harry turned, and Hermione came
+up through it the way she climbed everything now, as if the ladder were
+a small flight of stairs. She walked straight over to him and put a
+brown envelope down on top of the geometry.</p>
+<p>It had a little window in it, and through the window it said FINAL
+NOTICE, and MISS H. GRANGER.</p>
+<p>“My library book,” said Hermione, “is overdue.”</p>
+<p>“I—what?”</p>
+<p>“Harry,” said Hermione, “where is my soul?”</p>
+<p><em>She already knows,</em> said Ravenclaw at once. <em>She’s asking
+to see what we’ll do.</em></p>
+<p><em>Deny everything,</em> said Slytherin, and Hufflepuff said
+<em>No</em>, and that was that.</p>
+<p>“That’s a strange question,” said Harry, which was true.</p>
+<p>“I’m not going to go through all of it, Mr Potter, because I’ve
+already been through it twice tonight,” said Hermione, in a perfectly
+level voice. “The short version is that I went home and stood in the
+garden, and you didn’t nod. It was never a <em>risk</em>, it was the
+<em>plan</em>—the spell kills me, and then you bring me back. So I’m
+asking you, Harry: where is it?”</p>
+<p>Harry, for once in his life, had nothing to say. He reached into his
+pouch and said “Roger Bacon’s diary,” and the pouch gave it to him.</p>
+<p>It was small and rough-hewn, with thick strange pages, and it was
+darker than it had been when Professor Quirrell tossed it across a
+dinner table to him in October—as though something had crept over it,
+the night in the graveyard, and never quite gone away. Harry held it out
+to her on his open hand, and Hermione stared at it.</p>
+<p>“It’s a <em>book</em>,” she said.</p>
+<p>“It’s Roger Bacon’s diary—he was a Muggle-born, actually, he turned
+down his Hogwarts letter, he did all his research without a wand, it’s
+from the thirteenth century—”</p>
+<p>“I <em>know</em> who Roger Bacon was!” said Hermione, and her voice
+cracked. “My <em>soul</em> is in a <em>book?</em>”</p>
+<p>“It’s a very good book,” said Harry.</p>
+<p>“How does it work?” she said, without taking it from him.</p>
+<p>“It’s anchored by a—” Harry began, and his mouth stopped.</p>
+<p>It didn’t feel like deciding not to say something. It felt like
+reaching for the next step on a staircase and finding there wasn’t one;
+and along with the stop came the reason, as it had in the Headmistress’s
+office three days ago. Hermione didn’t know Occlumency yet, so anyone
+who looked into her eyes could take this out of her head, and once the
+principle got loose there would be people who’d murder a stranger every
+week for one more anchor, and then a hundred little Voldemorts who
+couldn’t be killed—</p>
+<p>Harry’s mouth stayed shut, and Hermione went white, because he had
+told her on Monday what his Vow was for.</p>
+<p>“Harry,” she said quietly. “Your Vow is about not destroying the
+world. And it just stopped you from telling me how <em>my soul</em>
+works.”</p>
+<p>Harry nodded, since that was still allowed.</p>
+<p>For a while neither of them said anything. Then Hermione sat down on
+the cushion across from his.</p>
+<p>“Did someone die to make it?” she said.</p>
+<p>“Yes.”</p>
+<p>“Did they choose to?”</p>
+<p>And for a moment Harry was back in the graveyard, watching the body
+Voldemort had just left push itself up on shaking arms, and hearing
+Quirinus Quirrell—the real one, a man Harry had never actually
+met—whisper <em>Free… oh, free…</em> A little while later, that man had
+been lying unconscious on the grass when the green light hit him, and he
+hadn’t even twitched.</p>
+<p>“No,” said Harry.</p>
+<p>“Was it you?”</p>
+<p>“<em>No!</em> No. Hermione, <em>no</em>.” And then, because it was
+true, and because he’d spent long enough finding clever ways around
+things: “But I gave him the book.”</p>
+<p>Hermione closed her eyes for a moment. “I had to ask,” she said. “I’d
+have asked anyone.”</p>
+<p>When she opened them again, they were very bright, and not from the
+aura.</p>
+<p>“You warned me on Monday,” she said. “You said that if I went down
+this path, you’d have to <em>Dumbledore</em> me, and not tell me some
+things—manipulate me, if only for a short while—and I said yes. I
+thought you meant <em>secrets</em>, Harry. I didn’t think you meant
+you’d keep my own <em>death</em> a secret from me.” She glanced at the
+parchment under the envelope—of course she’d read it upside down, she’d
+been reading things upside down on his desk since September. “So I’d die
+on the roof, and then you’d use that. How long would it take?”</p>
+<p>“About forty minutes. I checked the ritual three times. The Stone
+does the body, the book does the rest, and the last part’s a
+Patronus—mine, that’s how you came back the first time—and then you’d
+wake up, and you’d be <em>fine</em>, you’d be completely—”</p>
+<p>“And for those forty minutes,” said Hermione, “where would I be?”</p>
+<p>Harry opened his mouth, and found that he knew the answer.</p>
+<p>He’d been told it four nights ago, in a room lit with white light, by
+a man who had spent nine years and four months inside his own anchors
+with nothing to do but think. <em>I spent most of my time looking at the
+stars.</em> Harry had built a whole plan on top of that, and never once
+let himself think the next thought: <em>and forty minutes, from the
+inside, would feel like how long?</em></p>
+<p>“Awake,” Harry said. “I think. I think you’d be awake.”</p>
+<p>“Do you know what I remember?” said Hermione, and when Harry didn’t
+say anything, she went on. “It was sunny.” She wasn’t looking at him
+now, but out at the lake. “That’s what I keep coming back to. It was a
+bright day, and the floor was marble, and there was blue fire
+everywhere, and I could <em>hear</em> it—not the troll roaring, the
+noise it made while it was… And nobody was coming. I was so frightened I
+couldn’t remember my own name. And then you came.” She turned back from
+the lake to look at him. “You were late, I think, but you came, and you
+were <em>there</em>, and I wasn’t alone at the end. That’s the only good
+thing I’ve got about it, Harry. And you were going to do it to me again,
+on a roof in the North Sea, and put me in a <em>book</em> for forty
+minutes afterwards—and this time you wouldn’t even be
+<em>there</em>.”</p>
+<p>“You want to know why,” Harry said. His voice wasn’t steady, but
+there <em>was</em> a why, and she ought to hear it. “Right now there are
+people in Azkaban reliving the worst moment of their lives, over and
+over, with no end date, and every hour I wait is another hour of that
+for every one of them. There are two people in the world who can end it.
+One is you. The other can’t go anywhere near a Dementor, ever, because
+there’s a Transfiguration he has to keep up every second for the rest of
+his life, and Dementors drain magic, and if it slipped it would be very,
+<em>very</em> bad.” Without his quite meaning it to, his left hand had
+closed over the little green stone on his smallest finger. “I thought
+the Hell was going to happen anyway, if you chose to go. So I looked for
+the version where you <em>couldn’t</em> be lost forever. I thought I was
+giving you the safe one.”</p>
+<p>Hermione heard him out to the end without interrupting, which was how
+Harry knew exactly how angry she was.</p>
+<p>“On Monday,” she said, “you told me this was something I had to
+choose freely, if I did it at all. You said that was an <em>actual
+mission requirement</em>.” She looked straight at him. “How was I
+supposed to choose, Harry, when you hadn’t told me what I was
+choosing?”</p>
+<p><em>In fairness,</em> said Slytherin, <em>a resource that regenerates
+is, by definition—</em></p>
+<p><em>Listen to yourself,</em> said Hufflepuff. <em>Listen to who
+you</em> sound <em>like.</em></p>
+<p>And Harry listened, and there it was. <em>A resource that
+regenerates.</em> That thought would never have occurred to Dad, or Mum,
+or Professor McGonagall, or Neville. It had the cold, patient shape of a
+mind that had spent fifty years among people it thought of as furniture,
+and it had walked into the middle of Harry’s plan wearing Harry’s face,
+and Harry had let it in, because the plan had <em>worked</em>. And he’d
+been doing to his best friend exactly what had made him want to scream
+at Albus Dumbledore: deciding for her, arranging her life and her
+<em>death</em> for the greater good, and calling it a kindness to her
+parents.</p>
+<p>“I’m sorry,” Harry said. It came out small, so he said it again. “I’m
+<em>sorry</em>. I should have asked you. I knew, on some level, and I
+didn’t let myself look—which is the exact thing I decided on Monday to
+stop doing.”</p>
+<p>“I’m still extremely angry with you, Mr Potter,” said Hermione, but a
+little more gently. “Now tell me the rest. Why the <em>roof?</em> Why
+can’t I be closer? Or—why can’t they just bring them to me, one at a
+time, in cages, the way they brought one to Hogwarts?”</p>
+<p>“Because they’d <em>learn</em>. Dementors take their shape from what
+people expect. After the first one, everyone in that building would be
+expecting the Girl-Who-Revived to come for the rest, and the rest would
+scatter, and a hundred Dementors loose in Britain is worse than a
+hundred in Azkaban. It has to be all of them at once.” Harry swallowed
+hard before he went on. “And closer means <em>near</em> them. Normally
+they don’t Kiss anyone unless they’ve been told to. But since the night
+Bellatrix Black escaped, the Dementors in Azkaban have had orders to
+Kiss anyone they find outside a cell—and Madam Bones can’t take that
+back without telling them someone’s coming. A Kiss destroys everything
+you are, all at once. The book can bring you back from being
+<em>dead</em>. It can’t bring you back from <em>that</em>. There
+wouldn’t be anything left to bring.”</p>
+<p>“Then—”</p>
+<p>“And when you died in April, somebody heard a prophecy.”</p>
+<p>“A <em>prophecy?</em> <em>Another</em> prophecy? <em>Seriously</em>,
+Harry?”</p>
+<p>“Yeah, I know. It said, more or less, that without you I turn into
+something that destroys the world. So my Vow won’t let me take
+<em>any</em> chance of losing you for good, not even a tenth of a
+percent. The only way out written into it is if the Vow itself is
+leading to the end of the world <em>and</em> the friend I’ve confided in
+honestly agrees. So the only plan it would let me make was the one where
+you stand a hundred feet back, and the spell kills you instead, and I
+bring you back. Because that one was <em>safe</em>. For the world.”</p>
+<p>“You chose for me to die,” said Hermione slowly, “because dying was
+the <em>safe</em> option.”</p>
+<p>“…Yes.”</p>
+<p>“<em>The friend you’ve confided in honestly,</em>” said Hermione.
+“That’s me, isn’t it? That’s the whole safety system, the only one it’s
+got: a friend who’ll tell you when you’re wrong. So what happens to your
+safety system, Harry, when the friend is someone you keep things from so
+she’ll stay safe, and she’s only allowed to do whatever your Vow has
+decided is <em>safe?</em> That isn’t a friend, that’s a hostage, and a
+hostage can’t tell you you’re wrong.”</p>
+<p><em>Ah,</em> said Ravenclaw, after a moment. <em>Um.</em></p>
+<p>“I told you on Monday that I wasn’t comfortable being the one thing
+holding you together,” Hermione went on, before he could answer. “Now it
+turns out it’s the whole <em>world</em>, and your Vow has decided the
+best way to keep me safe is to kill me on a schedule. I am <em>not</em>
+going to spend my life in a box so the world doesn’t end. If you’d end
+it without me, that’s a fact about <em>you</em>, and you’ll have to fix
+it yourself, because I can’t fix it for you by never doing
+anything.”</p>
+<p>Harry opened his mouth, and closed it again. Somewhere in the back of
+his head, Ravenclaw was very quietly writing that down.</p>
+<p>“So,” said Hermione. “Closer. How much closer?”</p>
+<p>Harry tried to answer, and the Vow stopped his mouth again.</p>
+<p>“Oh,” said Hermione, looking at his shut mouth. “It won’t let you
+tell me, because you think I’d <em>do</em> it.” She picked up the
+parchment from under the envelope and read it properly this time, the
+right way up. “Inverse square. So half as far costs a quarter as much,
+and a tenth as far costs a hundredth, and if I’m right next to them…”
+She looked up from the parchment. “Almost nothing. Isn’t it? And they
+can’t see me if I’m wearing a Cloak that hides people from Death. So I
+walk down into the pit with the Cloak on, right into the middle of them.
+And then I take it off.”</p>
+<p>“I know,” said Harry hoarsely, because <em>that</em> sentence would
+come out. “I thought of that in April.”</p>
+<p>“Of course you did,” said Hermione, who didn’t look at all surprised.
+“If I just stood in the middle and cast, some of them would still be
+fifty yards away. But if I take the Cloak off, they’ll come, won’t they?
+All of them, right to me. And the closer they come, the cheaper they
+get.”</p>
+<p>“And if your Patronus fails when they’re that close, even for one
+second—”</p>
+<p>“Then I’m gone forever, I know; you just told me. But I’m choosing
+between dying <em>for certain</em>, tomorrow, for the second time in
+nine weeks, <em>alone</em>, and then being a book for forty minutes—or a
+<em>chance</em> of not dying at all. I’ll take the chance, because it’s
+my life—it’s <em>literally my soul</em>—and I think I get to
+choose.”</p>
+<p>On his desk downstairs lay the portkeys Amelia Bones had sent up that
+afternoon: two tarnished silver sugar spoons, which was apparently what
+the Department of Magical Law Enforcement used when it wanted to be
+taken seriously. One was set for the roof of Azkaban at ten tomorrow
+morning; the other was for afterwards, or emergencies. Harry climbed
+down the ladder, with Hermione behind him, and picked up the first one,
+and turned, and held out his hand to give it to her.</p>
+<p>His hand stopped halfway between them, with his fingers closed tight
+around the spoon, and it would not go any further. It wasn’t that Harry
+didn’t want to move it; it was that moving it any further was no longer
+a thing that Harry Potter’s hand <em>did</em>. They both looked at it,
+and Harry said, “It’s my—”</p>
+<p>“I know what it is.” Hermione stepped forward and very carefully
+started unbending his fingers from around the spoon, one at a time. She
+was being extremely gentle about it, and it took Harry a moment to
+understand why: she could have broken every one of them without
+noticing. “Your Vow is about what <em>you</em> do, Harry. It can stop
+your hand, but it can’t stop <em>mine</em>.”</p>
+<p>The last finger came open, and she took the spoon.</p>
+<p>And Harry’s hand came back to him all at once, so suddenly that he
+nearly fell over, and the realisation caught up with him about a second
+later than it should have.</p>
+<p>“Oh,” he said. “<em>Oh.</em> You’re going whether I help or not. So
+now <em>helping</em> you is the safer thing to do—compared to the
+counterfactual. So the Vow doesn’t mind.”</p>
+<p>“Yes,” said Hermione. “I worked that out on the ladder. And don’t
+bother asking Madam Bones to cancel the portkey, either, because I’d
+only go by broomstick, without any Aurors at all, and your Vow would
+<em>hate</em> that.” She tucked the spoon away inside her robes. “So. Is
+there anything you can tell me that will help?”</p>
+<p>Harry thought about it—<em>properly</em>, this time, with all of
+himself.</p>
+<p>“Yes,” he said slowly. “Don’t wait for them with nothing up. If you
+take the Cloak off and just stand there, they’ll drain everything out of
+you before they’re close enough—you won’t have a happy thought
+<em>left</em> by the time you need one. So light it <em>first</em>,
+small, as dim as you can make it and still have it hold—keeping it lit
+is cheap, remember?—just enough to keep them off you. Then let them
+come, all of them, and pile up against it as close as they can get, and
+<em>then</em> burn.”</p>
+<p>Hermione stared at him for a moment. “…Oh,” she said. “That’s better
+than mine.”</p>
+<p>“I’ve been in that corridor,” said Harry, “and you haven’t.”</p>
+<p>There was one more thing, and Harry told her about the woman on the
+level above the lowest, behind the only steel door that was in the
+middle of its corridor, who kept saying <em>No, I didn’t mean it, please
+don’t die</em>, over and over. Harry had walked past her in February,
+while she screamed that she couldn’t remember her children’s names any
+more.</p>
+<p>“If you get that far,” Harry said. “Afterwards.”</p>
+<p>“And tell her what?”</p>
+<p>“I don’t know,” said Harry, without looking up. “That somebody came
+back.”</p>
+<p>After a moment Hermione held out her hand—not for the spoon, which
+she already had, but for the book. Harry gave her the diary of Roger
+Bacon, and she held it in both hands before she held it out to him
+again.</p>
+<p>“You keep it,” she said.</p>
+<p>“Hermione, it’s <em>yours</em>—”</p>
+<p>“I know what it is. I’d only lose it, or someone would take it off me
+in a fight, and that would be worse.” She put it back into his hands and
+closed his fingers around it, the same fingers she’d just finished
+prying open. “I trust you to <em>keep</em> it, Harry. I don’t trust you
+to decide what it’s <em>for</em>.”</p>
+<p>She was halfway out of the door when she stopped and looked back.</p>
+<p>“Does Professor McGonagall know? About the book?”</p>
+<p>“…No.”</p>
+<p>“Tell her.”</p>
+<p>“Tomorrow, I’ll—”</p>
+<p>“<em>Tonight</em>, Harry,” said Hermione Granger, and went down the
+stairs.</p>
+<h2 id="ch4">Chapter 4: Constant Vigilance</h2>
+<p><em>(Thursday, June 18th, 1992. 9:41 in the morning.)</em></p>
+<p>You could hear Mad-Eye Moody coming up the stairs from a long way
+off, <em>clunk</em>, step, <em>clunk</em>, step, and Hermione suspected
+that this was entirely on purpose, on the theory that an enemy who knew
+you were coming might decide not to be there when you arrived.</p>
+<p>Professor McGonagall was already in Harry’s office, with the look of
+someone who had been told a great many things at two in the morning and
+had not yet finished being told them. Harry looked as though he hadn’t
+slept at all, which Hermione thought was only fair.</p>
+<p>The door opened on the scarred man, his normal eye on Hermione and
+his magical one spinning around to look at everything else, and he
+pointed his wand straight at her and said, “<em>Avada Ked—</em>”</p>
+<p>Hermione was standing behind him before he got to the second
+word.</p>
+<p>She hadn’t decided to move; there had just been a wand pointing at
+her, and then there was the back of Alastor Moody’s grizzled head right
+in front of her nose. Across the room, Harry had flinched so violently
+that he’d knocked over his tea.</p>
+<p>“Huh,” said Moody, without turning around. His blue eye had rolled
+all the way round into the back of his skull to look at her, which
+Hermione could have done without. “Voldie would’ve dodged.”</p>
+<p>“Mr Moody,” said Hermione, “<em>anyone</em> would dodge if they
+could. Your test only works on people who are too slow.”</p>
+<p>The blue eye considered this from several angles.</p>
+<p>“Fair,” Moody said finally, and stumped into the room. “Good, girl.
+Means you want to live. Keep wanting it, down there. It’ll try to talk
+you out of it.” His blue eye swivelled round to Harry. “And you. Told me
+about the book last night. First sensible thing you’ve done since I met
+you, son—<em>telling people things</em>. Do it more.”</p>
+<p>Harry opened his mouth as if to argue, and then, to Hermione’s
+private astonishment, closed it again.</p>
+<p>Moody had brought her a present: a small brass button, which he sewed
+onto the inside of her robe’s hem himself, with a needle he took out of
+somewhere inside his coat, muttering a spell over every single
+stitch.</p>
+<p>“If your heart stops for thirty seconds,” he said, biting off the
+thread, “this brings whatever’s left of you straight to me. And then
+Potter knows what to do with it.”</p>
+<p>“That’s <em>horrible</em>,” said Hermione.</p>
+<p>“That’s <em>vigilance</em>,” said Moody.</p>
+<p>By nearly ten o’clock the sugar spoon was lying on Harry’s desk where
+she had put it, and Harry was standing at the window with his hands
+shoved into his pockets, staring at the lake, visibly not managing
+anyone.</p>
+<p>Hermione went over and stood beside him. “Is it all right,” she said,
+“if I hug you?”</p>
+<p>Harry looked at her for a few seconds before he said, “…Yes.”</p>
+<p>She hugged him very, very carefully, as if he were made of spun
+sugar, which compared to her he more or less was. He was shaking a
+little, and Hermione decided she wasn’t going to mention it, then or
+ever.</p>
+<p>“Harry,” she said into his shoulder, quietly, so the others wouldn’t
+hear. “Whatever happens, stay here. Please. Don’t come after me.”</p>
+<p>There was a long pause before Harry said, “Okay. I’ll stay.”</p>
+<p>“Ten o’clock,” said Professor McGonagall from behind them, in a voice
+that wasn’t quite as crisp as usual.</p>
+<p>Hermione let go of him, and went to the desk, and put one finger on
+the spoon next to Mr Moody’s gnarled one; and there was a jerk behind
+her navel, and Hogwarts went away.</p>
+<hr />
+<p>Azkaban stuck up out of the North Sea like something that had been
+put there to make a point.</p>
+<p>They’d arrived on a raised square of steel at one corner of an
+enormous triangular roof, in a wind straight off the sea, with fog on
+the water in every direction. In the middle of the triangle there was no
+roof at all, just a gigantic three-sided hole going straight down; and
+even from here, under the cold, Hermione could feel a draught coming out
+of it, like a door left open that ought to have been shut.</p>
+<p>There were about a dozen Aurors up on the roof, with their Patronuses
+around them in a ring—a hawk, a hare, a silver beetle, and, to
+Hermione’s surprise, an orangutan. The orangutan belonged to Auror
+Komodo, who had last seen her in April, when he’d stood in the Great
+Hall and told her she was under arrest for attempted murder. He inclined
+his head to her very gravely, as if he were greeting a colleague.</p>
+<p>Mr Moody walked her as far as the top of the stairs that went down
+into the building, and no further.</p>
+<p>“Don’t bother with that thing round your neck,” he said, jerking his
+chin at her Time-Turner’s chain. “Nothing turns in this place.
+Ministry’s not <em>completely</em> stupid.” He was quiet for a moment,
+and for once both his eyes were pointed at her. “Listen to me, girl.
+Down there, it’s going to show you things. It’ll show you the worst
+thing you’ve got, over and over and over. You remember that it only
+knows what <em>you</em> know. It hasn’t got anything of its own.
+Everything it shows you, it took out of your head.”</p>
+<p>“I’ll remember,” Hermione said.</p>
+<p>“Good. And girl—” the scarred man’s voice rose to a bark that made
+two of the Aurors jump— “<em>constant vigilance!</em>”</p>
+<p>She took the Cloak of Invisibility out of her pouch and put it on,
+and disappeared. As it settled over her it sang, very softly, the
+strange not-quite-a-sound that she was starting to think of as its
+voice.</p>
+<p>Then she went down the stairs into Azkaban.</p>
+<h2 id="ch5">Chapter 5: Inverse Square</h2>
+<p><em>(Thursday, June 18th, 1992. 10:06 in the morning.)</em></p>
+<p>The lamps inside Azkaban burned gas, because magic didn’t last long
+in this place. They lit steel corridors and metal stairs going down and
+down, and huge grey doors with plain iron padlocks on them; and behind
+the doors there were sounds.</p>
+<p>The Cloak kept the Dementors from seeing her, but it didn’t keep them
+from being <em>there</em>. The cold came up the stairwells to meet her,
+and with it came the feeling she remembered from January, of something
+<em>drinking</em>—every warm thing she had being drawn out of her,
+gently, toward the middle of the building. If she stopped walking,
+Hermione knew, she would sit down on the floor and never get up, and it
+would seem like a perfectly sensible decision; so she didn’t stop.</p>
+<p>On the second-lowest level, in the middle of the corridor, there was
+a door where no other door was. From behind it a woman’s voice was
+saying, in the worn-smooth way of words that have been said far too many
+times: “No, I didn’t mean it, please don’t die. No, I didn’t mean it,
+please don’t die…”</p>
+<p>Hermione put her hand flat against the steel, which was so cold that
+it burned.</p>
+<p>“Not yet,” she whispered, and went on down.</p>
+<p>On the lowest level the inside wall was colder than anything she had
+ever touched, because behind it was the pit. She found the seam between
+two of the big riveted plates, dug her fingernails into it—they didn’t
+even scratch—and <em>pulled</em>, and the plate tore off its rivets with
+a long scream of metal and curled back like the lid of a sardine
+tin.</p>
+<p>She stepped through the gap, and down, into the bottom of the
+pit.</p>
+<hr />
+<p>It was mud, black and soft, smelling of nothing at all. The three
+steel walls went up and up around her, and at the very top there was a
+little triangle of grey sky the size of a postage stamp.</p>
+<p>And all over the floor of the pit stood the Dementors: more than a
+hundred tall shapes in tattered black cloaks, motionless in the mud.
+Hermione didn’t look under the hoods; she didn’t need to, because she
+could feel what was under them, the same thing under every one—a small
+bald grey head, and a mouth.</p>
+<p>Her legs started shaking, and she let them shake, and walked forward
+into the middle of them.</p>
+<hr />
+<p>At the top of a tower that couldn’t be seen from the ground, Harry
+Potter sat at his desk and didn’t move.</p>
+<p>In front of him, in a neat row, lay the Philosopher’s Stone, a
+parchment covered in cramped writing, and a small dark book; and beside
+them a hand-mirror, through which Mad-Eye Moody’s voice had said
+<em>She’s gone down</em>, nineteen minutes ago, and nothing since.
+Professor McGonagall had made tea, which neither of them had drunk.</p>
+<p><em>We could go,</em> said Gryffindor, for about the fortieth time.
+<em>The second spoon’s right there—</em></p>
+<p><em>She asked us to stay,</em> said Hufflepuff, and that was the
+argument that kept winning.</p>
+<p>Three days ago, on his roof, with the sun coming up, Hermione had
+crossed her wand with his and sworn to help him, and trust in him, and
+<em>sometimes go where he can’t go</em>. At the time Harry had heard
+that as a figure of speech.</p>
+<p><em>You’d have liked my first plan,</em> he thought at the little
+green stone on his finger. <em>You’d have called it efficient, and you
+wouldn’t have asked her either—why would you ask a piece? But it was
+a</em> worse <em>plan, and she found a better one in five minutes,
+because she was the one who’d have had to die in mine.</em></p>
+<p>The emerald didn’t answer, being an emerald.</p>
+<p>“Albus used to sit like that,” said Professor McGonagall, from the
+window.</p>
+<p>“Like what?” said Harry.</p>
+<p>“As though keeping very still,” said the Headmistress, “were
+something one could do on someone else’s behalf.”</p>
+<p>Harry thought about that before he asked, “Did it help?”</p>
+<p>“Sometimes,” said Professor McGonagall, “they came back.”</p>
+<hr />
+<p>In the middle of the pit, surrounded by them, Hermione stopped.</p>
+<p><em>I don’t have to do this,</em> she thought. <em>I could go back to
+the hole in the wall. I could tell Mr Moody it didn’t work.</em> In
+January, in the snow, with the Headmaster’s Patronus guarding the cage,
+she’d tried to cast the Patronus Charm and nothing had happened at all.
+She had turned and run—and then turned around and run back, for
+Harry.</p>
+<p>She took off the Cloak and folded it up quickly and neatly—she folded
+everything—and put it in her pouch, so that whatever happened next
+wouldn’t happen to it. Then she raised her wand and said “<em>Expecto
+Patronum</em>,” very softly, and made it <em>small</em>.</p>
+<p>A little silver figure stood beside her in the mud, about her own
+height and no brighter than a candle. It cost almost nothing to keep it
+there, just a thin steady trickle, the way Harry had promised.</p>
+<p>Every hood in the pit turned toward her at once.</p>
+<p>Then they came from every side, and they didn’t stop at the light:
+they pressed up against it, a hundred black shapes leaning in against
+the edges of her little candle-flame, closer and closer, until the light
+was the only thing in the world that wasn’t them. Then the cold came
+down on Hermione like a weight, and the pit went away, and it was
+April.</p>
+<p>It was a sunny day, and the floor was marble, and there was blue fire
+burning in pools on the floor, and the troll had her around the middle
+in one enormous hand and was lifting her toward its face, and she could
+see the sunlight on its teeth. And there was the <em>noise</em>, the
+noise she’d tried to tell Harry about and couldn’t, the wet crunching
+noise of something being eaten, and the something was <em>her</em>, and
+the pain went through her like light, and she was screaming, and nobody
+was coming, nobody was <em>coming</em>—</p>
+<p>—and the memory stopped, and started over, on a sunny day, on a
+marble floor.</p>
+<p>Far away, her Patronus flickered, and something came through the
+light where it had gone thin and touched her sleeve, and the cold of it
+was like nothing in the world.</p>
+<p><em>Burn it now,</em> said a small part of her that was still
+thinking, <em>before it goes out!</em></p>
+<p>But they weren’t all close enough yet—she could feel the far ones
+still coming—and if she burned it now, it would cost too much; and if
+she didn’t, the light would go out, and then there would be nothing left
+of her for any book to keep. She reached for the thought she’d used in
+the tower, the one she’d told Harry wasn’t quite his, and it wasn’t
+there—or it was there, but it slid off her like rain off a window. It
+had been a good thought, a true one: the stars, and the future, and all
+the people who would come after and weep to learn that death had ever
+existed. But it had been Harry’s thought after all, with her name
+written on it in pencil. Down here, with the sun on the troll’s teeth,
+it was nothing.</p>
+<p><em>It only knows what you know,</em> said a gruff voice, very far
+away. <em>Everything it shows you, it took out of your head.</em></p>
+<p>And Hermione, screaming on the marble in the sunlight, thought:</p>
+<p><em>Then why does it always stop there?</em></p>
+<p>Every time, it stopped in exactly the same place, at the teeth and
+the noise and <em>nobody coming</em>, and then it started again; it
+never showed her what came next. But she <em>knew</em> what came next—it
+was right there in her head beside all the rest of it. Somebody
+<em>had</em> come: Harry, late, kneeling on the marble in her blood so
+that she wouldn’t be alone. And then, nine weeks later, a loud
+<em>bang</em>, and a stone altar, and moonlight on a graveyard, and her
+legs, back.</p>
+<p>The thing had rummaged through her head and taken out the troll and
+put it on. And it had left the ending behind, because the ending was the
+one thing in there that it couldn’t wear.</p>
+<p><em>You had me,</em> thought Hermione Granger.</p>
+<p><em>You had me on a sunny day on a marble floor. You had all of me,
+every last bit. And you couldn’t keep me.</em></p>
+<p><em>That’s your whole argument, isn’t it, the only argument you’ve
+ever had: everyone you take, you keep, everyone, for as long as there
+have been people. That’s what makes you a law of nature instead of just
+a monster.</em></p>
+<p><em>But one counterexample is enough to disprove a universal
+statement—every book on logic says so in the first chapter—and I’m
+standing here.</em></p>
+<p><em>So losing is something you can do. And we are going to make you
+do it again—for the woman upstairs, and her children whose names she
+can’t remember, and Mum at the cooker, and Dad not answering the
+telephone, and everyone in every one of those cells, and everyone else,
+everywhere, one at a time if that’s what it takes, until there’s nobody
+left in the world that you get to keep—</em></p>
+<p>Her light had nearly gone out, and the nearest of them was right
+there, stooping over her, close enough to touch; they were all close
+now, every one of them.</p>
+<p>Hermione opened her eyes, looked straight at it, and
+<em>burned</em>.</p>
+<hr />
+<p>At the bottom of the triangular well that is Azkaban, on mud where
+nothing has ever grown, a twelve-year-old girl in black robes stands
+with her wand raised; and all around her, close enough to touch, more
+than a hundred hooded shapes are leaning in toward her face.</p>
+<p>Then there is light, which doesn’t come out of her wand so much as
+out of all of her at once. It has the shape of a person, and at first it
+is not large; it is about the size of a twelve-year-old girl. And the
+hooded things that are leaning in toward her lean straight into it.</p>
+<p>They don’t burn; they aren’t that sort of thing; they just
+<em>stop</em>. The light goes out from her through the whole pit in one
+ring, faster than sound, and climbs the three steel walls, and goes out
+through the top of the triangle into the grey North Sea sky, a pillar of
+white fire that the Aurors on the roof will afterwards describe in their
+official reports without being able to agree on a single adjective.</p>
+<p>And it costs her. Harry’s arithmetic had said that close enough would
+be almost free, but Harry’s arithmetic had only two data points. The
+light pours out of her and keeps on pouring, past the little she had
+budgeted for, past a lot more than that, and she feels the jug tip, and
+keep on tipping, and she thinks, quite calmly, <em>oh—the model was
+wrong</em>—</p>
+<p>—and then she isn’t anything, for a while.</p>
+<hr />
+<p>In the tower, the mirror on the desk spoke.</p>
+<p>“<em>Potter</em>,” said Moody’s voice, very rough. “Something
+happened down there. Biggest light I’ve ever seen. Whatever was in that
+pit, it’s gone, the whole lot.” Then, after a pause: “And the button’s
+gone warm.”</p>
+<p>Harry went cold all over, because a warm button meant that her heart
+had stopped, and if it stayed stopped for thirty seconds the button
+would bring whatever was left of her to Moody.</p>
+<p>His hand was already reaching for the mirror, to shout into
+it—<em>get her out, go down there, do something</em>—and it stopped an
+inch from the glass, and this time the Vow had nothing to do with
+it.</p>
+<p>She had asked him to stay. She had taken the spoon out of his
+fingers, one finger at a time, so that this would be her choice and not
+his. And there was nothing Moody could do in thirty seconds that the
+button wouldn’t do better.</p>
+<p>Harry put his hand down flat on the desk next to the book, and
+counted.</p>
+<p><em>Eleven one-thousand. Twelve one-thousand.</em></p>
+<p>Professor McGonagall had turned around from the window. She came and
+stood behind his chair without saying anything, and put her hand on his
+shoulder, and left it there.</p>
+<p><em>Nineteen one-thousand. Twenty one-thousand.</em></p>
+<p>The book lay on the desk in front of him, small and dark, and Harry
+stared at it and thought, <em>if you’re in there, if you’re awake in
+there right now, I’m sorry, I’m so sorry, I’ll get you out, I swear I’ll
+get you out—</em></p>
+<p><em>Twenty-six one-thousand—</em></p>
+<p>“It’s gone cold,” said Moody’s voice, and then, “Crap. <em>Crap.</em>
+Komodo’s down there now, he’s got her. She’s breathing. She’s—hang
+on—she’s <em>sitting up and arguing with him</em>.”</p>
+<p>Harry put his face down on his arms on the desk, next to Roger
+Bacon’s diary, and stayed there for a while.</p>
+<hr />
+<p>The first thing Hermione did, when she was something again, before
+she had even thought about it, was reach down with both hands and touch
+her legs, and find that they were still there.</p>
+<p>She was sitting up in the mud at the bottom of Azkaban, and somebody
+with an orangutan was trying to make her lie back down. All around her
+in the mud, in every direction, lay empty black cloaks, more than a
+hundred of them, with nothing inside them at all. Everything was so
+quiet that she could hear water dripping somewhere a long way up.</p>
+<p>On the level above the lowest, a woman had stopped saying anything at
+all.</p>
+<h2 id="ch6">Chapter 6: Names</h2>
+<p><em>(Thursday, June 18th, 1992. 10:31 in the morning.)</em></p>
+<p>Harry arrived on the roof of Azkaban in a gust of salt wind, with the
+Headmistress holding his shoulder rather harder than the portkey really
+required, and the first thing he saw was Hermione.</p>
+<p>She was sitting on the edge of the steel platform with mud up to her
+knees, holding a steaming mug and gesturing with it at Auror Komodo in a
+way that strongly suggested she was explaining something to him at
+length.</p>
+<p>Harry discovered that he had sat down on the steel roof, quite
+suddenly, without having decided to.</p>
+<p>The second thing he noticed was the absence. In February he had felt
+this place from a mile off, the wounds in the world waiting at the
+bottom of the pit like a drain. Now there was nothing there at all, and
+Azkaban was a large, ugly, triangular metal building in the North Sea,
+and that was all it was.</p>
+<p>Hermione saw him, and put down the mug, and came over and pulled him
+to his feet, very carefully.</p>
+<p>“There’s someone I want you to meet,” she said.</p>
+<p>They went down together without the Cloak, past the hissing gas lamps
+and the great blank doors. Behind the doors there was silence now, or
+crying, or once a man’s voice saying, over and over, in a tone of
+complete bewilderment, “<em>It’s stopped. It’s stopped. It’s
+stopped.</em>” Harry found that he still remembered every turning, and
+wished he didn’t.</p>
+<p>Auror Komodo came down with them, and at the door in the middle of
+the second-lowest corridor he stopped and spoke for the first time.</p>
+<p>“Mrs Hughes,” he said, in the same colourless voice he had once used
+to arrest Hermione. “Killed her husband in January. Blasting Hex, at
+home, in an argument. She told the Wizengamot she’d only meant to break
+a window, and they gave her life.”</p>
+<p>Nobody said anything to that. Then Hermione took hold of the padlock
+and closed her hand, and there was a sound like a walnut cracking, and
+the lock fell on the floor in two pieces.</p>
+<p>There was a short corridor behind the door, with cells along one
+side. Most of them were empty, but in the third one, on a pallet against
+the wall, sat a thin woman with her arms wrapped around her knees. She
+wasn’t saying anything; she was staring at the wall opposite her, as if
+she’d been listening to a noise for so long that she didn’t know what to
+do now that it had stopped.</p>
+<p>Hermione broke the second lock, and then, instead of going in,
+stepped aside.</p>
+<p>Harry went in and knelt down on the steel floor in front of the
+woman, so that his face was level with hers.</p>
+<p>“I walked past you in February,” he said. “You were begging for help,
+and I walked past. I’m sorry.”</p>
+<p>The woman looked at him without any recognition at all, which was
+fair enough; she had never seen him. Then her eyes went past him to the
+doorway, where Hermione was standing, glowing faintly in the gaslight
+with the aura she couldn’t turn off, looking like a picture of an angel
+from a children’s Bible, if the angel had just been rolling in a
+ditch.</p>
+<p>“But somebody came back,” said Harry, and looked at Hermione too.</p>
+<p>Hermione came in and knelt down next to him.</p>
+<p>“Mrs Hughes,” she said gently. “Can you tell me your children’s
+names?”</p>
+<p>The woman’s mouth opened, but nothing came out, and Harry watched her
+reach for the names, and miss, and reach again. He was just opening his
+own mouth to say <em>it’s all right, it doesn’t matter, they’ll come
+back to you</em>—</p>
+<p>“Owen,” said the woman, and then, “<em>Bethan.</em> Owen and
+Bethan.”</p>
+<p>She put her face in her hands and said the two names over and over.
+She said them as though they hurt, and she kept on saying them
+anyway.</p>
+<p>Harry stayed where he was, on his knees. Beside him, Hermione didn’t
+say anything at all, which was, Harry thought afterwards, one of the
+cleverest things he had ever seen her do.</p>
+<hr />
+<p>They climbed back up the stairs slowly, side by side, while Aurors
+hurried past them going down with blankets and chocolate and, in one
+case, a very confused Healer from St Mungo’s who kept asking where all
+the Dementors were.</p>
+<p>“So,” said Harry, around the third flight, because if he didn’t say
+something light soon he was going to say something that wasn’t. “On a
+scale of zero to a hundred. How literal a descent into Hell, in the
+end?”</p>
+<p>Hermione thought about it seriously, the way she thought about
+everything.</p>
+<p>“Ninety-one,” she said.</p>
+<p>“I said eighty-seven!”</p>
+<p>“I know,” said Hermione, with a sideways look at him. “You were
+close. For you.”</p>
+<h2 id="ch7">Chapter 7: Something to Protect: Roberta Granger</h2>
+<p><em>(Thursday, June 18th, 1992. 7:02 in the evening.)</em></p>
+<p>On the evenings when she couldn’t face the cookery book, Roberta
+Granger made shepherd’s pie, because it was the only thing she knew how
+to make without it.</p>
+<p>She had cooked to a running commentary for seven years. From the age
+of five, Hermione had stood at her elbow and read the recipe aloud, and
+then, quite soon, not needed to read it, and then corrected her: <em>two
+hundred grams, Mum, not two fifty</em>, and <em>it says fold</em>. In
+September that voice had gone off to Scotland, and Roberta had missed
+it, and had said so to the Verreses at Christmas, laughing, because it
+was the kind of missing that has a train timetable attached. Since April
+it had been the other kind, and she had bought a cookbook stand, which
+was a small and practical thing to do, and which she had been unable to
+look at directly ever since.</p>
+<p>She was browning the mince when she noticed, through the front
+window, that at the far end of the road a very tall woman in a pointed
+black hat and a small dark-haired boy in spectacles were standing beside
+the Pattersons’ privet hedge and examining it with tremendous interest.
+The boy appeared to be explaining something about it to the woman, at
+length, with gestures. The woman appeared to be enduring this.</p>
+<p>Roberta knew what a pointed hat meant. She stood very still at the
+cooker with the wooden spoon in her hand, and the mince went on spitting
+in the pan, and she did not let herself think anything at all, until the
+doorbell rang.</p>
+<p>“I’ll get it,” said Leo, from the sitting room, and did not move.</p>
+<p>At Christmas, when the Verreses came, it had been Roberta calling out
+<em>Honey, can you get it?</em> from the kitchen, with her hands full of
+turkey. For nine weeks now it had been Leo saying <em>I’ll get it</em>,
+about the telephone and the post and the cards from the practice, and
+somewhere in the second week Roberta had understood that it meant
+<em>please don’t make me</em>. She turned off the gas, and dried her
+hands on a tea towel very thoroughly, both sides, and went.</p>
+<p>The first place her eyes went, when she opened the door, was to the
+girl’s legs. She would think about that afterwards, and not like it.
+They had stood together in a stone room in Scotland, she and Leo, and
+looked at a sheet, and at the shape the sheet made, and at where the
+shape stopped.</p>
+<p>The girl was standing on the step on two legs, in black school robes
+edged with blue, in scrubbed shoes that had plainly been very muddy
+quite recently. Her hair was doing the thing it did in wet weather. She
+was holding, for some reason, a library book. And there was something
+about her, a sort of light that was not quite in the air, that made
+Roberta want to apologise for things she had never done.</p>
+<p>Roberta had read the books, and she knew what could wear a face. She
+knew what had happened to the body, nine weeks ago, the morning after,
+and that nobody had ever told them who had taken it, or why.</p>
+<p>“Hello, Mum,” said the girl. “I’m sorry I’m late. I’ve brought the
+library book back, it’s been in my trunk since Christmas, I know it’s
+overdue, I’ll pay the fine myself…”</p>
+<p>Roberta held on to the door frame and said “Leo,” not very loudly.
+And then “<em>Leo</em>,” and then a third time, in a voice that brought
+him out of the sitting room at a run; and then he was behind her, and
+then he was past her, down on his knees on the step with his big gentle
+hands on either side of the girl’s face, turning it up toward the
+evening light, the way he turned faces in the surgery, the way he had
+turned this face to the light a hundred times since it had had any teeth
+in it to look at.</p>
+<p>“Herm,” he said.</p>
+<p>“Hello, Dad.”</p>
+<p>“Open,” said Leo Granger, because he was a dentist.</p>
+<p>And their daughter opened her mouth, and he looked.</p>
+<p>Roberta looked too, because she could not help it; it was twenty
+years of habit. She looked for the little amalgam filling in the lower
+left first molar that Leo had done himself, the year Hermione was eight,
+while Hermione lectured him on the history of dental anaesthesia, and it
+wasn’t there. Nor was the chip on the upper left central incisor, from
+the climbing frame, the summer she was six. There was no wear on any of
+them. There was none of the faint translucency there ought to have been
+at the biting edges, nothing of the slightly irregular, slightly
+crowded, entirely ordinary mouth of a twelve-year-old girl who would
+have needed a brace in a year or two. Every tooth was perfect, and every
+one of them shone faintly, with a lustre like polished horn, and not one
+of them was any tooth that Roberta had ever seen.</p>
+<p>By every rule she knew, it was not her daughter’s mouth.</p>
+<p>Leo went on looking, and his thumb touched her front tooth, gently,
+as if it might come away.</p>
+<p>“They’re all here,” he said.</p>
+
+<footer>
+  <p>Set on the 17th and 18th of June, 1992, three days after HPMOR's final chapter. Written as fan fiction in the spirit of the author's note to Chapter 122: "You have my enthusiastic consent to write within this universe yourself, if you wish."</p>
+  <p><a href="craft-notes.html">How this was written: craft notes</a></p>
+</footer>
+</main>
+</body>
+</html>

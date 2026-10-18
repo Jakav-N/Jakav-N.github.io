@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Craft Notes</title>
+<meta name="description" content="How the HPMOR sequel 'Where He Can’t Go' was researched, measured, drafted and revised.">
+<style>
+  :root {
+    --bg: #fbf8f1;
+    --fg: #23201b;
+    --muted: #6e665a;
+    --rule: #d8cfbf;
+    --accent: #7a5b2e;
+    --measure: 36rem;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #17150f;
+      --fg: #e9e3d6;
+      --muted: #a39a89;
+      --rule: #3a352c;
+      --accent: #d4b07a;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #17150f; --fg: #e9e3d6; --muted: #a39a89; --rule: #3a352c; --accent: #d4b07a;
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+    font-size: 1.125rem;
+    line-height: 1.68;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+  }
+  main { max-width: var(--measure); margin: 0 auto; padding: 3rem 16px 5rem; }
+  header.title { text-align: center; margin-bottom: 3rem; }
+  h1, h2, h3 { font-family: inherit; }
+  header.title h1 {
+    font-weight: normal; font-size: 2.3rem; line-height: 1.2; margin: 0 0 .4rem;
+    letter-spacing: .01em;
+  }
+  header.title .subtitle { font-style: italic; color: var(--muted); margin: 0; }
+  .disclaimer, .note { font-size: .92rem; color: var(--muted); text-align: center; }
+  .disclaimer { margin: 2rem auto 0; max-width: 30rem; }
+  nav.toc { margin: 2.5rem auto 3.5rem; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); padding: 1rem 0; }
+  nav.toc ol { margin: 0; padding-left: 1.4rem; }
+  nav.toc li { margin: .15rem 0; }
+  a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+  h2 {
+    font-weight: normal; font-size: 1.45rem; text-align: center; line-height: 1.3;
+    margin: 4.5rem 0 .4rem; scroll-margin-top: 1rem;
+  }
+  h2 + p em:only-child, p.stamp { display: block; text-align: center; color: var(--muted); font-size: .95rem; }
+  h2 + p { text-align: center; margin-top: 0; margin-bottom: 2rem; }
+  h2 + p + p::first-letter {
+    float: left; font-size: 3.4em; line-height: .82; padding: .06em .08em 0 0; color: var(--accent);
+  }
+  p { margin: 0 0 1.05rem; }
+  hr { border: 0; text-align: center; margin: 2.2rem 0; color: var(--muted); }
+  hr::before { content: "⁂"; font-size: 1.1rem; letter-spacing: .3em; }
+  .verse { font-style: italic; margin: 1.2rem 0 1.2rem 1.5rem; }
+  footer { margin-top: 4rem; border-top: 1px solid var(--rule); padding-top: 1.2rem; font-size: .92rem; color: var(--muted); text-align: center; }
+  @media (max-width: 480px) {
+    body { font-size: 1.05rem; }
+    h1, h2, h3 { font-family: inherit; }
+  header.title h1 { font-size: 1.9rem; }
+  }
+</style>
+<style>
+  main.notes h1 { font-weight: normal; font-size: 2rem; text-align: center; margin: 0 0 2rem; }
+  main.notes h2 { text-align: left; font-size: 1.25rem; margin: 2.6rem 0 .8rem; }
+  main.notes h2 + p, main.notes h2 + p + p { text-align: left; }
+  main.notes h2 + p + p::first-letter { float: none; font-size: inherit; padding: 0; color: inherit; }
+  main.notes table { border-collapse: collapse; width: 100%; font-size: .9rem; margin: 1rem 0 1.4rem; display: block; overflow-x: auto; }
+  main.notes th, main.notes td { border-bottom: 1px solid var(--rule); padding: .35rem .5rem; text-align: left; vertical-align: top; }
+  main.notes blockquote { margin: 1rem 0; padding-left: 1rem; border-left: 3px solid var(--rule); color: var(--muted); }
+  main.notes ul { padding-left: 1.3rem; }
+</style>
+</head>
+<body>
+<main class="notes">
+<h1 id="how-where-he-cant-go-was-written">How <em>Where He Can’t Go</em>
+was written</h1>
+<p>The brief was: get good at writing fiction, then write a 10,000-word
+sequel to <em>Harry Potter and the Methods of Rationality</em>, and make
+it good. Partway through came a second instruction: imitate HPMOR’s
+style on purpose. These notes record what that took.</p>
+<h2 id="research-before-writing">1. Research before writing</h2>
+<p>I read HPMOR’s final arc (chapters 113–122) and the passages it
+depends on (the Azkaban arc, the Patronus chapters, Hermione’s death and
+trial, the Grangers at Christmas) from a public LaTeX edition, and built
+a continuity bible before inventing anything. Several plot ideas fell
+out of that reading:</p>
+<ul>
+<li><strong>The True Patronus runs on the caster’s life, not
+magic.</strong> Destroying Azkaban’s Dementors from a distance nearly
+killed Harry (ch. 55): “if I’m going to do this, I should do it when I’m
+closer to the central pit, it will take less of my life that way.”</li>
+<li><strong>Harry secretly holds Hermione’s horcrux</strong> and an
+honest resurrection ritual (ch. 112, 119): “She can’t die. I have her
+horcrux. But Hermione doesn’t need to know about that. Not for one more
+week.”</li>
+<li><strong>Her death is a world-risk under the Vow.</strong> Voldemort
+heard a prophecy that without Hermione, Harry becomes “force of vast
+destruction,” and the Vow forbids Harry “any chances” with that.</li>
+<li><strong>The last chapter sets up the next one.</strong> It ends with
+Harry about to send her into Azkaban, rating the descent into Hell
+“maybe eighty-seven,” not nodding when she says “Risk my life?”, and
+arranging for her grieving parents to get “the one pleasant
+surprise.”</li>
+</ul>
+<p>Put those together and you get the plan HPMOR never states outright:
+she pours her life into the spell at a safe distance, dies, and Harry
+brings her back, without telling her. The sequel is about that plan and
+what Hermione does when she works it out.</p>
+<h2 id="diagnosing-my-own-failure-modes">2. Diagnosing my own failure
+modes</h2>
+<p>Before drafting I wrote down the ways my fiction usually fails, so I
+could hunt for them:</p>
+<ul>
+<li>abstract emotion words in place of events;</li>
+<li>explaining subtext the scene has already shown;</li>
+<li>dialogue that sounds like a thoughtful therapist;</li>
+<li>rhetorical tics (“It wasn’t X. It was Y.”, tricolons, one-line
+paragraphs for false weight, portentous scene-ending lines);</li>
+<li>default imagery;</li>
+<li>conflicts that dissolve in conversation;</li>
+<li>sentimental landings;</li>
+<li>rushing the scenes that matter;</li>
+<li>characters who are only as smart as the plot needs.</li>
+</ul>
+<h2 id="measuring-the-target-style">3. Measuring the target style</h2>
+<p>Matching HPMOR deliberately meant measuring it rather than going on
+feel. A short script compared HPMOR chapters with my writing:</p>
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th>HPMOR (all 122 ch.)</th>
+<th>practice scenes</th>
+<th>draft 1</th>
+<th>final</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>median sentence (words)</td>
+<td>12</td>
+<td>7.5</td>
+<td>9.0</td>
+<td>13</td>
+</tr>
+<tr class="even">
+<td>sentences under 6 words</td>
+<td>20%</td>
+<td>40%</td>
+<td>32%</td>
+<td>21%</td>
+</tr>
+<tr class="odd">
+<td>‘the way…’ similes /1k</td>
+<td>0.08</td>
+<td>3.87</td>
+<td>1.34</td>
+<td>0.67</td>
+</tr>
+<tr class="even">
+<td>‘as though/as if’ /1k</td>
+<td>0.55</td>
+<td>3.10</td>
+<td>1.70</td>
+<td>1.01</td>
+</tr>
+<tr class="odd">
+<td>3+ ’and’s in one sentence /1k</td>
+<td>1.16</td>
+<td>3.10</td>
+<td>4.10</td>
+<td>3.52</td>
+</tr>
+<tr class="even">
+<td>‘just/even/really/actually’ /1k</td>
+<td>7.01</td>
+<td>2.32</td>
+<td>2.26</td>
+<td>3.69</td>
+</tr>
+<tr class="odd">
+<td>exclamation marks /1k</td>
+<td>3.89</td>
+<td>0.00</td>
+<td>0.35</td>
+<td>0.76</td>
+</tr>
+<tr class="even">
+<td>em dashes /1k</td>
+<td>5.65</td>
+<td>4.65</td>
+<td>0.99</td>
+<td>7.55</td>
+</tr>
+<tr class="odd">
+<td>semicolons /1k</td>
+<td>2.33</td>
+<td>0.77</td>
+<td>5.45</td>
+<td>2.77</td>
+</tr>
+</tbody>
+</table>
+<p>My instinct for “tight” literary prose turned out to be the opposite
+of HPMOR’s. HPMOR writes long, chained, clause-heavy sentences, uses
+ellipses and semicolons, and delivers its jokes deadpan inside full
+sentences, not as fragments. Its distinctive devices include:</p>
+<ul>
+<li>Harry’s labelled inner voices, written as tagged italic prose;</li>
+<li>epithets (“the Headmistress,” “the scarred man”);</li>
+<li>calibrated numbers and named biases;</li>
+<li>the deadpan zoom-out (“There was a pause, during which…”);</li>
+<li>big italic declarations of conviction at the Patronus moments;</li>
+<li>a present-tense tableau at a peak.</li>
+</ul>
+<h2 id="practice-before-the-real-thing">4. Practice before the real
+thing</h2>
+<p>I wrote two calibration scenes and had two independent critics tear
+them apart: a line editor, and an HPMOR expert who checked every claim
+against the text. They caught things I would not have caught myself:</p>
+<ul>
+<li><strong>Wrong inner-voice format.</strong> I had written Harry’s
+inner voices in script format. HPMOR never does that.</li>
+<li><strong>The Vow blocked something harmless.</strong> My version
+stopped Harry from saying a name. The canon Vow only blocks acts that
+risk the world, and the reason arrives together with the block.</li>
+<li><strong>The key deduction was invalid.</strong> “One pleasant
+surprise” is also what Harry would say if he thought she might die. The
+sound version had to be rebuilt from Harry’s exact words in canon: the
+only <em>if</em> in his plan was her consent; at her trial he said
+breaking Azkaban “may cost me my life”; and he was calm about her.</li>
+<li><strong>The prose was choppy and full of stock phrases.</strong> 40%
+of my sentences were under six words, against HPMOR’s 20%, and there
+were stock phrases everywhere (“for a long moment,” “her mouth did
+something complicated”).</li>
+<li><strong>The ending could be stronger.</strong> The dentist father’s
+last line worked, but it could land harder: his professional identity
+check should <em>fail</em>, and he should believe anyway.</li>
+</ul>
+<h2 id="drafting-and-revision">5. Drafting and revision</h2>
+<p>The first full draft ran about 14,100 words. I sent it to four
+independent critics: a structural editor, an HPMOR continuity-and-logic
+auditor that checked every claim against the text, a line editor, and an
+HPMOR fan reading for pleasure, who gave it 8/10. The main changes that
+came out of their reports:</p>
+<ul>
+<li><strong>Harry gets a real case and a real win.</strong> He argues
+for his plan at full strength. Once Hermione takes the portkey out of
+his Vow-locked hand, the Vow <em>lets</em> him help, and he improves her
+plan: light the Patronus dim first and hold the Dementors off while they
+gather, then burn.</li>
+<li><strong>Canon things he’d actually said are used against
+him.</strong> On the last morning he warned her he’d have to
+“Dumbledore” her, and he told her the mission had to be freely chosen,
+“an actual mission requirement”. Hermione throws both back at him. She
+also uses the Vow’s own escape clause (“the friend in whom I have
+confided honestly”) to argue that a friend kept safe by secrets is a
+hostage, not a check.</li>
+<li><strong>The climax costs something.</strong> Harry’s inverse-square
+model was built on two data points and turns out to be wrong. Her heart
+stops, and Moody’s dead-man button goes warm while Harry counts to
+twenty-six in the tower. His hand stops an inch from the mirror. This
+time that’s his own choice to keep his promise and stay, not the
+Vow.</li>
+<li><strong>Canon errors fixed:</strong>
+<ul>
+<li>McGonagall told the Grangers in her office, not their kitchen.</li>
+<li>Hermione died “glad not to be dying alone”, so the memory the
+Dementors replay now stops at “nobody was coming”, and what it can’t
+show her is that Harry came.</li>
+<li>The diary darkened when it became a horcrux.</li>
+<li>Destroyed Dementors leave empty cloaks.</li>
+<li>Harry has two data points, not one.</li>
+</ul></li>
+<li><strong>Plot holes closed:</strong>
+<ul>
+<li>Why the Dementors can’t just be brought to her one at a time in
+cages.</li>
+<li>Why a Kiss is the real danger, given that Dementors don’t normally
+Kiss anyone unless ordered to.</li>
+</ul></li>
+</ul>
+<p>Then came the most useful note, from the person I was writing for:
+<em>“There’s AI ticks. You rarely even notice them. They aren’t like
+HPMOR. And over-editing often worsens it. Your intuitions for what is
+good is off.”</em></p>
+<p>That was right. My critics share my blind spots, so I stopped
+trusting taste and compared my text with HPMOR’s 641,000 words,
+construction by construction. What I had been writing was polished
+literary fan fiction, not HPMOR:</p>
+<ul>
+<li>“the way…” similes at 17× HPMOR’s rate;</li>
+<li>three-“and” sentences at 3.5×;</li>
+<li>“very” at 3×;</li>
+<li>past-perfect summary at 2×;</li>
+<li>HPMOR’s conversational “just / even / really / actually” at a third
+of its rate;</li>
+<li>a tenth of its exclamation marks.</li>
+</ul>
+<p>Some of my “fixes” had made things worse. I had cut em dashes because
+folklore calls them an AI tell, but HPMOR uses more of them than I
+did.</p>
+<p>So I didn’t polish again. I rewrote each chapter once in HPMOR’s
+register, after rereading the HPMOR scenes closest to it (Harry and
+McGonagall in ch. 14, Hermione’s point of view in ch. 21, the final
+rooftop in ch. 122, the Patronus in ch. 45, Azkaban in ch. 52–55). After
+that I made only deletions and canon fixes.</p>
+<p>Then came a third note, after the reader had seen chapter 2:
+<em>“Avoid short, punchy sentences.”</em> The numbers had been saying
+the same thing, since my median sentence was still 9 words against
+HPMOR’s 12. The one-line dramatic beat (“The doorbell rang.” “They were
+there.” “Not the Vow, this time. Him.”) is my habit, not HPMOR’s. HPMOR
+puts that kind of beat inside a longer sentence, so in chapter 7 “The
+doorbell rang.” became the end of the sentence before it: “…and she did
+not let herself think anything at all, until the doorbell rang.” My
+first rewrite of chapter 2 overcorrected: its median sentence went to 22
+words, and a third of its sentences ran past 40. So I rebalanced that
+chapter and made one pass over the others. In that pass I folded each
+beat into the sentence next to it, deleted the beats that only restated
+what the scene had already shown, and split the few sentences that had
+grown past 40 words. Across the whole story the sentence-length
+distribution now matches HPMOR’s: a median of 13 words against 12, 21%
+of sentences under six words against 20%, and 5% over forty against
+4%.</p>
+<p><strong>Gaps that remain, measured:</strong> - Sentences with three
+or more “and”s still come up three times as often as in HPMOR, and “the
+way…” constructions about eight times as often. - The story has a fifth
+of HPMOR’s exclamation marks and half its “just / even / really /
+actually”. - At about 11,800 words it runs over the 10,000-word brief. I
+kept story beats rather than cut them to hit the number.</p>
+<h2 id="plants-and-payoffs">6. Plants and payoffs</h2>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Planted</th>
+<th>Paid off</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>“the further away they are, the more it costs” (ch. 1)</td>
+<td>Hermione’s close-range plan (ch. 3), the climax (ch. 5)</td>
+</tr>
+<tr class="even">
+<td>“We’ll work out the geometry” (ch. 1)</td>
+<td>her deduction (ch. 2); the geometry on the roof (ch. 3)</td>
+</tr>
+<tr class="odd">
+<td>“one pleasant surprise” (ch. 1)</td>
+<td>the branch Harry never mentioned (ch. 2); she delivers it herself
+(ch. 7)</td>
+</tr>
+<tr class="even">
+<td>“eighty-seven” (ch. 1, from HPMOR ch. 122)</td>
+<td>“Ninety-one.” (ch. 6)</td>
+</tr>
+<tr class="odd">
+<td>“It wasn’t yours. Not exactly.” (ch. 1)</td>
+<td>Harry’s thought fails in the pit, “with her name written on it in
+pencil” (ch. 5)</td>
+</tr>
+<tr class="even">
+<td>Mr Bester: look where you flinch (ch. 2)</td>
+<td>the “soul a mile away” clue (ch. 2)</td>
+</tr>
+<tr class="odd">
+<td>the woman behind the door (HPMOR ch. 55; ch. 3)</td>
+<td>the voice on the stairs (ch. 5); her children’s names (ch. 6)</td>
+</tr>
+<tr class="even">
+<td>Moody: “it only knows what you know” (ch. 4)</td>
+<td>the ending the memory never shows (ch. 5)</td>
+</tr>
+<tr class="odd">
+<td>Moody’s dead-man button (ch. 4)</td>
+<td>the twenty-six-second countdown (ch. 5)</td>
+</tr>
+<tr class="even">
+<td>“Stay here. Please.” (ch. 4)</td>
+<td>Harry’s hand stopping at the mirror (ch. 5)</td>
+</tr>
+<tr class="odd">
+<td>Harry’s hand frozen by the Vow (ch. 3)</td>
+<td>his hand stopping by choice (ch. 5)</td>
+</tr>
+<tr class="even">
+<td>“That somebody came back.” (ch. 3)</td>
+<td>“But somebody came back,” Harry says, looking at Hermione
+(ch. 6)</td>
+</tr>
+<tr class="odd">
+<td>the Sword of Gryffindor manicure (ch. 1)</td>
+<td>fingernails that peel steel (ch. 5); alicorn teeth (ch. 7)</td>
+</tr>
+<tr class="even">
+<td>FINAL NOTICE (ch. 2)</td>
+<td>“My library book is overdue.” (ch. 3); the book returned
+(ch. 7)</td>
+</tr>
+<tr class="odd">
+<td>“I’ll get it,” and he doesn’t (ch. 2)</td>
+<td>“I’ll get it,” and he doesn’t (ch. 7)</td>
+</tr>
+<tr class="even">
+<td>the sheet over her legs (HPMOR ch. 91)</td>
+<td>“where the shape stopped” (ch. 7); she touches her legs (ch. 5)</td>
+</tr>
+</tbody>
+</table>
+
+<footer><p><a href="index.html">← Back to the story</a></p></footer>
+</main>
+</body>
+</html>

@@ -660,4 +660,37 @@ method with people · "it answers caring" (ch. 5) as his method with magic.
   pair of boots"), carries the swing photo in his inside pocket; "He is kind,
   Albus… I think when you meet him you will understand why." The good tin is
   nearly empty; she'll buy another for the summers. File closed till September.
+- **Ch. 19 (The Thirty-First)** — 31 July 1991, age 11. Sleepless night (a
+  year) reviewing every pad; nothing to be ashamed of. **5.30 a.m. kitchen with
+  Petunia**: "I'd have kept you. If there'd been no letter… I wanted you to
+  know there was a version where I kept you." / "I'll come back in the summers.
+  For the roof. And for the tea." Doorbell **9 a.m. exactly**; Petunia says
+  Vernon's name "like a door being locked from the inside"; Dudley told nothing
+  (kinder). **McGonagall in tartan** at the door; Harry: "I've been expecting
+  you… since the first of May, 1989… I hoped it would be someone who'd look
+  like something." Vernon shouts **84 seconds** (hoped for 60); the two Vernons
+  (1981 vs. the Rotary); Harry: "older than Eton… forty children a year…
+  *chosen*… you can tell the Rotary it's in Scotland." McGonagall: "Hogwarts
+  does not advertise." / "I have never heard it called anything else."
+  Petunia sends Dudley upstairs, Vernon to the kitchen, goes to the garden.
+  **Forty-one questions**, eleven asked, nine answered: the protection (for the
+  Headmaster; she was promised the whole of it three weeks ago); a vault; the
+  Decree/Trace (he'd read it); **Godric's Hollow, a churchyard, a white stone —
+  she taught both his parents and will take him one day**; Voldemort's fate
+  unknown, Dumbledore thinks him waiting — Harry "read what the books didn't
+  say"; "a shelf… for things I'll deal with when I'm ready." His recorded
+  question: *why did he leave me on the step* — McGonagall: he will see you; "I
+  do not think he was preparing for *this*." **The cupboard, in his own words**:
+  "It's mine. I took it when I was three… I'd like to be judged as him" — she
+  holds the green line and the frames side by side without resolving them.
+  He opens the letter last; owns four of the set books. **Confesses Diagon
+  Alley**: the attention-push, the bricks ("I think I could write it, given a
+  year and a wand"), £184 at Gringotts, "I looked myself up in the index"; "I
+  wanted to have been *somebody* to myself first"; won't break rules again
+  without asking someone who knows them. McGonagall needs "a very strong cup of
+  tea" before reporting; "You have rather more than four galleons. Fetch your
+  coat." She knew his mother: Lily would have opened the letter first; he's
+  like James in that one respect "and nothing whatever like either of them in
+  all the others." Petunia, deadheading: "Well?" / "Scottish. Tartan. She knew
+  Mum." / "Go on, then. Tea's at six."
 - (append per chapter)

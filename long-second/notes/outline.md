@@ -633,4 +633,31 @@ method with people · "it answers caring" (ch. 5) as his method with magic.
   will arrive "as somebody," not a child with a question. 1 May 1991 stock-
   take; three months; last OU broadcast (the atom) "for very nearly the last
   time." ~1,800 subjective years.
+- **Ch. 18 (Interlude: The Watchers' File)** — Late June 1991. McGonagall's
+  41 letters; the Quill once (1974) addressed a letter to a boy dead eleven
+  years. Harry's file: seven years of Figg (hand changes autumn 1988), cuttings,
+  the April 1991 offprint. Dumbledore has read everything; got the offprint
+  from the college library in March "on headed paper… saying I was a
+  professor." Carrow's covering letter (via Figg): "the most original
+  mathematical mind I have encountered in twenty-eight years… I include my own
+  supervisor, who has a prize named after him." Dumbledore reads Harry's
+  Telegraph line as addressed to *him*: "I do not think I have ever been so
+  neatly *addressed*." He knows about Petunia's tea, the List ("the things
+  worth a life" — Figg has been trying to work it out for a year). McGonagall:
+  the self Harry made is "not at all the self you imagined… He bought the
+  books, for all we know." Dumbledore: "He has not bought the books. Arabella
+  would know." (WRONG — dramatic irony for ch. 20.) "I should prepare to receive
+  a colleague, and he will be eleven, and both things will be true." His two
+  questions for her: **is he happy; is he kind** — "I want you to *look*."
+  **The Quill writes "The Cupboard under the Stairs"**; the file never once
+  recorded where he slept; nobody has crossed the step in ten years. Dumbledore:
+  "I did not know… I did enough to him and did not know the half of what I
+  meant." He asks her to *ask*, not assume — "a person to whom one had better
+  not arrive with the answer already in one's pocket." McGonagall demands the
+  whole truth about Petunia's roof afterwards; he agrees. **31 July, 9 a.m.,
+  the tartan**: "I should like the first one he sees to look like something."
+  Figg's last letter (22 July): he asked what to pack ("warm things and a good
+  pair of boots"), carries the swing photo in his inside pocket; "He is kind,
+  Albus… I think when you meet him you will understand why." The good tin is
+  nearly empty; she'll buy another for the summers. File closed till September.
 - (append per chapter)

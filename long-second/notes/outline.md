@@ -348,6 +348,31 @@
   it is where the telephone is, and the hospital, and the man who can listen,
   and the cold… somebody has to be the table." Whoever knocks "had better have
   brought a very strong cup of tea."
+- **Ch. 17 (Interlude: The Watchers' File)** — Late June 1991. Dumbledore sends
+  McGonagall the whole DRAWER by house-elf: five years of Figg, three trays of
+  cuttings, four receipts (incl. "chapter nine twice"), *Three and Thirteen*,
+  four offprints, the thesis, and **four questions asked through Arabella**
+  (the dosage table; a ward question; a pamphlet's year; **"what he thinks the
+  guards at Azkaban are made of"** → two pages: "a sentence that eats
+  sentences… nobody has ever tried to read one, and he intends to"). Flitwick
+  "went quite pale… God help us all when he does [see one]." **The Quill: "The
+  Cupboard under the Stairs"**; Figg has never crossed the step (waits at the
+  gate); "everything in front of it was so *remarkable*." Dumbledore: "I did
+  enough to him on that step. I did not know the half of what I meant… And yet
+  he wrote a thesis in it." Ask, don't assume. McGonagall demands the whole of
+  the roof and the step afterwards; the unsent letter will go in his inside
+  pocket for 1 September. "In both directions at once… the most frightening
+  and the most *interesting* thing that has happened to this school in my
+  lifetime." Tartan, 9 a.m., 31 July. She reads *Three and Thirteen* p. 40 in
+  her office. **Figg's last letter (22 July)**: trunk from the fourth trip (bill
+  enclosed); "warm things and a good pair of boots"; swing photo in his inside
+  pocket; the gutters — "a doctor who keeps his promises to his aunt is the
+  only kind worth being"; **"He is kind"** (the full litany); asked whether to
+  ask the 400 in order or pick — "good, because he had been worried about being
+  rude"; the asking and the seal mentioned by name (unexplained). P.S.: strong
+  tea; the step question first; **"he would like… to have the whole thing."**
+  Dumbledore puts the 1989 letter in his inside pocket: "Yes. I rather think
+  he had better."
 
 # (v2 text follows for reference; chapter list from ch. 4 is superseded)
 

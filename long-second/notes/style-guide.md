@@ -126,3 +126,15 @@ established, names coined, dates, promises to the reader.
   differently does so because this Harry changed their incentives or information.
 - Mechanism secrecy: the world may learn he is a genius; nobody may learn about
   the 200× without it being earned on the page.
+
+## Two more habits (reader-caught, ch4–5)
+
+- **Logic-shaped sentences that don't hold.** "Nobody would read it. That was rather
+  the point. It was there anyway." — a paradox cadence standing in for a reason.
+  Every act Harry takes has a real reason that survives one "why?". If the real
+  reason is *another person* (the date on the door is for Petunia, who opens it),
+  say who. If there is no reason, cut the act.
+- **Dialogue that explains the obvious.** "It was only in my head, and nobody could
+  read my head." Characters say the half the listener needs; the reader has the
+  other half. Also: expert characters must say expert-true things (a Frege-sized
+  mistake is not one "half my first-years make").

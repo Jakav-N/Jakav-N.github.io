@@ -239,6 +239,30 @@
   5 Waste (the child at the kitchen table nobody sees); 6 **the curtain** (read
   the preamble again, then decide); 7 141 ("why you'd want the life"). Footer:
   the door faces outward — "it's the design."
+- **Ch. 13 (Finals)** — Feb–July 1989, age 8½–9. Lindqvist's lab: the fourth
+  decimal place from a 1974 footnote; Mrs Osei's eleven "not like that"s →
+  "Go on, then"; two-page paper **Lindqvist, Osei, Potter** (accepted May; Osei's
+  name in print for the first time: "My mother would have liked that"). Finals
+  pushed by Carrow ("if he fails them I shall eat the form"); registered and
+  backdated; the Dean. June 1989: eight three-hour papers (≈25 subjective days
+  each); **the doorstep sentence decompiled** from memory — a bracket that
+  *checks* temperature and gives exactly the difference, "written by somebody
+  who thought about what a cold child actually needed… not heat but
+  attention"; not in any book; **Dumbledore can listen** — "I had better find
+  out whether he can still do that." **Seven languages** (French, Latin, German,
+  Greek, Russian, Italian, Arabic begun); speaks four "like a very polite
+  newsreader from somewhere cold." Chess: Surrey adult champion April 1989 (bank
+  manager from Woking, England 1961); **stops competing** — will play/teach with
+  Mr Pole on Wednesdays "to keep the game." Results: **First, top of year**;
+  Carrow's eleventh question was whether he'd get bored. Registered 16 July for
+  a research degree on the 1979 problem — "Three years, it says. I expect you
+  to take two." **Degree ceremony 14 July 1989**: Petunia in a new hat, third
+  row, goes IN; Mr Haines in a tie; Mrs Prentice and Mrs Figg (cherry hat) with
+  simultaneous handkerchiefs; Lindqvist's citation 1 min 40; Carrow: "Page nine."
+  Press: BOY, 8, TAKES FIRST-CLASS DEGREE — YOUNGEST IN BRITISH HISTORY; the
+  Oxford girl "hoped he was enjoying himself" (kept). Petunia: "So did I. Don't
+  tell your uncle." 9th birthday stock-take (pad 34): "He listened once. Find
+  out who else can."
 
 # (v2 text follows for reference; chapter list from ch. 4 is superseded)
 

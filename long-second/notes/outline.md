@@ -446,4 +446,30 @@ method with people · "it answers caring" (ch. 5) as his method with magic.
   *company*: "one of two." Plan page dated **31 July 1991**; capabilities
   summarized; under "every day; look" he adds **"Faster."** Then OU at 1.10
   a.m. (the cell).
+- **Ch. 11 (Nine Papers)** — June–Sept 1989, age 8¾–9. Stonewall sports hall;
+  Mrs Okafor (deputy head) checks his number four times. Ninety minutes = 300
+  subjective hours: paper done in 28 min, then he fills twelve days from his
+  own head (pads chapter on roses-sentence ↔ group theory; the boy at the back
+  he can't mend — "limits"; talks to his mother). "The sports hall had been the
+  playpen. He wasn't afraid of it any more." Nine GCSEs: maths ×2 papers, three
+  sciences, Eng lang + lit, history, French (Teach Yourself + Radio 4 French
+  service), geography. Summer: Figg leaves books on the bench (Scotland
+  history, owl field guide, old road atlas folded at an empty stretch of the
+  north) — a wordless conversation. **9th birthday, 31 July 1989**: anonymous
+  parcel — blue lever fountain pen, "for the pads. E.P." Results Thursday
+  (late Aug): Rachel 7 GCSEs (sixth form); Marcus a C in maths ("Question
+  seven"; hand on Harry's head, "Cheers, mate"). Mr Haines kept the envelope
+  unopened since Monday; **nine A's**. Press: Advertiser Thu, three nationals
+  Sat — SURREY BOY, 9, PASSES NINE GCSEs — YOUNGEST EVER; "prodigy." Vernon
+  transfigured (tells Marge to take "bad blood" to the Daily Mail). **Petunia
+  keeps the cutting folded in her purse** (Harry sees at the greengrocer's
+  till; never mentions it). One interview (Telegraph, Mrs Bell's office,
+  declines TV): deliberately boring; planted line: thanks "Mrs Prentice at the
+  library, who held the door. And Mrs Figg, who minds me on Saturdays, and has
+  kept an eye on me for a very long time." **The trust**: Mr Pargeter
+  (Guildford solicitor) + partner Mrs Hale as trustees; anonymous client; pays
+  books, tuition, fees, "travel to and from any place of learning" to age 21;
+  Vernon can't touch it. Harry's theory: a man who was once an unseen boy at a
+  kitchen table. Figg had let slip in July that the hidden world has **a bank**.
+  Close: he won't wait for the letter to tell him where the shops are.
 - (append per chapter)

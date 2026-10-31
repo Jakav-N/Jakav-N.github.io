@@ -141,6 +141,31 @@
   place of learning"). Plan page: eleven marks and a bracket; six sentences;
   has never seen one of *their* books; will find the shop himself first, then
   ask. Eight hundred years. Faster.
+- **Ch. 9 (The Edge of the Map)** — Oct 1987, age 7. Tells Figg FIRST ("I'd
+  rather you were there"; she won't point). Saturday: buses 24/29/176; the
+  woman in emerald green; two hours in doorways; eleven people step in; the
+  filter is in *his* head; **declines it** → the Leaky Cauldron, in 2 h 11 min
+  (Tibbles had him at three hours). Figg has seen that pub since she was four;
+  "There isn't anybody it was built to stop who could *decline* it." "He'll
+  say no if I ask him." / "Then don't ask him. Tell him after." She spends the
+  **scone money** (30 galleons in a jam jar) and asks him to hold her hand
+  ("I am sixty-one and I have not been in there since my brother died"). The
+  wall needs a wand; they follow a family; he READS the wall ("Nobody reads it,
+  dear. They just knock"). Gringotts: **Bogrod** changes £112 (the whole toffee
+  tin) → 22 galleons 6 sickles 11 knuts; "Keep it inside your shirt." Flourish
+  and Blotts: reads every spine in 40 min; buys **Standard Spells Gr. 1–7,
+  Magical Theory (Waffling), A History of Magic, Hogwarts: A History, the
+  Prophet (6th-anniversary piece), and *On the Composition of Charms* (1911)** —
+  "The margins." Two galleons left. **The index** — "Potter, Harry — see also
+  Boy Who Lived, The" — read on a bench with Figg holding his mended hand; the
+  paragraph; wonders if the 200× came from the same place as the scar; "They
+  don't say he's dead… It isn't only *for* me. It's against something."; the
+  new shelf "when I am ready and not one day before"; "I'd rather have had the
+  page." Cries between the pub and the station. **Figg's letter**: "You would
+  have said no, so I did not ask"; bill itemised; "he READ the wall"; "I should
+  like you to sit with that"; P.S. he read all seven Standard Books on the way
+  home — "like being handed a dictionary for a language he has been reading off
+  roses."
 
 # (v2 text follows for reference; chapter list from ch. 4 is superseded)
 

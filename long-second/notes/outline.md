@@ -216,6 +216,29 @@
   (31 July 1988)**: E.P.'s blue lever fountain pen "for the pads" (pad 29);
   stock-take; "They shout. I can hold. Find out what that is worth." Three
   years.
+- **Ch. 12 (What Is Owed)** — Oct 1988–Jan 1989, age 8–8½. Two newspapers on
+  the blanket: Prophet p. 4 (St Mungo's funding dispute; a spine broken in
+  three places mended over a weekend, "of course") vs. Telegraph p. 7 (children's
+  hospital appeal; a girl of six with no hair; "spine"; "months"). The thin
+  green book ("the Australian") on the train — first page he ever stopped on.
+  Christmas week 1988 alone at Number Four (Figg in Deal, Dursleys at Marge's)
+  ≈ four years at the kitchen table: Day 1 obligation; Day 2 "you are eight" →
+  *where is the floor*; Day 3 the floor = the thing in him + the world that
+  knows how to use it; **"I DO NOT KNOW WHY"** (has read the Statute's preamble;
+  will not judge before knowing); Day 4: "Everything else is shoes." Figg,
+  January: St Mungo's does bones in an afternoon (Edgar's back, 1963) but **Amos
+  Figg died at St Mungo's in 1972 of "a thing in his blood" the Muggle side had
+  just named** — "we can mend what is broken; this was *wrong*"; the two sides
+  "have never once sat down at a table." **"Each side has half. Nobody has sat
+  them down. I have read both. I am the table."** Oxfam: £115 of £230 for the
+  children's hospital; keeps half ("I haven't got my shoes yet"); Mr Prentice
+  on saints. Carrow: maths is "for itself… occasionally for bridges"; "You'll
+  already be wet." / "I think I might already be." Pad 31 p. 60. **THE LIST —
+  Things Worth a Life (at 8)**: 1 learn what it IS, then carve; 2 sit the two
+  sides at a table — "Be the room"; 3 Death (for Amos, for the girl); 4 Pain;
+  5 Waste (the child at the kitchen table nobody sees); 6 **the curtain** (read
+  the preamble again, then decide); 7 141 ("why you'd want the life"). Footer:
+  the door faces outward — "it's the design."
 
 # (v2 text follows for reference; chapter list from ch. 4 is superseded)
 

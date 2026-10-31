@@ -687,6 +687,33 @@
   design turns over). Quirrell looked 12 s on Thursday; the door did not move.
   Pad: "The table is six people and a tin from a woman in Surrey."
 
+- **Ch. 29 (The Asking)** — Oct 1991. **The doorstep sentence cut into bronze
+  over nine evenings with Flitwick's graver** (older than Flitwick); the hook
+  must close by a hair ("*nearly* is a cold child in the next bed"); Hermione
+  reads the error off the bronze — first sentence read off a thing. The disc
+  **hums** — holds because it *is* the sentence; Flitwick: "You have made a new
+  rune. On a Thursday. With my graver." / "A sentence in a thing, in a language
+  with four speakers." Saturday: **the asking cast for the first time** (wand)
+  on a cracked common-room cup — returns a *map*: the known crack + a fired-
+  too-fast weakness under the glaze by the handle; Terry pours hot water; **a
+  second crack opens at eleven seconds exactly where the map said**. Padma:
+  "That's not a charm. That's—". **Flitwick's left wrist (1947 duel)**: the asking
+  finds the *cord*, not the bone — "forty-four years and nobody—". Harry insists
+  a Healer be in the room before any mending of a person; "I don't care whose
+  name is on it." Wednesday, hospital wing: **Madam Pomfrey** (31 years; 206
+  charms in the Healer's Compendium; "I do not care what you are. I care what is
+  wrong with the child in that bed") — consents to one question on **Cadwallader**
+  (Hufflepuff 2nd-yr, ulna break): the asking finds a **non-displaced radius
+  hairline an inch proximal** she didn't look for; she checks with two fingers
+  ("Ow") and a glow — **"I did not see it"** in front of the boy. Harry tells her
+  about page 91; she **knew the second name — a student here, 1962; she was a
+  trainee; "we were told it was the dose."** Wednesdays at eight: Hermione as
+  scribe ("somebody has to write it down who is not you"), Flitwick in a chair,
+  nothing cast without her hand on the bed — "when I say stop you will stop in
+  the middle of a mark." Two names copied in the round hand for her drawer.
+  Pad: "She said I did not see it… the bravest thing I have seen anyone do in
+  this castle, and I have seen a man admit a trap." Four weeks of the term gone.
+
 ## ACT II v3 — Year One (ch. 23–45), Sept 1991–July 1992
 
 Harry's state entering: doctorate; all seven grades + beyond on paper; the

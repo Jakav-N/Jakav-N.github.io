@@ -569,4 +569,38 @@ method with people · "it answers caring" (ch. 5) as his method with magic.
   anyone"**, Flourish and Blotts (books), the Prophet, **Diagon Alley**. Plan:
   July 1990, before the birthday, cap, all the far-side money, books only, home
   for tea. Petunia at the door seems to know; "Tea's at six."
+- **Ch. 16 (Flourish and Blotts)** — Third Saturday in July 1990, age 9 (turns
+  10 on the 31st). Dudley's 1987 football cap; £184 inside his shirt; tells
+  Petunia the truth ("The street. Books. Back for tea") — "Keep your money
+  inside your shirt." Leaky Cauldron: toothless barman (Tom, unnamed), Knight
+  Bus notice; follows a family (father, mother with list, two girls, one
+  hopping) into the yard; **watches the wall-sentence** brick by brick ("for
+  those who know the knock, a way" — "I could write that"). Diagon Alley:
+  owls, SELF-STIRRING cauldrons, broomstick window, boy with a toad; the street
+  hums "like a struck bell never allowed to stop." **Gringotts**: goblin guards'
+  contempt → kinship; exchange goblin counts twice to be insulting; **36
+  galleons, 14 sickles, 19 knuts** (17/29 rates); quill pauses when thanked —
+  "Keep it inside your shirt." Flourish and Blotts: books that rearrange, a
+  strapped book, furred biting books in a cage by the till (Figg's "some of
+  them bite"); reads every spine in ~40 min; buys **Standard Book of Spells
+  Gr. 1–3, Magical Theory (Waffling), A History of Magic, Hogwarts: A History,
+  a Daily Prophet** (piece on the 9th anniversary of You-Know-Who's fall;
+  Fudge era), and — the one book his eyes slid past — ***On the Composition of
+  Charms: Notes Towards a Grammar* (1911, anonymous)**: "a spell is a thing one
+  reads"; its author inferred the spine and pointing part at 1×, guessed the
+  bracket badly, "regrets that observation of the casting moment is beyond any
+  human faculty"; costs more than the rest together; assistant with inky
+  fingers: "Nobody's bought that… What did you want it for?" / "The margins."
+  Four galleons left. Bench outside the quill shop: index of A History of
+  Magic → **"Potter, Harry — see also Boy Who Lived, The"**; the entry (Godric's
+  Hollow, 31 Oct 1981, Lily née Evans & James, Killing Curse, scar, Voldemort
+  "whose name most… decline to speak"). First time he wonders whether the 200×
+  came from the same place as the scar. Books say *vanished*, not dead → the
+  roof, the sentry, Dumbledore's absence explained; new shelf: "things I will
+  deal with when I am ready and not one day before." The street bowed because
+  he was "the morning they woke up to." Dumbledore = "the only one he ever
+  feared"; Harry will ask him as a colleague — and hopes the answers are good.
+  Cries once, properly, between the pub and the platform. Home: a wedding
+  photo of Lily and James in one of the books; **Petunia kneels on the hall
+  carpet: "Show me."**
 - (append per chapter)

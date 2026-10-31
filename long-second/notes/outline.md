@@ -477,6 +477,145 @@
   have a view?" → "*Oh*." He decides she'll be first to learn the marks. "Are
   you nervous?" — first personal question from a peer. "Like the lights coming
   on. In a library. When you're already inside."
+- **Ch. 22 (The Hat) — ACT I CLOSE** — 1 Sept 1991 night. The castle is a
+  sentence in a place too big to read from a boat; he lets it pass through
+  him. McGonagall: "your house will be where you are judged first… and I should
+  like you to bear in mind that they will be wrong." Staff table read in four
+  seconds: **Flitwick** (bouncing delight; "a chair ready"), Sprout, Hooch,
+  **Quirrell — a face "held by two people who had not agreed how"** (filed
+  *later*, *look again*), **Snape — a shut door whose look went in like a
+  splinter and flinched at the thing Petunia flinched at over "eyes"** (filed
+  *later*, *her*), **Dumbledore** — the *allowed to see* look; one inch each way;
+  "Tomorrow at nine. The step first." The hat is a **sentence that thinks —
+  self-holding, kind; the cold's cousin that reads instead of eats** (Harry says
+  so; the hat: "I do not like it. But yes."). **Hermione sorted RAVENCLAW** after
+  41 seconds arguing (who wrote *Hogwarts: A History*? — "oh"). Neville
+  Gryffindor ("somebody else looked"); Draco Slytherin (one quick look back).
+  **"Oh. You're *fast*."** — the hat is the first mind that can keep up; "the
+  best Sorting since 1710"; sworn to secrecy and doesn't want to tell anyway.
+  Harry shows it the shelves (not all). **"There is something in here that isn't
+  yours."** — Harry found the cold grain at seven on the train home from the
+  index, put a door on it; **item nine**; hat: "you have done exactly right… Do
+  not open it alone… it will not be who you think." **"Does it hurt?"** — "Nobody
+  has ever asked me that… Once a year, for about an hour, it is the best thing
+  in the world. The rest of the time I sit on a shelf." Four cases; "the four
+  houses are four doors into the same building"; asks for the door with the
+  people who *chase* → **RAVENCLAW, 4 min 9 s**; "Come and see me. He keeps me
+  on a shelf." Ron Gryffindor; one hand raised an inch each. Dumbledore's four
+  words; Harry reads **fear for the rest of them, and gladness** under it. The
+  eagle riddle: he waits for Hermione (11 s). Midnight: **the List rewritten
+  (Hogwarts, 1 Sept 1991)** — 0 the step at nine; 1 the chair; 2 the table
+  (four chairs so far); 3 Death (start with the man with the letter); 4 Pain
+  (give the asking to the Healer with the transposed table); 5 Waste (several
+  in this hall); 6 the curtain (second question); 7 141 (a window on mountains;
+  a girl who argues with hats); 8 the cold (the hat's cousin; first seven
+  first); 9 — blank: "Not yet. Not alone. Trust the hat." Footer: "It was not the
+  price. It was the cupboard." First letter, **for the house**: "The flask was
+  still warm at York… Please leave the swing on the wall." The castle doesn't
+  tick; it *sings*.
+
+## ACT II v3 — Year One (ch. 23–45), Sept 1991–July 1992
+
+Harry's state entering: doctorate; all seven grades + beyond on paper; the
+Second Edition (412 pp.); can HOLD; wand used once (the shop light); 403
+questions in order; designs for the asking, the seal, the press; the blankets
+case; the cold on the List; item 9 behind a door; Quirrell's doubled face and
+Snape's flinch flagged; Flitwick's chair; Hermione to learn the marks first.
+
+23. **The Step** (2 Sept, 9 a.m.) — Dumbledore's office; the hat on its shelf
+    says good morning; the whole thing: the 1989 letter handed over and read
+    in the room; the three reasons; Harry's answer (not absolution — a
+    colleague's account). Then **the roof, whole**: Lily's sacrifice; the
+    blood-bracket explained as far as Dumbledore knows (Harry had it nearly
+    right); Voldemort not dead — a wraith somewhere; the roof is *against*.
+    Harry does NOT disclose item 9 (hat's advice). Question two: **the
+    blankets** — "Bring me a case I can put to the Wizengamot. Not an argument.
+    A case." Harry: "Give me a term." Weekly hour agreed ("a colleague who is
+    eleven"). Harry's parting line: "There's something wrong with Professor
+    Quirrell's face. Two people are holding it." Dumbledore goes very still.
+24. **The Chair** — first Charms lesson: the feather *holds station*; Flitwick's
+    face; the class; afterwards Harry shows him page one of the Second Edition;
+    Flitwick can't read the marks but knows Blishwick's spine; **weekly seminar
+    begins**, Hermione included at Harry's insistence; "Teach me to read it."
+    Flitwick on petitionary magic. Harry casts, for the first time with a wand
+    in front of a witness, a composed sentence: a Lumos with a dimmer.
+25. **Two Brackets** — McGonagall's transfiguration: match → needle → match
+    on request; her theory lessons become two-way; the compact: ordinary in
+    class, the other thing in seminar; "I will not have you bore my first-years
+    by being perfect at them." She tells him about his parents in her classroom.
+26. **The Shut Door** — Potions: Snape's ambush answered with total
+    preparation (incl. the transposed table); Snape's confusion at impenetrable
+    courtesy; Harry's deduction: the "awful boy from the bad end of town" +
+    the flinch at his eyes = **Snape knew Lily**; files it; says nothing yet.
+27. **Two People Holding It** — weeks of watching Quirrell at 200×: two
+    sets of micro-expressions, the turban, the smell; the third-floor corridor;
+    Harry brings Dumbledore the case; Dumbledore tells him the truth about the
+    Stone and the bait; **their first real disagreement**: Harry objects to a
+    school used as a trap. They agree to watch; Harry is not to go near it.
+28. **The Workshop** — Hermione taught the marks (the scene of her reading her
+    first sentence off the page and *seeing* it); Padma, Terry Boot, Neville
+    (cross-house), Penelope Clearwater as prefect cover; Flitwick finds the
+    room. Ron joins late and brings the Cannons.
+29. **The Asking** — first cast with a wand (Flitwick's seminar; a cracked
+    cup; then Flitwick's old wrist) → a *map* of what's wrong; **Madam Pomfrey**
+    recruited by results (a student's wrist; the asking reports one thing she
+    didn't know). Healing thread begins; the names in the back of the List.
+30. **Brooms** — flying as sentences in things; Harry reads the Snitch's
+    sentence; he's good (the mind); joins Ravenclaw as Seeker for one reason:
+    "some of it is why you'd want the life." Draco's challenge handled sideways;
+    the biscuit finally mentioned.
+31. **Interlude: The Staff Room** — Flitwick, McGonagall, Sprout, Snape,
+    Quirrell; "the doctor"; Snape's view; Dumbledore listening.
+32. **Hallowe'en** — the troll: Harry is never out of position (he read the
+    corridor); Hermione and Neville become *sworn*; Quirrell's faint read as
+    false; Snape's leg; Harry notes who went where.
+33. **The Seal** — the first press prototype (a bronze disc; Flitwick,
+    Hermione, Harry); Lumos pressed into pebbles — ragged, then clean; the
+    first *doorstep blanket* pressed; it goes to **Arabella Figg for Christmas**
+    (a wizarding household — allowed); her letter back.
+34. **Spinner's End** — Harry asks McGonagall about the awful boy; then the
+    front door: asks Snape, after class, whether he knew Lily Evans at
+    Spinner's End. Snape's reaction; a frozen détente; the look changes.
+35. **The Mirror** — Christmas at Hogwarts (letters home; Petunia's reply "for
+    the house"); the Mirror of Erised read as a desire-bracket; what he sees
+    (his parents, and a table with every chair full); Dumbledore's
+    conversation; Harry refuses to be bait, in so many words.
+36. **Hermione Casts** — the first person in history to cast a sentence
+    composed from the grammar who is not Harry; a small thing (a warmth that
+    checks); Flitwick weeps; the Workshop becomes real.
+37. **Hagrid** — the hut, the kindness, the egg; no dumb decisions: Norbert
+    goes to Charlie Weasley openly via Dumbledore; Hagrid's grief and Harry's
+    sideways door (he asks about the motorbike).
+38. **The Grain** — the asking cast on Quirrell at a distance with Dumbledore's
+    permission → two patterns, one of them cold; Dumbledore names what
+    Voldemort is now; **Harry recognises the grain behind his own door as the
+    same stuff**; tells no one yet; the hat's "not who you think."
+39. **Interlude: Arabella's Blanket** — Figg's letter; Dumbledore drafts the
+    Wizengamot case; Lucius Malfoy hears of it.
+40. **The Night He Moves** — Harry deduces the night from Quirrell's patterns;
+    the Ministry letter that calls Dumbledore away is the trap; Harry says so;
+    Dumbledore goes anyway (sure). Harry does not go down the trapdoor: he
+    takes the case to McGonagall and Flitwick, who believe him; Flitwick and
+    Harry (and McGonagall) go down together; the Mirror; Quirrellmort; the
+    wraith leaves and Harry *reads it go* — and it is his grain's brother.
+41. **The Whole Thing, Part Two** — Dumbledore returns; admits the trap;
+    Harry's anger (lighter); the Stone back to the Flamels with a letter via
+    Dumbledore → the death-research correspondence begins (adult-mediated);
+    Harry tells Dumbledore about item 9. Dumbledore already suspected. "Not
+    alone." Who: not who he thinks.
+42. **As It Stands** — the Wizengamot hearing on the twelfth amendment; Harry
+    testifies (formal, public); Lucius opposes; outcome: a limited pilot —
+    charmed goods to Muggle institutions under Ministry seal if indistinguish-
+    able from mundane; a crack in the curtain; the Prophet.
+43. **Examinations** (comedy) — top of year; the Workshop's summer plan; Draco
+    at last: the biscuit conversation on the last night.
+44. **Interlude: Snape** — Snape's POV on the eyes, the question at Spinner's
+    End, the Healing table, and a boy who said thank you.
+45. **The Roof** — home; the garden with Figg and the new tin, telling her
+    everything; the first blankets to a children's ward under seal; the List
+    rewritten. ACT II CLOSE.
+
+# (v2 text follows for reference; chapter list from ch. 4 is superseded)
 
 # (v2 text follows for reference; chapter list from ch. 4 is superseded)
 

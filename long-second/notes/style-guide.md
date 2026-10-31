@@ -138,3 +138,6 @@ established, names coined, dates, promises to the reader.
   read my head." Characters say the half the listener needs; the reader has the
   other half. Also: expert characters must say expert-true things (a Frege-sized
   mistake is not one "half my first-years make").
+- **The quip.** "Nobody said the eye had to be kept in Little Whinging." A sitcom
+  button on the end of a speech. Figg, Carrow, McGonagall are dry, not witty-on-cue.
+  Let them say the plain thing and stop.

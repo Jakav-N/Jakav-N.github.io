@@ -634,6 +634,37 @@
   a voice she'd never heard — "not an unkind voice." Pad: "He looks at her.
   Everyone else looks at the morning they woke up to."
 
+- **Ch. 27 (Two People Holding It)** — Fri 13–Sat 21 Sept 1991. DADA: the
+  stutter is real; the other thing "used the face… the way you might use a
+  window," no stutter because not afraid — except perhaps of him. **Fri 9.14:
+  the second face rests on Harry for thirty of his seconds; it knows him "the
+  way the instrument knows me and it is not glad"; THE GRAIN BEHIND HIS DOOR
+  MOVES for the first time in four years** ("like a thing that has heard its
+  name said in another room"); the door holds. He wants, physically, to tell
+  Hermione — can't; tells her *that there is a thing* ("a shape where a thing
+  should be"); she: "I'd rather be told there's a door… tell him that if he's
+  going to have you not-tell me things, he'd better have good ones. Because I
+  catch." Thursday: **"Voldemort."** Quirrell's Albanian sabbatical; the vault
+  broken into on 31 July while Harry was depositing one galleon; the thing now
+  on the third floor **on purpose, as bait** ("so that the thing in Quirrell's
+  face would know where it was"). **Harry's fresh anger** — a trap made of a
+  school with 280 children. Dumbledore's reasoning: a wraith driven out finds
+  something worse (forest 1983 → mountain 1986 → Albania); this plan *pins* it;
+  "it has never once in its life been wasteful… I am relying on it." Harry: "I
+  don't agree… *sure* is the fear kind wearing a better coat… you said *I have
+  decided to be sure* and not *I am sure*." **Three things**: (1) his word never
+  to go near the third floor (the list of people he's given it to: McGonagall,
+  Petunia); (2) report everything the thing does when it looks at him; (3)
+  **Flitwick knows** — "one person in this castle with a chair ready who isn't
+  sure." Dumbledore agrees to all three: "I had not noticed it was a coat."
+  Harry does NOT tell him the door moved; decides the hat's "not who you think"
+  means *not Dumbledore*. Flitwick helped move the Stone ("for safekeeping");
+  **"if the face ever does a thing you have not seen… go to Minerva… the
+  Headmaster… and if he is not in his you will go to *Severus*… he knows what
+  that face is from the inside."** Hermione reads the first mark aloud and gets
+  it right — "two and a half" speakers. Pad: "the only answer I have ever had to
+  a thing I could not stop was to build something else beside it."
+
 ## ACT II v3 — Year One (ch. 23–45), Sept 1991–July 1992
 
 Harry's state entering: doctorate; all seven grades + beyond on paper; the

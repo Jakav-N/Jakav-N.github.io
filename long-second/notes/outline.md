@@ -496,4 +496,29 @@ method with people · "it answers caring" (ch. 5) as his method with magic.
   A-levels (maths, further maths, physics, chemistry) are a formality to be sat
   June 1990. Figg, November: the school's library is "the biggest there is…
   Some of them bite." Twenty months to go.
+- **Ch. 13 (What Is Owed)** — Jan–Feb 1990, age 9½. Mrs Oduya stops coming;
+  her husband (stroke, 18 months in "the General") died just after New Year;
+  she's gone to her daughter's in Leicester. Harry never followed the warming
+  to its end — "a question with its hand up: *What are you for?*" Royal
+  Holloway philosophy shelf: the thin green-bound essay (Singer, unnamed:
+  "the Australian") — the child in the pond; first page he ever *stopped* on.
+  February half-term, raining, a week ≈ four subjective years, argued in
+  English in its own pad. Day 1 obligation (can't get out from under). Day 2
+  objection ("you are nine") → reframe to *where is the floor*. Day 3 the
+  answer: the thing in him + the hidden world that knows how to use it (a
+  school, a library, and — Figg let slip in October — **a hospital**) vs. a man
+  dying in the General. "I DO NOT KNOW WHY" (in capitals) — find out before
+  judging; if the curtain is comfort/habit/fear, spend 200 years per year
+  pulling it down. "Everything else is shoes." Gives **half** the toffee tin
+  (£106 of £212; chess envelopes now coming in) to the Oxfam shop for the
+  famine, with Mrs Prentice; keeps half for the far side ("I haven't got my
+  shoes yet"). Mr Prentice on saints. Carrow on what maths is for ("for itself;
+  occasionally for bridges"); her Singer story at twenty; "You put your weight
+  where you've got weight… you'll already be wet." / "I think I might already
+  be." Pad 19, p. 60, dropped sign. **THE LIST — "Things Worth a Life"** (its own
+  pad, blue pen): 1 Learn what the thing IS; 2 what it can mend and why the
+  curtain; 3 **Death** (for the hat in Leicester); 4 Pain (Figg's forty years);
+  5 Waste (the child at the kitchen table nobody sees); 6 141 (not a duty —
+  "why you'd want the life"). Footer: "The door faces outward… it's the design.
+  Keep it that way." Close: thinking about where the shops were.
 - (append per chapter)

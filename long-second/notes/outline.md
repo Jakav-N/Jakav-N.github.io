@@ -37,6 +37,20 @@
 
 ## v3 continuity ledger (authoritative from ch. 4)
 
+> **Revision pass (reader feedback, mid-Act II):** He does not write for
+> himself (see style guide). Consequences for continuity: there is NO blue
+> notebook, NO private alphabet, NO Programme-on-paper, NO nightly pad entries
+> for his own use. From ch. 6 the grammar is *mental*: he names the parts
+> (pointing, pushing, the bracket; the "looking" part of mending) and composes
+> sentences in his head. The **written marks** (form-notation as a script) are
+> invented only when he first writes for others — the Second Edition (ch. 15),
+> "begun from where Blishwick stopped, for whoever comes after" — and the
+> carving in ch. 29 uses those marks. Earlier ledger entries below that mention
+> the blue notebook/marks before ch. 15 are superseded by this note; chapters
+> are being revised in order (ch. 2–6 done).
+
+## v3 continuity ledger (authoritative from ch. 4)
+
 - **Ch. 4 (The Week)** — Feb–Mar 1986, age 5½–5¾. Petunia's one-week cupboard
   confinement after the hair ≈ four subjective years. Day 1: the hair. Day 2:
   "Why am I hiding?" — "be small" was written for one woman in one kitchen and

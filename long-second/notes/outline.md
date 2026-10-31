@@ -422,4 +422,28 @@ method with people · "it answers caring" (ch. 5) as his method with magic.
   cutting's margin in green ink: *M.M. said so first, Oct. '88.* Dumbledore's
   reply adds: "If he asks you what you are, tell him the truth. I suspect he
   already knows." Figg: "Well. He heard that much." The good tin comes down.
+- **Ch. 10 (Real Work)** — Jan–June 1989, age 8½–8¾. **Mrs Oduya** (bus stop,
+  cherry hat, hospital Tue/Thu, cold flask): 4 Jan 1989 — first effect from
+  *constructed* purpose ("stopped asking what was wrong, started asking what
+  was *for*"); "the thing in him answered to the front door now, if you knocked
+  properly." February: learns to stand back and *watch* the answering pass
+  (roses at Number Six); it has a SHAPE — an ordered sentence in an unheard
+  language: a pointing part (about-this), a pushing part (make-it-so), a
+  bracket for "what the thing is for." **The blue notebook** = form-notation
+  born; mending has an extra part that "goes looking before it pushes."
+  "It has *parts*." Easter: **the pencil** moves an inch (purpose: *this is for
+  learning the language* — true all the way down); sending costs, unlike
+  mending — real fatigue; tells the dream-mother "I moved a pencil." 2 June:
+  **the candle** (birthday stub, saucer) — a different bracket (a happening,
+  not a thing). Self-directed fails again (short sight; keeps glasses): "the
+  shape of the door is outward." Last Saturday in June, Figg's garden: "Mrs
+  Figg, what are you?" — Dumbledore's permission honoured. She gives: the word
+  **magic**; witches and wizards; a hidden world behind a curtain with streets,
+  shops, newspapers; she is a **squib** (two brothers could; she couldn't);
+  a school in Scotland; **the letter comes on his eleventh birthday**; his
+  parents went there, "your mum especially"; what happened to them is not hers
+  to tell. No names given (not Dumbledore, not Hogwarts). Harry feels
+  *company*: "one of two." Plan page dated **31 July 1991**; capabilities
+  summarized; under "every day; look" he adds **"Faster."** Then OU at 1.10
+  a.m. (the cell).
 - (append per chapter)

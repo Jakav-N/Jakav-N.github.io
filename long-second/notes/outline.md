@@ -514,6 +514,41 @@
   still warm at York… Please leave the swing on the wall." The castle doesn't
   tick; it *sings*.
 
+- **Ch. 23 (The Step)** — 2 Sept 1991, 9 a.m. The gargoyle has a listening
+  part; the stair's sentence is "somebody's idea of a joke in about 1400."
+  **The instruments are a hundred self-holding sentences, all *watching*.**
+  Flitwick's 1971 chair borrowed; the tea very strong. The hat on its shelf:
+  "Good morning, cousin… he keeps telling me to hush." Fawkes puts his head down.
+  Question one asked "so that it's on record." **The 1989 letter**, carried
+  (soft corners), handed over; read twice, slowly, in the room. Harry: "the
+  third reason isn't a wizard's reason. It's a person's" — he can't use the
+  anger ("I had it ready since I was four, in a drawer"). **Not forgiveness**
+  ("it was done to a baby, and the baby isn't here; I am") — a colleague's
+  account of the cost: the cupboard (chosen), ten years of Petunia's fear, the
+  charm and the roof unread for years, and above all **"the silence after it…
+  You could have *asked* me. At seven."** Dumbledore: "I have agreed with
+  perhaps four of them." Harry thanks him for the warming charm ("the first
+  sentence I ever heard was one of yours, and it listened"). **The handkerchief
+  — Dumbledore laughs.** Question two: **the roof** — Lily's sacrifice as a
+  sentence "written in the only ink that cannot be bought": *this one is paid
+  for*; Dumbledore anchored it, didn't write it: **"the wall is mine and the
+  spring is hers"**; the unreadable blood-bracket is the spring; **Lily asked
+  and the world said yes** — "neither of us ever once saw her *shout*."
+  Voldemort a wraith, waiting, will return; the roof and the sentry are
+  *against*. **The small silver instrument on the end, turning clockwise,
+  since autumn 1981: *is he still there*** — "That one I'll forgive you for."
+  / "the first instalment." Harry does NOT disclose item 9 (hat's counsel; the
+  hundred eyes would turn). Question three, the blankets: **"Bring me the case…
+  Build the thing. Press the charm. Show me a blanket. Give me a Muggle who was
+  warm. Then I shall take it to the Wizengamot, and I shall lose, the first
+  time."** / **"Give me a term."** Resources: Flitwick, Pomfrey ("ask her
+  properly"), Hermione in every room. **Thursdays at four** (kept from Carrow).
+  Parting: "There's something wrong with Professor Quirrell's face… two people
+  holding it… the second one isn't a fear. It's a *person*. And it's cold." The
+  instruments go still; Dumbledore goes *old*: "Sit down again. I think we had
+  better move Thursday to now." Hat: "He has been pretending not to see that
+  for a fortnight."
+
 ## ACT II v3 — Year One (ch. 23–45), Sept 1991–July 1992
 
 Harry's state entering: doctorate; all seven grades + beyond on paper; the

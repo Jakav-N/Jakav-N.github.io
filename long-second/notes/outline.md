@@ -352,4 +352,57 @@ method with people · "it answers caring" (ch. 5) as his method with magic.
   1742; the edge of the map; "there is room"; notebook page "141" = seed of the
   List. Dudley's tables taught sideways; **the front-door law**. *(Revision
   pending: raise the maths; add the daily-magic thread.)*
+- **Ch. 6 (revised)** — Maths raised: he has rebuilt arithmetic/number theory
+  alone under the stairs ("city from a tourist map"); knows the prime-count
+  estimate (found later under "a dead Frenchman's name"), the sieve and
+  sharpenings; his Goldbach attempt shows the average-vs-every-case gap ("on
+  average was the marsh"); four pages of real work. Winter 1987–88 daily
+  practice added: Snowy's ear, Mr Paws's eye, Tufty's limp (Figg watching,
+  silent, biscuits escalating to Fortnum's); Number Six's frost-killed rose
+  regrown; Mrs Prentice's Silver-Jubilee teapot crack gone ("Hm"). The
+  hinge loosens — he can now *find* caring on purpose. Still nothing for
+  wanting; nothing for himself (cold feet test: "that isn't what I'm for").
+- **Ch. 7 (The Audit, 4,440 w)** — Spring 1988, age 7¾. Sunday-paper feature:
+  a girl who went up to Oxford at 12 (unnamed). Harry is *angry* — at
+  himself. Night-long audit (≈ a subjective year): "be small" was right at 2,
+  wrong since ~5; costs counted; running away examined and rejected (children's
+  homes = Privet Drive minus the library); decision: **outgrow**; be small in
+  ONE room (Petunia's kitchen), full-size everywhere else. **The five-part
+  plan** (in English, at the back of the notebook): 1 be seen/tested; 2 make
+  it Vernon's idea; 3 one true sentence to Petunia; 4 magic every day, write
+  the shape; 5 Open University on BBC2. Mrs Prentice: "What took you so
+  long?"; her late husband's OU course books (boxes, nine years in the spare
+  room) → returns cupboard. Mrs Bell (head; "Potter — no fuss" drawer;
+  Prosser's note: "He chose to stop. Watch for the day he chooses not to.").
+  Vernon's letter on the good paper; Petunia at the sink: "Being good at
+  school isn't the other thing. I promise you it isn't." → she asks Vernon to
+  ring Marge. **Mrs Figg's hands** mended (two bent fingers on the right; she
+  had always poured with the left); it came "like a tide" when he minded about
+  a *person*; her warning: "You be careful who you show that to." / "That's
+  why I showed you." First OU broadcast: M203 Unit 7, Groups, 1.05 a.m., sound
+  at two; the Radio Times page pinned inside the cupboard door. "He was going
+  to go and get it."
+- **Ch. 8 (Open University)** — Spring–autumn 1988. Mr Dyer (county, the big
+  folder) stands in the corridor to breathe; "Why now?" → the girl at Oxford.
+  Meeting: Mrs Bell, Mr Dyer, Mrs Achebe (county senior, pen-clicker; two
+  clicks = yes), Vernon in the funeral suit, Petunia silent with hands in lap.
+  Plan: Sept 1988 to Stonewall High for maths/sciences with the fourth years;
+  exams "summer after next" (→ GCSEs 1989 at 8); county tutor weekly; Harry's
+  one sentence: "I'd like the library at the secondary as well." Mr Prentice's
+  margins (*Surely not*, *Lovely*, *Ask R.*, *Enough for one night*) — read
+  before the text. OU nights on the lounge carpet, sound at two, ~4 hrs sleep;
+  wrong TWICE that spring vs. the lecturers — "the two best nights of the
+  year"; wants people who can do that to him on purpose. Begins writing his
+  mathematics in English on A4 pads for readers who aren't him (11 pads by
+  autumn; shown to no one yet). Stonewall High: Mr Haines (physics, wet-
+  pavement cardigan, master of teaching *against* misunderstandings); Marcus
+  (calculator; lunch), Rachel (corridor escort), the herd; Ben (sixth-former
+  "supervising" the library till five). Twenty thousand books; the hunger
+  finally quieter than the input. Chess: Mr Pole (beaten in 19, then 26);
+  county under-11s in Guildford, 11/11; Tristan (10) — the first mind that
+  *hunted* him; "that was the best game I've ever had." *Surrey Advertiser*:
+  LITTLE WHINGING BOY, 8, IS COUNTY CHESS CHAMPION; Vernon, 43, "the family had
+  always encouraged him"; six copies; **Harry's photo framed in the lounge**.
+  Figg takes her copy in with her right hand → goes in to write a letter.
+  Five-part plan: four ticks; line 5 ("look") never gets one.
 - (append per chapter)

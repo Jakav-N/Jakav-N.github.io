@@ -549,6 +549,36 @@
   better move Thursday to now." Hat: "He has been pretending not to see that
   for a fortnight."
 
+- **Ch. 24 (The Chair)** — Wed 4 Sept 1991. Inside cover of pad 47: the three
+  things agreed — Dumbledore had seen Quirrell's face a fortnight ago and set
+  two eyes on it; Harry to WATCH, not approach, report Thursdays; Dumbledore
+  withholds his guess for a fortnight ("the same silence" — "put it on the
+  record"). First Charms: Flitwick on a stack of books, 41 years, "never once
+  been bored"; Lumos first, no register; Padma a spark, Terry Boot (chair with a
+  leg) a flicker, **Hermione a real light — and holds it steadier on the second
+  go by *watching* Harry**. Harry watches her instead of casting ("I've never
+  seen anyone do it for the first time"). Warns the class it may not be sparks.
+  **Steady white point, then THE DIMMER** — turns the pushing part down to a
+  cigarette-glow and back ("written when I was seven, on paper, in a cupboard…
+  a light you couldn't turn down was only half a light"). Terry: "That isn't in
+  the book." Flitwick: "I think I should like to sit down." / "There's a chair,
+  sir." Flitwick's office: the Second Edition's first page — he can't read it
+  but puts a finger on the spine: **"That's Blishwick."** Harry: teach him and
+  Hermione to *read* it (a year; "the seeing can't be taught, or not yet; the
+  reading can, like Greek without Athens"). Flitwick wrote to the Dept. of
+  Mysteries at 22 — "the question was not well-formed" — kept the letter sixty
+  years, will burn it tonight. **Saturdays at nine, Flitwick's office, Hermione
+  at every session.** "Is it a prayer?" — "No. A prayer doesn't expect an answer
+  you can check… it's more like a *proof*." "You're all shouting down a
+  telephone with your eyes shut… about forty of them have a dimmer nobody's
+  found." Landing with mountains: **Hermione *catches*** ("if I stand in rooms
+  and hold things steady, some of them start holding steady without knowing
+  why… that's how it spreads. Not the tin. The watching. The tin is for
+  after."). "That's why you want me in every room." / "Both." Being bad at
+  Transfiguration on purpose = "the hardest thing I do this week." Pad: "a
+  very small man in a chair who has just been shown the sea." Petunia's reply:
+  "The swing is on the wall… — P.D." + "I am glad the flask was still warm."
+
 ## ACT II v3 — Year One (ch. 23–45), Sept 1991–July 1992
 
 Harry's state entering: doctorate; all seven grades + beyond on paper; the

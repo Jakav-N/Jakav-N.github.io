@@ -418,6 +418,38 @@
   kind (the galleon, the bow, the owl, the shelf); the blankets question
   reported; the steady light; Dumbledore: "I had not finished underestimating
   it"; the 1989 letter is in his pocket. "*Albus*."
+- **Ch. 20 (Sixteen Years of August)** — Aug 1991. **Decision: the wand stays
+  on the hook** for 31 days (Decree + the roof + his promise to McGonagall).
+  Learns what a wand IS by holding it unused for sixteen subjective years: not a
+  telephone — **"this *edits*"**: it sands a ragged sentence on the way through
+  according to its grain; for a mind that needs no sanding, the whole grain
+  goes into carrying → "the first sentence of its kind since the first
+  wizards"; "Flitwick is going to need a chair." 9 Aug: **first owl post** — the
+  Trace theory to McGonagall (the Trace watches for the shout; he won't test
+  it); reply in green ink on the back of his own page: "correct… nobody at the
+  Ministry has ever met a wizard who did not shout. Do not test it… [Flitwick]
+  has a chair ready." Goodbyes: **Mr Pole** — Harry loses on purpose at move
+  34 ("never seen a man throw a knight with that much *love*"); **Mrs Osei**
+  gives a brass instrument from a 1950s drawer ("you never know what you'll
+  want to measure"); Lindqvist: "I shan't [act surprised]"; **Carrow** — the
+  1979 offprint (eleven pages again); "You were the only one who ever made me
+  *better*"; **a stick of chalk from the back of the door** for "the first time
+  you see a thing nobody else in the room can see"; the comma on p. 90 was
+  right. **Mrs Prentice** — the seven is *farewell*; "I knew in a second…
+  somebody's got to hold the door… and you held it back"; **Mr Prentice's
+  pencil stub** (knife-sharpened, teeth marks) kept in the tin since 1986;
+  "The stamps are on me. They always were"; "Oh, get on." **Mr Haines** — the
+  boy who went up north finally wrote after thirty years; the brass instrument
+  identified ("I haven't seen one since 1958"); write by 1 October. **Figg** —
+  the garden: "you held the door from two streets away so I wouldn't see your
+  hand on it"; "a boy of three walked past my gate holding a shopping basket
+  with both arms… I never once minded after that"; **the Forth Bridge tin,
+  full, for the train — "give them the good ones first; it's how you tell
+  who's worth keeping"**; the summers "for *me*." Tibbles (14) signs the form.
+  **Petunia stands in the cupboard doorway** for the first time in eight years:
+  "It's a *study*"; he keeps the cupboard; the swing and the date stay on the
+  wall; sandwiches and a flask; "get some sleep." Last stock-take (pad 47):
+  "Then the step. Then the blankets. Then the cold. Then everything else."
 
 # (v2 text follows for reference; chapter list from ch. 4 is superseded)
 

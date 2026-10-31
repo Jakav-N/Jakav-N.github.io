@@ -141,3 +141,8 @@ established, names coined, dates, promises to the reader.
 - **The quip.** "Nobody said the eye had to be kept in Little Whinging." A sitcom
   button on the end of a speech. Figg, Carrow, McGonagall are dry, not witty-on-cue.
   Let them say the plain thing and stop.
+- **The caption-simile.** "with the face of a woman watching a very good programme
+  in a language she didn't speak" / "in the voice of a man reading his own death
+  warrant to check the spelling" / "and meant it." Captions on people. Describe
+  what they did; let the reader supply the face. Cut from ch4–8; ~20 remain in
+  ch13–30 — trim on sight.

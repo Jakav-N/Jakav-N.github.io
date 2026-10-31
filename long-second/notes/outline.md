@@ -579,6 +579,33 @@
   very small man in a chair who has just been shown the sea." Petunia's reply:
   "The swing is on the wall… — P.D." + "I am glad the flask was still warm."
 
+- **Ch. 25 (Two Brackets)** — Wed 4 Sept (Transfiguration, 2 p.m.) & Tue 10
+  Sept 1991. The pig/desk read as it goes by — McGonagall holds both brackets
+  for a quarter-second and doesn't know it. **Four honest failures**: the wand
+  *carries* and does not *check* — he can send "a third of the way and stop"
+  (the asking never allowed that): "the first time I have ever been able to be
+  bad at something honestly." **"That is a very good imitation of a first-year…
+  Do it properly."** Match → needle → match → needle, four times; "I don't know
+  why the book says you can't go back… I watched you do it with the pig." Her
+  mouth moves at one corner. Compact: help, don't transfigure, in class;
+  **Tuesdays at six in her office**, "where I can be as rude back as I please."
+  Terry Boot: "look at the match, not the wand" → silver → "*Oh*" (two of 25).
+  Tuesday: **the wand does not ask** — "why wizards can do things they don't
+  mean… the most dangerous thing about them… I'm already a little afraid of it,
+  in a way I was never once afraid of a cat"; the first wizards were afraid,
+  then "somebody made a stick that sanded the fear off." **The 1971 class
+  photograph**: Lily (second row, chin up) turned her match to a needle in 20
+  min and *back*, was told it couldn't be done, said **"oh"**, never did it in
+  class again; James turned a chair leg into a snake in week two and took the
+  detention as a compliment — "the two halves of what I have spent my life
+  trying to teach." Harry: "She asked; he sent. I have both." McGonagall: she'd
+  taught two children who between them could have done the steady light, "and
+  they had not lived to find out." "I have never in my life been anyone's
+  Hungarian trap… I should like to try." Till 8.30. Hermione asks to come
+  Tuesdays — "No… Give her a term. She'll ask." "Have you read me?" / "Some.
+  Enough to know you'd ask that." Pad: "I came here with one photograph. I
+  have two."
+
 ## ACT II v3 — Year One (ch. 23–45), Sept 1991–July 1992
 
 Harry's state entering: doctorate; all seven grades + beyond on paper; the

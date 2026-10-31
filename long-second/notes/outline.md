@@ -119,6 +119,28 @@
   wands — tell him I do not know, and that I should very much like to." Figg:
   "I don't think I've ever had him ask *me* a question." Good tin nearly empty;
   "another tin."
+- **Ch. 8 (Fifteen Papers)** — Apr–Sept 1987, age 6¾–7. **Mr Bellamy** (four
+  exam boards; youngest candidate on record was 11): "The regulations say *any
+  person*. I'm a person." Mrs Bell: "He has been holding one longer than most
+  of your examiners." June 1987, Stonewall sports hall, external candidate;
+  **Mrs Okafor** (deputy head); **Mr Haines** (physics, wet-pavement cardigan,
+  29 years) invigilates; twelve-day sittings (colouring overlap seen on day
+  one; the boy at the back = "limits"; talks to his mother); "The sports hall
+  had been the playpen." Question six's diagram wrong — "Put your hand up. I'll
+  come over"; two more board errors found. **The colouring floor**, Thursday
+  after the maths paper, on the back of Carrow's door ("That's the Hungarian
+  trap, Potter"; "We go *under*… the overlap is the thing we count"; "Four
+  years"; she laughs — tally starts). Paper to go off in October: *Carrow and
+  Potter* (alphabetical). Results: **ten GCSEs + five A-levels, all top grade,
+  at 7** (he turned 7 on 31 July). Press: BOY, 7, SITS FIFTEEN EXAMS; four
+  nationals; "prodigy." Vernon tells Marge to take bad blood to the Daily
+  Mail. **Petunia keeps the cutting in her purse.** One boring Telegraph
+  interview; planted line thanks "Mrs Prentice… who held the door. And Mrs
+  Figg, who takes me on the train." **Pargeter trust** (Guildford; trustees
+  Pargeter & Mrs Hale; anonymous client; to age 21; "travel to and from any
+  place of learning"). Plan page: eleven marks and a bracket; six sentences;
+  has never seen one of *their* books; will find the shop himself first, then
+  ask. Eight hundred years. Faster.
 
 # (v2 text follows for reference; chapter list from ch. 4 is superseded)
 

@@ -450,6 +450,33 @@
   "It's a *study*"; he keeps the cupboard; the swing and the date stay on the
   wall; sandwiches and a flask; "get some sleep." Last stock-take (pad 47):
   "Then the step. Then the blankets. Then the cold. Then everything else."
+- **Ch. 21 (Platform)** — 1 Sept 1991. Vernon drives (traffic for the Rotary);
+  Dudley doesn't elbow him once. King's Cross: the pillar's hand declined — the
+  brick itself is the second half of the sentence. Petunia can't come through
+  ("Mum and Dad stood where I'm standing"); the flask; **"Write to the house.
+  Not to him."**; "For the roof." **Dudley gives him the football cap** — he knew
+  about all four trips, kept it in the drawer, told no one for four years;
+  "Course I knew. It's my *cap*." Harry doesn't look back (Egham steps). Back
+  compartment; the twins help with the trunk and don't stare (*decent*). Reads
+  the platform: the Weasley knot; **Lucius Malfoy's look** ("knows exactly who I
+  am and has thought about what to do with that"); Hermione's parents (dentists
+  or accountants, "the way Petunia looked at the pillar"); Neville & Trevor.
+  **Neville**: Trevor tracked by observation to behind the lavatory pipe at
+  11.16; "I've been the toad"; Trevor warms in the Forth Bridge tin. **Ron**:
+  looks back at his face deliberately (*decent*); the Cannons for forty minutes
+  — "this is the thing of which the café was the small dose." **Hermione**: one
+  breathless sentence; Harry delighted; "What *is* a spell?" — she stops ("They
+  stop before they start"); he promises to show her the marks "when I know you
+  better"; she chases. **Draco** with Crabbe/Goyle: Harry reads the father off
+  the son; "I'd rather find out what *you* think… I know what a boy looks like
+  who's never been asked. I was one"; a biscuit on the seat by the door — gone
+  at Peterborough, unseen (filed under *later* and *hope*). "Yet." Petunia cut
+  **sandwiches for four**; the flask warmed a little by him, mostly by her. "I
+  think everyone whose parents stood on that side of the barrier should sit
+  together." Hermione's Gryffindor case → "might a book written by a Gryffindor
+  have a view?" → "*Oh*." He decides she'll be first to learn the marks. "Are
+  you nervous?" — first personal question from a peer. "Like the lights coming
+  on. In a library. When you're already inside."
 
 # (v2 text follows for reference; chapter list from ch. 4 is superseded)
 

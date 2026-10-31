@@ -521,4 +521,31 @@ method with people · "it answers caring" (ch. 5) as his method with magic.
   5 Waste (the child at the kitchen table nobody sees); 6 141 (not a duty —
   "why you'd want the life"). Footer: "The door faces outward… it's the design.
   Keep it that way." Close: thinking about where the shops were.
+- **Ch. 14 (Petunia's Drawer)** — April 1990, age 9¾. Vernon in Birmingham,
+  Dudley at Piers's. Harry makes Petunia tea (first time in nine years; "Nobody
+  in this house has made me a cup of tea in nineteen years"). "Will you tell me
+  about my mother?" — the white comes up and, for the first time, STOPS. Her
+  story: two girls in an unnamed northern town; Lily made a flower open/close;
+  "an awful boy from the bad end of town, hair that wanted washing" (Snape,
+  unnamed) said the word first; the letter on yellowish paper in green ink —
+  **Hogwarts**; Petunia wrote to the headmaster at eleven asking to come; he
+  wrote back kindly, by hand, saying no (she still has it) — **Dumbledore**
+  named. The summers; the wedding not attended; the christening card (baby with
+  black hair standing up, red-haired laughing mother, both green-eyed). The
+  doorstep letter: Lily and James dead; "a wizard, a bad one"; nobody knew why
+  Harry lived; **a protection holds "as long as he calls this place home"** →
+  that is why he may not board; she promised Lily on a piece of paper. "You've
+  been walking out of this house an inch at a time since you were seven and
+  I've let you, every inch." Harry: "I think I was being careful of the wrong
+  thing." Petunia: he looks like his father (hair), has his mother's eyes and
+  her way of "working out how to help and hadn't decided whether they deserved
+  it." **The 1972 court-shoe shoebox**: Dumbledore's 1971 letter to Miss Evans;
+  the doorstep letter (face-down — "Not yet… ask him why he left you with me");
+  the christening card; **the photo of two girls on a swing** (Petunia pushing,
+  Lily laughing) — Harry's to keep. She asks him to come back in the summers
+  "for the roof" (and the Rotary). They laugh together, once. The swing photo
+  goes on the cupboard wall where the Radio Times page was. Fifteen months.
+  Decision: go and look at the far side's shops himself. Figg: "You made her
+  tea, I suppose… You find the door they already use. Your mother was the
+  same."
 - (append per chapter)

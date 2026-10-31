@@ -166,6 +166,30 @@
   like you to sit with that"; P.S. he read all seven Standard Books on the way
   home — "like being handed a dictionary for a language he has been reading off
   roses."
+- **Ch. 10 (Petunia's Drawer)** — Oct–Nov 1987, age 7. Night of the books:
+  **Lumos is the candle**; the dictionary; theirs = roads, his = paths; margin
+  in the 1911 book: **"Not quite. — H.P., October 1987."** Reads all seven grades
+  in a week (≈ four subjective years); collects **160 brackets**; Grade 5's
+  not-noticing chapter explains the Charing Cross hand. Waffling: "a decent man
+  groping along a wall in the dark with a very good vocabulary"; margin "he has
+  nearly got it and doesn't know." **The wand is a tool — a telephone**; Figg
+  won't buy him one (a line beyond the one she crossed). Wednesday in Nov 1987
+  (Vernon in Birmingham, Dudley at Piers's): makes Petunia tea — first in 17
+  years; "Will you tell me about my mother? … I don't know *her*." Her story
+  (unnamed northern town; the flower; the awful boy with hair that wanted
+  washing; the green-ink letter; **Hogwarts**; she wrote to the headmaster at 11
+  and he refused kindly by hand — **Dumbledore named aloud**; the summers; the
+  wedding and christening card). The doorstep letter: **"as long as he calls this
+  place home"**; she sat by the lake nine days knowing exactly what she was
+  doing; "You've been walking out of this house an inch at a time since you
+  were five and I've let you." "I think I was being careful of the wrong thing."
+  The 1972 court-shoe shoebox: 1971 letter to Miss Evans; the doorstep letter
+  face-down ("Ask him why he left you with me"); the christening card; **the
+  swing photograph** — his. Summers "for the roof" (and the Rotary); they laugh.
+  He has felt the ward's hum on the step going out for the milk — "It was her."
+  **New rule: "I do not lie to Aunt Petunia."** Swing on the cupboard wall next
+  to the date. Figg: "You made her tea, I suppose… You find the door they
+  already use. Your mother was the same." Three years eight months to go.
 
 # (v2 text follows for reference; chapter list from ch. 4 is superseded)
 

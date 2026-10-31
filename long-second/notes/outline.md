@@ -472,4 +472,28 @@ method with people · "it answers caring" (ch. 5) as his method with magic.
   Vernon can't touch it. Harry's theory: a man who was once an unseen boy at a
   kitchen table. Figg had let slip in July that the hidden world has **a bank**.
   Close: he won't wait for the letter to tell him where the shops are.
+- **Ch. 12 (Professor Carrow)** — Oct–Nov 1989, age 9. Royal Holloway
+  (Egham, 11 miles up the line; the château in the park; library with the
+  copper roof gone green, six floors, 120,000 volumes). Letter via Mrs Bell.
+  **Petunia speaks**: "He's nine." … "He'll go with me the first time. After
+  that he can go alone. He's *sensible*." She walks him up, doesn't come in.
+  **Prof. Helen Carrow**: fifties, grey, jumper with a hole at the elbow,
+  reading glasses on her head, "face like a good sharp knife kept for best";
+  never calls him a prodigy; "polite… as useful in a mathematician as a nice
+  singing voice." Gives him a real small open problem (colouring) instead of a
+  test. Harry shows the pads (18 by now; brings first six). She reads for an
+  hour; **page 41 of pad two is wrong** (Cantor diagonal — his notation gives
+  the built object two names); "How does that feel?" / "It feels wonderful."
+  Pad three's group-theory ending "not in any textbook I know." Calls him
+  Potter until the second mistake (pad eleven), then Harry. Colouring: he
+  solves a special case in the 22-min train ride; "Where did that come from?"
+  / "I had a long train journey and nothing else to think about." She's been
+  stuck on the general case since 1983. Teaches him what research *is*
+  (journals as a century-long conversation; try to kill your result; write for
+  the reader in fifty years). "Everyone has a page 141." Departmental library
+  card; season ticket via the trust; Tue + Thu + most days. **The hunger was
+  never him — only ever the shelves** (underlined, last page of pad 18).
+  A-levels (maths, further maths, physics, chemistry) are a formality to be sat
+  June 1990. Figg, November: the school's library is "the biggest there is…
+  Some of them bite." Twenty months to go.
 - (append per chapter)

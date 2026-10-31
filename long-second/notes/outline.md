@@ -739,6 +739,35 @@
   *arriving*." / "Faster. But not alone. Those are not the same thing any more."
   Letter to Mr Pole about a Snitch. Nine weeks of the term left.
 
+- **Ch. 31 (Interlude: The Staff Room)** — 30 Oct 1991. Hooch: "It doesn't
+  pull left" ×3; forty tiny marks under the crack — Sprout (Runes to NEWT):
+  "that is not a script." Flitwick: "a language with five speakers… he said
+  *don't tell her which one, see if she can tell*." McGonagall on the pig and
+  the 1971 photograph, aloud to colleagues. Sprout: Neville answered an unasked
+  question about Devil's Snare — "Harry walked me round to it… you find the door
+  they already use" — "the single best description of teaching I have ever
+  heard… from a *cat*." Pomfrey, to her folded arms: Cadwallader's radius; "I
+  did not qualify it"; four patients since, right four times; the two names
+  ("I was a trainee"). **Snape from the shadow by the door**: the boy "has not,
+  in eight weeks, done one single thing in this castle *himself* that he could
+  have had someone else do… I expected a boy who would *show*. The father
+  showed… I cannot find the seam." Flitwick: "He said he would be adequate for a
+  term so that you could find where he was bad… *found*, not handled."
+  **McGonagall, level, in front of everyone: "He has noticed that you look at
+  the eyes, Severus… he has told Albus he has seven [years] for you."** Snape's
+  hand to the pocket; comes away empty. **Quirrell enters**: "He *watches*…
+  one does wonder what he *sees*"; the second face lingers on the marks under
+  the crack; pumpkins for four minutes. Snape to Flitwick, low: "He looks at
+  the boy." / "The boy knows." / "You told the boy to come to *me*. Why." /
+  "Because of the eyes… I would like there to be one person in this castle he
+  will go to at any hour who knows what it is to be looked at by that — and have
+  it *know* you — and have lived." Snape leaves without slamming anything
+  ("the single most alarming thing he had done all evening"). McGonagall
+  touches the marks like a photograph: "Whether *we* are." Harry's dinner tally:
+  Snape looked at him 2 s and it was not the flinch; Quirrell 40 s total; **the
+  door hasn't moved in 31 days** ("I do not trust the number"); "spend the
+  interest on the blankets, the way I spent the Advertiser on a stepladder."
+
 ## ACT II v3 — Year One (ch. 23–45), Sept 1991–July 1992
 
 Harry's state entering: doctorate; all seven grades + beyond on paper; the

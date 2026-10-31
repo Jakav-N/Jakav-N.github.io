@@ -373,6 +373,28 @@
   tea; the step question first; **"he would like… to have the whole thing."**
   Dumbledore puts the 1989 letter in his inside pocket: "Yes. I rather think
   he had better."
+- **Ch. 18 (The Thirty-First)** — 31 July 1991, age 11. Sleepless night through
+  46 pads and the biscuit tin. 5.30 a.m. kitchen: "I'd have kept you… there was
+  a version where I kept you." / "For the roof. And for the tea." 9 a.m. exactly;
+  McGonagall in tartan; "I've been expecting you… since the last Saturday in
+  March, 1986"; **"Very well, Dr Potter."** Vernon shouts **71 seconds** (hoped
+  for 60); "older than Eton… *chosen*… Scotland"; "Hogwarts does not advertise."
+  Petunia sends Dudley up — **Dudley (12, Smeltings): "Good luck, Harry"** from
+  the top of the stairs, the first thing he's ever wished him. **403 questions**;
+  eleven for her, nine answered: the roof (anchored to aunt + home; he read it
+  from the step; wants to tell the writer it's the best thing he's seen); the
+  Trace has never fired at Number Four (she checked that week; his provisional
+  theory to be looked at); **Godric's Hollow, white stone, she'll take him**;
+  Madam Pince; Blishwick — "Yes. I had heard." **Tenth question: the press/the
+  seal/the blankets for the children's ward — "Have I read [the Statute]
+  right?"** — "Yes… *As it stands*… amended eleven times… move that one rather
+  higher up the list than tenth." / "It's first. After the step." The cupboard
+  in his words ("I wrote a thesis in there… I'd like to be judged as him"); she
+  holds the green line and the frames side by side. Opens the letter last; owns
+  all the set books ("You'll have had the receipts." / "I have had the
+  receipts."). A vault; a key. "Many happy returns. I knew your mother." Garden:
+  "Scottish. Tartan. She knew Mum." / "Tea's at six… She called you Doctor. At
+  the door. I heard her." / "Good."
 
 # (v2 text follows for reference; chapter list from ch. 4 is superseded)
 

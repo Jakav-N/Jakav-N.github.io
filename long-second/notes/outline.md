@@ -606,6 +606,34 @@
   Enough to know you'd ask that." Pad: "I came here with one photograph. I
   have two."
 
+- **Ch. 26 (The Shut Door)** — Fri 6 Sept & Thu 12 Sept 1991. Potions
+  (Ravenclaw–Slytherin): "our new celebrity"; Harry's rule — answer only
+  questions. Snape's face read: a door nailed from the inside by its owner;
+  **flinches at the *eyes*, never the scar**. Three questions: Draught of
+  Living Death (+ the Size Two pewter proportions the book omits); bezoar (goat;
+  student stores, second shelf left, four jars, newer ones — "loses a tenth of
+  its *asking* every ten years"; + the Healing table); monkshood/wolfsbane/
+  aconite ("the single worst piece of indexing in the Standard series"). Harry
+  volunteers: "I've read the theory. I haven't *brewed*… If you want to find
+  out where I'm bad at this, that's where." Snape: "Then we shall find out…
+  Mr Potter will work *alone*." Boil cure: he can read the potion's sentence
+  forming; flame a quarter-turn too high for a minute — **Snape sees the ring
+  on the pewter**: "Too hot. For how long?" / "About a minute… I'll know next
+  time." — "**Adequate**" (cost him; paid anyway). Draco's potion orange; he
+  watches Harry's with nothing of his father in his face. Courtyard: **Neville**
+  melted a cauldron; Harry walks him round sideways — bezoar = plant stone vs
+  plant poisons → **"It's Herbology with a fire under it"** — "oh" (three);
+  Neville starts listing Gran's shelf in the back of his Potions book. Thursday
+  at four: tally of eleven Quirrell sightings (the second one looks at the
+  Slytherin table; looked at Harry for a full second on Tuesday and the first
+  didn't know). Question moved up: Snape's flinch + Petunia's "awful boy… hair
+  that wanted washing" → "am I reading the right face?" — **"You are… the nails
+  are on the inside… I have stopped asking him to [take them out]."** Harry: a
+  front-door question; he'll be *adequate* honestly for a term and say thank
+  you. Dumbledore: Snape told McGonagall at lunch **"the boy saw me see it"** in
+  a voice she'd never heard — "not an unkind voice." Pad: "He looks at her.
+  Everyone else looks at the morning they woke up to."
+
 ## ACT II v3 — Year One (ch. 23–45), Sept 1991–July 1992
 
 Harry's state entering: doctorate; all seven grades + beyond on paper; the

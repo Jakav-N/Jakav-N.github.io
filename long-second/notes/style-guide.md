@@ -17,6 +17,18 @@
     constructions. Vary paragraph length. Allow a little roughness.
   - Humor from situation and character, not from narrator wit.
 - **Memory is unlimited** (see outline). Never imply he forgets.
+- **HE DOES NOT WRITE FOR HIMSELF** (reader's catch, ch. 4). His hand is the
+  slowest thing he owns — a page costs him hours of his own time — and he
+  cannot forget, so notes-to-self are pointless. No ledgers, ciphers, private
+  diaries, "the Programme in a shoebox," nightly pad entries for his own use.
+  The audit, the plan, the tallies, the List all live in his head ("the
+  shelf"). He writes ONLY for other people or for the world: letters; the
+  mathematics in English for Carrow/readers; the Second Edition as a textbook
+  for readers who don't exist yet (with English glosses); names for Pomfrey's
+  drawer; carving a sentence into bronze (a sentence in a thing). The italic
+  "entries" are him *composing*, in the words he'd give a reader one day, not
+  writing. The pinned date is a thing *said*, not a reminder. Sweep all
+  chapters for this (186 hits found; fixing from ch. 2 forward).
 - **Classifier safety**: a safety classifier halted the first draft of ch. 4 for
   unknown reasons. Keep all content unmistakably gentle: no self-endangerment
   framed as experimentation, nothing that lingers on harm to children, no

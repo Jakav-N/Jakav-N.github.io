@@ -35,6 +35,77 @@
 > Subjective-age tic: avoid precise totals; "well over a thousand" by 6,
 > "the better part of two thousand" by 11.
 
+## v3 continuity ledger (authoritative from ch. 4)
+
+- **Ch. 4 (The Week)** — Feb–Mar 1986, age 5½–5¾. Petunia's one-week cupboard
+  confinement after the hair ≈ four subjective years. Day 1: the hair. Day 2:
+  "Why am I hiding?" — "be small" was written for one woman in one kitchen and
+  he'd paid its premium in every room in Surrey; "I've been *stupid*" (said
+  aloud; feels like a window going up). Costs audited; rule-review rule: "Every
+  rule I have, I made in a hurry. Every year — my year — I will read them all."
+  Plan: who can bear it, in order (Prentice all; Bell most; county a great
+  deal; press nothing yet; Vernon via esteem; Petunia one true sentence). Magic
+  moved to "first, beside the shelves"; "Ask Mrs Figg" written down. New rule:
+  **"Be small in one room. Everywhere else, be the size you are, and let them
+  deal with it."** Monday: tells Mrs Prentice everything — she'd known about
+  the top shelf since October (moved the Hilbert down); "What took you so
+  long?"; her husband's brother Dr Gerald Prentice lectures chemistry at the
+  university in Egham ("afraid of me"). Dr Prosser (second Thursday in March):
+  he doesn't stop at thirty digits; she stands in the corridor; swan story;
+  she crosses out "very able; enrichment" and writes **"Ceiling not reached…
+  recommend immediate referral to university-level provision, with whatever
+  precedent has to be invented… I will put my name to that."** Friday, the
+  sink: "Being good at school isn't the other thing. I'll never let it be, in
+  this house." → Petunia: "Vernon. Tell Marge the *university*." Figg, last
+  Saturday in March: "What are you?" — not hers to tell; she writes to the man;
+  reply in eleven days (**Dumbledore: "tell him the truth… the least of what he
+  knows"**); the good tin opened; **"The word is magic, dear"**; witches/wizards,
+  squib (two brothers), school in Scotland, letter on his 11th birthday (**31
+  July 1991**, in her diary five years), parents "your mum especially."
+  Five years four months = "a thousand of mine and more." Date pinned inside
+  the cupboard door. (The v2 Mrs Oduya/bus-stop thread does not exist in v3.)
+- **Ch. 5 (The Shelves)** — Apr–July 1986, age 5¾–6. Meeting at Royal Holloway
+  in nine days: Dr Gerald Prentice, Mrs Achebe (pen-clicker), Dr Prosser, Mrs
+  Bell, Vernon (funeral suit), Petunia (gloves), **Prof. Carrow** (Yorkshire;
+  knife-face; hole at the elbow). "You. What have you got." — forty pages in
+  English written in a fortnight; **page nine is wrong** (two names in his
+  notation; "a German had it a hundred years ago"); "It feels wonderful";
+  page 31 "not in any textbook I know"; Carrow: "They are about to." Library
+  card: six floors, 120,000 volumes, copper roof; **the hunger was only ever the
+  shelves.** Petunia escorts him for a fortnight and sits by the lake not
+  reading → **Mrs Figg becomes his daily escort** (8.31 train, Mon–Fri, café
+  from nine to five, library romances with castles; "nobody said the eye had
+  to be kept in Little Whinging"); Petunia leaves a biscuit tin on Figg's step,
+  no note. Reads the shape of the library in a week; maths first (four places
+  nobody on the shelves had been), physics, chemistry ("a language"), history,
+  philosophy, linguistics. 406 books out since May; "My eyes are the slow part."
+  Carrow gives him the **colouring problem** (stuck since 1983). Mr Prentice's
+  OU boxes & margins (*Surely not*, *Lovely*, *Ask R.*, *Enough for one
+  night*); OU broadcasts from June 1986, sound at two; wrong twice ("a kind of
+  poverty"); Mrs Prentice rings the OU slots in the Radio Times weekly in his
+  hand. **Tibbles, June 1986**: fifty subjective years of failed trying
+  (wanting, the dream observatory, cress) → it comes for *sorry* → **it answers
+  caring.** "You'll want to write that down, dear." Train-home entry: "what, in
+  the world, is genuinely wrong, that I can genuinely mind about… how fast can
+  I find them."
+- **Ch. 6 (Real Work)** — July 1986–Jan 1987, age 6–6½. Cats one a Saturday
+  (Snowy's ear, Mr Paws's eye, Tufty's shed-fall bone from 1983); Number Six's
+  roses (September frost); Mrs Prentice's Silver-Jubilee teapot; biscuits
+  escalate to Fortnum's. Hinge loosens; nothing for wanting; nothing for
+  himself — **"The door faces outward."** 4 Oct 1986: **Mrs Figg's café pot
+  warmed** — first constructed-purpose effect ("what was *for*, not what was
+  wrong"); Figg: "I have never once seen any of them do it like *that*… like
+  you're asking it a favour. They *tell* it. With a stick and a word." October:
+  shape-watching at the roses → the sentence/grammar; **the blue notebook**
+  (petty cash); marks for pointing, pushing, the bracket; mending has a
+  go-looking part; "It has *parts*." **Pencil: second week of December 1986**
+  (purpose: *this is for the language*; sending costs; tells the dream-mother).
+  **Candle: 11 Jan 1987** (Christmas-cake stub). Blue notebook: "I am the only
+  one who looks." **Figg's hands: last Saturday in Jan 1987** — the tide; the
+  warning / "That's why I showed you." Programme section dated 31 July 1991:
+  nine marks and a bracket; "Four and a half years. Nine hundred of mine."
+  **Faster.**
+
 # (v2 text follows for reference; chapter list from ch. 4 is superseded)
 
 > **SPOILER WARNING.** Author's working bible. Gives away the whole story.

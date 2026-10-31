@@ -405,4 +405,21 @@ method with people · "it answers caring" (ch. 5) as his method with magic.
   always encouraged him"; six copies; **Harry's photo framed in the lounge**.
   Figg takes her copy in with her right hand → goes in to write a letter.
   Five-part plan: four ticks; line 5 ("look") never gets one.
+- **Ch. 9 (Interlude: Arabella and Albus)** — Oct 1988. Figg at Number Two,
+  Wisteria Walk: 110th letter in seven years; mother's fountain pen; now fills
+  it with the right hand. Posted 1981 to watch for *danger* (cloaks, strangers,
+  wards "in her teeth like weather"); paid ten galleons/month + cat food. Her
+  letter: four deliberate mendings in her kitchen since spring, the last her
+  hands; "by caring about things, Albus… He minds about them until they come
+  right"; "I know. That's why I showed you."; he has stopped hiding on
+  purpose; "He is happier than I have ever seen him. That is what frightens
+  me." Hogwarts: Dumbledore ("children are kind to animals"; "the Evans line was
+  always strong"); McGonagall has known Figg since 1961 (hands bad since the
+  Grindelwald years). Dumbledore's real position: the wards hold; the boy is
+  happy; **no wizard goes to the house before his eleventh birthday** — "I did
+  enough to him on that step"; muggle fame is "a candle." McGonagall: "She is
+  afraid *for* us." She vows to deliver the letter in person and writes in the
+  cutting's margin in green ink: *M.M. said so first, Oct. '88.* Dumbledore's
+  reply adds: "If he asks you what you are, tell him the truth. I suspect he
+  already knows." Figg: "Well. He heard that much." The good tin comes down.
 - (append per chapter)

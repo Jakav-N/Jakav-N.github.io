@@ -563,8 +563,8 @@
   better move Thursday to now." Hat: "He has been pretending not to see that
   for a fortnight."
 
-- **Ch. 24 (The Chair)** — Wed 4 Sept 1991. Inside cover of pad 47: the three
-  things agreed — Dumbledore had seen Quirrell's face a fortnight ago and set
+- **Ch. 24 (The Chair)** — Wed 4 Sept 1991. Set in order in his head (not
+  written): the three things agreed — Dumbledore had seen Quirrell's face a fortnight ago and set
   two eyes on it; Harry to WATCH, not approach, report Thursdays; Dumbledore
   withholds his guess for a fortnight ("the same silence" — "put it on the
   record"). First Charms: Flitwick on a stack of books, 41 years, "never once
@@ -781,6 +781,25 @@
   Snape looked at him 2 s and it was not the flinch; Quirrell 40 s total; **the
   door hasn't moved in 31 days** ("I do not trust the number"); "spend the
   interest on the blankets, the way I spent the Advertiser on a stepladder."
+- **Ch. 32 (Hallowe'en)** — 31 Oct 1991. Tenth anniversary of Godric's Hollow;
+  he decides to let himself think of it at the feast. Hermione puts a biscuit by
+  his plate ("I don't know what you mean"). **Quirrell** bursts in: troll "in the
+  dungeons"; the faint is false in its *stopping*, not its fear — something
+  under reached in and said *down*; the second face empties the Hall without
+  being present. **Snape** absent at the moment, in a minute after, out the staff
+  door (→ third floor); comes back limping, left leg, does not hide it the second
+  time. Harry counts Ravenclaws: **twenty-five, one short** — Lisa Turpin
+  (lavatory, first floor). Troll on the FIRST floor, not the dungeons. Harry
+  **lifts the club and holds it**, talks Lisa out through the door, walks her
+  past the troll on the right-hand side, **drops the club beside it, not on it**
+  ("it's a rule"). McGonagall: "*beside*" — not fury. Quirrell arrives behind
+  Snape "having heard the girl shout from the Great Hall"; Snape: "hm". The
+  second face looks at Snape's leg, then at Harry: *recalculating*. **The door
+  moves — second time; 32 days since the first.** Neville: "nobody ever
+  counted… friends" — Harry: "I have a doctorate and did not know it." Pad 47:
+  the night in order, for Thursday — "She will be in the room. I have decided
+  that I am glad." The troll's face the one he liked best: the only one that
+  meant exactly what it looked like.
 
 ## ACT II v3 — Year One (ch. 23–45), Sept 1991–July 1992
 

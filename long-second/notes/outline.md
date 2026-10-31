@@ -603,4 +603,34 @@ method with people · "it answers caring" (ch. 5) as his method with magic.
   Cries once, properly, between the pub and the platform. Home: a wedding
   photo of Lily and James in one of the books; **Petunia kneels on the hall
   carpet: "Show me."**
+- **Ch. 17 (Theory)** — July 1990–May 1991, age 10–10¾. Night of the books:
+  **Lumos is the candle** (a cousin bracket, "sanded down"); the Standard Book
+  is the dictionary for the language he's read off roses for two years; maps
+  every Gr. 1 spell to his notation and compares (theirs polished = roads; his
+  rough-cut = paths that sometimes go where roads can't; *Reparo* "a spanner
+  against a key"). First margin of his own, in the 1911 grey book: **"Not
+  quite. — H.P., July 1990."** August: **four A-levels, all A** (maths, further
+  maths, physics, chemistry) at 10; Mr Haines's boy "who simply went… up
+  north" thirty years ago; Harry promises to write ("There's a post from
+  everywhere. It's only a question of stamps."). No interview this time; eight
+  copies; second frame. Royal Holloway "properly" for autumn term 1990–91 (one
+  year). **Tuesday in November 1990, 4.20 p.m.**: the colouring general case —
+  pieces can overlap → "we go *under*… the overlap is the thing we count"; the
+  pace of joint work is set by the slowest mind and *that doesn't matter*
+  because Carrow has a MAP ("the Hungarian trap, three people have died in it,
+  go round"); she swears (filed); rings Vernon ("That man would sign
+  anything"); "Seven years." Paper submitted January, referees disbelieve then
+  concede, **appears April 1991**: *H. Carrow and H. Potter*, 11 pages, journal
+  in print since 1865. "It isn't the thing. It's the *start* of the thing."
+  Next: her 1979 problem. **2 Feb 1991: the feather HOLDS** — two inches,
+  still, four seconds; theory of the wand as a *tool*/telephone (he's been
+  "shouting across a field"); their casting is ragged because they can't watch
+  the moment — "When he had a wand, he would be sending with his eyes open."
+  Chapter titled **On Holding**: "This is what the two hundred is for." April,
+  Figg on Dumbledore: "Kind… and *sure*"; wrote three pages when her brother
+  Edgar died; "He'll have an answer. It'll be good, and true, and not the whole
+  thing"; she's told him he was wrong twice, he listened, did it anyway. Harry
+  will arrive "as somebody," not a child with a question. 1 May 1991 stock-
+  take; three months; last OU broadcast (the atom) "for very nearly the last
+  time." ~1,800 subjective years.
 - (append per chapter)

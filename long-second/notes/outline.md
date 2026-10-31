@@ -1,388 +1,355 @@
-# Harry Potter and the Long Second — Master Outline
+# Harry Potter and the Long Second — Master Outline (v2, dense)
 
-> **SPOILER WARNING.** This file is the author's working bible. It gives away the
-> entire story. The reader-facing pages are in `/long-second/`.
+> **SPOILER WARNING.** Author's working bible. Gives away the whole story.
+> Reader-facing pages are in `/long-second/`.
+>
+> **v2 note.** The first outline under-used the premise: Harry was hiding and
+> dabbling when he should have been *doing*. This version is built on the
+> brief's actual demands: he has two hundred years per year, he is a master of
+> every muggle subject well before eleven, he invents, he works magic daily,
+> he becomes EA-shaped, he does not waste time, and he does not make dumb
+> decisions — including the dumb decision of staying small one day longer than
+> the house requires.
 
-## Premise (locked by author Q&A)
+## Premise (locked)
 
-- Harry's nervous system runs at **200× subjective speed** — perception, thought,
-  emotion. **Mind only**: his body, speech, eyes, and reflex loop through muscle are
-  normal-human. Active **from the doorstep night** (15 months old, 1 Nov 1981).
-- Played **fully straight**: by the Hogwarts letter he has lived ~1,900 subjective
-  years. Early life is information-starved; escaping that starvation is the engine
-  of Act I.
-- **Tone**: rationalist (HPMOR-adjacent) but **kept lighter** — warm, witty, wonder
-  over horror. Dark ideas allowed, dark imagery mostly off-page. Harry is never a
-  victim for long; he is the least bored person alive because he had to solve
-  boredom at two or go mad.
-- People notice **very quickly that he is a genius**, but not *how it works*. The
-  mechanism stays hidden; an inner circle learns the truth slowly across the story.
-- **Off the canon rails fast**, but nothing solves itself — canon Harry got stupid
-  lucky; this Harry replaces luck with preparation, and the world pushes back.
-- **Voldemort is a background threat**, an open problem on a list, solved
-  methodically and un-epically in Act IV.
-- **Endgame: the wizarding world transformed** (dementors extinct, magitech
-  revolution, institutional reform); humanity-scale change left as horizon.
-- He is EA-shaped: his advantage obligates him. No wasted time, no dumb decisions.
-- **Relationships**: deep friendships central; not the lonely-tragedy version.
-  A quiet, very-late, peer-only romance door is left open (Hermione) but the story
-  does not depend on it.
-- **100 chapters, ~4–6k words each** (~500k total). **~22 chapters pre-Hogwarts.**
-- POV: close third on Harry + occasional interludes (Figg, McGonagall, Dumbledore,
-  teachers, Ollivander, the Hat, press clippings).
-- Magic: invented consistent mechanics — see `magic-system.md`.
+- 200× subjective speed, **mind only**, from the doorstep night (1 Nov 1981).
+- Played **fully straight**. Memory **unlimited**. Ancient mind in a child's body.
+- Rationalist, kept **lighter**: warm, witty, wonder over horror. Dark ideas, not
+  dark imagery. He is never a victim for long.
+- People notice **very quickly** that he is a genius. The mechanism stays hidden.
+- Off the canon rails fast; nothing solves itself; luck replaced by preparation.
+- Voldemort: background threat, solved un-epically mid-story.
+- Endgame: **the wizarding world transformed**. Humanity-scale change on the
+  horizon.
+- POV: close third on Harry + interludes. ~4–6k words/chapter. 100 chapters.
+  ~22 pre-Hogwarts.
+- **Classifier-safe content rules** live in `style-guide.md` and override
+  everything here. Cut threads: the jumper; any private child–adult-stranger
+  correspondence; anything computing/"cyber"-adjacent (no programming thread).
 
-## Time arithmetic (use consistently)
+## The honest constraints (what 200× does and doesn't buy)
 
-- 1 real second ≈ 3 min 20 s subjective. 1 minute ≈ 3.3 hours. 1 hour ≈ 8.3 days.
-- 1 day ≈ 6.6 subjective months. 1 week ≈ 3.8 years. 1 month ≈ 16.6 years.
-  1 year = 200 years.
-- Doorstep → letter: ~9.7 real years ≈ **~1,940 subjective years**.
-- The August before Hogwarts alone ≈ 16 subjective years of study.
-- Sleep: biological, normal hours; dreams also run fast; lucid dreaming mastered in
-  early childhood (subjectively, after decades of practice) — usable for rehearsal
-  and incubation, not for new input.
-- Memory: effectively UNLIMITED (author directive, post-ch. 3). Whatever
-  accelerated him also deepened storage: total retention from the doorstep night
-  on. Memory palaces are for organization and retrieval, not retention. The
-  ciphered journals are for thinking-on-paper, planning, and security caching —
-  not because he forgets. (Ch. 1's memory-limit paragraph retconned to match.)
-- Reading: limited by eye saccades and page-turning, not comprehension — roughly
-  5× a fast adult reader, with total retention of what he chooses to keep.
-- The true bottleneck of his life is **input bandwidth**. Books are gold. People
-  are slow. Patience is not a virtue for him; it is a survival skill, learned the
-  way sailors learn knots.
+- **Thought-only fields he can push alone**: mathematics (he rederives most of
+  school and much university maths from a few texts, Ramanujan-style, by 7;
+  research-grade raw ability by 8–9), logic, philosophy, strategy and game
+  theory, chess (world-class pattern mastery; needs opponents for calibration),
+  music theory, grammar/linguistics, and above all **his own magic**, which he
+  can watch in slow motion from the inside.
+- **Input-bound fields** (every science, history, languages' vocabularies): he is
+  starved by the branch library's borrowing limits, and the drama of ages 4–8
+  is him clawing bandwidth: every open hour in the building, inter-library
+  loans, secondhand books, newspapers, Radio 4, and — a 1980s gift — the
+  **Open University broadcasts on BBC2 at night and early morning**: free
+  university lectures, which he watches from age 7 with the sound low.
+- **Reading speed** ≈ 5× a fast adult (eye-limited). A 300-page book ≈ 1 hour.
+  He never forgets a word of it.
+- **Body**: normal. Speech and handwriting are slow; he plans every word.
+- **Status**: a small child has no legal standing, no money, no mobility. The
+  only honest route to resources is **to be seen** — the brief says he is
+  noticed quickly, and the dense plan says he *lets himself be noticed*, on
+  purpose, everywhere except in the one room where it frightens someone.
+- **Leaving the Dursleys**: running away at 7 is a dumb decision (care system or
+  streets = less freedom, less input, more scrutiny). What a smart child does is
+  **outgrow the house**: skipped years, a university attachment, days away,
+  scholarships, a trust Vernon can't touch, until Privet Drive is a bed he
+  sleeps in. Petunia's strange refusal to let him board (she has Dumbledore's
+  letter) is itself a clue he follows.
 
-## Act structure
+## Time arithmetic
 
-### ACT I — The Cupboard Millennium (ch. 1–22, Nov 1981 → Sept 1991)
+1 s ≈ 3 min 20 s. 1 min ≈ 3.3 h. 1 h ≈ 8.3 days. 1 day ≈ 6.6 months.
+1 week ≈ 3.8 years. 1 month ≈ 16.6 years. 1 year = 200 years.
+Doorstep → letter ≈ 1,940 subjective years. The August before Hogwarts ≈ 16
+subjective years. Sleep is biological and normal; lucid dreaming mastered at 6.
 
-1. **Two Months on a Doorstep** — Interlude: the canon-echo doorstep scene
-   (Dumbledore, McGonagall, Hagrid), ending on the note that none of them knows
-   what they are leaving there. Then inside: one night = 66 subjective days. The
-   dawn of the mind across 15 months–2.5 yrs: sensation → pattern → self. The
-   warming charm on the blanket = first datum of magic (unrecognized). Time is
-   "thick." First games. Language acquired from overheard speech studied between
-   syllables. The Incident (he speaks too well; Petunia's fear-face) → first rule:
-   *be small*. Ends ~age 3: the world is made of patterns, patterns are information,
-   information lives beyond the door — the long game begins.
-2. **The Operating Manual** — ages 3–4.5. The Dursleys studied as weather systems
-   (comedy). Concealment protocols. Dudley managed via engineered incentives. The
-   cupboard reframed: a door that closes is privacy ("the smallest office in
-   England"). Excursions: Mrs. Figg's cat house — boredom hell turned intelligence
-   asset; the glimpsed **moving photograph** = anomaly #1 confirmed. Nursery school
-   and the calibration problem (how smart to appear); "bright but plausible"
-   fails within weeks. Ends: print cracks open — he teaches himself to read off
-   cereal boxes, subtitles, Dudley's unread books. The marks begin to speak.
-3. **The Lending Library** — 4.5–5.5. Library card campaign (Petunia managed into
-   it; Mrs. Prentice the librarian becomes an ally). School proper; teachers'
-   first alarm (interlude: staff room at St Gregory's). Dudley's gang dissolved
-   structurally. The haircut event (canon): hair regrown overnight — an effect he
-   *slept through*, infuriating — founds the **anomaly research program**; ciphered
-   notebook begun.
-4. **Anomalies** — 5–6. Systematic logging of accidental magic; conditions,
-   triggers (impetus = need + arousal). The jumper-shrinking, the glass. Cloaked
-   strangers bow to him in town; Figg's watching patterns quantified. **Watcher
-   hypothesis** formed: a hidden organized society, interested in *him*
-   specifically. He decides not to poke it yet. Deduces his parents did not die in
-   a car crash (scar, the green flash memory, Petunia's flinches).
-5. **The Calibration War** — 6. School wants him skipped up years; Vernon wants
-   nothing; teachers vs. Dursleys with Harry conducting both sides invisibly to
-   land where he wants (access without exposure). First IQ-test comedy. Decides
-   fame in the muggle press is a cost, not a prize — ducks a "child genius"
-   newspaper piece, mostly.
-6. **Post Office** — 6–7. The money problem and the interface problem (no adult
-   front). Chess-by-post, puzzle-setting for magazines under pseudonyms, prize
-   competitions. Mrs. Prentice unknowingly lends respectability. First capital:
-   tens of pounds, then hundreds. A P.O. box of his own via a gentle con.
-7. **Dr. Hartley** — 7–8. Mathematics by correspondence: a Cambridge don starts
-   answering letters from "H. Evans". An Erdős-style postal collaboration; first
-   minor publishable result (goes out under Hartley's aegis with a mysterious
-   co-author). Harry hits the ceiling of what print can teach without labs.
-8. **The Latch** — 8. Magic research breakthrough: first *reproducible* wandless
-   effect (warmth; then the cupboard latch moved by a nudge of structured intent).
-   Builds **form-notation** (see magic bible). Effects are weak but controlled —
-   he reckons he is the first person in history to *watch himself* do magic in
-   slow motion.
-9. **Interlude: Arabella** — Figg's increasingly flustered reports; Dumbledore
-   serene, McGonagall not. ("He fixed Mr Tibbles' arthritis, Albus." "Children are
-   kind." "He *diagnosed* it first.") Dumbledore declines to intervene: the blood
-   wards hold, the boy seems happy, how remarkable can a ten-year-old be.
-10. **The Edge of the Map** — 9. London alone (cover story masterwork). Finds the
-    *edge* of magical London by inference — robed people vanishing near Charing
-    Cross; a pub his eyes slide past unless he works at it (perception-filter
-    mechanics). Gathers intelligence from outside; does NOT go in: unknown society,
-    surveillance on him, asymmetric information — he waits. (No dumb decisions.)
-11. **Petunia's Drawer** — 9–10. The gentle extraction of Petunia's secret: she
-    knows. Lily's letters. The word *Hogwarts*; the word *Dumbledore*; the shape of
-    why Petunia is how she is. Harry's first real compassion-despite-everything
-    beat. Household quietly re-engineered into something almost functional —
-    Dursley détente as comedy of incentives.
-12. **What Is Owed** — 10. The EA-formation chapter. He runs the numbers on his own
-    advantage; the argument with himself across a subjective year (one rainy
-    half-term) about obligation, drowning children, and what a person with two
-    hundred years per year *owes*. Resolution: the gift is leverage, and leverage
-    is responsibility. Drafts the List (problems worth a life: death, pain, waste,
-    stupidity — and now, apparently, *magic is real*, which reorders everything).
-13. **The Trace** — 10–11. Maps the surveillance experimentally: which anomalies
-    draw attention (owls overhead, Figg's calls), which don't. Infers rules of the
-    detection system (area-based, not attributed — see magic bible). Learns to
-    stay under it. Caches, codes, contingencies.
-14. **Interlude: The Watchers' File** — McGonagall reads the muggle file
-    (school reports, a chess magazine clipping, a maths journal acknowledgment to
-    "H. Evans, age not supplied") and starts asking questions Dumbledore can't
-    quite answer.
-15. **The Letter** — 11. He has been expecting it to the week. Intercepts the
-    first copy before Vernon (naturally), replies by return post in neat round
-    hand: *Dear Deputy Headmistress, yes; please advise as to visit.* The
-    letters-avalanche never happens; Vernon's meltdown is contained like a
-    controlled demolition.
-16. **The Visit** — McGonagall comes to Privet Drive expecting a starved waif or
-    a spoiled princeling; finds a small, courteous person with a list of
-    forty-one questions, in order. Interlude threaded: her report to Dumbledore
-    that night ("Albus. *Albus.*").
-17. **Diagon Alley** — Gringotts (the vault; money at last; goblin etiquette done
-    flawlessly from observation), Ollivander (the wand scene — his first true
-    *channel*; the holly-phoenix wand and what Ollivander half-sees), Madam
-    Malkin's, and the bookshop ransacked within budget discipline. Declines to buy
-    status objects. The Trace, officially this time.
-18. **Sixteen Years of August** — one real month = 16 subjective years: the entire
-    first-year syllabus mastered dry (theory only, no wand practice at home that
-    draws attention — he works right at the detection threshold he mapped in
-    ch. 13). Form-decompilation of standard spells begun from book descriptions.
-    Letters to Hartley wound down gracefully. Goodbyes: Mrs. Prentice, Figg
-    (whom he now addresses, privately, with the respect due a sentry).
-19. **Platform** — King's Cross; the barrier; the train. Meets Hermione (verbal
-    sparring partner found: the first person his own age who *chases*), Neville
-    (the toad, treated as a real problem worth solving properly), Ron (friendly,
-    wary of the weird intensity), Draco (handled so smoothly he leaves confused
-    and slightly recruited). Reader sees Harry *choosing* his first cohort.
-20. **The Hat** — Sorting. The Hat is the first conversation partner in his life
-    that runs at the speed of mind: subjectively the longest conversation he has
-    ever had with anyone (externally: a four-minute hatstall). The Hat gets the
-    full tour; it is delighted, alarmed, sworn to secrecy (it always is), and
-    makes its argument. **Ravenclaw.** (Hermione, sorted minutes later and
-    reasoning aloud with the Hat about evidence, follows him there.)
-21. **First Week** — classes as comedy of constraint: he must *unlearn perfection*
-    in public; wandwork betrays him instantly in Flitwick's class (first Charms
-    lesson: the feather does not just levitate; it *holds station*). Flitwick's
-    face. Quirrell introduced: Harry's pattern-sense snags on something *doubled*
-    about him — filed, flagged, watched. Snape's opening ambush in Potions is
-    answered with polite, total preparation; the Lily-thread lit but unread.
-22. **The Rules of the Game** — end of Act I. Dumbledore's first direct
-    conversation with him; two players introducing themselves across a chessboard
-    neither admits is there. The third-floor corridor announcement heard for what
-    it is (bait — for whom?). Harry founds the study group that will become the
-    Workshop. Act-end image: the List, rewritten by candlelight, with a new line
-    at the top: *Learn what magic is. Then fix everything.*
+---
 
-### ACT II — Year One: The Unraveling (ch. 23–45)
+## ACT I — The Cupboard Millennium (ch. 1–22, 1981–1991)
 
-Canon scaffold snapping in slow motion. Key threads:
-- **The Workshop**: study group → skunkworks (Hermione, Neville, Padma, Penelope
-  Clearwater, eventually the twins as engineers). Form-notation taught as
-  "mnemonic diagrams" (mechanism still hidden).
-- **Magic research**: spell decompilation; first original micro-spells; the
-  discovery that *silent casting proves the interface thesis*; Flitwick recruited
-  as (unwitting, then half-witting) academic cover. McGonagall's transfiguration
-  theory lessons become mutual revelation.
-- **Quirrell/Voldemort**: the doubled pattern confirmed over months; Harry maps
-  the Stone plot by elimination, refuses every piece of bait, quietly
-  counter-plots. No mirror confrontation on Voldemort's terms: the year ends with
-  Quirrell exposed/flushed (Voldemort escapes as wraith — becomes the background
-  open problem), the Stone returned to the Flamels *with a letter that starts a
-  correspondence that matters later* (death research thread).
-- **Troll**: happens; handled with zero drama because Harry is never out of
-  position; becomes the moment Hermione and Neville move from friends to *sworn*.
-- **Dumbledore**: wary chess → first real alliance-of-convenience. He does not
-  learn the mechanism; he learns the boy is kind, which worries him more.
-- Interludes: Ollivander's letter to Dumbledore; staff-room scenes; a Prophet
-  clipping ("BOY-WHO-LIVED TOP OF EVERY CLASS, SAYS SOURCE").
+### Written (ch. 1–6) and how they fit the dense plan
 
-### ACT III — Years Two–Three: Building (ch. 46–68)
+1. **Two Months on a Doorstep** — dawn of the mind; the Answering; "be small"
+   (correct for a toddler facing Petunia's fear; a rule with an expiry date he
+   does not yet see).
+2. **The Operating Manual** — cupboard, reading, the household machine, Figg's
+   moving photograph, nursery notices him in eleven days (brief: noticed fast ✔).
+3. **The Lending Library** — Mrs Prentice; the Survey; the Programme founded.
+4. **The Man in the Violet Hat** — watchers are kind; the ice; "it's real, it's
+   kind, it lives here too."
+5. **The Lady from the County** — Dr Prosser's swan speech (the first adult to
+   name what hiding costs); Tibbles → *it answers caring*; the toffee tin.
+6. **Page 141** — Goldbach; the edge of the map; "there is room"; Dudley's
+   tables; the front-door law. **(Flagged for revision: maths level too low for
+   a mind that has rederived number theory; no magic-practice thread.)**
 
-- **Year 2 / the Diary**: Lucius's plot fires; the diary's *pattern* pings Harry's
-  senses almost immediately. Contained, studied (a horcrux in laboratory
-  conditions!), intelligence extracted; the ethics of destroying a mind-copy
-  handled with a light, serious touch. Basilisk located by deduction, negotiated
-  past / neutralized humanely; the Chamber becomes the Workshop's best lab.
-  Ginny saved early and off-handedly (and recruited, eventually, properly).
-  Dobby → house-elf economics → the labor-reform thread (EA in action, done with
-  actual economics, not hats).
-- **Year 3 / Sirius**: Harry, reading his parents' estate file, notices *there was
-  no trial*. Pettigrew found via pattern-census of the castle (the Map, acquired
-  from the twins, confirms). Sirius freed cleanly through law and leverage →
-  Harry gains a guardian, a house, money, and legal standing. Lupin: the
-  werewolf-cure research program begins (long thread, pays off Act V).
-- **THE DEMENTOR ARC** (centerpiece, ch. ~60–68): proximity = data. The Patronus
-  learned, then *understood* (a blocking form); the dissolving form derived over
-  months of careful, dangerous fieldwork; first dementor unmade in front of
-  witnesses at a Quidditch match gone wrong. The political earthquake; Azkaban
-  on the table. Act ends with the Ministry forced to accept a timetable for "the
+### The Turn (ch. 7) and the dense years (ch. 8–22)
+
+7. **The Audit** (spring 1988, age 7¾). Prosser's swan speech and Prentice's
+   "there is room" finally collide in him. He audits his own strategy and finds
+   it is a toddler's: *be small* was right for a two-year-old in Petunia's
+   kitchen and is now costing him years of input and every resource the world
+   gives visible prodigies. He is not going to leave (he runs the numbers on
+   running away and they are dreadful); he is going to **outgrow**. Decisions:
+   let the genius show everywhere but home; use Vernon's esteem to make the
+   fame *Vernon's* idea; make Mrs Prentice and the school his public front;
+   convert status into libraries, teachers, money, mobility; and begin the
+   **daily practice** of magic through real work, now, with the cats and the
+   plants and anything else that needs mending, because the caring-doorway is a
+   skill and skills take reps. Also: the Open University schedule, torn from
+   the Radio Times, pinned inside the cupboard door. The chapter ends with him
+   walking into the head's office and asking, politely, to sit the eleven-plus
+   style papers early, "so nobody has to guess."
+8. **Open University** (1988). Nights of BBC2 lectures at low volume; the
+   first time he hears someone *teach* a thing he already derived alone, and
+   where they differ, he is usually right, and twice he is wrong, and the wrongs
+   are the best nights of the year. Mrs Prentice opens the inter-library
+   pipeline wide (county HQ, university extracts) and starts a second toffee
+   tin for "working." He begins writing his own mathematics down properly, in
+   English, not the private alphabet — hundreds of pages, because someday a
+   person will need to read it. Sept 1988: moved to the local secondary at 8,
+   sitting in with Year 10 for maths and sciences — the comedy of a tiny child
+   among fifteen-year-olds, who turn out to be kind in the clumsy way of
+   teenagers. Chess club → county under-11 champion in a month.
+9. **Interlude: Arabella and Albus.** Figg's reports have changed register:
+   the mended cat, the chess clipping, the secondary-school transfer. Dumbledore
+   is serene ("a gifted boy; the Evans line was always clever"). McGonagall,
+   reading the clipping twice, is not. The letter-day is three years off and
+   nobody at Hogwarts has the faintest idea what is coming.
+10. **Real Work** (1988–89). The magic chapter. Reps: Figg's cats (all of them,
+    one by one, with her watching and saying nothing), a frost-bitten rose, Mrs
+    Prentice's cracked teapot, Dudley's football wrist eased (not mended — too
+    conspicuous), warmth for a shivering stray. The caring-doorway opens more
+    easily each time, like a hinge working loose. Then the breakthrough the
+    whole book has been waiting for: at 200× he can **watch the shape** the
+    answering takes as it passes through him — and the shapes have grammar.
+    He begins **form-notation** (his private symbolic language for the
+    structures). First effect produced from *constructed* real purpose rather
+    than found need: warming a cup for an old woman at the bus stop. Then a
+    pencil moved. Then a candle lit. Weak, slow, exhausting — and reproducible.
+    He is the first person in history to read the source and knows it.
+    Limit discovered: effects aimed at *himself* come poorly (the doorway is
+    outward-shaped) — he keeps his glasses.
+11. **Nine GCSEs** (summer 1989, age 8). The exam hall; the invigilator who
+    keeps checking he's allowed to be there; results day; the local paper, then
+    a national one: SURREY BOY, 8, PASSES NINE GCSEs. Vernon at the Rotary is
+    a man transfigured. Petunia's fear, managed. Harry gives one interview, by
+    design: polite, boring, forgettable, with one line planted for the hidden
+    world's readers if any of them read muggle papers. A businessman's
+    scholarship, a trust with a solicitor trustee Vernon can't touch.
+12. **Professor Carrow** (autumn 1989). Royal Holloway's maths department takes
+    him as a special student, publicly, with the school and Vernon's signature;
+    Prof. Helen Carrow — dry, kind, unimpressed by prodigies, impressed by
+    proofs. **The university library**: the sea at last. He reads it the way he
+    read the branch, at eye-speed, every weekday after school, and the input
+    famine of his life ends. The A-level year begins (maths, further maths,
+    physics, chemistry). Their first joint problem. She is the first adult who
+    is simply a colleague.
+13. **What Is Owed** (winter 1989–90). The EA chapter. Singer's drowning child
+    (county library philosophy shelf); a subjective year of argument with
+    himself across one wet half-term. Conclusion: the gift is leverage and
+    leverage is obligation — and the biggest lever in his reach is not maths or
+    money but the thing that mended a cat's hips, which, scaled, mends
+    *people*. The hidden world has powers that could end diseases and lets
+    children sleep in cupboards instead. Draft one of **the List**. First
+    giving (half the chess prizes to Oxfam; the rest is operating budget, and
+    he is honest about why). Resolution: find the hidden world before it finds
+    him.
+14. **Petunia's Drawer** (spring 1990). He asks straight, at the sink, having
+    chosen the evening for a year. She tells him more than she means to: Lily;
+    a school called Hogwarts; a man called Dumbledore; the letter left on the
+    doorstep that told her to keep him under her roof. Why she can't let him
+    board. Why she looks at the garden. The nearest thing to kindness the two
+    of them ever manage, and it is not nothing.
+15. **The Edge of the Map** (spring 1990). London alone (cover: a university
+    day). Perception filters: at 200× he can feel his attention being moved;
+    he finds the Leaky Cauldron by standing where the moving is strongest and
+    waiting. Watches cloaked people enter. Learns, from a careless conversation
+    outside, that the bank inside exchanges muggle money. Goes home. Plans.
+16. **Flourish and Blotts** (summer 1990, age 10). The raid, in a cap. £300
+    from the trust's allowance at Gringotts (goblins magnificently indifferent).
+    Buys: *Modern Magical History*, *Hogwarts: A History*, *The Standard Book
+    of Spells* 1–3, *Magical Theory*, *A History of Magic*, a *Daily Prophet*.
+    Reads the first one on a bench in the Alley before he can stop himself and
+    learns, from a paragraph, what he is: the Boy Who Lived. His parents'
+    names in print. Voldemort. The green light explained. Dumbledore. He walks
+    to Charing Cross in the ordinary London afternoon carrying his own history
+    in a paper bag, and grieves properly, for the first time, with facts.
+17. **Theory** (1990–91). With real textbooks his form-notation leaps: he can
+    now read a spell's *description* and reconstruct its form; he decompiles
+    *Lumos* and *Wingardium Leviosa* on paper months before he owns a wand.
+    He practises under what he has inferred about detection (soft, inferential,
+    never surveillance-flavoured in the prose). Masters the theory of
+    Hogwarts years 1–3 before the letter. A-level results (age 10; press
+    again; he declines television). The joint paper with Carrow appears.
+    He thinks hard about Dumbledore: the man left him on a doorstep with a
+    warming charm and a sentry — kind, and careless, both true at once — and
+    resolves to meet him as a colleague, not a child.
+18. **Interlude: The Watchers' File.** McGonagall reads the muggle file:
+    GCSEs, A-levels, a chess trophy, a university paper with his name on it.
+    "Albus. This child has an A-level in *Further Mathematics*." "What is a
+    Further Mathematics?" She insists on delivering the letter herself.
+19. **The Letter** (July 1991). Expected to the week. Replies by return post:
+    *yes; please advise as to visit.* No avalanche of letters, no island, no
+    hut; Vernon's meltdown contained like a controlled demolition because
+    Harry has spent four years making Vernon proud of him in public.
+20. **The Visit.** McGonagall at Privet Drive, braced for a waif or a
+    princeling, meets a small courteous person with a list of forty-one
+    questions, in order, who tells her — honestly, because honesty disarms —
+    that he has already been to Gringotts to exchange money for books. Her
+    report that night ("Albus. *Albus.*").
+21. **Diagon Alley, Properly.** With McGonagall: the vault (the money problem
+    of his life ends in one minute), Ollivander (the wand = his first real
+    *channel*; the holly-and-phoenix scene, and what Ollivander half-sees in a
+    boy whose first spark is *controlled*), Madam Malkin's, and the bookshop
+    done with budget discipline. Declines status objects.
+22. **Sixteen Years of August / The Hat.** One real month = sixteen subjective
+    years: every textbook dry, every spell decompiled on paper; goodbyes to
+    Prentice, Carrow, Figg (addressed now with a sentry's respect). Platform
+    9¾. Train: Hermione (the first child who *chases*), Neville (the toad
+    treated as a real problem), Ron, Draco (left confused and half-recruited).
+    The Hat: the first mind that runs at the speed of mind — the longest
+    conversation of his life, a four-minute hatstall outside. **Ravenclaw.**
+    Act ends on the List, rewritten by candlelight: *Learn what magic is.
+    Then fix everything.*
+
+---
+
+## ACT II — Year One: The Unraveling (ch. 23–45)
+
+Canon scaffold snapping in slow motion. He arrives knowing years 1–3 cold.
+
+- **The first week**: wandwork betrays him instantly (the feather *holds
+  station*; Flitwick's face). He stops pretending by day three — the brief says
+  noticed quickly; the mechanism is what stays hidden. McGonagall's
+  transfiguration theory becomes a two-way seminar. Snape's ambush answered with
+  total preparation; the Lily thread lit.
+- **Quirrell**: pattern-sense snags on something *doubled* — filed, watched.
+- **The Workshop** founded in week two as a study group (Hermione, Padma,
+  Terry Boot, Neville cross-house, Penelope Clearwater as prefect cover); by
+  Christmas it is a skunkworks. Form-notation taught as "mnemonic diagrams."
+- **Inventions, Year One**: decompiled spell library (all of years 1–4);
+  first *parameterized* charms (a Lumos with a dimmer; a levitation that holds
+  a path); the Warming Charm rewritten to track body temperature (the doorstep
+  charm, understood at last — he cries, once, in the library, and Hermione
+  pretends not to see); first **healing forms** derived from the Tibbles work
+  (Pomfrey recruited by results); an anti-bullying ward on the Ravenclaw
+  first-year corridor that Flitwick pretends not to notice.
+- **Dumbledore**: first conversation = two players introducing themselves.
+  Harry says the true thing early: *I know who left me on the doorstep. Thank
+  you for the warming charm.* Wary chess → alliance of convenience by spring.
+- **The Stone**: Harry maps the plot by elimination, refuses every bait, and
+  quietly counter-plots; the troll night is undramatic because he is never out
+  of position (Hermione and Neville become *sworn*). Year ends with Quirrell
+  flushed, Voldemort gone to wraith (the background open problem), the Stone
+  returned to the Flamels with a letter that begins the death-research
+  correspondence (public, via Dumbledore, adult-to-adult-via-headmaster — keep
+  classifier-safe).
+- Interludes: Ollivander to Dumbledore; staff room; a *Prophet* clipping.
+
+## ACT III — Years Two–Three: Building (ch. 46–68)
+
+- **Year Two / the Diary**: Lucius's plot; the diary's *pattern* pings him in
+  a week. Contained, studied in laboratory conditions; intelligence extracted;
+  the ethics of a mind-copy handled with a light serious touch. Basilisk
+  located by deduction, pacified humanely (Parseltongue); the Chamber becomes
+  the Workshop's lab. Ginny saved early and recruited. **Dobby → house-elf
+  economics**: real labour reform, done with actual economics.
+- **Inventions, Year Two**: the first **form-press** (a device that imprints a
+  standardized form into an object — enchantment manufacturing); pain-relief
+  charms standardized; the two-way-mirror *network* prototype; Lockhart
+  exposed by competence, not malice.
+- **Year Three / Sirius**: the estate file shows *no trial*. Pettigrew found by
+  pattern-census (the Map, bought from the twins, confirms). Sirius freed
+  through law and leverage → guardian, house, standing, gold. Lupin → the
+  **werewolf-cure programme** begins (pays off Act V).
+- **THE DEMENTOR ARC** (ch. ~60–68): proximity = data. Patronus learned, then
+  *understood* (a blocking form); months of careful fieldwork derive the
+  **dissolving form**; first dementor unmade before witnesses. Political
+  earthquake; Azkaban on the table; Act ends with a Ministry timetable for "the
   day the cold goes out of the world."
 
-### ACT IV — Years Four–Five: Scaling (ch. 69–88)
+## ACT IV — Years Four–Five: Scaling (ch. 69–88)
 
-- **Magitech industrial revolution**: the Workshop incorporates (Sirius's gold,
-  goblin manufacturing partnerships, Flamel patents). Form-presses: devices that
-  imprint standardized forms → enchantment democratized. Two-way mirror network
-  (communication). Healing applications first (St Mungo's pilot). The Ministry
-  alternately obstructs and claims credit; Lucius Malfoy as the sharpest
-  institutional antagonist (Voldemort stays background).
-- **The Triwizard year happens to other people** — international exposure,
-  Statute tensions, foreign ministries wake up.
-- **Voldemort resolution** (quiet, clinical, humane — background threat to the
-  end): horcruxes hunted methodically with pattern-detection instruments built in
-  the Chamber lab. The scar-horcrux: Harry noticed the foreign pattern in his own
-  head *years* ago, contained and starved it — the reveal re-reads half the story.
-  The wraith cornered at last; offered containment; no duel, an appointment kept.
-  Tom Riddle ends as a case study in what waste looks like.
-- Inner circle now knows the mechanism (Hermione first — she *deduced* it, which
-  is the only way he'd have wanted it; then Neville, Sirius, McGonagall,
-  Dumbledore last and hardest).
+- **Magitech revolution**: the Workshop incorporates (Sirius's gold, goblin
+  manufacturing, Flamel patents). Form-presses in production; enchantment
+  democratized; **healing magitech** at St Mungo's; the mirror network public;
+  agricultural charms for famine relief routed through muggle NGOs under cover
+  (EA at scale, magic as the lever — the thesis of ch. 13 cashed out).
+- Ministry obstruction and credit-claiming; Lucius Malfoy as the sharpest
+  institutional antagonist; Dumbledore as partner; international ministries
+  wake up during the Triwizard year (which happens to other people).
+- **Voldemort resolution**, quiet and clinical: horcruxes hunted with
+  pattern-detectors built in the Chamber lab. The scar-horcrux: Harry noticed
+  the foreign grain in his own head years ago and starved it; the reveal
+  re-reads half the book. The wraith cornered; containment offered; no duel; an
+  appointment kept. Tom Riddle as a case study in waste.
+- Inner circle learns the mechanism: Hermione *deduces* it (the only way he'd
+  have wanted); then Neville, Sirius, McGonagall; Dumbledore last and hardest.
 
-### ACT V — Transformation (ch. 89–100)
+## ACT V — Transformation (ch. 89–100)
 
-- Wizengamot and education reform; Hogwarts curriculum rewritten (Flitwick
-  headmaster? McGonagall Minister? — decide late); dementors extinct, Azkaban
-  closed; werewolf cure shipped; healing magitech leaking across the Statute
-  under cover stories; the Statute itself renegotiated into a *managed
-  disclosure* roadmap (horizon, not finish line).
-- Death research: Flamel correspondence pays off; the veil studied; the
-  pattern-persistence question framed honestly — no cheap immortality, but the
-  problem is now *on the table* where civilization can work it.
-- Final chapters personal: Harry at ~17 (≈3,200 subjective years), what he is,
-  who he loves, the friendships that held; the Hermione door handled with care
-  (peer, knows everything, no rush — a beginning, not a wedding).
-- Ch. 100 ends on a callback to the first line of ch. 1 — one more long second,
+- Wizengamot and Hogwarts reformed; dementors extinct; Azkaban closed;
+  werewolf cure shipped; healing magitech across the Statute under cover; the
+  Statute renegotiated into a managed-disclosure roadmap (horizon, not finish).
+- Death research framed honestly: the Flamel line, the veil, the pattern-
+  persistence question — on the table where civilization can work it.
+- Personal close: Harry at ~17 (≈3,200 subjective years); the friendships that
+  held; the Hermione door handled with care (a beginning, not a wedding).
+- Ch. 100 ends on a callback to the first line of ch. 1: one more long second,
   and the next thing begins.
 
 ## Running devices
 
-- **The List** — Harry's evolving problems-worth-a-life document; recurs at act
-  breaks.
-- **Time-arithmetic grace notes** — each chapter makes 200× *felt* at least once,
-  concretely, never as a dump.
-- **Interludes** — outside POVs showing how he looks from 1×: funny early,
-  awe-tinged later.
-- **The ciphered journals** — occasionally excerpted as epigraphs (translated).
-- **Figg → McGonagall → Dumbledore** reporting chain as a comic/dramatic relay.
+The List (recurs at act breaks) · one concrete 200× grace note per chapter ·
+interludes showing him from 1× · the notebook as occasional epigraph · the
+Figg → McGonagall → Dumbledore relay · the front-door law (ch. 6) as his
+method with people · "it answers caring" (ch. 5) as his method with magic.
 
-## Continuity ledger (update as chapters are written)
+## Continuity ledger
 
-- **Ch. 1 (pub. 4,769 w)** — 200× begins the doorstep night (curse rebound), 1 Nov
-  1981, age 15 mo. Warming charm = first datum ("someone disagreed with the
-  cold"); later childhood name for magic: *the Answering*. Crying-latency lesson.
-  Star crossing the roof gap. Green-flash dream + mother's voice recurs. The
-  200:1 ratio measured later with washers-and-string pendulum in the cupboard.
-  Nicknames: Petunia = the Sharp One (fear; the nailed-shut drawer; "just
-  like—"), Vernon = the Purple One (weather; esteem), Dudley = the Small Loud
-  One (appetite; "experiments the world already paid for"). Memory palace
-  self-invented in year two ("country of one", counting kingdom: sevens, dozens,
-  elevens). The Incident: spring 1983 (age 2¾), shopping list behind cooker,
-  perfect sentence → Petunia's flood-fear; *freak* filed as taxonomy; Rule One:
-  **Be small** (small *here*, small *for now*). Oct 1983: "I c'n hold the
-  basket" — first shop trip (reins), newsagent revelation (marks = fixed
-  speech), resolve to read. Recurring tic: "X years old, or N hundred,
-  depending on how you counted."
-- **Ch. 2 (3,987 w)** — Cupboard acquired spring 1984 via 5-month nudge campaign;
-  "the smallest office in England"; named spiders; shoebox ledger in cipher
-  (phone-book abbreviations); ledger symbol: box = *expensive if true*; locked
-  drawer = options one does not use (formalized ch. 3). Reading cracked late
-  spring 1984 (age ~3¾) via adverts + teletext p. 888 subtitles; first read
-  sentence: "BYPASS DELAYED AGAIN, COUNCIL BLAMES COSTS." House reading census
-  (phone book: A. Aardvark Aquatics, Byfleet; manuals; one yard-bought shelf).
-  Household machine protocols (esteem / fear / appetite steering). Mrs Figg:
-  cabbage + cats, asks pointed scheduled questions; March 1984 (Dudley at zoo):
-  **moving photo** of grey cat w/ square eye-markings turning to look at him —
-  anomaly #1 confirmed; she hides it with tradecraft. Theory boxed: "There is
-  more than one set of rules… somebody is watching to see if I run on it."
-  Nursery = St Gregory's Pre-School, Sept 1984; Miss Henmore; *Bright Little
-  Boy* policy dies day 11 (error-signature insight: true noise has structure);
-  "yesterday"/flue scene; replacement persona: **the odd clever child** ("never
-  be drawerless"). Gifted call home laundered via Vernon's Rotary esteem.
-- **Ch. 3 (3,737 w)** — July 1985: Miss Henmore's public library sentence;
-  Petunia signs him up; solo library runs become policy by Sept 1985.
-  **Mrs Prentice** (branch librarian, stationmaster type): adult tickets on
-  Petunia's unused membership, "books are for your uncle," quiet Mon/Thu after
-  four, sticking stepladder; cuckoo test; "allies are leverage you don't have
-  to hold." **The Survey**: 8-month map of human knowledge; habit: read the
-  last chapter first; finding: the field of his anomalies is *unclaimed* (map
-  hole shaped like his life). School proper Sept 1985 (reception): Miss Weald,
-  Mr Ollerton (staff-room interlude: "polite in a load-bearing way"; Petunia
-  refuses assessments, "no fuss"). Harry Hunting strangled by boredom-engineering,
-  autumn 1985; Piers's theory: Potter is unlucky to chase. Friendships file
-  empty; sixth-birthday ledger entry (forward-flash, Jul 1986): Mrs Prentice,
-  "cuckoo energy," good mood 11 days, "what is the thing of which this is the
-  small dose?" **Haircut**: Feb 1986 — overnight full regrowth, slept through
-  it; outrage; one week cupboard confinement; the anomalies file becomes
-  **the Programme**. H1: *the effect doesn't run while the watcher watches; it
-  runs on the machinery I watch with, answering need when the watcher stands
-  aside (sleep, flood emotion).* Plan: better dream log.
-- **Ch. 4 (3,732 w)** — New scene-first voice begins here (see style guide
-  directives). June 1986: violet-top-hat man bows ("Mr Potter, an honour"),
-  vanishes behind a bus; Petunia: "They oughtn't to be allowed." Memory now
-  explicitly total ("everything he had ever seen was still exactly where he had
-  left it") — retrospective finds: woman in green on the bus, cloaked man at
-  the post office. Conclusion: a kind of stranger is *glad* to see him.
-  July 1986, Mrs Figg's: Mr Tibbles watches him like a man at a lecture; her
-  standing question "nothing out of the ordinary?"; Harry posts a deliberate
-  test through the channel (the February hair regrowth) → next visit, Edinburgh-
-  tin chocolate biscuits + early follow-up question = reporting channel
-  confirmed. He tells Mr Tibbles to pass on his compliments. Decides the
-  watching is GENTLE and will not poke it further. Sept 1986–Jan 1987: dream
-  journal/observatory; lucid dreaming learned in ~4 months (finger-counting,
-  clock-checking, hourly "am I dreaming?"); dream-magic worthless ("dreams are
-  liars"); negative results logged. The green-light dream = mother saying his
-  name; when lucid inside it he just stays and listens. Nov 1986, drying-up
-  scene: "Where are my mum and dad buried?" → "Up north. A little village.
-  There's no visiting." Car-crash story collapses; parents were second-set
-  people; he is *somebody's*; resolves to stand at their graves one day.
-  Jan 1987, THE ICE: slips on the path with two milk bottles; fear-gear (a gear
-  below his other gears); watches the answering live — "it was calling... the
-  call was answered"; soft landing, bottle lands standing, penny-sized splash.
-  "Hello." Programme entry: *It's real. It's kind. It lives here too. It
-  answers when I truly call — so learn to truly call on purpose.* And: *I am
-  not on my own in here.* NOTE: the shrinking-jumper event is cut from canon
-  for this book (see style guide); never reference it.
-- **Ch. 5 (3,534 w)** — Autumn 1987, age 7. Dr Prosser (county educational
-  psychologist, oatmeal cardigan, stopwatch under the table): blocks test, then
-  digit span — Harry, enjoying himself, repeats FOURTEEN digits backwards before
-  catching it ("I've forgotten the next bit." "Of course you have."). Her swan
-  story (the ordinary girl in the valleys); she recommends enrichment, not
-  acceleration: library time Tue/Thu in school hours. He never learns how much
-  she knew — "some people can read you a little, and like you anyway, and fold
-  their hand on purpose." Vernon converts the arrangement into his own idea
-  (Marge phone call: "bad blood will out but you can keep it busy"). Notebook:
-  "Error noted. Not all error." MR TIBBLES: stops doing the stairs (hips, age 9,
-  won't take the tablet); Harry, hand on his side, genuinely sorry, NOT trying —
-  and it comes, quiet, goes looking like a librarian along a shelf, mends the
-  hips; Tibbles takes the stairs like a kitten. "He just got up." / "So he did.
-  Well. There's hope for us all." Figg's gladness + small hand-shake. Finding:
-  IT ANSWERS CARING, not wanting (cold-tea and cress experiments all failed).
-  "Everything he ever built was downstream of a cat's hips." Notebook: "It isn't
-  a dog, to come when it's whistled. It's more like a colleague. The work has
-  to be real." MONEY: Saturday prize cryptic crossword (setter: Custos of
-  London, £20); Mrs Prentice enters as E. Prentice, stamps off the top, fee =
-  "all your working"; her husband used to do the crossword (widowed; all we
-  ever learn). First win March 1988: £19.12 in a toffee tin under the returns
-  desk. "Somebody's got to hold the door." Year's close: first year that came
-  to meet him; "the sample was small. But it was a start."
-- **Ch. 6 (Page 141)** — Boxing Day 1987: overheard via Marge's phone call,
-  "The Evans girl was clever." Harry gets his mother's maiden name (Lily Evans)
-  as livestock commentary. Keeps "H. Evans" purely private to himself (NOT used
-  with strangers — see style-guide cut). The blue book *The Pleasures of
-  Number* by E. M. Hartley; page 141's "of course" = every even number is two
-  primes. He can't find the floor. Mrs Prentice orders county books ("Leave it
-  with me"); he discovers it's **Goldbach's conjecture** (1742, Goldbach→Euler),
-  unproven for 246 years. KEY REALIZATION: knowledge is not a finished city he's
-  catching up to; it has an *edge* reachable from a Surrey library — "there is
-  room," short-handed, people still working out past the last lamp post. Starts
-  a notebook page titled "141" = seed of the List. Spring: teaches Dudley the
-  times tables SIDEWAYS (football rhyme, tennis ball on the stairs, Vernon's
-  petrol sums) for the end-of-term test — Dudley thinks he found the confidence
-  himself. LAW learned: "You almost never move a person by the front door. You
-  find the door they already use." Same law as the magic — it answers caring,
-  not force; you go where it already lives and ask properly. NOTE: ch. 6 title
-  was briefly "Dear Sir" during the cut correspondence plot; now "Page 141."
+(Facts established per chapter. Kept short; the chapters are the record.)
+
+- **Ch. 1** — 200× begins the doorstep night, 1 Nov 1981, age 15 mo. Warming
+  charm = first datum ("someone disagreed with the cold"); childhood name for
+  magic: *the Answering*. Star crossing the roof gap. Green-flash dream with
+  mother's voice. 200:1 measured later (washers-and-string pendulum). Petunia =
+  the Sharp One; Vernon = the Purple One (weather, esteem); Dudley = the Small
+  Loud One. Memory palace self-invented ("country of one"). The Incident,
+  spring 1983: shopping list behind the cooker → "just like—" → Rule One **be
+  small**. Oct 1983: "I c'n hold the basket"; newsagent revelation. Memory
+  total (retconned paragraph).
+- **Ch. 2** — Cupboard acquired spring 1984 ("smallest office in England");
+  notebook in the private alphabet. Reading cracked spring 1984 via adverts +
+  teletext 888; first read sentence "BYPASS DELAYED AGAIN…". Household machine
+  protocols. Figg: cabbage, cats; March 1984 moving photo (grey cat, square
+  eye-markings) hidden with tradecraft. Nursery Sept 1984, Miss Henmore; Bright
+  Little Boy policy dies day 11; "odd clever child" persona; "never be
+  drawerless."
+- **Ch. 3** — July 1985 Henmore's public sentence → library card; solo runs by
+  Sept. Mrs Prentice: adult tickets on Petunia's membership, "books for your
+  uncle," Mon/Thu after four, sticking stepladder, cuckoo test. The Survey (8
+  months); read the last chapter first; the field is unclaimed. Reception Sept
+  1985: Miss Weald, Mr Ollerton. Harry Hunting strangled. Feb 1986 haircut
+  regrowth, slept through → the Programme; H1 (it runs when the watcher stands
+  aside).
+- **Ch. 4** — June 1986 violet-hat bow; Petunia "They oughtn't to be allowed";
+  prior sightings (green woman on bus, cloaked man at post office); strangers
+  are *glad*. July 1986 Figg: Mr Tibbles watches like a man at a lecture; the
+  hair-regrowth test posted → Edinburgh-tin biscuits → reporting confirmed; he
+  decides the watching is gentle. Dream observatory (4 months; dreams are
+  liars). Nov 1986 sink: "Up north. A little village. There's no visiting." He
+  is *somebody's*. Jan 1987 ice: the fear-gear; watches the answering live;
+  "Hello." Notebook: *It's real. It's kind. It lives here too.* Jumper event
+  does not exist in this book.
+- **Ch. 5** — Autumn 1987, age 7. Dr Prosser; fourteen digits backwards; the
+  swan speech; enrichment not acceleration (Tue/Thu library in school hours);
+  Vernon makes it his idea (Marge: "bad blood will out but you can keep it
+  busy"). Mr Tibbles' hips mended — *it answers caring*. Crossword money via
+  Mrs Prentice (Custos of London); £19.12 in a toffee tin, March 1988.
+- **Ch. 6** — Boxing Day 1987: "The Evans girl was clever" (Lily Evans; H.
+  Evans private only). *The Pleasures of Number*, p. 141 → Goldbach, open since
+  1742; the edge of the map; "there is room"; notebook page "141" = seed of the
+  List. Dudley's tables taught sideways; **the front-door law**. *(Revision
+  pending: raise the maths; add the daily-magic thread.)*
 - (append per chapter)

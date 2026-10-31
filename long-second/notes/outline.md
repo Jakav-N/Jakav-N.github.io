@@ -548,4 +548,25 @@ method with people · "it answers caring" (ch. 5) as his method with magic.
   Decision: go and look at the far side's shops himself. Figg: "You made her
   tea, I suppose… You find the door they already use. Your mother was the
   same."
+- **Ch. 15 (The Edge of the Map)** — First Saturday in May 1990, age 9¾.
+  Rule: **he does not lie to Petunia** (since the shoebox) — tells her Science
+  Museum (true); she makes him sandwiches. Waterloo alone: ten thousand faces,
+  one every two seconds of his time. Science Museum: the Foucault pendulum
+  (callback to his washers-and-string), steam engines, the moon capsule.
+  Method: cloaks hide where costume is normal → theatres/Soho/Charing Cross
+  Road; buses 24, 29, 176 as observation platforms. Woman in emerald green
+  with a resented pointed hat; the crowd *doesn't look*. Two hours in doorways:
+  eleven people "step in" between a bookshop and a record shop; each time he
+  finds himself looking at the record shop. **The filter is on his side**: a
+  soft hand on the back of the head moving attention an inch left, timed to a
+  1× eye-jump; his looking has room the sentence wasn't built to fill. Third
+  pass: declines the push "the way you decline a biscuit" → **the Leaky
+  Cauldron** (low door, greenish glass, crooked sign). Once declined, he can
+  see it at will; notes where in the sentence the push lives. Does NOT go in
+  (no money, no information, known face). Sandwich bar opposite, 1½ hours:
+  overhears floo powder, a foolish Minister, goblins, a boy with a wand parcel
+  ("*Not* in the Charing Cross Road"), **Gringotts changes Muggle money "for
+  anyone"**, Flourish and Blotts (books), the Prophet, **Diagon Alley**. Plan:
+  July 1990, before the birthday, cap, all the far-side money, books only, home
+  for tea. Petunia at the door seems to know; "Tea's at six."
 - (append per chapter)

@@ -315,6 +315,39 @@
   person with more shelves." Dumbledore has asked two questions via Figg; Harry
   asked for and received **the two dead people's names**, written in the back
   of the List. Door: "The cold has a grammar. Nobody has read it. Read it."
+- **Ch. 16 (Doctor)** — Nov 1990–July 1991, age 10–10¾. Lemma three is lemma
+  two from the other side; the 1979 theorem holds on a Tuesday in November
+  ("I started that the year you were born… I had hair"); thesis, 160 pages, by
+  Christmas; Carrow and her brother find nothing wrong but a comma on p. 90.
+  **February 1991: *Three and Thirteen*** (80 pp., for a child of six at a
+  kitchen table nobody sees; Mr Prentice's "enough for one night" on p. 40;
+  Carrow's foreword "I did not help with this book"); Mrs Prentice reads it
+  first — "It's right. Every word."; third printing by Easter; **all proceeds
+  to the children's hospital via Pargeter** ("This one isn't shoes"). March
+  1991: **the press and the seal** designed in the biscuit tin from the
+  enchantment book's chapter-nine footnote (pressing = carving made permanent;
+  nobody can hold the first copy cleanly — he can); the seal's sentence
+  includes the asking as a check; purpose: **the doorstep sentence pressed into
+  a thousand blankets for a children's ward**; "I DO NOT KNOW IF THIS IS
+  ALLOWED. FIND OUT BEFORE, NOT AFTER." "Give me a telephone and a year." He is
+  now waiting for the far side "to get out of the way." **Viva 9 April 1991**,
+  4 h 11 min: **Prof. Aldous of Cambridge** ("the rudest man in the field"),
+  Lindqvist internal; Hungarian trap → p. 41 footnote; p. 90; third hour at the
+  board together extending the result; "Why mathematics?" — "you can always
+  check whether you're right… judged by the thing instead of the face… it feels
+  like being *seen*"; "I came here to fail a child and I have been *taught*";
+  pass, no corrections. **Ceremony 12 July 1991**: Petunia (new gloves), Vernon,
+  Dudley (12, Smeltings blazer, *interest*), Haines, Prentice & Figg holding
+  hands, Lindqvist, Osei, Pole, Aldous uninvited inclining his head one inch;
+  Carrow's 40-second citation ("the easiest… the hardest thing I have ever had
+  to say in public"); **"Doctor Potter."** DOCTOR, 10 in nine countries; an
+  American network refused daily by Mrs Bell. Petunia: "She'd have known what to
+  say. I don't." / "You came. That was what to say." Gutters before he goes.
+  Stock-take 29 July 1991 (pad 46; trunk from a fourth Alley trip in the
+  cupboard): "I am not going to that school to learn magic… I am going because
+  it is where the telephone is, and the hospital, and the man who can listen,
+  and the cold… somebody has to be the table." Whoever knocks "had better have
+  brought a very strong cup of tea."
 
 # (v2 text follows for reference; chapter list from ch. 4 is superseded)
 

@@ -665,6 +665,28 @@
   it right — "two and a half" speakers. Pad: "the only answer I have ever had to
   a thing I could not stop was to build something else beside it."
 
+- **Ch. 28 (The Workshop)** — Sat 28 Sept–mid Oct 1991. **Hermione reads her
+  first whole sentence (*warm*, p. 34)**: "It's not a description… this is what
+  *happens*… seeing and reading are different"; casts Lumos *thinking about the
+  third mark* → the light **steadies** (not dims) → "Oh." → **the marks are
+  HANDLES for the parts**, not a record; Flitwick: "Seven handles. For a thing I
+  have taught as one." — sees the shadow on her face — "Oh." (3½ speakers).
+  **The sloping room** (4th floor, unused since 1964; a board; key with a
+  sentence: *this one opens*); Flitwick procures a **bronze disc**; cover story
+  "Charms club," Thursdays & Saturdays, Flitwick in the corner. Recruits
+  sideways: **Terry Boot** ("it *wasn't* your hand"), **Padma Patil** (annoyed
+  for a month about the four exact failures; learns them; unbearable), **Neville**
+  (41 plants in the back of his Potions book; wool is nearly a plant; **"It's
+  like a seed. You can't plant on glass"** — bronze is too smooth), **Penelope
+  Clearwater** (5th-year prefect, O in Charms, "prepared to be a prefect about
+  it"), **Ron** (Figg's **Humber Bridge tin** arrives "for the room"; asks the
+  dumb question — "Why?" — gets the whole answer; "My mum knits"). Hermione:
+  **"You're using us… as *instruments*."** / "Both… Counting is how I *see* you.
+  It isn't instead of liking." / "Every time." → **"Grooves"** — carve the
+  sentence into the disc in his marks so the disc *is* the sentence (the March
+  design turns over). Quirrell looked 12 s on Thursday; the door did not move.
+  Pad: "The table is six people and a tin from a woman in Surrey."
+
 ## ACT II v3 — Year One (ch. 23–45), Sept 1991–July 1992
 
 Harry's state entering: doctorate; all seven grades + beyond on paper; the

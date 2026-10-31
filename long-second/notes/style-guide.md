@@ -47,6 +47,28 @@
   the library, school). "H. Evans" survives only as the mother's-name thread,
   private to Harry, never as an alias used with strangers.
 
+## The three habits the reader keeps catching (ch. 4 feedback — fix everywhere)
+
+1. **Coy abstractions in place of the real noun.** "The other thing," "the
+   thing in him," "the shape of it," "a thing he had." Name it: the hair, the
+   warming, the asking, the grain, magic (once he has the word). "The thing" is
+   a crutch; cut it on sight.
+2. **Scheduling prose — the outline showing through.** "The third and fourth
+   days he spent on…", "the fifth and sixth days…", "he came to it on the same
+   night," "the seventh day he rested." Let scenes happen; do not announce
+   which day it is or what the chapter is now about.
+3. **Trailing explanatory clauses and the end-of-paragraph twist.** "…because X
+   was why he was in here at all, and Y had changed its shape too." Cut
+   "because" clauses that explain narrative logic; end paragraphs where they
+   end.
+
+And the pace rule, which the above habits hide: **his thinking is nearly
+instant in real time.** No "it took him a subjective fortnight to get one
+sentence right." The cost is *noticing the question*, and then *waiting for the
+world*. Subjective durations belong to input (reading, listening), to practice
+(hands, tongue, wand), to hard open problems (Goldbach, a new bracket), and to
+waiting — never to decisions or sentences.
+
 ## Voice
 
 - Close third person on Harry; narrator sits just behind his eyes, dry and precise,

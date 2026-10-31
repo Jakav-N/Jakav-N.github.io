@@ -263,6 +263,30 @@
   Oxford girl "hoped he was enjoying himself" (kept). Petunia: "So did I. Don't
   tell your uncle." 9th birthday stock-take (pad 34): "He listened once. Find
   out who else can."
+- **Ch. 14 (Interlude: Receipts)** — Late July 1989. Three trays (cuttings,
+  more cuttings, receipts); McGonagall has said so first three times in green
+  ink. Dumbledore reads Harry from Arabella's itemised lists: 1st (the
+  Blishwick monograph), 2nd (law, 1981 Prophet, *Theory of Enchantment* —
+  "chapter nine twice": wanting to have said one thing), **3rd (two ward
+  monographs, a St Mungo's Healing text, the full history of the Statute with
+  the 1692 dissenting pamphlets, a thin out-of-print book on Azkaban, four
+  numbers of an eleven-reader theory journal)** — "frightened him a little."
+  **Flitwick**: "that is not a charm… It has the shape of a prayer… nobody can
+  see the form in the moment"; wants to meet him; "Two years." McGonagall: "He
+  is finding out what it is *for*." The 1911 author is **Edwin Blishwick**
+  (Hufflepuff, Dept. of Mysteries six years, resigned; ~90 copies; went to
+  France in 1915 with a Muggle regiment — "the two sides are one country
+  whatever the Statute says" — died 1917; Dumbledore holds the notice).
+  "Edwin, I think you may have a reader." **The unsent letter** (midnight, July
+  1989, kept in the drawer with three others from sixty years): three reasons
+  for the step — the ward; fear of what the wizarding world would make of him;
+  and the true one: tired, grieving, afraid to go back and find he'd been wrong.
+  "This is the whole of it… If, when you have asked, you want it — ask for that
+  too." To Arabella: money for a large new tin (Forth Bridge) + **the first
+  question**: the Healing text's fourth chapter error that killed two people →
+  Harry: p. 91, transposed dosage columns (he'd margined "surely not" in June);
+  asks the two people's names; "I've got about four hundred for him, in order,
+  and I'm saving them."
 
 # (v2 text follows for reference; chapter list from ch. 4 is superseded)
 

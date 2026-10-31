@@ -395,6 +395,29 @@
   receipts."). A vault; a key. "Many happy returns. I knew your mother." Garden:
   "Scottish. Tartan. She knew Mum." / "Tea's at six… She called you Doctor. At
   the door. I heard her." / "Good."
+- **Ch. 19 (The Telephone)** — 31 July 1991 cont. Train with McGonagall (hat in
+  the 1979 carrier bag; "no respect whatever for a Floo"). Leaky Cauldron
+  without the cap: Tom; **Dedalus Diggle** — "it changed what I did next";
+  weeps. Harry nearly reveals the memory ("a habit I have"). Gringotts: guard
+  *steps back*; spectacled senior goblin; **Griphook**; Bogrod "considers it a
+  courtesy"; **deposits one galleon four sickles before drawing** (the ledger
+  line longer than it warrants); vault — grief for a toffee tin and a jam jar;
+  counts in sickles aloud; "the people who have had to count are the only ones
+  who can be trusted not to." **Ollivander**: parents' wands (willow/mahogany)
+  as the shape of their hands; the correct order; 31 rejections, each
+  *answering badly* — "They have a *grain*" / "the wrong turn" (never described
+  from the inside in seventy years); **holly and phoenix, eleven inches** — no
+  turn; HOLDS and releases a steady white point for four seconds; Ollivander
+  blinks; "so much easier with the telephone… You haven't got a word either; I
+  checked." Brother wand (yew, 13½") → the shelf ("never once failed to hold");
+  Ollivander bows. Madam Malkin's: **a pale boy on the next stool goes quiet**
+  (Draco, filed under *later*). Flourish and Blotts: "I was the margins boy
+  first." **Hedwig** (promises to three Muggle teachers). Pavement: did he know
+  it was impossible — "I wrote *not quite* in the margin when I was seven and
+  then I spent three years finding out." **Report**: happy (grief, not greed);
+  kind (the galleon, the bow, the owl, the shelf); the blankets question
+  reported; the steady light; Dumbledore: "I had not finished underestimating
+  it"; the 1989 letter is in his pocket. "*Albus*."
 
 # (v2 text follows for reference; chapter list from ch. 4 is superseded)
 

@@ -714,6 +714,31 @@
   Pad: "She said I did not see it… the bravest thing I have seen anyone do in
   this castle, and I have seen a man admit a trap." Four weeks of the term gone.
 
+- **Ch. 30 (Brooms)** — Mid/late Oct 1991. Flying (Ravenclaw–Hufflepuff, Hooch):
+  **a broom has a listening part** — asks "where do you want to go?"; "up" is
+  how people answer without knowing they were asked. Harry banks without a
+  wobble — "the first thing I had ever done with my body that my body was not
+  the slow part of"; laughs out loud over the Hufflepuffs. Declines the team:
+  **"Because I can see the Snitch."** Sunday with **Davies** (Ravenclaw captain,
+  4th yr), Ron, Hermione: reads the Snitch's rule-pattern (nine or ten turns; a
+  second pattern after a catch) — **5 s and 6 s, twice** — "That isn't Seeking.
+  That's playing chess against someone who can't see the board." Ron: "it'd be
+  Harry with a broom and everyone else sort of there." Davies: "the most
+  *Ravenclaw* thing anyone has ever said to me." Flies with Ron Sundays,
+  **wobbling on purpose** ("I've never once in my life not known how to do a
+  thing I was doing! This is *brilliant*!"). Entrance hall, Draco: Harry asks
+  about the Peterborough biscuit → **"It was dry"** (to the floor, very fast) —
+  "the first true thing he's said in this building." Saturday: **Hooch's oldest
+  broom read with the asking — THREE sentences sharing a stick** (lift ~1000
+  yrs, steering ~400, cushioning ~60 and ragged — it "pulls the steering
+  charm's sleeve" → pulls left); Harry will rewrite the third clean and cut it
+  under the crack. **Hermione: "you could do it to *all* of them… the money
+  would go to the ward… brooms are allowed"** — the press becomes a product;
+  "That's a *shop*." Flitwick: "I burned the wrong letter. I should have burned
+  the Compendium." Pad: "the room would be *faster* than me. Not at thinking. At
+  *arriving*." / "Faster. But not alone. Those are not the same thing any more."
+  Letter to Mr Pole about a Snitch. Nine weeks of the term left.
+
 ## ACT II v3 — Year One (ch. 23–45), Sept 1991–July 1992
 
 Harry's state entering: doctorate; all seven grades + beyond on paper; the

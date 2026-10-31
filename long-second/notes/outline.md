@@ -190,6 +190,32 @@
   **New rule: "I do not lie to Aunt Petunia."** Swing on the cupboard wall next
   to the date. Figg: "You made her tea, I suppose… You find the door they
   already use. Your mother was the same." Three years eight months to go.
+- **Ch. 11 (On Holding)** — Dec 1987–July 1988, age 7–8. Second Alley trip
+  (week before Christmas): Dumbledore repaid the first bill by owl in four days
+  — "thank you for the itemisation"; Figg: "he is finding out what you are from
+  my receipts." Buys ~40 books incl. *A Guide to Advanced Transfiguration*,
+  *Ancient Runes Made Easy*, potions texts, ***The Theory of Enchantment***, a
+  Ministry history, **wizarding law**, **bound Prophet 1981**. 58 galleons;
+  Dumbledore's note: "The enchantment one is very good. Tell him to read
+  chapter nine twice." Winter of theory: transfiguration = holding two brackets
+  at once (saved for a wand); **runes = sentences in matter → "Sentences in
+  Things": "This is where the lever is. Not in the hand. In the carving."**
+  Law footnote: the Trace — never written to Little Whinging → provisional:
+  stick-less asking doesn't look like what it watches for. Prophet 3 Nov 1981
+  paragraph; **the witch in Kent** who wrote to ask if the boy was safe ("in
+  good hands") — he'd like to tell her yes. **2 Feb 1988: the feather HOLDS**
+  (wandless, their sentence held perfectly; two inches, four seconds); chapter
+  **On Holding**: "They shout… I can hold." April 1988: paper appears (journal
+  since 1865); referee: "reported in the national press to be seven years
+  old"; Carrow: "bring his own chalk." **Dr Lindqvist** (physics): Harry
+  corrects a third-year problem sheet at the board; Thursdays in the lab with
+  technician **Mrs Osei** ("not like that" ×11, then "go on, then"). March
+  1988: Dudley's tables sideways (tennis ball on the stairs; Vernon's mileage
+  sums) → **the front-door law** ("Same as the other. Hold the sentence; ask
+  properly; the thing comes."); Petunia saw every tennis ball. **8th birthday
+  (31 July 1988)**: E.P.'s blue lever fountain pen "for the pads" (pad 29);
+  stock-take; "They shout. I can hold. Find out what that is worth." Three
+  years.
 
 # (v2 text follows for reference; chapter list from ch. 4 is superseded)
 

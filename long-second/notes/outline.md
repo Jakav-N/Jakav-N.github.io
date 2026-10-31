@@ -1,0 +1,273 @@
+# Harry Potter and the Long Second — Master Outline
+
+> **SPOILER WARNING.** This file is the author's working bible. It gives away the
+> entire story. The reader-facing pages are in `/long-second/`.
+
+## Premise (locked by author Q&A)
+
+- Harry's nervous system runs at **200× subjective speed** — perception, thought,
+  emotion. **Mind only**: his body, speech, eyes, and reflex loop through muscle are
+  normal-human. Active **from the doorstep night** (15 months old, 1 Nov 1981).
+- Played **fully straight**: by the Hogwarts letter he has lived ~1,900 subjective
+  years. Early life is information-starved; escaping that starvation is the engine
+  of Act I.
+- **Tone**: rationalist (HPMOR-adjacent) but **kept lighter** — warm, witty, wonder
+  over horror. Dark ideas allowed, dark imagery mostly off-page. Harry is never a
+  victim for long; he is the least bored person alive because he had to solve
+  boredom at two or go mad.
+- People notice **very quickly that he is a genius**, but not *how it works*. The
+  mechanism stays hidden; an inner circle learns the truth slowly across the story.
+- **Off the canon rails fast**, but nothing solves itself — canon Harry got stupid
+  lucky; this Harry replaces luck with preparation, and the world pushes back.
+- **Voldemort is a background threat**, an open problem on a list, solved
+  methodically and un-epically in Act IV.
+- **Endgame: the wizarding world transformed** (dementors extinct, magitech
+  revolution, institutional reform); humanity-scale change left as horizon.
+- He is EA-shaped: his advantage obligates him. No wasted time, no dumb decisions.
+- **Relationships**: deep friendships central; not the lonely-tragedy version.
+  A quiet, very-late, peer-only romance door is left open (Hermione) but the story
+  does not depend on it.
+- **100 chapters, ~4–6k words each** (~500k total). **~22 chapters pre-Hogwarts.**
+- POV: close third on Harry + occasional interludes (Figg, McGonagall, Dumbledore,
+  teachers, Ollivander, the Hat, press clippings).
+- Magic: invented consistent mechanics — see `magic-system.md`.
+
+## Time arithmetic (use consistently)
+
+- 1 real second ≈ 3 min 20 s subjective. 1 minute ≈ 3.3 hours. 1 hour ≈ 8.3 days.
+- 1 day ≈ 6.6 subjective months. 1 week ≈ 3.8 years. 1 month ≈ 16.6 years.
+  1 year = 200 years.
+- Doorstep → letter: ~9.7 real years ≈ **~1,940 subjective years**.
+- The August before Hogwarts alone ≈ 16 subjective years of study.
+- Sleep: biological, normal hours; dreams also run fast; lucid dreaming mastered in
+  early childhood (subjectively, after decades of practice) — usable for rehearsal
+  and incubation, not for new input.
+- Memory is NOT photographic. Unlimited rehearsal time + memory palaces at
+  pathological scale = functionally vast but curated memory. Old subjective
+  centuries blur like anyone's childhood. He keeps ciphered journals.
+- Reading: limited by eye saccades and page-turning, not comprehension — roughly
+  5× a fast adult reader, with total retention of what he chooses to keep.
+- The true bottleneck of his life is **input bandwidth**. Books are gold. People
+  are slow. Patience is not a virtue for him; it is a survival skill, learned the
+  way sailors learn knots.
+
+## Act structure
+
+### ACT I — The Cupboard Millennium (ch. 1–22, Nov 1981 → Sept 1991)
+
+1. **Two Months on a Doorstep** — Interlude: the canon-echo doorstep scene
+   (Dumbledore, McGonagall, Hagrid), ending on the note that none of them knows
+   what they are leaving there. Then inside: one night = 66 subjective days. The
+   dawn of the mind across 15 months–2.5 yrs: sensation → pattern → self. The
+   warming charm on the blanket = first datum of magic (unrecognized). Time is
+   "thick." First games. Language acquired from overheard speech studied between
+   syllables. The Incident (he speaks too well; Petunia's fear-face) → first rule:
+   *be small*. Ends ~age 3: the world is made of patterns, patterns are information,
+   information lives beyond the door — the long game begins.
+2. **The Operating Manual** — ages 3–4.5. The Dursleys studied as weather systems
+   (comedy). Concealment protocols. Dudley managed via engineered incentives. The
+   cupboard reframed: a door that closes is privacy ("the smallest office in
+   England"). Excursions: Mrs. Figg's cat house — boredom hell turned intelligence
+   asset; the glimpsed **moving photograph** = anomaly #1 confirmed. Nursery school
+   and the calibration problem (how smart to appear); "bright but plausible"
+   fails within weeks. Ends: print cracks open — he teaches himself to read off
+   cereal boxes, subtitles, Dudley's unread books. The marks begin to speak.
+3. **The Lending Library** — 4.5–5.5. Library card campaign (Petunia managed into
+   it; Mrs. Prentice the librarian becomes an ally). School proper; teachers'
+   first alarm (interlude: staff room at St Gregory's). Dudley's gang dissolved
+   structurally. The haircut event (canon): hair regrown overnight — an effect he
+   *slept through*, infuriating — founds the **anomaly research program**; ciphered
+   notebook begun.
+4. **Anomalies** — 5–6. Systematic logging of accidental magic; conditions,
+   triggers (impetus = need + arousal). The jumper-shrinking, the glass. Cloaked
+   strangers bow to him in town; Figg's watching patterns quantified. **Watcher
+   hypothesis** formed: a hidden organized society, interested in *him*
+   specifically. He decides not to poke it yet. Deduces his parents did not die in
+   a car crash (scar, the green flash memory, Petunia's flinches).
+5. **The Calibration War** — 6. School wants him skipped up years; Vernon wants
+   nothing; teachers vs. Dursleys with Harry conducting both sides invisibly to
+   land where he wants (access without exposure). First IQ-test comedy. Decides
+   fame in the muggle press is a cost, not a prize — ducks a "child genius"
+   newspaper piece, mostly.
+6. **Post Office** — 6–7. The money problem and the interface problem (no adult
+   front). Chess-by-post, puzzle-setting for magazines under pseudonyms, prize
+   competitions. Mrs. Prentice unknowingly lends respectability. First capital:
+   tens of pounds, then hundreds. A P.O. box of his own via a gentle con.
+7. **Dr. Hartley** — 7–8. Mathematics by correspondence: a Cambridge don starts
+   answering letters from "H. Evans". An Erdős-style postal collaboration; first
+   minor publishable result (goes out under Hartley's aegis with a mysterious
+   co-author). Harry hits the ceiling of what print can teach without labs.
+8. **The Latch** — 8. Magic research breakthrough: first *reproducible* wandless
+   effect (warmth; then the cupboard latch moved by a nudge of structured intent).
+   Builds **form-notation** (see magic bible). Effects are weak but controlled —
+   he reckons he is the first person in history to *watch himself* do magic in
+   slow motion.
+9. **Interlude: Arabella** — Figg's increasingly flustered reports; Dumbledore
+   serene, McGonagall not. ("He fixed Mr Tibbles' arthritis, Albus." "Children are
+   kind." "He *diagnosed* it first.") Dumbledore declines to intervene: the blood
+   wards hold, the boy seems happy, how remarkable can a ten-year-old be.
+10. **The Edge of the Map** — 9. London alone (cover story masterwork). Finds the
+    *edge* of magical London by inference — robed people vanishing near Charing
+    Cross; a pub his eyes slide past unless he works at it (perception-filter
+    mechanics). Gathers intelligence from outside; does NOT go in: unknown society,
+    surveillance on him, asymmetric information — he waits. (No dumb decisions.)
+11. **Petunia's Drawer** — 9–10. The gentle extraction of Petunia's secret: she
+    knows. Lily's letters. The word *Hogwarts*; the word *Dumbledore*; the shape of
+    why Petunia is how she is. Harry's first real compassion-despite-everything
+    beat. Household quietly re-engineered into something almost functional —
+    Dursley détente as comedy of incentives.
+12. **What Is Owed** — 10. The EA-formation chapter. He runs the numbers on his own
+    advantage; the argument with himself across a subjective year (one rainy
+    half-term) about obligation, drowning children, and what a person with two
+    hundred years per year *owes*. Resolution: the gift is leverage, and leverage
+    is responsibility. Drafts the List (problems worth a life: death, pain, waste,
+    stupidity — and now, apparently, *magic is real*, which reorders everything).
+13. **The Trace** — 10–11. Maps the surveillance experimentally: which anomalies
+    draw attention (owls overhead, Figg's calls), which don't. Infers rules of the
+    detection system (area-based, not attributed — see magic bible). Learns to
+    stay under it. Caches, codes, contingencies.
+14. **Interlude: The Watchers' File** — McGonagall reads the muggle file
+    (school reports, a chess magazine clipping, a maths journal acknowledgment to
+    "H. Evans, age not supplied") and starts asking questions Dumbledore can't
+    quite answer.
+15. **The Letter** — 11. He has been expecting it to the week. Intercepts the
+    first copy before Vernon (naturally), replies by return post in neat round
+    hand: *Dear Deputy Headmistress, yes; please advise as to visit.* The
+    letters-avalanche never happens; Vernon's meltdown is contained like a
+    controlled demolition.
+16. **The Visit** — McGonagall comes to Privet Drive expecting a starved waif or
+    a spoiled princeling; finds a small, courteous person with a list of
+    forty-one questions, in order. Interlude threaded: her report to Dumbledore
+    that night ("Albus. *Albus.*").
+17. **Diagon Alley** — Gringotts (the vault; money at last; goblin etiquette done
+    flawlessly from observation), Ollivander (the wand scene — his first true
+    *channel*; the holly-phoenix wand and what Ollivander half-sees), Madam
+    Malkin's, and the bookshop ransacked within budget discipline. Declines to buy
+    status objects. The Trace, officially this time.
+18. **Sixteen Years of August** — one real month = 16 subjective years: the entire
+    first-year syllabus mastered dry (theory only, no wand practice at home that
+    draws attention — he works right at the detection threshold he mapped in
+    ch. 13). Form-decompilation of standard spells begun from book descriptions.
+    Letters to Hartley wound down gracefully. Goodbyes: Mrs. Prentice, Figg
+    (whom he now addresses, privately, with the respect due a sentry).
+19. **Platform** — King's Cross; the barrier; the train. Meets Hermione (verbal
+    sparring partner found: the first person his own age who *chases*), Neville
+    (the toad, treated as a real problem worth solving properly), Ron (friendly,
+    wary of the weird intensity), Draco (handled so smoothly he leaves confused
+    and slightly recruited). Reader sees Harry *choosing* his first cohort.
+20. **The Hat** — Sorting. The Hat is the first conversation partner in his life
+    that runs at the speed of mind: subjectively the longest conversation he has
+    ever had with anyone (externally: a four-minute hatstall). The Hat gets the
+    full tour; it is delighted, alarmed, sworn to secrecy (it always is), and
+    makes its argument. **Ravenclaw.** (Hermione, sorted minutes later and
+    reasoning aloud with the Hat about evidence, follows him there.)
+21. **First Week** — classes as comedy of constraint: he must *unlearn perfection*
+    in public; wandwork betrays him instantly in Flitwick's class (first Charms
+    lesson: the feather does not just levitate; it *holds station*). Flitwick's
+    face. Quirrell introduced: Harry's pattern-sense snags on something *doubled*
+    about him — filed, flagged, watched. Snape's opening ambush in Potions is
+    answered with polite, total preparation; the Lily-thread lit but unread.
+22. **The Rules of the Game** — end of Act I. Dumbledore's first direct
+    conversation with him; two players introducing themselves across a chessboard
+    neither admits is there. The third-floor corridor announcement heard for what
+    it is (bait — for whom?). Harry founds the study group that will become the
+    Workshop. Act-end image: the List, rewritten by candlelight, with a new line
+    at the top: *Learn what magic is. Then fix everything.*
+
+### ACT II — Year One: The Unraveling (ch. 23–45)
+
+Canon scaffold snapping in slow motion. Key threads:
+- **The Workshop**: study group → skunkworks (Hermione, Neville, Padma, Penelope
+  Clearwater, eventually the twins as engineers). Form-notation taught as
+  "mnemonic diagrams" (mechanism still hidden).
+- **Magic research**: spell decompilation; first original micro-spells; the
+  discovery that *silent casting proves the interface thesis*; Flitwick recruited
+  as (unwitting, then half-witting) academic cover. McGonagall's transfiguration
+  theory lessons become mutual revelation.
+- **Quirrell/Voldemort**: the doubled pattern confirmed over months; Harry maps
+  the Stone plot by elimination, refuses every piece of bait, quietly
+  counter-plots. No mirror confrontation on Voldemort's terms: the year ends with
+  Quirrell exposed/flushed (Voldemort escapes as wraith — becomes the background
+  open problem), the Stone returned to the Flamels *with a letter that starts a
+  correspondence that matters later* (death research thread).
+- **Troll**: happens; handled with zero drama because Harry is never out of
+  position; becomes the moment Hermione and Neville move from friends to *sworn*.
+- **Dumbledore**: wary chess → first real alliance-of-convenience. He does not
+  learn the mechanism; he learns the boy is kind, which worries him more.
+- Interludes: Ollivander's letter to Dumbledore; staff-room scenes; a Prophet
+  clipping ("BOY-WHO-LIVED TOP OF EVERY CLASS, SAYS SOURCE").
+
+### ACT III — Years Two–Three: Building (ch. 46–68)
+
+- **Year 2 / the Diary**: Lucius's plot fires; the diary's *pattern* pings Harry's
+  senses almost immediately. Contained, studied (a horcrux in laboratory
+  conditions!), intelligence extracted; the ethics of destroying a mind-copy
+  handled with a light, serious touch. Basilisk located by deduction, negotiated
+  past / neutralized humanely; the Chamber becomes the Workshop's best lab.
+  Ginny saved early and off-handedly (and recruited, eventually, properly).
+  Dobby → house-elf economics → the labor-reform thread (EA in action, done with
+  actual economics, not hats).
+- **Year 3 / Sirius**: Harry, reading his parents' estate file, notices *there was
+  no trial*. Pettigrew found via pattern-census of the castle (the Map, acquired
+  from the twins, confirms). Sirius freed cleanly through law and leverage →
+  Harry gains a guardian, a house, money, and legal standing. Lupin: the
+  werewolf-cure research program begins (long thread, pays off Act V).
+- **THE DEMENTOR ARC** (centerpiece, ch. ~60–68): proximity = data. The Patronus
+  learned, then *understood* (a blocking form); the dissolving form derived over
+  months of careful, dangerous fieldwork; first dementor unmade in front of
+  witnesses at a Quidditch match gone wrong. The political earthquake; Azkaban
+  on the table. Act ends with the Ministry forced to accept a timetable for "the
+  day the cold goes out of the world."
+
+### ACT IV — Years Four–Five: Scaling (ch. 69–88)
+
+- **Magitech industrial revolution**: the Workshop incorporates (Sirius's gold,
+  goblin manufacturing partnerships, Flamel patents). Form-presses: devices that
+  imprint standardized forms → enchantment democratized. Two-way mirror network
+  (communication). Healing applications first (St Mungo's pilot). The Ministry
+  alternately obstructs and claims credit; Lucius Malfoy as the sharpest
+  institutional antagonist (Voldemort stays background).
+- **The Triwizard year happens to other people** — international exposure,
+  Statute tensions, foreign ministries wake up.
+- **Voldemort resolution** (quiet, clinical, humane — background threat to the
+  end): horcruxes hunted methodically with pattern-detection instruments built in
+  the Chamber lab. The scar-horcrux: Harry noticed the foreign pattern in his own
+  head *years* ago, contained and starved it — the reveal re-reads half the story.
+  The wraith cornered at last; offered containment; no duel, an appointment kept.
+  Tom Riddle ends as a case study in what waste looks like.
+- Inner circle now knows the mechanism (Hermione first — she *deduced* it, which
+  is the only way he'd have wanted it; then Neville, Sirius, McGonagall,
+  Dumbledore last and hardest).
+
+### ACT V — Transformation (ch. 89–100)
+
+- Wizengamot and education reform; Hogwarts curriculum rewritten (Flitwick
+  headmaster? McGonagall Minister? — decide late); dementors extinct, Azkaban
+  closed; werewolf cure shipped; healing magitech leaking across the Statute
+  under cover stories; the Statute itself renegotiated into a *managed
+  disclosure* roadmap (horizon, not finish line).
+- Death research: Flamel correspondence pays off; the veil studied; the
+  pattern-persistence question framed honestly — no cheap immortality, but the
+  problem is now *on the table* where civilization can work it.
+- Final chapters personal: Harry at ~17 (≈3,200 subjective years), what he is,
+  who he loves, the friendships that held; the Hermione door handled with care
+  (peer, knows everything, no rush — a beginning, not a wedding).
+- Ch. 100 ends on a callback to the first line of ch. 1 — one more long second,
+  and the next thing begins.
+
+## Running devices
+
+- **The List** — Harry's evolving problems-worth-a-life document; recurs at act
+  breaks.
+- **Time-arithmetic grace notes** — each chapter makes 200× *felt* at least once,
+  concretely, never as a dump.
+- **Interludes** — outside POVs showing how he looks from 1×: funny early,
+  awe-tinged later.
+- **The ciphered journals** — occasionally excerpted as epigraphs (translated).
+- **Figg → McGonagall → Dumbledore** reporting chain as a comic/dramatic relay.
+
+## Continuity ledger (update as chapters are written)
+
+- Ch. 1 establishes: warming-charm datum; the green flash memory; "be small";
+  cupboard-as-office framing; the thick-time vocabulary; Petunia's fear-face.
+- (append per chapter)

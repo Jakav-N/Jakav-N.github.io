@@ -2,6 +2,32 @@
 
 > Author's working notes. Spoiler-light but not spoiler-free.
 
+## Author directives (ch. 4 onward — from reader feedback)
+
+- **Write human, not AI.** The reader flagged the early chapters as reading
+  AI-ish. Concretely, from ch. 4 on:
+  - Scene-first. Dramatize in real time with dialogue and physical detail;
+    montage/summary only as connective tissue, never as the whole chapter.
+  - Cut the maxim density hard. Not every paragraph lands a clever turn. Let
+    things just happen. Plain sentences are allowed to sit next to long ones.
+  - Retire the scaffolding tics: "Item:", "filed under", "the ledger
+    noted/required honesty", "depending on how you counted" (keep that last one
+    only as a rare bookend motif, once every several chapters at most).
+  - Fewer em-dashes, fewer semicolon trains, fewer triads, fewer mirrored
+    constructions. Vary paragraph length. Allow a little roughness.
+  - Humor from situation and character, not from narrator wit.
+- **Memory is unlimited** (see outline). Never imply he forgets.
+- **Classifier safety**: a safety classifier halted the first draft of ch. 4 for
+  unknown reasons. Keep all content unmistakably gentle: no self-endangerment
+  framed as experimentation, nothing that lingers on harm to children, no
+  manufactured danger, nothing that could scan as sinister surveillance of a
+  child — keep the watchers benign and slightly comic. When in doubt, soften.
+  A second draft was halted at the same beat both times: the hand-me-down
+  jumper scene (an adult handling a child's clothing). That scene and anything
+  like it are CUT from the book permanently. Skip canon's shrinking-jumper
+  event; the anomaly census works without it. Write no scenes involving
+  children's clothing or bodies being handled.
+
 ## Voice
 
 - Close third person on Harry; narrator sits just behind his eyes, dry and precise,

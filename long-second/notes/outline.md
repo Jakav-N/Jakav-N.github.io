@@ -42,9 +42,11 @@
 - Sleep: biological, normal hours; dreams also run fast; lucid dreaming mastered in
   early childhood (subjectively, after decades of practice) — usable for rehearsal
   and incubation, not for new input.
-- Memory is NOT photographic. Unlimited rehearsal time + memory palaces at
-  pathological scale = functionally vast but curated memory. Old subjective
-  centuries blur like anyone's childhood. He keeps ciphered journals.
+- Memory: effectively UNLIMITED (author directive, post-ch. 3). Whatever
+  accelerated him also deepened storage: total retention from the doorstep night
+  on. Memory palaces are for organization and retrieval, not retention. The
+  ciphered journals are for thinking-on-paper, planning, and security caching —
+  not because he forgets. (Ch. 1's memory-limit paragraph retconned to match.)
 - Reading: limited by eye saccades and page-turning, not comprehension — roughly
   5× a fast adult reader, with total retention of what he chooses to keep.
 - The true bottleneck of his life is **input bandwidth**. Books are gold. People

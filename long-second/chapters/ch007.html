@@ -5,7 +5,133 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Chapter 7 — Interlude: Arabella and Albus · The Long Second</title>
 <meta name="description" content="Harry Potter and the Long Second — a fan novel. Chapter 7: Interlude: Arabella and Albus.">
-<link rel="stylesheet" href="../style.css">
+<style>
+:root {
+  --paper: #faf6ee;
+  --ink: #2b2820;
+  --ink-soft: #6b6353;
+  --accent: #7a5c2e;
+  --accent-soft: #b89a63;
+  --rule: #d8cfbc;
+  --card: #f3ecdd;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #16151a;
+    --ink: #d8d3c8;
+    --ink-soft: #8f897c;
+    --accent: #c9a86a;
+    --accent-soft: #8a744d;
+    --rule: #33313a;
+    --card: #1e1d24;
+  }
+}
+* { box-sizing: border-box; }
+html { font-size: 17px; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif;
+  line-height: 1.65;
+}
+.page {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 2.5rem 16px 5rem;
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Masthead */
+.crumb {
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  margin-bottom: 2.2rem;
+}
+.crumb a { color: var(--ink-soft); }
+
+/* Cover / index */
+.cover { text-align: center; margin: 3rem 0 2.5rem; }
+.cover .series {
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.8rem; letter-spacing: 0.22em; text-transform: uppercase;
+  color: var(--accent);
+}
+.cover h1 {
+  font-size: 2.4rem; font-weight: normal; margin: 0.6rem 0 0.4rem;
+  line-height: 1.15;
+}
+.cover .byline { color: var(--ink-soft); font-style: italic; }
+.blurb {
+  font-style: italic; color: var(--ink-soft);
+  border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule);
+  padding: 1.3rem 0.4rem; margin: 2.2rem 0;
+  text-align: center;
+}
+.toc { list-style: none; padding: 0; margin: 2rem 0; }
+.toc li { margin: 0; }
+.toc a {
+  display: flex; justify-content: space-between; align-items: baseline;
+  gap: 1rem; padding: 0.7rem 0.6rem; border-bottom: 1px solid var(--rule);
+  color: var(--ink);
+}
+.toc a:hover { background: var(--card); text-decoration: none; }
+.toc .n {
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.78rem; color: var(--accent); letter-spacing: 0.08em;
+  white-space: nowrap;
+}
+.toc .t { flex: 1; }
+.toc .w { font-size: 0.78rem; color: var(--ink-soft); white-space: nowrap; }
+.note { font-size: 0.85rem; color: var(--ink-soft); text-align: center; margin-top: 3rem; }
+
+/* Chapter */
+.chapter h1 {
+  font-size: 1.7rem; font-weight: normal; text-align: center;
+  margin: 1rem 0 0.4rem; line-height: 1.25;
+}
+.chapter .chapno {
+  text-align: center;
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.8rem; letter-spacing: 0.2em; text-transform: uppercase;
+  color: var(--accent); margin-top: 2rem;
+}
+.chapter h1 + p, .chapter hr + p { margin-top: 1.6rem; }
+.chapter p { margin: 0 0 1.05rem; text-align: justify; hyphens: auto; }
+.chapter hr {
+  border: none; text-align: center; margin: 2.2rem 0;
+}
+.chapter hr::after {
+  content: '❦'; color: var(--accent-soft); font-size: 1.1rem;
+}
+.chapter blockquote {
+  margin: 1.8rem 1.4rem; font-style: italic; color: var(--ink-soft);
+}
+.chapter blockquote p { text-align: left; }
+.chapter h2 {
+  font-weight: normal; font-style: italic; font-size: 1.15rem;
+  margin: 2.4rem 0 1rem; color: var(--ink-soft); text-align: center;
+}
+
+/* Chapter nav */
+.chnav {
+  display: flex; justify-content: space-between; gap: 1rem;
+  margin-top: 3.5rem; padding-top: 1.2rem; border-top: 1px solid var(--rule);
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.88rem;
+}
+.chnav .spacer { flex: 1; }
+
+@media (max-width: 480px) {
+  html { font-size: 16px; }
+  .cover h1 { font-size: 1.9rem; }
+  .chapter p { text-align: left; }
+}
+</style>
 </head>
 <body>
 <div class="page">
@@ -21,16 +147,14 @@
 <p>She had been posted here to watch for <em>them</em>. For a cloak in the wrong season, a stranger asking after the house, the wards shivering in the night the way Albus had said she might feel them even without a wand, in her teeth, like weather. Five years she had watched for that and seen none of it — a few tourists, the Diggle man bowing in the street like a fool — and every month she had written it down, and at the end, in the space Albus had never asked her to fill, she had put the boy. <em>Quiet. Clever. A reader. Too thin but they feed him. He smiles at the cats.</em></p>
 <p>And then last March he had sat on her garden bench and asked her what she was, and she had written to Albus that night with her heart going, and Albus had said <em>tell him</em>, and she had told him, and since then every letter had been a different kind of letter, and this one was the most different yet.</p>
 <p>She uncapped the pen.</p>
-<blockquote><p><em>Dear Albus,</em>  <em>I write with the right hand. You will not know what that means, so I shall tell you, and then I shall tell you the rest in order, because I have been trying all week to find a way to put it that will not make you say "children are often kind to animals", and I have not found one, so you will simply have to not say it.</em>  <em>Since the autumn of 1946 I have not been able to hold a teacup in my right hand. You have seen my hands; you have been kind enough never to mention them. Last Saturday the boy looked at them across my kitchen table and said they looked sore, and asked — asked, Albus, very politely, he has never asked me for a thing in five years — if he might hold them for a minute. And he held them, and said nothing, and I felt it. I cannot do magic, but I grew up in a house full of it and I know the feel of it in a room the way you know when the kettle is about to go. I felt it come up through him and into my hands like a bath filling, and it went to the knuckles as if it knew the way, and when he let go my fingers were straight. They are straight now. I am writing this with them.</em>  <em>He is six years old. He has had no wand, no teaching, no one to show him. He has worked it out for himself on my kitchen floor, and I have watched him do it since June, one cat at a time, and I have said nothing, and nor has he, and we have both known exactly what the other was not saying.</em></p></blockquote>
+<blockquote><p><em>Dear Albus,</em>  <em>I write with the right hand. You will not know what that means, so I shall tell you first, and then the rest in order.</em>  <em>Since the autumn of 1946 I have not been able to hold a teacup in my right hand. You have seen my hands; you have been kind enough never to mention them. Last Saturday the boy looked at them across my kitchen table and said they looked sore, and asked — asked, Albus, very politely, he has never asked me for a thing in five years — if he might hold them for a minute. And he held them, and said nothing, and I felt it. I cannot do magic, but I grew up in a house full of it and I know the feel of it in a room the way you know when the kettle is about to go. I felt it come up through him and into my hands like a bath filling, and it went to the knuckles as if it knew the way, and when he let go my fingers were straight. They are straight now. I am writing this with them.</em>  <em>He is six years old. He has had no wand, no teaching, no one to show him. He has worked it out for himself on my kitchen floor, and I have watched him do it since June, one cat at a time, and I have said nothing, and nor has he, and we have both known exactly what the other was not saying.</em></p></blockquote>
 <p>She stopped there, and looked at what she had written, and found that her eyes had gone hot, which was absurd at her age over a sentence.</p>
-<blockquote><p><em>And here is the part I do not know how to put. He does not do it the way they do. I have watched witches and wizards do magic since I was in a pram — my brothers, their friends, you — and they TELL it. A stick and a word and the thing is done. He does not tell it anything. He sits on the floor and is sorry for a cat until the cat gets up. He told me, in a café, that it answers "caring", and that the broken things are only easier because they tell you what is wrong, and then he warmed my teapot to prove it, and I have never in my life seen anything like it and I do not believe you have either.</em>  <em>He is also, since last spring, at a university. I do not think I have told you that properly. I have been taking him on the train every weekday since May. The professor there found a mistake on page nine of forty pages he had written and he thanked her for it, and she has told the county, in writing, that the university will take him or she will know the reason why. He is to sit Muggle examinations this summer that children sit at sixteen and eighteen, all of them at once, because the woman from the county cannot think what else to do with him and nor can anyone. He reads six books a day. I have counted. I sit in the café and they bring me the slips.</em>  <em>He knows I write to you. He has known for years. He asked me what I was so that I would not have to choose between him and you, and he waited two years to ask it, and when I told him he said thank you, for writing.</em>  <em>You asked me once to tell you if he was happy. He is. He is happier than I have ever seen him, and he is six, and he can light a candle with nothing in a cupboard, and he has pinned the date of his letter to the inside of the cupboard door, and I think he has decided to spend the next four and a half years getting ready for you in a way that nobody in the history of that school has ever been ready, and I do not think any of you have the faintest idea what is coming up the drive.</em>  <em>That is what frightens me, Albus. Not him. He is the gentlest creature I have ever met. The rest of you.</em>  <em>I remain, as ever, at my post, which is now a café in Egham with a pot of tea.</em>  <em>Arabella</em></p></blockquote>
+<blockquote><p><em>And here is the part I do not know how to put. He does not do it the way they do. I have watched witches and wizards do magic since I was in a pram — my brothers, their friends, you — and they TELL it. A stick and a word and the thing is done. He does not tell it anything. He sits on the floor and is sorry for a cat until the cat gets up. He told me, in a café, that it answers "caring", and that the broken things are only easier because they tell you what is wrong, and then he warmed my teapot so that I should see. I have watched magic done for sixty years and I have not seen it done like that, and I do not think you have.</em>  <em>He is also, since last spring, at a university. I do not think I have told you that properly. I have been taking him on the train every weekday since May. The professor there found a mistake on page nine of forty pages he had written and he thanked her for it, and she has told the county, in writing, that the university will take him or she will know the reason why. He is to sit Muggle examinations this summer that children sit at sixteen and eighteen, all of them at once, because the woman from the county cannot think what else to do with him and nor can anyone. He reads six books a day. I have counted. I sit in the café and they bring me the slips.</em>  <em>He knows I write to you. He has known for years. He asked me what I was so that I would not have to choose between him and you, and he waited two years to ask it, and when I told him he said thank you, for writing.</em>  <em>You asked me once to tell you if he was happy. He is. He is happier than I have ever seen him, and he is six, and he can light a candle with nothing in a cupboard, and he has pinned the date of his letter to the inside of the cupboard door, and I think he has decided to spend the next four and a half years getting ready for you in a way that nobody in the history of that school has ever been ready, and I do not think any of you have the faintest idea what is coming up the drive.</em>  <em>That is what frightens me, Albus. Not him. He is the gentlest creature I have ever met. The rest of you.</em>  <em>I remain, as ever, at my post, which is now a café in Egham with a pot of tea.</em>  <em>Arabella</em></p></blockquote>
 <p>She read it through twice, blotted it, and folded it. Mr Tibbles watched her address the envelope with the right hand.</p>
 <p>“There,” said Arabella. “Now he knows.”</p>
 <p>The cat looked at the envelope, and at her, with the expression that Harry Potter would have recognised at once and that she had never managed to name in nine years: the look of a creature who has sat through the whole lecture and is waiting, not optimistically, to see whether anybody was listening.</p>
 <hr>
 <p><em>The Headmaster’s office, Hogwarts, the following Monday</em></p>
-<p>“Children,” said Albus Dumbledore, “are often—”</p>
-<p>“<em>Albus</em>.”</p>
 <p>Minerva McGonagall had the letter in her hand. She had read it standing, twice, and was now reading it a third time sitting down, which Dumbledore had observed over sixty years to be the sequence in which she received news she did not like. Behind her, Fawkes shifted on his perch and made a small enquiring sound, and the hundred small silver instruments on the side tables went on turning and puffing in their mild way, and the February light came in thin and white across a desk that had five years of Arabella Figg’s letters on it, in a stack, in order, with the newest on top.</p>
 <p>“Her <em>hands</em>,” said McGonagall.</p>
 <p>“So she writes.”</p>
@@ -52,10 +176,10 @@
 <p>“The last paragraph.”</p>
 <p>He read it again. She watched him arrive at it — <em>not him; the rest of you</em> — and stop there, as she had, three times.</p>
 <p>“She is not afraid of him,” he said slowly.</p>
-<p>“She is afraid <em>for</em> us. Which is a very different thing, and in my experience the more sensible.” McGonagall stood, and smoothed her robes, and looked at him with the face she kept for students who had done something clever and were about to be told it did not excuse them. “Four and a half years, you say. I shall hold you to it. On his eleventh birthday I am delivering that letter myself, in person, by hand, and I am going to look at that child with my own eyes, and if he is what Arabella Figg says he is, I want it on record that I said so first.”</p>
-<p>“Noted,” said Dumbledore gravely. “Shall I write it down?”</p>
-<p>“<em>I</em> shall write it down,” said McGonagall, and did, in the margin of Arabella’s letter, in green ink — <em>M.M. said so first, Feb. ’87</em> — and left it on his desk, and went to teach the third years.</p>
-<p>He sat a while after she had gone. The light moved. Fawkes sang two notes and stopped. On the desk, under McGonagall’s green margin, in a hand that had changed since the autumn from a careful left-handed slant to something freer, a squib in a housecoat had written <em>he sits on the floor and is sorry for a cat until the cat gets up</em>, and Albus Dumbledore, who had read every book on magic in the castle and most of the ones outside it, sat with the sentence for a long time and found that he had no shelf to put it on.</p>
+<p>“She is afraid <em>for</em> us. Which is a very different thing, and in my experience the more sensible.” McGonagall stood, and smoothed her robes. “Four and a half years, you say. I shall hold you to it. On his eleventh birthday I am delivering that letter myself, in person, by hand, and I am going to look at that child with my own eyes.”</p>
+<p>“Yes,” said Dumbledore. “I think you had better.”</p>
+<p>She put the letter down on his desk and went to teach the third years.</p>
+<p>He sat a while after she had gone. The light moved. Fawkes sang two notes and stopped. On the desk, in a hand that had changed since the autumn from a careful left-handed slant to something freer, a squib in a housecoat had written <em>he sits on the floor and is sorry for a cat until the cat gets up</em>, and Albus Dumbledore, who had read every book on magic in the castle and most of the ones outside it, sat with the sentence for a long time and found that he had no shelf to put it on.</p>
 <p>Then he took a fresh sheet and wrote to Arabella. He thanked her. He told her to go on exactly as she was, and to be kind to him, and to let him see nothing in her face but what was there. He raised her stipend by four galleons a month and said it was for the scones. And at the end he added one line that he had not planned, and did not cross out.</p>
 <p><em>If he asks you what the first wizards did, before wands — tell him I do not know, and that I should very much like to.</em></p>
 <hr>

@@ -5,7 +5,133 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Chapter 9 — The Edge of the Map · The Long Second</title>
 <meta name="description" content="Harry Potter and the Long Second — a fan novel. Chapter 9: The Edge of the Map.">
-<link rel="stylesheet" href="../style.css">
+<style>
+:root {
+  --paper: #faf6ee;
+  --ink: #2b2820;
+  --ink-soft: #6b6353;
+  --accent: #7a5c2e;
+  --accent-soft: #b89a63;
+  --rule: #d8cfbc;
+  --card: #f3ecdd;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #16151a;
+    --ink: #d8d3c8;
+    --ink-soft: #8f897c;
+    --accent: #c9a86a;
+    --accent-soft: #8a744d;
+    --rule: #33313a;
+    --card: #1e1d24;
+  }
+}
+* { box-sizing: border-box; }
+html { font-size: 17px; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif;
+  line-height: 1.65;
+}
+.page {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 2.5rem 16px 5rem;
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Masthead */
+.crumb {
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  margin-bottom: 2.2rem;
+}
+.crumb a { color: var(--ink-soft); }
+
+/* Cover / index */
+.cover { text-align: center; margin: 3rem 0 2.5rem; }
+.cover .series {
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.8rem; letter-spacing: 0.22em; text-transform: uppercase;
+  color: var(--accent);
+}
+.cover h1 {
+  font-size: 2.4rem; font-weight: normal; margin: 0.6rem 0 0.4rem;
+  line-height: 1.15;
+}
+.cover .byline { color: var(--ink-soft); font-style: italic; }
+.blurb {
+  font-style: italic; color: var(--ink-soft);
+  border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule);
+  padding: 1.3rem 0.4rem; margin: 2.2rem 0;
+  text-align: center;
+}
+.toc { list-style: none; padding: 0; margin: 2rem 0; }
+.toc li { margin: 0; }
+.toc a {
+  display: flex; justify-content: space-between; align-items: baseline;
+  gap: 1rem; padding: 0.7rem 0.6rem; border-bottom: 1px solid var(--rule);
+  color: var(--ink);
+}
+.toc a:hover { background: var(--card); text-decoration: none; }
+.toc .n {
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.78rem; color: var(--accent); letter-spacing: 0.08em;
+  white-space: nowrap;
+}
+.toc .t { flex: 1; }
+.toc .w { font-size: 0.78rem; color: var(--ink-soft); white-space: nowrap; }
+.note { font-size: 0.85rem; color: var(--ink-soft); text-align: center; margin-top: 3rem; }
+
+/* Chapter */
+.chapter h1 {
+  font-size: 1.7rem; font-weight: normal; text-align: center;
+  margin: 1rem 0 0.4rem; line-height: 1.25;
+}
+.chapter .chapno {
+  text-align: center;
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.8rem; letter-spacing: 0.2em; text-transform: uppercase;
+  color: var(--accent); margin-top: 2rem;
+}
+.chapter h1 + p, .chapter hr + p { margin-top: 1.6rem; }
+.chapter p { margin: 0 0 1.05rem; text-align: justify; hyphens: auto; }
+.chapter hr {
+  border: none; text-align: center; margin: 2.2rem 0;
+}
+.chapter hr::after {
+  content: '❦'; color: var(--accent-soft); font-size: 1.1rem;
+}
+.chapter blockquote {
+  margin: 1.8rem 1.4rem; font-style: italic; color: var(--ink-soft);
+}
+.chapter blockquote p { text-align: left; }
+.chapter h2 {
+  font-weight: normal; font-style: italic; font-size: 1.15rem;
+  margin: 2.4rem 0 1rem; color: var(--ink-soft); text-align: center;
+}
+
+/* Chapter nav */
+.chnav {
+  display: flex; justify-content: space-between; gap: 1rem;
+  margin-top: 3.5rem; padding-top: 1.2rem; border-top: 1px solid var(--rule);
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.88rem;
+}
+.chnav .spacer { flex: 1; }
+
+@media (max-width: 480px) {
+  html { font-size: 16px; }
+  .cover h1 { font-size: 1.9rem; }
+  .chapter p { text-align: left; }
+}
+</style>
 </head>
 <body>
 <div class="page">
@@ -40,7 +166,7 @@
 <p>Every time. Eleven times. He was the best watcher in Surrey and probably in England and he had been looking at the <em>record shop</em>.</p>
 <p>That was the moment he understood the curtain, and it was not at all what he had imagined. He had pictured it like a wall, or a lock — a thing on the far side, keeping people out. It was nothing of the kind. It was on <em>his</em> side. It was in his head. Something in that thirty feet of frontage reached into the place where he decided what to look at, and moved his looking, gently, an inch to the left, and let him think he had done it himself. He had felt his attention go. He had every one of those eleven moments on the shelf and he went back through them now at leisure and found the same thing in each: a small sideways pressure, like a hand on the back of the head, so soft and so timed to the ordinary jump of the eye that no one on earth could possibly have noticed it happening.</p>
 <p>No one who looked at the world at one-to-one.</p>
-<p>He stood in his doorway with his heart going and understood what he had. It was a <em>sentence</em>. It was the roses — a shape, a grammar, working on him, written by somebody long ago and left running, like the warmth in the blankets. And it was written for people whose attention jumped once and landed. His jumped two hundred times in the space where theirs jumped once. There was <em>room</em> in his looking that the sentence had never been built to fill.</p>
+<p>He stood in his doorway with his heart going and understood what he had. It was a <em>sentence</em>. It was the roses — a shape, a grammar, working on him, written by somebody long ago and left running, like the warmth in the blankets. And it was not asking what he <em>was</em>. The boy in ordinary clothes had gone through with his hand in a witch’s, and it had let him, because the hand knew the way. It was a sentence for keeping a secret from people who did not have it yet, and he did not have it yet. And it was written for people whose attention jumped once and landed. His jumped two hundred times in the space where theirs jumped once. There was <em>room</em> in his looking that the sentence had never been built to fill.</p>
 <p>So he went and stood in it.</p>
 <p>He crossed the road and walked, slowly, along the thirty feet, and felt the hand come — soft, kind, <em>nothing to see here, dear</em> — and let it move him, and watched it move him, the way he had watched the roses. Then he walked back, and let it do it again, and watched again. Then a third time, and this time, where the hand came, he did a thing he had been practising on the roses for a year without knowing what it was for: he stood still inside himself and <em>didn’t go with it</em>. He let the push arrive and simply declined to look at the record shop, the way you decline a biscuit, and held his looking where it was, on the stretch of grimy brick between the two shopfronts, and for a second nothing happened, and the hand pushed harder, almost puzzled —</p>
 <p>and there was a pub.</p>
@@ -53,7 +179,7 @@
 <p>“I could see it the whole time. I’ve been able to see that pub since I was four years old; my brothers used to take me. I have sat here two hours with it in the corner of my eye and not said a word, and I should like you to know, Harry, that it is the hardest thing I have done since 1946.” She drank her tea. “What did it feel like? Finding it. I’ve always wondered. I never had to.”</p>
 <p>He thought about how to say it. “Like a hand on the back of my head,” he said. “Very gentle. Pushing me to look somewhere else. And I just — didn’t.”</p>
 <p>Mrs Figg looked at him over her cup for a long moment.</p>
-<p>“They don’t know you can do that,” she said. “Nobody can do that. Muggles can’t see it and wizards don’t need to. There isn’t anybody it was built to stop who could <em>decline</em> it.” She put the cup down. “I shall have to find a way to put that in a letter too. I don’t know how I shall. <em>He declined the Leaky Cauldron.</em>” And then — he saw her decide, the way he had seen so many of them decide that year, to stand to one side of a door — “Well. You’ve found it. What now?”</p>
+<p>“Nobody can do that,” she said. “It turns away anyone who doesn’t know it’s there. Wizards know. A Muggle with a witch holding her hand gets through, because the hand knows. Nobody <em>finds</em> it. That is the whole of what it’s for.” She put the cup down. “I shall have to find a way to put that in a letter too. I don’t know how I shall. <em>He declined the Leaky Cauldron.</em>” And then — he saw her decide, the way he had seen so many of them decide that year, to stand to one side of a door — “Well. You’ve found it. What now?”</p>
 <p>“Now I ask you to take me in,” said Harry. “To buy books. I’ve found it myself, which is what I wanted. The rest I can’t do alone; I don’t know how the door in the wall works, or what the money is, or what’s a sensible thing to say to a goblin. You do.” He looked at her. “I know you’ll have to write and say so. I know he might say you shouldn’t have. But Mrs Figg — I have read every book on the fourth and fifth floors of a university, and I have never seen a page of theirs, and there is a <em>bookshop</em> on the other side of that wall, and I have four years.”</p>
 <p>“He’ll say no,” said Mrs Figg. “If I ask him.”</p>
 <p>“Then don’t ask him,” said Harry. “Tell him after.”</p>
@@ -120,7 +246,7 @@
 <p>Not for long. He let it come, and let it go, and they caught the train, and they were home for tea.</p>
 <hr>
 <p><em>Wisteria Walk, that night</em></p>
-<blockquote><p><em>Dear Albus,</em>  <em>I took him to Diagon Alley this afternoon. You would have said no, so I did not ask.</em>  <em>I should tell you first that he found the Leaky Cauldron himself, from the Muggle side, in two hours and eleven minutes, by standing on the Charing Cross Road until he could feel the charm pushing his attention and then — his word — declining it. I watched him do it from across the road. I have never heard of anyone doing that and nor, I think, have you. He says it felt like a hand on the back of his head and he simply didn't go with it.</em>  <em>Then he asked me to take him in for books, and I did, because he is seven and has read a university and had never seen one page of ours, and because I have told you twice in my life that you were wrong and I find I had it in me a third time. I spent the scone money. Thirty galleons. The bill is enclosed, itemised, and I shall thank you to pay it without comment.</em>  <em>He bought all seven Standard Books, Waffling, Bagshot, Hogwarts: A History, today's Prophet, and a thing from 1911 that nobody has bought in living memory and that he read standing up and then had to sit down. He read the wall in the yard — READ it, Albus, the bricks, he says it is a sentence and he could write it given a year — and Bogrod at Gringotts changed his Muggle money and did not sneer, which I did not know Bogrod could do.</em>  <em>And then he looked himself up in the index of A History of Magic, on a bench, and I held his hand while he read it, and I will tell you what he said when he had finished, because you should hear it in his words and not mine. He said: "They don't say he's dead. They say vanished. I know what the careful words are for. That's why you watch for cloaks. It isn't only for me. It's against something." He is seven.</em>  <em>He cried on the way to the station. Not for long. He has a shelf, he says, for things he will deal with when he is ready and not one day before, and he put it there, and I believe him, because I have watched him put things on that shelf for a year and I have never once seen one fall off.</em>  <em>I am not sorry. I shall not be. He asked me whether I was wrong to have waited, and I said I wanted him to have it off a page, like everything else, and he said I was right. I think I was. I think it is the first thing in six years I have been entirely sure I did right by him, and I did it against your instructions, and I should like you to sit with that.</em>  <em>Arabella</em>  <em>P.S. He has four years. He has read the Standard Books already — all seven — on the train home and before bed; he told me so at the gate. He says he can see the sentences under the words. He says it is like being handed a dictionary for a language he has been reading off roses. I do not know what any of that means. I think you had better.</em></p></blockquote>
+<blockquote><p><em>Dear Albus,</em>  <em>I took him to Diagon Alley this afternoon. You would have said no, so I did not ask.</em>  <em>I should tell you first that he found the Leaky Cauldron himself, from the Muggle side, in two hours and eleven minutes, by standing on the Charing Cross Road until he could feel the charm turning his eyes and then — his word — declining it. Nobody had told him it was there; it had every right to turn him, and it could not. I watched him do it from across the road. I have never heard of anyone finding it from the outside and nor, I think, have you. He says it felt like a hand on the back of his head and he simply didn't go with it.</em>  <em>Then he asked me to take him in for books, and I did, because he is seven and has read a university and had never seen one page of ours, and because I have told you twice in my life that you were wrong and I find I had it in me a third time. I spent the scone money. Thirty galleons. The bill is enclosed, itemised, and I shall thank you to pay it without comment.</em>  <em>He bought all seven Standard Books, Waffling, Bagshot, Hogwarts: A History, today's Prophet, and a thing from 1911 that nobody has bought in living memory and that he read standing up and then had to sit down. He read the wall in the yard — READ it, Albus, the bricks, he says it is a sentence and he could write it given a year — and Bogrod at Gringotts changed his Muggle money and did not sneer, which I did not know Bogrod could do.</em>  <em>And then he looked himself up in the index of A History of Magic, on a bench, and I held his hand while he read it, and I will tell you what he said when he had finished, because you should hear it in his words and not mine. He said: "They don't say he's dead. They say vanished. I know what the careful words are for. That's why you watch for cloaks. It isn't only for me. It's against something." He is seven.</em>  <em>He cried on the way to the station. Not for long. He has a shelf, he says, for things he will deal with when he is ready and not one day before, and he put it there, and I believe him, because I have watched him put things on that shelf for a year and I have never once seen one fall off.</em>  <em>I am not sorry. I shall not be. He asked me whether I was wrong to have waited, and I said I wanted him to have it off a page, like everything else, and he said I was right. I think I was. I think it is the first thing in six years I have been entirely sure I did right by him, and I did it against your instructions, and I should like you to sit with that.</em>  <em>Arabella</em>  <em>P.S. He has four years. He has read the Standard Books already — all seven — on the train home and before bed; he told me so at the gate. He says he can see the sentences under the words. He says it is like being handed a dictionary for a language he has been reading off roses. I do not know what any of that means. I think you had better.</em></p></blockquote>
 </article>
 <nav class="chnav">
 <a href="ch008.html">&larr; Ch. 8: Fifteen Papers</a>

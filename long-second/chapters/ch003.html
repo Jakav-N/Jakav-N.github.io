@@ -5,7 +5,133 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Chapter 3 — The Lending Library · The Long Second</title>
 <meta name="description" content="Harry Potter and the Long Second — a fan novel. Chapter 3: The Lending Library.">
-<link rel="stylesheet" href="../style.css">
+<style>
+:root {
+  --paper: #faf6ee;
+  --ink: #2b2820;
+  --ink-soft: #6b6353;
+  --accent: #7a5c2e;
+  --accent-soft: #b89a63;
+  --rule: #d8cfbc;
+  --card: #f3ecdd;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #16151a;
+    --ink: #d8d3c8;
+    --ink-soft: #8f897c;
+    --accent: #c9a86a;
+    --accent-soft: #8a744d;
+    --rule: #33313a;
+    --card: #1e1d24;
+  }
+}
+* { box-sizing: border-box; }
+html { font-size: 17px; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif;
+  line-height: 1.65;
+}
+.page {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 2.5rem 16px 5rem;
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Masthead */
+.crumb {
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  margin-bottom: 2.2rem;
+}
+.crumb a { color: var(--ink-soft); }
+
+/* Cover / index */
+.cover { text-align: center; margin: 3rem 0 2.5rem; }
+.cover .series {
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.8rem; letter-spacing: 0.22em; text-transform: uppercase;
+  color: var(--accent);
+}
+.cover h1 {
+  font-size: 2.4rem; font-weight: normal; margin: 0.6rem 0 0.4rem;
+  line-height: 1.15;
+}
+.cover .byline { color: var(--ink-soft); font-style: italic; }
+.blurb {
+  font-style: italic; color: var(--ink-soft);
+  border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule);
+  padding: 1.3rem 0.4rem; margin: 2.2rem 0;
+  text-align: center;
+}
+.toc { list-style: none; padding: 0; margin: 2rem 0; }
+.toc li { margin: 0; }
+.toc a {
+  display: flex; justify-content: space-between; align-items: baseline;
+  gap: 1rem; padding: 0.7rem 0.6rem; border-bottom: 1px solid var(--rule);
+  color: var(--ink);
+}
+.toc a:hover { background: var(--card); text-decoration: none; }
+.toc .n {
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.78rem; color: var(--accent); letter-spacing: 0.08em;
+  white-space: nowrap;
+}
+.toc .t { flex: 1; }
+.toc .w { font-size: 0.78rem; color: var(--ink-soft); white-space: nowrap; }
+.note { font-size: 0.85rem; color: var(--ink-soft); text-align: center; margin-top: 3rem; }
+
+/* Chapter */
+.chapter h1 {
+  font-size: 1.7rem; font-weight: normal; text-align: center;
+  margin: 1rem 0 0.4rem; line-height: 1.25;
+}
+.chapter .chapno {
+  text-align: center;
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.8rem; letter-spacing: 0.2em; text-transform: uppercase;
+  color: var(--accent); margin-top: 2rem;
+}
+.chapter h1 + p, .chapter hr + p { margin-top: 1.6rem; }
+.chapter p { margin: 0 0 1.05rem; text-align: justify; hyphens: auto; }
+.chapter hr {
+  border: none; text-align: center; margin: 2.2rem 0;
+}
+.chapter hr::after {
+  content: '❦'; color: var(--accent-soft); font-size: 1.1rem;
+}
+.chapter blockquote {
+  margin: 1.8rem 1.4rem; font-style: italic; color: var(--ink-soft);
+}
+.chapter blockquote p { text-align: left; }
+.chapter h2 {
+  font-weight: normal; font-style: italic; font-size: 1.15rem;
+  margin: 2.4rem 0 1rem; color: var(--ink-soft); text-align: center;
+}
+
+/* Chapter nav */
+.chnav {
+  display: flex; justify-content: space-between; gap: 1rem;
+  margin-top: 3.5rem; padding-top: 1.2rem; border-top: 1px solid var(--rule);
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.88rem;
+}
+.chnav .spacer { flex: 1; }
+
+@media (max-width: 480px) {
+  html { font-size: 16px; }
+  .cover h1 { font-size: 1.9rem; }
+  .chapter p { text-align: left; }
+}
+</style>
 </head>
 <body>
 <div class="page">
@@ -69,7 +195,7 @@
 <p>What he felt first, and he kept it because the shelf required honesty and he never afterwards pretended otherwise, was not wonder. It was <em>outrage</em>. Three years. Three years the anomalies file had sat on its shelf, boxed as expensive if true, starved: one warmth he’d been fifteen months old for, one photograph with a kettle shrieking over it, a handful of maybes—a fall off the garden wall that had hurt less than physics suggested, a jam jar that he was almost sure had been out of reach. Three years of <em>pending, unreliable, do not build on</em>. And now the largest magical event of his life—measurable! repeatable-sounding! his own body the apparatus!—had happened six inches above the finest observation instrument in Little Whinging, while the instrument was <em>switched off</em>. He had slept through his own experiment. The universe had, at last, submitted data, and the recording equipment had been unconscious in its camp bed, dreaming—he had checked the dream log too, it was the first thing he checked—of absolutely nothing relevant.</p>
 <p>Downstairs, Petunia dropped the milk bottle. The weather that followed was severe—<em>how did you, what did you, you wicked—</em> cut off, as always, at the drawer’s edge—and he stood in it with his face arranged into frightened bafflement, which required no arranging whatsoever for once, and took his week in the cupboard without protest, and was grateful for the dark and the quiet, because he had work to do and the office door was shut and the universe had finally, <em>finally</em>, blinked first.</p>
 <p>The anomalies file came down off the shelf that night and did not go back up. By Sunday it had become the Programme, with its own shelf, its own order, and its first honest casefile, because the hair was different in kind from everything before it: bounded (overnight), targeted (the hair, the whole hair, nothing but the hair), <em>corrective</em> (the universe had not given him something new; it had put something back the way it was supposed to be), and correlated, like the warmth, like the soft landing off the wall, with a need. He had gone to sleep dreading Monday in his skin. Something had audited the dread, identified the cause, and quietly reversed it—while he slept, which was the pattern’s cruellest feature and, the Programme noted in its first formal hypothesis, perhaps its most informative one:</p>
-<p><em>H1. The effect does not run when I am watching. Corollary: the effect runs on the same machinery I watch WITH—and when the watcher stands aside (sleep, flood emotion), the machinery answers need directly.</em></p>
+<p><em>H1. It does not run while I am watching for it. Corollary: it uses the same machinery I watch with—and when that is busy elsewhere (asleep, or flooded), it answers need directly.</em></p>
 <p>Which would mean the power was not out in the world, in blankets and photographs, visiting him.</p>
 <p>Which would mean the power was in here. Standing behind the watcher. Waiting, with two hundred times a lifetime’s patience, for the watcher to leave the room.</p>
 <p>Harry Potter sat in the dark of the smallest office in England, five years old, or a thousand, depending on how you counted, with the Programme laid out where he kept it and his outrage cooling into something with much longer legs, and began—under a staircase in Surrey, in his head, where everything lived and nothing was ever lost—to draft the experiments.</p>

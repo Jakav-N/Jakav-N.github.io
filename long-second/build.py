@@ -19,7 +19,9 @@ PAGE = """<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title}</title>
 <meta name="description" content="Harry Potter and the Long Second — a fan novel. {chapno_label}: {title_plain}.">
-<link rel="stylesheet" href="../style.css">
+<style>
+__CSS__
+</style>
 </head>
 <body>
 <div class="page">
@@ -96,6 +98,9 @@ def word_count(md: str) -> int:
 
 def main():
     OUT.mkdir(exist_ok=True)
+    # Inline the stylesheet so each page renders styled in previewers that
+    # do not resolve relative links.
+    css = (ROOT / "style.css").read_text(encoding="utf-8").strip()
     files = sorted(SRC.glob("ch*.md"))
     chapters = []
     for f in files:
@@ -123,6 +128,7 @@ def main():
             prev_link=prev_link,
             next_link=next_link,
         )
+        page = page.replace("__CSS__", css)
         (OUT / f"{ch['stem']}.html").write_text(page, encoding="utf-8")
 
     # Inject TOC into index.html between markers.
@@ -141,6 +147,9 @@ def main():
     src = index.read_text(encoding="utf-8")
     src = re.sub(r"(<!-- TOC START -->).*?(<!-- TOC END -->)",
                  lambda m: m.group(1) + "\n" + toc + "\n" + m.group(2),
+                 src, flags=re.S)
+    src = re.sub(r"(<!-- CSS START -->).*?(<!-- CSS END -->)",
+                 lambda m: m.group(1) + "\n<style>\n" + css + "\n</style>\n" + m.group(2),
                  src, flags=re.S)
     index.write_text(src, encoding="utf-8")
     total = sum(c["words"] for c in chapters)

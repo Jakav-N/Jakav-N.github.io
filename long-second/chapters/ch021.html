@@ -5,7 +5,133 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Chapter 21 — Platform · The Long Second</title>
 <meta name="description" content="Harry Potter and the Long Second — a fan novel. Chapter 21: Platform.">
-<link rel="stylesheet" href="../style.css">
+<style>
+:root {
+  --paper: #faf6ee;
+  --ink: #2b2820;
+  --ink-soft: #6b6353;
+  --accent: #7a5c2e;
+  --accent-soft: #b89a63;
+  --rule: #d8cfbc;
+  --card: #f3ecdd;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #16151a;
+    --ink: #d8d3c8;
+    --ink-soft: #8f897c;
+    --accent: #c9a86a;
+    --accent-soft: #8a744d;
+    --rule: #33313a;
+    --card: #1e1d24;
+  }
+}
+* { box-sizing: border-box; }
+html { font-size: 17px; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif;
+  line-height: 1.65;
+}
+.page {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 2.5rem 16px 5rem;
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Masthead */
+.crumb {
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  margin-bottom: 2.2rem;
+}
+.crumb a { color: var(--ink-soft); }
+
+/* Cover / index */
+.cover { text-align: center; margin: 3rem 0 2.5rem; }
+.cover .series {
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.8rem; letter-spacing: 0.22em; text-transform: uppercase;
+  color: var(--accent);
+}
+.cover h1 {
+  font-size: 2.4rem; font-weight: normal; margin: 0.6rem 0 0.4rem;
+  line-height: 1.15;
+}
+.cover .byline { color: var(--ink-soft); font-style: italic; }
+.blurb {
+  font-style: italic; color: var(--ink-soft);
+  border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule);
+  padding: 1.3rem 0.4rem; margin: 2.2rem 0;
+  text-align: center;
+}
+.toc { list-style: none; padding: 0; margin: 2rem 0; }
+.toc li { margin: 0; }
+.toc a {
+  display: flex; justify-content: space-between; align-items: baseline;
+  gap: 1rem; padding: 0.7rem 0.6rem; border-bottom: 1px solid var(--rule);
+  color: var(--ink);
+}
+.toc a:hover { background: var(--card); text-decoration: none; }
+.toc .n {
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.78rem; color: var(--accent); letter-spacing: 0.08em;
+  white-space: nowrap;
+}
+.toc .t { flex: 1; }
+.toc .w { font-size: 0.78rem; color: var(--ink-soft); white-space: nowrap; }
+.note { font-size: 0.85rem; color: var(--ink-soft); text-align: center; margin-top: 3rem; }
+
+/* Chapter */
+.chapter h1 {
+  font-size: 1.7rem; font-weight: normal; text-align: center;
+  margin: 1rem 0 0.4rem; line-height: 1.25;
+}
+.chapter .chapno {
+  text-align: center;
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.8rem; letter-spacing: 0.2em; text-transform: uppercase;
+  color: var(--accent); margin-top: 2rem;
+}
+.chapter h1 + p, .chapter hr + p { margin-top: 1.6rem; }
+.chapter p { margin: 0 0 1.05rem; text-align: justify; hyphens: auto; }
+.chapter hr {
+  border: none; text-align: center; margin: 2.2rem 0;
+}
+.chapter hr::after {
+  content: '❦'; color: var(--accent-soft); font-size: 1.1rem;
+}
+.chapter blockquote {
+  margin: 1.8rem 1.4rem; font-style: italic; color: var(--ink-soft);
+}
+.chapter blockquote p { text-align: left; }
+.chapter h2 {
+  font-weight: normal; font-style: italic; font-size: 1.15rem;
+  margin: 2.4rem 0 1rem; color: var(--ink-soft); text-align: center;
+}
+
+/* Chapter nav */
+.chnav {
+  display: flex; justify-content: space-between; gap: 1rem;
+  margin-top: 3.5rem; padding-top: 1.2rem; border-top: 1px solid var(--rule);
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.88rem;
+}
+.chnav .spacer { flex: 1; }
+
+@media (max-width: 480px) {
+  html { font-size: 16px; }
+  .cover h1 { font-size: 1.9rem; }
+  .chapter p { text-align: left; }
+}
+</style>
 </head>
 <body>
 <div class="page">
@@ -14,10 +140,9 @@
 <div class="chapno">Chapter 21</div>
 <h1>Platform</h1>
 <p>Vernon drove, because Vernon drove, and talked about the traffic for the whole of the A3, and Petunia sat in the front with the flask on her knee and said nothing, and Dudley sat in the back with Harry and the owl and did not elbow him once, which was a thing Harry noticed at the Guildford turn and filed, and was still thinking about at Wandsworth.</p>
-<p>King’s Cross at half past ten on the first of September smelled of diesel and pigeons, and he stood on the concourse with the trunk on a trolley and Hedwig on top of the trunk and his family round him in the attitudes of people who did not know how to do this, and looked at the departure boards, and then at the platforms, nine and ten, and the brick pillar between them with a newspaper kiosk against it, and felt the hand come.</p>
-<p>Soft. Kind. <em>Nothing to see here, dear.</em> The same hand as the Charing Cross Road, and the same age, and written — he could feel it now, with five years of grammar behind him — by the same school of sentence that had built the wall in the yard: <em>for those who know the knock, a way</em>. Except that this one had no knock. This one simply moved your looking, an inch, off a stretch of brick, and let you think you had looked.</p>
-<p>He stood still inside himself and declined it.</p>
-<p>The pillar did not change. That was the thing he had not expected, and he turned it over for a quarter of a second — a few minutes — and understood. The pub had been <em>there</em>, behind the hand; decline the hand and you saw the pub. This was not a pub. This was a <em>wall</em>, and the hand was only the first half of the sentence; the second half was the brick itself, which was a door that did not look like one and did not open like one, and he could read, now that he was declining and looking, exactly where the sentence said <em>go</em>.</p>
+<p>King’s Cross at half past ten on the first of September smelled of diesel and pigeons, and he stood on the concourse with the trunk on a trolley and Hedwig on top of the trunk and his family round him in the attitudes of people who did not know how to do this, and looked at the departure boards, and then at the platforms, nine and ten, and the brick pillar between them with a newspaper kiosk against it, and did not feel the hand come.</p>
+<p>It was there. He could see it working — the same age as the Charing Cross Road, and written, he could tell now, with five years of grammar behind him, by the same school of sentence that had built the wall in the yard: <em>for those who know, a way</em>. A woman with a pushchair went past the pillar and her eyes slid off a stretch of brick and she did not know they had. But it did not touch him. He had been told, on a pavement, by a woman in tartan, where the door was, and the sentence could tell that he knew, and left him alone.</p>
+<p>So he read it instead. The hand was only the first half; the second half was the brick itself, which was a door that did not look like one and did not open like one, and he could see, now that nothing was turning his eyes, exactly where the sentence said <em>go</em>.</p>
 <p>“Through there,” said Harry. “The pillar. Between nine and ten. You walk at it.”</p>
 <p>“You walk at a <em>wall</em>,” said Vernon.</p>
 <p>“Yes, Uncle Vernon. It isn’t a wall for me. It’s a wall for you.” He looked at Petunia. “Aunt Petunia. I don’t think you can come through. I think it’s — I think it’s for people who can see it. I’m sorry.”</p>

@@ -5,7 +5,135 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Harry Potter and the Long Second</title>
 <meta name="description" content="A fan novel. Harry Potter's mind runs two hundred times faster than the world. The world is not ready.">
-<link rel="stylesheet" href="style.css">
+<!-- CSS START -->
+<style>
+:root {
+  --paper: #faf6ee;
+  --ink: #2b2820;
+  --ink-soft: #6b6353;
+  --accent: #7a5c2e;
+  --accent-soft: #b89a63;
+  --rule: #d8cfbc;
+  --card: #f3ecdd;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #16151a;
+    --ink: #d8d3c8;
+    --ink-soft: #8f897c;
+    --accent: #c9a86a;
+    --accent-soft: #8a744d;
+    --rule: #33313a;
+    --card: #1e1d24;
+  }
+}
+* { box-sizing: border-box; }
+html { font-size: 17px; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif;
+  line-height: 1.65;
+}
+.page {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 2.5rem 16px 5rem;
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Masthead */
+.crumb {
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  margin-bottom: 2.2rem;
+}
+.crumb a { color: var(--ink-soft); }
+
+/* Cover / index */
+.cover { text-align: center; margin: 3rem 0 2.5rem; }
+.cover .series {
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.8rem; letter-spacing: 0.22em; text-transform: uppercase;
+  color: var(--accent);
+}
+.cover h1 {
+  font-size: 2.4rem; font-weight: normal; margin: 0.6rem 0 0.4rem;
+  line-height: 1.15;
+}
+.cover .byline { color: var(--ink-soft); font-style: italic; }
+.blurb {
+  font-style: italic; color: var(--ink-soft);
+  border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule);
+  padding: 1.3rem 0.4rem; margin: 2.2rem 0;
+  text-align: center;
+}
+.toc { list-style: none; padding: 0; margin: 2rem 0; }
+.toc li { margin: 0; }
+.toc a {
+  display: flex; justify-content: space-between; align-items: baseline;
+  gap: 1rem; padding: 0.7rem 0.6rem; border-bottom: 1px solid var(--rule);
+  color: var(--ink);
+}
+.toc a:hover { background: var(--card); text-decoration: none; }
+.toc .n {
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.78rem; color: var(--accent); letter-spacing: 0.08em;
+  white-space: nowrap;
+}
+.toc .t { flex: 1; }
+.toc .w { font-size: 0.78rem; color: var(--ink-soft); white-space: nowrap; }
+.note { font-size: 0.85rem; color: var(--ink-soft); text-align: center; margin-top: 3rem; }
+
+/* Chapter */
+.chapter h1 {
+  font-size: 1.7rem; font-weight: normal; text-align: center;
+  margin: 1rem 0 0.4rem; line-height: 1.25;
+}
+.chapter .chapno {
+  text-align: center;
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.8rem; letter-spacing: 0.2em; text-transform: uppercase;
+  color: var(--accent); margin-top: 2rem;
+}
+.chapter h1 + p, .chapter hr + p { margin-top: 1.6rem; }
+.chapter p { margin: 0 0 1.05rem; text-align: justify; hyphens: auto; }
+.chapter hr {
+  border: none; text-align: center; margin: 2.2rem 0;
+}
+.chapter hr::after {
+  content: '❦'; color: var(--accent-soft); font-size: 1.1rem;
+}
+.chapter blockquote {
+  margin: 1.8rem 1.4rem; font-style: italic; color: var(--ink-soft);
+}
+.chapter blockquote p { text-align: left; }
+.chapter h2 {
+  font-weight: normal; font-style: italic; font-size: 1.15rem;
+  margin: 2.4rem 0 1rem; color: var(--ink-soft); text-align: center;
+}
+
+/* Chapter nav */
+.chnav {
+  display: flex; justify-content: space-between; gap: 1rem;
+  margin-top: 3.5rem; padding-top: 1.2rem; border-top: 1px solid var(--rule);
+  font-family: 'Gill Sans', 'Trebuchet MS', system-ui, sans-serif;
+  font-size: 0.88rem;
+}
+.chnav .spacer { flex: 1; }
+
+@media (max-width: 480px) {
+  html { font-size: 16px; }
+  .cover h1 { font-size: 1.9rem; }
+  .chapter p { text-align: left; }
+}
+</style>
+<!-- CSS END -->
 </head>
 <body>
 <div class="page">
@@ -27,25 +155,25 @@ By morning, he had been on that doorstep for two months.
 <ul class="toc">
 <li><a href="chapters/ch001.html"><span class="n">Ch. 1</span><span class="t">Two Months on a Doorstep</span><span class="w">4,765 words</span></a></li>
 <li><a href="chapters/ch002.html"><span class="n">Ch. 2</span><span class="t">The Operating Manual</span><span class="w">4,018 words</span></a></li>
-<li><a href="chapters/ch003.html"><span class="n">Ch. 3</span><span class="t">The Lending Library</span><span class="w">3,744 words</span></a></li>
+<li><a href="chapters/ch003.html"><span class="n">Ch. 3</span><span class="t">The Lending Library</span><span class="w">3,742 words</span></a></li>
 <li><a href="chapters/ch004.html"><span class="n">Ch. 4</span><span class="t">The Week</span><span class="w">5,534 words</span></a></li>
-<li><a href="chapters/ch005.html"><span class="n">Ch. 5</span><span class="t">The Shelves</span><span class="w">4,812 words</span></a></li>
-<li><a href="chapters/ch006.html"><span class="n">Ch. 6</span><span class="t">Real Work</span><span class="w">4,008 words</span></a></li>
-<li><a href="chapters/ch007.html"><span class="n">Ch. 7</span><span class="t">Interlude: Arabella and Albus</span><span class="w">2,612 words</span></a></li>
-<li><a href="chapters/ch008.html"><span class="n">Ch. 8</span><span class="t">Fifteen Papers</span><span class="w">4,869 words</span></a></li>
-<li><a href="chapters/ch009.html"><span class="n">Ch. 9</span><span class="t">The Edge of the Map</span><span class="w">5,986 words</span></a></li>
+<li><a href="chapters/ch005.html"><span class="n">Ch. 5</span><span class="t">The Shelves</span><span class="w">4,810 words</span></a></li>
+<li><a href="chapters/ch006.html"><span class="n">Ch. 6</span><span class="t">Real Work</span><span class="w">4,012 words</span></a></li>
+<li><a href="chapters/ch007.html"><span class="n">Ch. 7</span><span class="t">Interlude: Arabella and Albus</span><span class="w">2,492 words</span></a></li>
+<li><a href="chapters/ch008.html"><span class="n">Ch. 8</span><span class="t">Fifteen Papers</span><span class="w">4,846 words</span></a></li>
+<li><a href="chapters/ch009.html"><span class="n">Ch. 9</span><span class="t">The Edge of the Map</span><span class="w">6,071 words</span></a></li>
 <li><a href="chapters/ch010.html"><span class="n">Ch. 10</span><span class="t">Petunia’s Drawer</span><span class="w">4,264 words</span></a></li>
 <li><a href="chapters/ch011.html"><span class="n">Ch. 11</span><span class="t">On Holding</span><span class="w">4,544 words</span></a></li>
 <li><a href="chapters/ch012.html"><span class="n">Ch. 12</span><span class="t">What Is Owed</span><span class="w">4,555 words</span></a></li>
 <li><a href="chapters/ch013.html"><span class="n">Ch. 13</span><span class="t">Finals</span><span class="w">3,927 words</span></a></li>
-<li><a href="chapters/ch014.html"><span class="n">Ch. 14</span><span class="t">Interlude: Receipts</span><span class="w">3,455 words</span></a></li>
+<li><a href="chapters/ch014.html"><span class="n">Ch. 14</span><span class="t">Interlude: Receipts</span><span class="w">3,457 words</span></a></li>
 <li><a href="chapters/ch015.html"><span class="n">Ch. 15</span><span class="t">The Grammar</span><span class="w">4,427 words</span></a></li>
 <li><a href="chapters/ch016.html"><span class="n">Ch. 16</span><span class="t">Doctor</span><span class="w">4,875 words</span></a></li>
 <li><a href="chapters/ch017.html"><span class="n">Ch. 17</span><span class="t">Interlude: The Watchers’ File</span><span class="w">3,386 words</span></a></li>
 <li><a href="chapters/ch018.html"><span class="n">Ch. 18</span><span class="t">The Thirty-First</span><span class="w">4,311 words</span></a></li>
 <li><a href="chapters/ch019.html"><span class="n">Ch. 19</span><span class="t">The Telephone</span><span class="w">5,414 words</span></a></li>
-<li><a href="chapters/ch020.html"><span class="n">Ch. 20</span><span class="t">Sixteen Years of August</span><span class="w">4,901 words</span></a></li>
-<li><a href="chapters/ch021.html"><span class="n">Ch. 21</span><span class="t">Platform</span><span class="w">5,376 words</span></a></li>
+<li><a href="chapters/ch020.html"><span class="n">Ch. 20</span><span class="t">Sixteen Years of August</span><span class="w">4,916 words</span></a></li>
+<li><a href="chapters/ch021.html"><span class="n">Ch. 21</span><span class="t">Platform</span><span class="w">5,340 words</span></a></li>
 <li><a href="chapters/ch022.html"><span class="n">Ch. 22</span><span class="t">The Hat</span><span class="w">6,101 words</span></a></li>
 <li><a href="chapters/ch023.html"><span class="n">Ch. 23</span><span class="t">The Step</span><span class="w">5,431 words</span></a></li>
 <li><a href="chapters/ch024.html"><span class="n">Ch. 24</span><span class="t">The Chair</span><span class="w">4,491 words</span></a></li>

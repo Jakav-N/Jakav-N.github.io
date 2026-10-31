@@ -1631,3 +1631,22 @@ method with people · "it answers caring" (ch. 5) as his method with magic.
   matter in both directions at once"; the window stays open. McGonagall: "he
   will know the difference… I think he was being kind." Exit line: "*Albus*."
 - (append per chapter)
+
+## Proposed revision pass (from reader notes, 31 Oct) — NOT YET APPLIED
+
+1. **The hand is the bottleneck, and he can move a pencil.** He moved a pencil
+   in ch6 (Jan 1987). Fine control of the pushing part on a pencil = writing
+   at the speed of the magic, not the hand. Practice is an allowed subjective
+   duration. Consequence: from ~ch8 onward his *output* for others can scale —
+   papers through Carrow, textbooks, the Second Edition in weeks not a winter,
+   diagrams, carving (ch29 graver), instrument-making, the press. Every "my
+   hand is slow" line (ch5, ch15 "hand ached for a month", ch16) becomes a
+   before/after. Secrecy: he rations what he *shows*, not what he writes.
+2. **Money.** A trust already exists (Mr Pargeter, the book). Add: textbook
+   royalties; prize money; industrial maths consulting brokered through the
+   university and paid to the trust; by eleven, a Gringotts vault he treats as
+   capital not pocket money. EA-shaped: he gives most of it away, and says why.
+3. **Is he measuring up after ch7?** Honest answer: knowledge yes (he reads a
+   university; doctorate at ten); *output* no — one thesis, one book, forty
+   sentences, one Edition in nine hundred subjective years. Item 1 is the fix
+   the text was missing, and item 2 follows from it.

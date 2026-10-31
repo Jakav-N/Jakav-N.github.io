@@ -116,3 +116,13 @@ stable through the instant of release.
   learning of compilers; pre-1991 he says *un-knotting*).
 - Wizarding terms stay canonical in dialogue. The Workshop later blends both.
 - Never let a wizard character use Harry's terms before being taught them.
+
+## Concealment sentences check *knowing*, not blood (revised, reader-caught)
+
+The Leaky Cauldron and the platform-9¾ pillar turn the eyes of anyone who
+does not already know the place is there. Wizards know; a Muggle with a
+witch's hand in theirs gets through because the hand knows. Nobody *finds*
+them from outside — that is what they are for. So at seven, untold, the charm
+has every right to turn Harry, and he declines it (ch9). At eleven, told by
+McGonagall, it does not touch him at all; he reads it instead (ch21). It is
+not that he is a wizard; it is that he knows.

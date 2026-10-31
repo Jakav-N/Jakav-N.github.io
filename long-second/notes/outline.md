@@ -287,6 +287,34 @@
   Harry: p. 91, transposed dosage columns (he'd margined "surely not" in June);
   asks the two people's names; "I've got about four hundred for him, in order,
   and I'm saving them."
+- **Ch. 15 (The Grammar)** — Sept 1989–July 1990, age 9–10. The 1931 Azkaban
+  book (a Ministry clerk with a grievance): the guards as *shapes* that *feed*
+  on warmth — on exactly the stuff that answers caring → **"a sentence that eats
+  sentences… self-holding… if it has a grammar it has a part that could be made
+  to stop."** List: **8. The cold.** "Nobody has tried to read one. Everybody
+  has tried to keep them off. Different question." October: **the roof read**
+  from the step (four mornings, milk as excuse) — a *book*, not a sentence; same
+  hand as the doorstep (listening; a bracket that checks *intent*; a blood-
+  bracket he can't read yet); anchored to a shape he knows from a swing.
+  Petunia: "*As long as she lives and he calls it home.* I didn't tell you that
+  part… I'm fifty-one. I've no intention of making a liar of a piece of paper."
+  Winter: ***On the Composition of Charms: A Second Edition*** — 412 pages in
+  his marks with nearest-English beside each, 220 brackets (160 theirs, 60
+  his), roads vs paths; kept in the old Edinburgh biscuit tin; "Begun from where
+  E.B. stopped." Composes 40 original sentences on paper, six good; **the
+  asking** — a mending sentence that is *only* the looking part, returning a
+  map of what's wrong ("A Healer with this would not need page ninety-one… I am
+  going to teach it to a hospital"). April 1990: branch library on the
+  council's closure list ("low footfall") → Harry gives the Advertiser eleven
+  sentences, photo with Mrs Prentice before the sticking stepladder: BOY GENIUS:
+  DON'T CLOSE THE LIBRARY THAT MADE ME ("Count that instead of footfall");
+  council relents; new aluminium stepladder; she keeps the old one. May 1990:
+  the 1979 lemma holds (a third of the problem; third paper); Carrow told it's
+  "a sort of" school in Scotland; he'll write every term. 10th birthday (pad
+  40): "I was a thousand at six and I am not twice the person. I am the same
+  person with more shelves." Dumbledore has asked two questions via Figg; Harry
+  asked for and received **the two dead people's names**, written in the back
+  of the List. Door: "The cold has a grammar. Nobody has read it. Read it."
 
 # (v2 text follows for reference; chapter list from ch. 4 is superseded)
 

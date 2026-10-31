@@ -319,4 +319,30 @@ Canon scaffold snapping in slow motion. Key threads:
   **the Programme**. H1: *the effect doesn't run while the watcher watches; it
   runs on the machinery I watch with, answering need when the watcher stands
   aside (sleep, flood emotion).* Plan: better dream log.
+- **Ch. 4 (3,732 w)** — New scene-first voice begins here (see style guide
+  directives). June 1986: violet-top-hat man bows ("Mr Potter, an honour"),
+  vanishes behind a bus; Petunia: "They oughtn't to be allowed." Memory now
+  explicitly total ("everything he had ever seen was still exactly where he had
+  left it") — retrospective finds: woman in green on the bus, cloaked man at
+  the post office. Conclusion: a kind of stranger is *glad* to see him.
+  July 1986, Mrs Figg's: Mr Tibbles watches him like a man at a lecture; her
+  standing question "nothing out of the ordinary?"; Harry posts a deliberate
+  test through the channel (the February hair regrowth) → next visit, Edinburgh-
+  tin chocolate biscuits + early follow-up question = reporting channel
+  confirmed. He tells Mr Tibbles to pass on his compliments. Decides the
+  watching is GENTLE and will not poke it further. Sept 1986–Jan 1987: dream
+  journal/observatory; lucid dreaming learned in ~4 months (finger-counting,
+  clock-checking, hourly "am I dreaming?"); dream-magic worthless ("dreams are
+  liars"); negative results logged. The green-light dream = mother saying his
+  name; when lucid inside it he just stays and listens. Nov 1986, drying-up
+  scene: "Where are my mum and dad buried?" → "Up north. A little village.
+  There's no visiting." Car-crash story collapses; parents were second-set
+  people; he is *somebody's*; resolves to stand at their graves one day.
+  Jan 1987, THE ICE: slips on the path with two milk bottles; fear-gear (a gear
+  below his other gears); watches the answering live — "it was calling... the
+  call was answered"; soft landing, bottle lands standing, penny-sized splash.
+  "Hello." Programme entry: *It's real. It's kind. It lives here too. It
+  answers when I truly call — so learn to truly call on purpose.* And: *I am
+  not on my own in here.* NOTE: the shrinking-jumper event is cut from canon
+  for this book (see style guide); never reference it.
 - (append per chapter)

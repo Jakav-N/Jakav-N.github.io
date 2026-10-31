@@ -1,4 +1,41 @@
-# Harry Potter and the Long Second — Master Outline (v2, dense)
+# Harry Potter and the Long Second — Master Outline (v3 — TAKE HIS TIME SERIOUSLY)
+
+> **v3 note (supersedes v2's chapter plan from ch. 4 on).** Author's verdict on
+> v2: "400 subjective years to stop hiding? Why not 20? GCSEs at 9? He'll be
+> PhD level in a dozen subjects by 11. Take his time seriously." Chapters 4–20
+> of v2 were removed from the book (kept in git history for salvage) and are
+> being rewritten to this timeline:
+>
+> - **5½ (ch. 4)** — the week confined to the cupboard after the haircut ≈ four
+>   subjective years; he audits "be small" and ends it THAT WEEK. Tells Mrs
+>   Prentice all of it (not magic); asks for a university library. County sees
+>   everything (Prosser). Vernon's esteem; Petunia's one true sentence. Asks
+>   Figg what she is → she writes to Dumbledore → "tell him the truth."
+> - **6** — Royal Holloway library + Prof. Carrow (the hunger ends). Tibbles →
+>   *it answers caring*. Daily magic; shape-watching; form-notation; pencil,
+>   candle within months. Interlude: Arabella & Albus (Oct '86; "M.M. said so
+>   first, Oct. '86").
+> - **6–7** — ten GCSEs + five A-levels in one summer; press managed; Pargeter
+>   trust; chess nationals; first paper with Carrow. Finds the Leaky Cauldron
+>   alone at 7; Figg, confronted, takes him to Diagon Alley for the books ("You'd
+>   have said no, Albus, so I didn't ask"). Reads his own history at 7.
+>   Petunia's drawer at 7.
+> - **7–9** — wizarding theory through NEWT and beyond, from books; the feather
+>   holds wandlessly; On Holding; degree finals at 8 (first); research-level in a
+>   dozen subjects; the EA turn (the pond); the List.
+> - **9–11** — doctorate at 10; papers in several fields; a book; chess title;
+>   magitech designed on paper (form-press, healing protocols); dementor problem
+>   on the desk from the books; the Dumbledore strategy. Letter arrives for Dr
+>   Potter; McGonagall's visit; the wand (steady light); August; the Hat.
+> - Reusable v2 scenes (re-timed): Prosser's swan speech; Tibbles; Figg's hands;
+>   the ice; Mr Prentice's margins / OU nights; Mr Haines; the colouring floor;
+>   the pub found by declining; the vault grief; Ollivander's grain; McGonagall's
+>   visit & report; the Quill's cupboard line.
+>
+> Subjective-age tic: avoid precise totals; "well over a thousand" by 6,
+> "the better part of two thousand" by 11.
+
+# (v2 text follows for reference; chapter list from ch. 4 is superseded)
 
 > **SPOILER WARNING.** Author's working bible. Gives away the whole story.
 > Reader-facing pages are in `/long-second/`.
@@ -693,4 +730,35 @@ method with people · "it answers caring" (ch. 5) as his method with magic.
   like James in that one respect "and nothing whatever like either of them in
   all the others." Petunia, deadheading: "Well?" / "Scottish. Tartan. She knew
   Mum." / "Go on, then. Tea's at six."
+- **Ch. 20 (Diagon Alley, Properly)** — 31 July 1991 cont. Train with
+  McGonagall (hat in a carrier bag from a shop that closed in 1979); "Your
+  mother… had no respect whatever for a Floo." Leaky Cauldron: Tom recognises
+  him; **Dedalus Diggle** (the violet hat) — Harry remembers the bow and thanks
+  him; Diggle weeps. Harry nearly reveals the memory thing, steps back ("it's a
+  habit"). Gringotts: guard goblin *steps back*; older goblin with spectacles on
+  a chain; **Griphook**; the long-nosed exchange goblin is **Bogrod** ("counts
+  everyone's money twice… a courtesy"); Harry **deposits his last four galleons
+  before drawing anything**; the vault — grief, not greed; takes a year's worth,
+  counts in sickles aloud. McGonagall: "the people who have had to count are
+  the only ones who can be trusted not to." **Ollivander's**: parents' wands
+  (willow/mahogany) as "the shape of their hands"; Harry asks to learn his own
+  wand before the one that scarred him ("the correct order"); thirty-one
+  rejections, each one *answering badly* — "They have a *grain*" / "the wrong
+  turn" — Ollivander has never heard the fit described from the inside; **holly
+  and phoenix, eleven inches**: no turn at all; Harry HOLDS and releases a
+  single steady point of white light for four seconds instead of sparks;
+  Ollivander *blinks*; "it's so much easier with the telephone." Brother wand
+  (yew, 13½") → the shelf: "this one just held a light for four seconds in a
+  shop; I'll judge it on that." Ollivander bows (craftsman to craftsman). Buys
+  Standard Spells Gr. 4–7 ("the grammar is what I want"); inky assistant: "The
+  *margins* boy!" — "I was the margins boy first." **Hedwig** (snowy; for the
+  promise to Mr Haines; named from A History of Magic). On the pavement,
+  McGonagall: did he *know* the steady light was impossible? — "Yes… I wrote
+  *not quite* in the margin… I'm sorry it's going to make your year
+  complicated." **Report to Dumbledore**: happy (yes — "the thing on his face
+  was grief"); kind (asked the goblin's name, remembered the bow, bought an owl
+  for a promise); the books WERE bought; "they stepped back for him"; the
+  cupboard in his words; the steady light. Dumbledore: "I underestimated the
+  matter in both directions at once"; the window stays open. McGonagall: "he
+  will know the difference… I think he was being kind." Exit line: "*Albus*."
 - (append per chapter)

@@ -368,4 +368,21 @@ Canon scaffold snapping in slow motion. Key threads:
   ever learn). First win March 1988: £19.12 in a toffee tin under the returns
   desk. "Somebody's got to hold the door." Year's close: first year that came
   to meet him; "the sample was small. But it was a start."
+- **Ch. 6 (Page 141)** — Boxing Day 1987: overheard via Marge's phone call,
+  "The Evans girl was clever." Harry gets his mother's maiden name (Lily Evans)
+  as livestock commentary. Keeps "H. Evans" purely private to himself (NOT used
+  with strangers — see style-guide cut). The blue book *The Pleasures of
+  Number* by E. M. Hartley; page 141's "of course" = every even number is two
+  primes. He can't find the floor. Mrs Prentice orders county books ("Leave it
+  with me"); he discovers it's **Goldbach's conjecture** (1742, Goldbach→Euler),
+  unproven for 246 years. KEY REALIZATION: knowledge is not a finished city he's
+  catching up to; it has an *edge* reachable from a Surrey library — "there is
+  room," short-handed, people still working out past the last lamp post. Starts
+  a notebook page titled "141" = seed of the List. Spring: teaches Dudley the
+  times tables SIDEWAYS (football rhyme, tennis ball on the stairs, Vernon's
+  petrol sums) for the end-of-term test — Dudley thinks he found the confidence
+  himself. LAW learned: "You almost never move a person by the front door. You
+  find the door they already use." Same law as the magic — it answers caring,
+  not force; you go where it already lives and ask properly. NOTE: ch. 6 title
+  was briefly "Dear Sir" during the cut correspondence plot; now "Page 141."
 - (append per chapter)

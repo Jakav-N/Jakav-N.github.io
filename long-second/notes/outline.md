@@ -268,6 +268,53 @@ Canon scaffold snapping in slow motion. Key threads:
 
 ## Continuity ledger (update as chapters are written)
 
-- Ch. 1 establishes: warming-charm datum; the green flash memory; "be small";
-  cupboard-as-office framing; the thick-time vocabulary; Petunia's fear-face.
+- **Ch. 1 (pub. 4,769 w)** — 200× begins the doorstep night (curse rebound), 1 Nov
+  1981, age 15 mo. Warming charm = first datum ("someone disagreed with the
+  cold"); later childhood name for magic: *the Answering*. Crying-latency lesson.
+  Star crossing the roof gap. Green-flash dream + mother's voice recurs. The
+  200:1 ratio measured later with washers-and-string pendulum in the cupboard.
+  Nicknames: Petunia = the Sharp One (fear; the nailed-shut drawer; "just
+  like—"), Vernon = the Purple One (weather; esteem), Dudley = the Small Loud
+  One (appetite; "experiments the world already paid for"). Memory palace
+  self-invented in year two ("country of one", counting kingdom: sevens, dozens,
+  elevens). The Incident: spring 1983 (age 2¾), shopping list behind cooker,
+  perfect sentence → Petunia's flood-fear; *freak* filed as taxonomy; Rule One:
+  **Be small** (small *here*, small *for now*). Oct 1983: "I c'n hold the
+  basket" — first shop trip (reins), newsagent revelation (marks = fixed
+  speech), resolve to read. Recurring tic: "X years old, or N hundred,
+  depending on how you counted."
+- **Ch. 2 (3,987 w)** — Cupboard acquired spring 1984 via 5-month nudge campaign;
+  "the smallest office in England"; named spiders; shoebox ledger in cipher
+  (phone-book abbreviations); ledger symbol: box = *expensive if true*; locked
+  drawer = options one does not use (formalized ch. 3). Reading cracked late
+  spring 1984 (age ~3¾) via adverts + teletext p. 888 subtitles; first read
+  sentence: "BYPASS DELAYED AGAIN, COUNCIL BLAMES COSTS." House reading census
+  (phone book: A. Aardvark Aquatics, Byfleet; manuals; one yard-bought shelf).
+  Household machine protocols (esteem / fear / appetite steering). Mrs Figg:
+  cabbage + cats, asks pointed scheduled questions; March 1984 (Dudley at zoo):
+  **moving photo** of grey cat w/ square eye-markings turning to look at him —
+  anomaly #1 confirmed; she hides it with tradecraft. Theory boxed: "There is
+  more than one set of rules… somebody is watching to see if I run on it."
+  Nursery = St Gregory's Pre-School, Sept 1984; Miss Henmore; *Bright Little
+  Boy* policy dies day 11 (error-signature insight: true noise has structure);
+  "yesterday"/flue scene; replacement persona: **the odd clever child** ("never
+  be drawerless"). Gifted call home laundered via Vernon's Rotary esteem.
+- **Ch. 3 (3,737 w)** — July 1985: Miss Henmore's public library sentence;
+  Petunia signs him up; solo library runs become policy by Sept 1985.
+  **Mrs Prentice** (branch librarian, stationmaster type): adult tickets on
+  Petunia's unused membership, "books are for your uncle," quiet Mon/Thu after
+  four, sticking stepladder; cuckoo test; "allies are leverage you don't have
+  to hold." **The Survey**: 8-month map of human knowledge; habit: read the
+  last chapter first; finding: the field of his anomalies is *unclaimed* (map
+  hole shaped like his life). School proper Sept 1985 (reception): Miss Weald,
+  Mr Ollerton (staff-room interlude: "polite in a load-bearing way"; Petunia
+  refuses assessments, "no fuss"). Harry Hunting strangled by boredom-engineering,
+  autumn 1985; Piers's theory: Potter is unlucky to chase. Friendships file
+  empty; sixth-birthday ledger entry (forward-flash, Jul 1986): Mrs Prentice,
+  "cuckoo energy," good mood 11 days, "what is the thing of which this is the
+  small dose?" **Haircut**: Feb 1986 — overnight full regrowth, slept through
+  it; outrage; one week cupboard confinement; the anomalies file becomes
+  **the Programme**. H1: *the effect doesn't run while the watcher watches; it
+  runs on the machinery I watch with, answering need when the watcher stands
+  aside (sleep, flood emotion).* Plan: better dream log.
 - (append per chapter)

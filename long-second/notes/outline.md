@@ -345,4 +345,27 @@ Canon scaffold snapping in slow motion. Key threads:
   answers when I truly call — so learn to truly call on purpose.* And: *I am
   not on my own in here.* NOTE: the shrinking-jumper event is cut from canon
   for this book (see style guide); never reference it.
+- **Ch. 5 (3,534 w)** — Autumn 1987, age 7. Dr Prosser (county educational
+  psychologist, oatmeal cardigan, stopwatch under the table): blocks test, then
+  digit span — Harry, enjoying himself, repeats FOURTEEN digits backwards before
+  catching it ("I've forgotten the next bit." "Of course you have."). Her swan
+  story (the ordinary girl in the valleys); she recommends enrichment, not
+  acceleration: library time Tue/Thu in school hours. He never learns how much
+  she knew — "some people can read you a little, and like you anyway, and fold
+  their hand on purpose." Vernon converts the arrangement into his own idea
+  (Marge phone call: "bad blood will out but you can keep it busy"). Notebook:
+  "Error noted. Not all error." MR TIBBLES: stops doing the stairs (hips, age 9,
+  won't take the tablet); Harry, hand on his side, genuinely sorry, NOT trying —
+  and it comes, quiet, goes looking like a librarian along a shelf, mends the
+  hips; Tibbles takes the stairs like a kitten. "He just got up." / "So he did.
+  Well. There's hope for us all." Figg's gladness + small hand-shake. Finding:
+  IT ANSWERS CARING, not wanting (cold-tea and cress experiments all failed).
+  "Everything he ever built was downstream of a cat's hips." Notebook: "It isn't
+  a dog, to come when it's whistled. It's more like a colleague. The work has
+  to be real." MONEY: Saturday prize cryptic crossword (setter: Custos of
+  London, £20); Mrs Prentice enters as E. Prentice, stamps off the top, fee =
+  "all your working"; her husband used to do the crossword (widowed; all we
+  ever learn). First win March 1988: £19.12 in a toffee tin under the returns
+  desk. "Somebody's got to hold the door." Year's close: first year that came
+  to meet him; "the sample was small. But it was a start."
 - (append per chapter)

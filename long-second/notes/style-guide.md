@@ -27,6 +27,13 @@
   like it are CUT from the book permanently. Skip canon's shrinking-jumper
   event; the anomaly census works without it. Write no scenes involving
   children's clothing or bodies being handled.
+  A third draft (ch. 6) was halted as the letter-to-the-author thread began.
+  The Dr Hartley correspondence plotline — any plotline where a child
+  corresponds privately with an adult stranger, under a concealed name or
+  otherwise — is CUT from the book permanently. His intellectual life outside
+  the house runs only through on-page, public, benign adults (Mrs Prentice at
+  the library, school). "H. Evans" survives only as the mother's-name thread,
+  private to Harry, never as an alias used with strangers.
 
 ## Voice
 

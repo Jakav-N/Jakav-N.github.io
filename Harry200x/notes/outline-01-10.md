@@ -35,7 +35,7 @@ Each chapter about 3,000 words. Close third on Harry. Dates in real time. Subjec
 
 ## Chapter 5 — Nov 1983 to Feb 1984 (3 years 3 months to 3 years 6 months)
 - Reading speed is about 1,500 words a minute (see ledger). Dumbledore's four books last one evening; Harry has read them twice before the fortnight is up and says so. Dumbledore adjusts: a box, not a handful. The Prophet daily is an hour. The wizarding world as it looks from print: tiny, old, ranked, frightened of a name. He estimates its size from the Hogwarts intake.
-- Little Whinging public library with Figg weekly. The librarian (plain name, to be chosen) lets him into the adult shelves after he reads her the back of a novel. Maximum books on Figg's ticket.
+- The library is already in use through Figg's ticket (six a week since May 1983). In this chapter Figg takes him in person for the first time; the librarian (plain name, to be chosen) meets the boy the lists were for.
 - Diagon Alley with Dumbledore in December: the Leaky Cauldron's back yard, the Alley in winter, Gringotts and the Potter vault (more than he expected and less than it looks), Ollivander's (holly and phoenix feather, eleven inches; "curious"), Flourish and Blotts by the box, the apothecary. Hat over the scar; nobody looks at a child beside Dumbledore.
 - First wand work at Figg's: Lumos cleaner than his palm-light; Wingardium Leviosa fails because the movement is written for an adult arm and the wand is longer than his forearm. Motor practice in real time. He finds the incantation can be dropped once the picture is good; the movement less so. Wandless remains easier for small things; the wand gives power and precision.
 

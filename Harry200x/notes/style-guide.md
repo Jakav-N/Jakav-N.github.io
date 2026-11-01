@@ -68,6 +68,13 @@ Hogwarts library has 11000 books
 
 (Working consequence: the premise file is a description of how the world works, not a checklist of things Harry discovers. He learns what his situation lets him learn, slowly, and much of it he never finds out. The chapter outlines should be read with this in mind where they list findings.)
 
+## Reader feedback on chapter one (verbatim) and the pattern behind it
+
+- "You have him logic too early, even before he had significant amounts of sped up time." Quoted line: "The bottle coming to him was a thing that could be done, and he had done it, and it was the thing in this house that was most feared and most hated"
+- "The TV is handled a little strangely, but I suppose leave it because I'm not sure how I'd want you to change it."
+
+Pattern: the narrator handing an infant finished inferences in abstract nouns ("a thing that could be done", "most feared and most hated", "he understood that", "he set about"). Before he has language, and for a good while after, what he has are pairings and recognitions: this sound went with that sight, this word came with that voice. Conclusions arrive late and in concrete terms, and the narration must not tidy them into propositions for him. The amount of sped-up time matters: in the first months he has had only a subjective year or two of being a baby with almost nothing to look at, and that is not the same as being an adult.
+
 ## Derived working rules (reworked from another session's suggestions; not verbatim, not authoritative over the sections above)
 
 - Take the arithmetic literally before writing. Know what Harry has actually done with the time, year by year and field by field, so the plot is dense enough that nothing is hidden for centuries or deferred to a convenient age.

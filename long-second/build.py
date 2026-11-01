@@ -44,6 +44,40 @@ __CSS__
 """
 
 
+ALL_PAGE = """<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Harry Potter and the Long Second — all chapters</title>
+<style>
+__CSS__
+.alltoc { columns: 2; column-gap: 2rem; list-style: none; padding: 0; }
+.alltoc li { break-inside: avoid; margin: 0.2rem 0; }
+.backtop { text-align: right; font-size: 0.9em; }
+article.chapter + article.chapter { margin-top: 4rem; border-top: 1px solid #8884; padding-top: 2rem; }
+</style>
+</head>
+<body>
+<div class="page">
+<a id="top"></a>
+<div class="crumb"><a href="index.html">Harry Potter and the Long Second</a></div>
+<h1>All chapters</h1>
+<ul class="alltoc">
+__TOC__
+</ul>
+__BODY__
+</div>
+</body>
+</html>
+"""
+
+
+def chapter_name(ch) -> str:
+    m = re.match(r"Chapter\s+\d+\s*[—–-]\s*(.+)", ch["title"])
+    return m.group(1) if m else ch["title"]
+
+
 def inline(s: str) -> str:
     s = html.escape(s, quote=False)
     s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
@@ -130,6 +164,18 @@ def main():
         )
         page = page.replace("__CSS__", css)
         (OUT / f"{ch['stem']}.html").write_text(page, encoding="utf-8")
+
+    # Single-page edition: every chapter in order, for reading straight through.
+    all_toc = "\n".join(
+        f'<li><a href="#{c["stem"]}">Ch. {c["n"]} — {html.escape(chapter_name(c))}</a></li>'
+        for c in chapters)
+    all_body = "\n".join(
+        f'<article class="chapter" id="{c["stem"]}">\n<div class="chapno">Chapter {c["n"]}</div>\n'
+        f'<h1>{inline(chapter_name(c))}</h1>\n{c["body"]}\n'
+        f'<p class="backtop"><a href="#top">Contents</a></p>\n</article>'
+        for c in chapters)
+    all_page = ALL_PAGE.replace("__CSS__", css).replace("__TOC__", all_toc).replace("__BODY__", all_body)
+    (ROOT / "all.html").write_text(all_page, encoding="utf-8")
 
     # Inject TOC into index.html between markers.
     index = ROOT / "index.html"

@@ -75,6 +75,14 @@ Hogwarts library has 11000 books
 
 Pattern: the narrator handing an infant finished inferences in abstract nouns ("a thing that could be done", "most feared and most hated", "he understood that", "he set about"). Before he has language, and for a good while after, what he has are pairings and recognitions: this sound went with that sight, this word came with that voice. Conclusions arrive late and in concrete terms, and the narration must not tidy them into propositions for him. The amount of sped-up time matters: in the first months he has had only a subjective year or two of being a baby with almost nothing to look at, and that is not the same as being an adult.
 
+## Reader feedback on chapter two (verbatim)
+
+- "\"won't\" - what is going on with this?" (Dudley already had the word in canon; a later line calling it his first word contradicted Petunia's own line. Removed.)
+- "\"which he read every morning until he could have recited it\" - he could have recited it after the first time, no?" (Perfect memory: nothing is read twice for retention.)
+- "\"The dark was nothing\" - not very bad, but worth adjusting"
+- "\"because its legs moved slowly enough to see how they worked.\" - false: easiest to just remove this phrase"
+- "The way Figg treats Harry makes little sense" (Rewritten: no baby voice to drop, no going still at a one-word name; she notices him reading, tests him with more of the page, asks who taught him and whether his aunt knows, notes his age herself.)
+
 ## Derived working rules (reworked from another session's suggestions; not verbatim, not authoritative over the sections above)
 
 - Take the arithmetic literally before writing. Know what Harry has actually done with the time, year by year and field by field, so the plot is dense enough that nothing is hidden for centuries or deferred to a convenient age.

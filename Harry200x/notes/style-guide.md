@@ -103,6 +103,12 @@ Pattern: the narrator handing an infant finished inferences in abstract nouns ("
 
 Pattern: Dumbledore (and the narrator) speaking in balanced parallel clauses, triplets and epigrams ("X, and it is Y, and I will Z"; "not A but B"; "the number we did not say"). People do not talk like that. Dumbledore talks plainly to Harry. Also: Harry uses the ordinary name for a thing he knows the name of; and he does not do inference he has no grounds for, nor does the narrator make a device out of his remembering.
 
+## Reader feedback on chapter five (verbatim)
+
+- "\"Hogwarts: A History was the one he went back to, because it had a chapter on the library, and the chapter said that the library held some eleven thousand volumes\" - perhaps he might, but do remember that he knows every word in the book."
+
+Pattern: he never rereads for retention and never "goes back to" a text. He has it. Fixed in chapters three, five and six wherever a reread or a repeat sum appeared.
+
 ## Derived working rules (reworked from another session's suggestions; not verbatim, not authoritative over the sections above)
 
 - Take the arithmetic literally before writing. Know what Harry has actually done with the time, year by year and field by field, so the plot is dense enough that nothing is hidden for centuries or deferred to a convenient age.

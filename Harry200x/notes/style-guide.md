@@ -109,6 +109,13 @@ Pattern: Dumbledore (and the narrator) speaking in balanced parallel clauses, tr
 
 Pattern: he never rereads for retention and never "goes back to" a text. He has it. Fixed in chapters three, five and six wherever a reread or a repeat sum appeared.
 
+## Reader feedback on chapter five, second pass (verbatim)
+
+- "\"there had been people like his mother for as long as there had been people, and that they had hidden themselves from everyone else by law for three hundred years, and why\""
+- "Chapter 5 has a variety of other issues, which I hope you can find."
+
+Pattern: coy labels for things Harry has the word for ("people like his mother", "the man with the red eyes" after he has read the name), and withheld reasons ("and why"). Also found and fixed in that pass: a timeline slip (Dumbledore's visit on a day Harry could not have been at Figg's), an observation Harry could not have made (cups "already washed"), sitcom buttons on Dudley, Figg and Mr Tibbles, an echo gag at the library desk, a false claim that the cart moved at its proper pace for him, "he stopped counting" (he cannot), a contradiction with chapter three about what he had moved, and more Dumbledore parallelism.
+
 ## Derived working rules (reworked from another session's suggestions; not verbatim, not authoritative over the sections above)
 
 - Take the arithmetic literally before writing. Know what Harry has actually done with the time, year by year and field by field, so the plot is dense enough that nothing is hidden for centuries or deferred to a convenient age.

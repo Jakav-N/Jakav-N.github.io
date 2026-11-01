@@ -1632,21 +1632,73 @@ method with people · "it answers caring" (ch. 5) as his method with magic.
   will know the difference… I think he was being kind." Exit line: "*Albus*."
 - (append per chapter)
 
-## Proposed revision pass (from reader notes, 31 Oct) — NOT YET APPLIED
+## v4 — THE DOING PASS (ch. 6–16), reader-directed 31 Oct. APPLYING.
 
-1. **The hand is the bottleneck, and he can move a pencil.** He moved a pencil
-   in ch6 (Jan 1987). Fine control of the pushing part on a pencil = writing
-   at the speed of the magic, not the hand. Practice is an allowed subjective
-   duration. Consequence: from ~ch8 onward his *output* for others can scale —
-   papers through Carrow, textbooks, the Second Edition in weeks not a winter,
-   diagrams, carving (ch29 graver), instrument-making, the press. Every "my
-   hand is slow" line (ch5, ch15 "hand ached for a month", ch16) becomes a
-   before/after. Secrecy: he rations what he *shows*, not what he writes.
-2. **Money.** A trust already exists (Mr Pargeter, the book). Add: textbook
-   royalties; prize money; industrial maths consulting brokered through the
-   university and paid to the trust; by eleven, a Gringotts vault he treats as
-   capital not pocket money. EA-shaped: he gives most of it away, and says why.
-3. **Is he measuring up after ch7?** Honest answer: knowledge yes (he reads a
-   university; doctorate at ten); *output* no — one thesis, one book, forty
-   sentences, one Edition in nine hundred subjective years. Item 1 is the fix
-   the text was missing, and item 2 follows from it.
+Reader: "you're still underestimating him… two thousand years? He's intelligent,
+so he'll go and do all the different things. He'll be able to use all this
+learning: it would be rather pointless otherwise."
+
+Arithmetic (200× from 1 Nov 1981): 5¾ ≈ 880 yrs · 6½ ≈ 1,040 · 7 ≈ 1,150 ·
+8 ≈ 1,350 · 9 ≈ 1,550 · 10 ≈ 1,750 · 11 ≈ 1,950.
+
+### The hinge: the pencil writes (ch6, Dec 1986–Jan 1987)
+- First sentence moves a pencil an inch (sent; costs like a hill). Within days he
+  finds that a sentence can be *held* instead of sent — "this pencil, where I
+  look, so" — and a held sentence costs almost nothing once steady. **Holding is
+  discovered here**, on his own sentence; ch11 extends it to theirs (the feather).
+- Held, the pencil writes what he reads off the page in his head. A page in two
+  minutes by Christmas; **a page a minute by January, which is the paper's limit,
+  not his.** The hand was the slow part of his whole life and it is gone.
+- He hands Carrow ~300 pages in January 1987 (the rebuilt number theory). She
+  cannot read it in a term. "I write faster now." She does not ask how. Nobody
+  ever sees the pencil move.
+- Fine control follows: threading, page-turning (reads with no hands), later
+  lenses, carving, instrument parts.
+
+### What he DOES, year by year (the world sees the output, never the mechanism)
+- **1987 (age 6¾–7, ch8–10):** 15 exams (credentials, a fortnight's bother).
+  Carrow recruits the department to read him; **three papers submitted** by
+  autumn (Carrow & Potter; one solo). Builds a pendulum clock and a 6-inch
+  reflector with Haines after the exams. The trust (Pargeter). The Alley; the
+  wizard books; starts the first textbook, *for a reader who is slow*, at night.
+- **1988 (7–8, ch11–12):** feather holds; **first carved object** (Easter: a
+  warming stand for Figg's teapot — a sentence in wood; she has it on her table
+  for the rest of the book); university chess club beaten and left ("it's
+  solved for me, and that's not a game"); **Saturday maths at the branch
+  library** for anyone who comes (Mrs Prentice's idea) — finds two children at
+  the kitchen table nobody sees; Lindqvist's lab Thursdays with Mrs Osei; builds
+  a microscope and a spectroscope; **first textbook published Sept 1988**
+  (money begins: royalties into the trust); seven papers in print; a short
+  grammar of English written for Carrow's niece; the famine: £115 of the first
+  royalties, and a letter to the charity about logistics they answer.
+- **1989 (8½–9, ch13):** finals at 8½; Lindqvist–Osei–Potter paper; chemistry
+  lab under supervision; **thesis written June–Sept 1989** (pencil); the 1979
+  theorem falls in August; **viva April 1990 → DOCTOR at nine** (move from ch16);
+  *Three and Thirteen* written Oct 1989, out Feb 1990, third printing by summer,
+  all proceeds to the children's hospital; consulting via Carrow (a bridge
+  firm's vibration problem; paid to the trust); he keeps "shoes" and gives the
+  rest, and says why to Pargeter in writing.
+- **1989–90 (9–10, ch15):** the cold; the roof read; **Second Edition in six
+  weeks, 900 pages** (not a winter, 412); **two hundred sentences of his own,
+  thirty cast by hand reliably**; the asking; a wandless light; carved tin:
+  warming seals, a light, a listening ward on the cupboard door; the library
+  campaign; Cambridge lecture at ten (Aldous).
+- **1990–91 (10–11, ch16):** physics: a theory paper Lindqvist calls "the one
+  I'll be remembered for and it isn't mine"; the press and the seal designed;
+  blankets prototyped (two, in the cupboard, warm to the hand, *not given* —
+  Statute first); a second children's book (physics); teaching the Saturday
+  children; Dudley; the ceremony was last year — this year is work.
+- **By 11:** ~25 papers; three books; one doctorate and the knowledge for five;
+  seven languages read; instruments built; ~£30k in the trust, most of it given;
+  200 sentences; a tin of carved things; the grammar; the asking; the seal; the
+  cold begun. The trunk goes up the drive with *things in it he made*.
+
+### Knock-ons (fix when each chapter is rewritten; grep afterwards)
+- ch5 "my hand is slow" stays (May 1986: true then). ch15/16 "hand ached for a
+  month", "the winter", "412 pages", "forty sentences / six good" → new numbers.
+- ch16 viva/ceremony → ch13/15 (April & July 1990). "DOCTOR, 10" → 9; ch19/20
+  Haines "a boy of ten with a doctorate" → nine; ch17 file; ch18 biscuit-tin
+  counts; ch22+ "four hundred pages" → nine hundred; "forty sentences" → two
+  hundred.
+- Classifier: no computing; no weapons/chemistry hazards; medicine = reading,
+  the asking, and an error found in a table — never treating a person.

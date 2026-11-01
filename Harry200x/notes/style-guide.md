@@ -61,6 +61,13 @@ Hogwarts library has 11000 books
 8. (One Markdown file per chapter in Harry200x, notes in a subfolder) Sure. The folder was named Harry200x for this purpose
 9. (Write chapter one, send it, chapter two, send it, stop) Yes; outline and stuff first. Don't put the style guide through the telephone game. Include stuff from here mostly verbatim, except the AI paragraph.
 
+## Added after chapter one was written (verbatim)
+
+- "Just because I mentioned it doesn't mean it has to be in the story."
+- "Harry isn't going to quickly find out everything that I said about the magic system."
+
+(Working consequence: the premise file is a description of how the world works, not a checklist of things Harry discovers. He learns what his situation lets him learn, slowly, and much of it he never finds out. The chapter outlines should be read with this in mind where they list findings.)
+
 ## Derived working rules (reworked from another session's suggestions; not verbatim, not authoritative over the sections above)
 
 - Take the arithmetic literally before writing. Know what Harry has actually done with the time, year by year and field by field, so the plot is dense enough that nothing is hidden for centuries or deferred to a convenient age.

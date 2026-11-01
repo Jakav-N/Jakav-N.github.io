@@ -87,6 +87,22 @@ Pattern: the narrator handing an infant finished inferences in abstract nouns ("
 
 - "\"Each time it goes down takes about as long as Mrs Figg takes to say Mr Tibbles.\" - false" (Every outside event reaches him slowed by the same factor, so he can never measure the factor by comparing two outside events. He can only report how a thing of known real duration looks to him.)
 
+## Reader feedback on chapter four, second pass (verbatim lines Jacob quoted)
+
+- "The bottle was the first" - Dumbledore would not understand.
+- "and I would rather not give you a guess"
+- "That is the difference, and it is a large one, and I will have to think about what it means."
+- "The line, and the number we did not say. I would like that to stay between the three of us, for now"
+- "And because there are people who, if they understood it, would want to use it, and you, and would not ask first"
+- "and I would not want it helped. I am asking that they not know why"
+- "He said that there was more, and that Harry should have it, and that he would rather it came a little at a time than all in an afternoon."
+- "Dumbledore may be right, but he's saying things very strangely here."
+- "on the thing that roared" - Harry probably understands that this was a motorcycle or something else
+- (the Sirius paragraph) "Harry does not have a reason to suspect that Sirius is innocent at this point, and he remembers everything just by default. Unfortunately, the way this paragraph is written is also bad."
+- "I will tell you the truth or I will tell you that I am not going to tell you, and I will try not to do the second thing often."
+
+Pattern: Dumbledore (and the narrator) speaking in balanced parallel clauses, triplets and epigrams ("X, and it is Y, and I will Z"; "not A but B"; "the number we did not say"). People do not talk like that. Dumbledore talks plainly to Harry. Also: Harry uses the ordinary name for a thing he knows the name of; and he does not do inference he has no grounds for, nor does the narrator make a device out of his remembering.
+
 ## Derived working rules (reworked from another session's suggestions; not verbatim, not authoritative over the sections above)
 
 - Take the arithmetic literally before writing. Know what Harry has actually done with the time, year by year and field by field, so the plot is dense enough that nothing is hidden for centuries or deferred to a convenient age.

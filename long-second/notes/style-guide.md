@@ -149,3 +149,9 @@ established, names coined, dates, promises to the reader.
 
 
 ## v4 continuity: the marks begin in ch11 (Jan 1988) with the Second Edition, written for whoever comes after. Before that the grammar has named parts in his head. ch15 finishes the Edition.
+
+## PUBLISHING RULE (reader-directed, 1 Nov)
+The reader reads at https://claude.ai/artifact/QPFwGoySjfWx4vLj8Vuzpa — the
+single-page `long-second/all.html`. After EVERY commit that changes a chapter,
+republish that same file path with the Artifact tool (same URL). No step for
+the reader; they just reload. read.bat / git pull is the fallback, not the way.

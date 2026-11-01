@@ -1633,7 +1633,7 @@ method with people · "it answers caring" (ch. 5) as his method with magic.
   will know the difference… I think he was being kind." Exit line: "*Albus*."
 - (append per chapter)
 
-## v4 — THE DOING PASS (ch. 6–16), reader-directed 31 Oct. APPLYING.
+## v4 — THE DOING PASS (ch. 6–16), reader-directed 31 Oct. APPLIED 1 Nov (ch6, 8, 11, 15, 16 rewritten; 7, 10, 12–14 patched; 17–32 knock-ons fixed). Facts below are now canon; the v3 ledger entries for ch6–16 are superseded where they conflict.
 
 Reader: "you're still underestimating him… two thousand years? He's intelligent,
 so he'll go and do all the different things. He'll be able to use all this

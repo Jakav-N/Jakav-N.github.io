@@ -146,3 +146,6 @@ established, names coined, dates, promises to the reader.
   warrant to check the spelling" / "and meant it." Captions on people. Describe
   what they did; let the reader supply the face. Cut from ch4–8; ~20 remain in
   ch13–30 — trim on sight.
+
+
+## v4 continuity: the marks begin in ch11 (Jan 1988) with the Second Edition, written for whoever comes after. Before that the grammar has named parts in his head. ch15 finishes the Edition.

@@ -1695,7 +1695,7 @@ Arithmetic (200× from 1 Nov 1981): 5¾ ≈ 880 yrs · 6½ ≈ 1,040 · 7 ≈ 1,
   cold begun. The trunk goes up the drive with *things in it he made*.
 
 ### Knock-ons (fix when each chapter is rewritten; grep afterwards)
-- ch5 "my hand is slow" stays (May 1986: true then). ch15/16 "hand ached for a
+- The written marks and the Second Edition now BEGIN in ch11 (Jan 1988), not ch15; ch15 is where it is finished (900 pp.). ch5 "my hand is slow" stays (May 1986: true then). ch15/16 "hand ached for a
   month", "the winter", "412 pages", "forty sentences / six good" → new numbers.
 - ch16 viva/ceremony → ch13/15 (April & July 1990). "DOCTOR, 10" → 9; ch19/20
   Haines "a boy of ten with a doctorate" → nine; ch17 file; ch18 biscuit-tin

@@ -1,0 +1,194 @@
+<title>Harry200x</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Sans:wght@400;500&display=swap">
+<style>
+  /* Layout: a narrow chapter rail on the left, a single reading column on the right, measure held near 66ch. On phones the rail becomes a select above the text. */
+  :root {
+    --bg: #f5f4ef;
+    --panel: #ebeae3;
+    --fg: #1f2328;
+    --muted: #5b6168;
+    --rule: #d6d4cb;
+    --accent: #2d5a4c;
+    --accent-soft: #dbe7e1;
+    --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+    --sans: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #15181c; --panel: #1c2026; --fg: #e4e1d8; --muted: #9aa0a6; --rule: #2e343b;
+      --accent: #8fc1ad; --accent-soft: #233630; color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #15181c; --panel: #1c2026; --fg: #e4e1d8; --muted: #9aa0a6; --rule: #2e343b;
+    --accent: #8fc1ad; --accent-soft: #233630; color-scheme: dark;
+  }
+  html, body { height: 100%; }
+  body {
+    margin: 0; background: var(--bg); color: var(--fg);
+    font-family: var(--serif); font-size: 1.125rem; line-height: 1.6;
+    padding-left: max(16px, env(safe-area-inset-left, 0px));
+    padding-right: max(16px, env(safe-area-inset-right, 0px));
+    padding-block: 0;
+  }
+  .shell { display: grid; grid-template-columns: 15rem minmax(0, 1fr); gap: 2.5rem; max-width: 72rem; margin: 0 auto; min-height: 100%; }
+  nav.rail { font-family: var(--sans); font-size: 0.9rem; padding-block: 2rem 3rem; position: sticky; top: env(safe-area-inset-top, 0px); align-self: start; max-height: 100vh; overflow-y: auto; }
+  nav.rail h1 { font-family: var(--serif); font-weight: 600; font-size: 1.35rem; margin: 0 0 0.25rem; letter-spacing: 0.01em; }
+  nav.rail .sub { color: var(--muted); margin: 0 0 1.5rem; font-size: 0.8rem; }
+  nav.rail ol { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 2px; }
+  nav.rail a { display: block; padding: 0.45rem 0.6rem; border-radius: 4px; color: var(--fg); text-decoration: none; border-left: 2px solid transparent; }
+  nav.rail a .d { display: block; color: var(--muted); font-size: 0.75rem; margin-top: 1px; }
+  nav.rail a:hover { background: var(--panel); }
+  nav.rail a[aria-current="page"] { background: var(--accent-soft); border-left-color: var(--accent); }
+  nav.rail a:focus-visible, .pager a:focus-visible, select:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  nav.rail .notes { margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid var(--rule); color: var(--muted); font-size: 0.78rem; }
+  .picker { display: none; }
+  main { padding-block: 2rem 4rem; min-width: 0; }
+  article { max-width: 66ch; }
+  article h1 { font-size: 2rem; font-weight: 600; margin: 0.5rem 0 0.25rem; text-wrap: balance; line-height: 1.15; }
+  article h1 + p em, article > p:first-of-type em { font-family: var(--sans); font-style: normal; color: var(--muted); font-size: 0.85rem; letter-spacing: 0.02em; }
+  article p { margin: 0 0 1.1em; }
+  article hr { border: 0; height: 1px; background: var(--rule); margin: 2.2em auto; width: 6rem; }
+  article em { font-style: italic; }
+  .status { font-family: var(--sans); color: var(--muted); font-size: 0.9rem; }
+  .pager { display: flex; justify-content: space-between; gap: 1rem; margin-top: 3rem; padding-top: 1.25rem; border-top: 1px solid var(--rule); font-family: var(--sans); font-size: 0.9rem; max-width: 66ch; }
+  .pager a { color: var(--accent); text-decoration: none; }
+  .pager a:hover { text-decoration: underline; }
+  .pager span.spacer { flex: 1; }
+  .meta { font-family: var(--sans); color: var(--muted); font-size: 0.8rem; margin-top: 2rem; font-variant-numeric: tabular-nums; }
+  @media (max-width: 760px) {
+    .shell { grid-template-columns: minmax(0, 1fr); gap: 0; }
+    nav.rail { position: static; max-height: none; padding-block: 1.25rem 0; }
+    nav.rail ol, nav.rail .notes { display: none; }
+    .picker { display: block; margin-top: 0.75rem; }
+    .picker select { width: 100%; font: inherit; font-family: var(--sans); padding: 0.5rem; border: 1px solid var(--rule); border-radius: 4px; background: var(--panel); color: var(--fg); }
+    main { padding-block: 1.25rem 3rem; }
+    body { font-size: 1.0625rem; }
+  }
+  @media (prefers-reduced-motion: no-preference) { article { transition: opacity 120ms ease; } }
+</style>
+
+<div class="shell">
+  <nav class="rail" aria-label="Chapters">
+    <h1>Harry200x</h1>
+    <p class="sub">Chapters are added here as they are written.</p>
+    <div class="picker"><label for="chapter-select" class="status">Chapter</label><select id="chapter-select"></select></div>
+    <ol id="chapter-list"></ol>
+    <p class="notes" id="rail-notes"></p>
+  </nav>
+  <main>
+    <article id="article"><p class="status" id="status">Loading chapter list…</p></article>
+    <div class="pager" id="pager" hidden></div>
+    <p class="meta" id="meta"></p>
+  </main>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script>
+(function () {
+  var listEl = document.getElementById('chapter-list');
+  var selectEl = document.getElementById('chapter-select');
+  var articleEl = document.getElementById('article');
+  var pagerEl = document.getElementById('pager');
+  var metaEl = document.getElementById('meta');
+  var notesEl = document.getElementById('rail-notes');
+  var chapters = [];
+  var cache = {};
+
+  function idOf(ch) { return ch.file.replace(/\.md$/, ''); }
+  function remember(id) { try { localStorage.setItem('harry200x-last', id); } catch (e) {} }
+  function recall() { try { return localStorage.getItem('harry200x-last'); } catch (e) { return null; } }
+
+  function buildList() {
+    listEl.innerHTML = '';
+    selectEl.innerHTML = '';
+    chapters.forEach(function (ch) {
+      var li = document.createElement('li');
+      var a = document.createElement('a');
+      a.href = '#' + idOf(ch);
+      a.textContent = ch.title;
+      var d = document.createElement('span');
+      d.className = 'd';
+      d.textContent = ch.dates;
+      a.appendChild(d);
+      li.appendChild(a);
+      listEl.appendChild(li);
+      var opt = document.createElement('option');
+      opt.value = idOf(ch);
+      opt.textContent = ch.title + (ch.dates ? ' — ' + ch.dates : '');
+      selectEl.appendChild(opt);
+    });
+    var total = chapters.reduce(function (n, c) { return n + (c.words || 0); }, 0);
+    notesEl.textContent = chapters.length + ' chapters so far, about ' + Math.round(total / 1000) + ',000 words.';
+  }
+
+  function markCurrent(id) {
+    Array.prototype.forEach.call(listEl.querySelectorAll('a'), function (a) {
+      if (a.getAttribute('href') === '#' + id) a.setAttribute('aria-current', 'page');
+      else a.removeAttribute('aria-current');
+    });
+    selectEl.value = id;
+  }
+
+  function render(id) {
+    var idx = -1;
+    chapters.forEach(function (c, i) { if (idOf(c) === id) idx = i; });
+    if (idx < 0) { idx = 0; id = idOf(chapters[0]); }
+    var ch = chapters[idx];
+    markCurrent(id);
+    remember(id);
+    pagerEl.hidden = true;
+    metaEl.textContent = '';
+    var show = function (md) {
+      articleEl.innerHTML = marked.parse(md);
+      pagerEl.innerHTML = '';
+      if (idx > 0) {
+        var prev = document.createElement('a');
+        prev.href = '#' + idOf(chapters[idx - 1]);
+        prev.textContent = '← ' + chapters[idx - 1].title;
+        pagerEl.appendChild(prev);
+      }
+      var sp = document.createElement('span'); sp.className = 'spacer'; pagerEl.appendChild(sp);
+      if (idx < chapters.length - 1) {
+        var next = document.createElement('a');
+        next.href = '#' + idOf(chapters[idx + 1]);
+        next.textContent = chapters[idx + 1].title + ' →';
+        pagerEl.appendChild(next);
+      }
+      pagerEl.hidden = false;
+      metaEl.textContent = (ch.words ? ch.words.toLocaleString() + ' words. ' : '') + 'Chapter ' + (idx + 1) + ' of ' + chapters.length + '.';
+      window.scrollTo(0, 0);
+    };
+    if (cache[ch.file]) { show(cache[ch.file]); return; }
+    articleEl.innerHTML = '<p class="status">Loading ' + ch.title + '…</p>';
+    fetch(ch.file, { cache: 'no-store' }).then(function (r) {
+      if (!r.ok) throw new Error(r.status);
+      return r.text();
+    }).then(function (md) { cache[ch.file] = md; show(md); })
+      .catch(function () { articleEl.innerHTML = '<p class="status">That chapter could not be loaded. Reload the page and try again.</p>'; });
+  }
+
+  function route() {
+    var h = (location.hash || '').replace(/^#/, '');
+    var ok = chapters.some(function (c) { return idOf(c) === h; });
+    if (!ok) {
+      var last = recall();
+      h = chapters.some(function (c) { return idOf(c) === last; }) ? last : idOf(chapters[0]);
+    }
+    render(h);
+  }
+
+  selectEl.addEventListener('change', function () { location.hash = '#' + selectEl.value; });
+  window.addEventListener('hashchange', route);
+
+  fetch('chapters.json', { cache: 'no-store' }).then(function (r) { return r.json(); }).then(function (data) {
+    chapters = data.chapters || [];
+    if (!chapters.length) { articleEl.innerHTML = '<p class="status">No chapters yet.</p>'; return; }
+    buildList();
+    route();
+  }).catch(function () {
+    articleEl.innerHTML = '<p class="status">The chapter list could not be loaded. Reload the page and try again.</p>';
+  });
+})();
+</script>

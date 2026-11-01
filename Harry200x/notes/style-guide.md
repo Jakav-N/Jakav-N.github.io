@@ -108,6 +108,11 @@ Pattern: the narrator handing an infant finished inferences in abstract nouns ("
 - Narrating the premise. Show the slowness through concrete perception (a dropped spoon, a scan line, a word that has to be held whole before it means anything) and then stop pointing at it.
 - Ending a scene on the neatest available line. End where the content ends.
 
+## Delivery to Jacob
+
+- Reader artifact: https://claude.ai/artifact/DML78mAaSyaKCf3u5JPJVD (published from `Harry200x/reader.html`, with `chapters.json` and the `chNN.md` files as supporting files, `root` = Harry200x).
+- After every new or revised chapter: run `python3 -I Harry200x/notes/build_manifest.py`, then republish `Harry200x/reader.html` with `files` naming `chapters.json` and the changed chapter file(s). Files left out are kept. Also still send the chapter file directly.
+
 ## Format
 
 - British spelling and idiom throughout. 1980s period detail that is concrete and checkable.

@@ -83,6 +83,10 @@ Pattern: the narrator handing an infant finished inferences in abstract nouns ("
 - "\"because its legs moved slowly enough to see how they worked.\" - false: easiest to just remove this phrase"
 - "The way Figg treats Harry makes little sense" (Rewritten: no baby voice to drop, no going still at a one-word name; she notices him reading, tests him with more of the page, asks who taught him and whether his aunt knows, notes his age herself.)
 
+## Reader feedback on chapter four (verbatim)
+
+- "\"Each time it goes down takes about as long as Mrs Figg takes to say Mr Tibbles.\" - false" (Every outside event reaches him slowed by the same factor, so he can never measure the factor by comparing two outside events. He can only report how a thing of known real duration looks to him.)
+
 ## Derived working rules (reworked from another session's suggestions; not verbatim, not authoritative over the sections above)
 
 - Take the arithmetic literally before writing. Know what Harry has actually done with the time, year by year and field by field, so the plot is dense enough that nothing is hidden for centuries or deferred to a convenient age.

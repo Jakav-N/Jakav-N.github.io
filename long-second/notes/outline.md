@@ -128,7 +128,8 @@
   wands," assumed a story: "I was reading the wrong shelf." Still waits: "if I
   walk up that path now he stops getting ready and starts *performing*."
   "She has turned the post into a commute" — stipend raised four galleons for
-  scones. McGonagall's green margin: **"M.M. said so first, Feb. '87."**
+  scones. (v4: Figg's letter adds the 300 pages since Christmas and "his hand
+  was slow in May and is not slow now"; the M.M. margin gag is cut.)
   Dumbledore's reply ends: "If he asks you what the first wizards did, before
   wands — tell him I do not know, and that I should very much like to." Figg:
   "I don't think I've ever had him ask *me* a question." Good tin nearly empty;

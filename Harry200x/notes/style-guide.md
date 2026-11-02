@@ -169,6 +169,12 @@ All six chapters were rewritten at sentence level on 2 November 2026 for the cha
 
 Response: four small acts added where they belong (council letter about the canal fence, 1983; request to turn vault gold into invested pounds, Dec 1983, pending; teaching Dudley his letters, Jul 1984; Wolfsbane batch question to Snape and Sprout, and a correspondence opened with Bathilda Bagshot, Aug 1984). From chapter eight on, every chapter must show him acting on money, people, or the world, not only reading. Keep a running list of open threads in the ledger under PENDING.
 
+## Reader feedback on chapter six, fourth pass (verbatim)
+
+- "\"She's not pleased. She's not pleased about most things\" - Dumbledore? Perhaps review a few lines of Dumbledore's speech from canon, when he is trying to be helpful and not esoteric or abstruse."
+
+Dumbledore's voice, from canon when he is being helpful: courteous, warm, complete sentences, a light formality ("I won't pretend", "I should warn you", "It is time it was returned to you"), gentle rather than dry, explanatory without lecturing, occasional mild humour at his own expense. He does not do clipped repetition, sardonic buttons or McGonagall's dryness. He says what he means and adds the kindness.
+
 ## Derived working rules (reworked from another session's suggestions; not verbatim, not authoritative over the sections above)
 
 - Take the arithmetic literally before writing. Know what Harry has actually done with the time, year by year and field by field, so the plot is dense enough that nothing is hidden for centuries or deferred to a convenient age.

@@ -50,6 +50,7 @@ This session:
 - "I wouldn't trust the style guide so much: significant portions of it weren't based in my input. The style guide is also likely longer than it should be."
 - "there are more ways to write a sentence than one."
 - "I have focused on antipatterns, but in order for things to really work out, you will need to figure out what patterns, method, style should be followed."
+- "The quality of those two chapters is terrible in most aspects" (chapters eleven and twelve, first versions: report paragraphs with figures, thin scenes, the model pasted into prose; both rewritten as three or four full scenes each)
 - "this is a bad summary... Be careful that you do not write bad summaries. I suspect you will anyway unless you are very careful. Perhaps figure out what summaries normally look like?"
 - "Figure out what Harry would do in all the different categories over time. DO NOT artificially limit what he does by chapter space. Harry has the equivalent of hundreds of years here: do not minimize them. The ONLY stage at which compression occurs is the chapter writing." / "This applies both looking forward and looking back. Assume that the marginal cost of edits into the past is exactly the same as writing new things."
 - Answers that fix the world: Dumbledore a great ally who requires at least three weeks a year at Privet Drive; pre-wand magic reliable, small, hidden; wand and vault through Dumbledore; mind and soul magic exceedingly hard; no Horcrux solution for a very long time; chapter 100 lands around year three or four; ink telekinesis adopted for output.
@@ -69,6 +70,8 @@ Names. Call things what Harry would call them: Voldemort, the motorbike, H. Neve
 Speed. It was established in chapter one. After that it appears only as what he notices (a brick turning, a spark landing) and in the real constraints (eyes, hands, sleep). Never "which for him was a long time". His body is an ordinary body on ordinary time.
 
 Interior. Show his thinking as its content, not as the fact of it: the price of aconite by the pound, what Dumbledore will say, whether the fence would have gone up anyway. Decisions take no time and get none. His purpose, that things go well for people, is the measure he applies when choosing what to do next, and the reader should see him applying it, in his own terms, a few times a chapter, never as a speech.
+
+Selection. A chapter is three or four things seen whole, with dialogue, place and time, and the rest offstage. The activity model is for me; it does not go into the prose. A chapter that tries to cover everything that happened covers nothing. Figures stay in the ledger unless a character says one aloud for a reason.
 
 Summary. When a passage summarises rather than shows, it is still narrative: time order, concrete nouns, cause and consequence, one or two particulars that stand for the rest, in the same voice as the scenes around it. Never a checklist, never items with colons, never tallies ("five done, two promised"), never a ledger in prose. If the material is a list, give it to a character to say or to read, and let someone answer.
 

@@ -135,6 +135,16 @@ This is the model the chapters are cut from. Nothing here is limited by chapter 
 
 ### Hogwarts (see plot-outline.md by term).
 
+## The research house (added after Jacob asked why he does not build one at once; he does)
+
+- Sept 1984: Harry asks Dumbledore for ten names, with a page of brief for each and the figures on the back. Dumbledore: six by October, four more when the first six have been paid a month without incident; Snape to see every potion sold. Rooms above the Luton newsagent's at a peppercorn rent from Hester's father. Hester's name on the door. Fifteen Galleons a week each.
+- Briefs: warding (everything printed, what the books agree on, where they stop); picture-and-motion charms (so Flitwick has someone to argue with); ordinary potions brewed without licence and sold at cost plus a tenth from the Alley room's door; the werewolf count from the Prophet's back numbers and by letter; two people running the twenties on casters who are not Harry; the rest on what the first six find.
+- Nov 1984: six at desks. Dec: eight; four rooms; Pepperup at a third of the street price, Snape inspecting Tuesdays; werewolf count 309. Harry reads eight reports and writes eight briefs before breakfast.
+- Mar 1985: twelve. First findings: warding literature adds nothing since 1700 but names; grown wizards' wand-and-word charms fail one in twelve, failures in runs, nobody has counted; 400 flasks of Pepperup in February; werewolf count 412 and the counter receiving letters.
+- Jul 1985: twenty; Ministry letter to Miss Pye answered truthfully (owner Miss Pye; money Mr H. J. Potter, five); a young man in a bowler hat inspects and does not write again that year. Arthur Weasley's office had a complaint in March from a quill-seller; Arthur inspected Luton himself and bought a flask.
+- Aug 1985: the cards (line, not word) on sale at Flourish and Blotts at nine Sickles, two hundred made in Hogsmeade by a retired Charms master Dumbledore found; sold out in four days; five hundred ordered; the Hogsmeade man takes two assistants. The card beside them names Flitwick's charm and Harry's idea.
+- End 1985: thirty. 1986: fifty, and a Ministry that has stopped pretending not to know. Production: potions, Muggle goods, lending library, cards, catalogues, cauldron blanks from Sheffield (1986). Muggle side from 1985–86: the postal revision course, marking by paid graduates.
+
 ## Additions after review (things the first draft of this model under-asked of him)
 
 - **Time.** He asks Dumbledore in 1984 whether any magic gives time. Dumbledore tells him the truth: the Ministry keeps hour-glasses that turn time back, they are dangerous, they are not given to children, and he will not ask for one. Harry knows from four, wants it from four, and waits with a date (Hogwarts). Move from 1989 to Sept 1984 (ch 9 mentions it as already known).

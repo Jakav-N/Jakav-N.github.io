@@ -12,8 +12,8 @@ Governing facts: 200 subjective days per real day; eyes read at about 1,500 word
 | Jan 1984 | £20 in notes; the owl tin | Figg shopping and wrapping | Figg's owl customers |
 | Apr 1984 | £10k trust (Hadley); £600 for the first book | + Lupin (tutor, Mondays, then two research afternoons), Hadley, Colin (May), Hester (May) | the Luton spare room |
 | Jul 1984 | tin of Galleons | + Flitwick (device), Snape (one question a dinner), Pince (catalogue), Hagrid, Pomfrey | Hogwarts library, staff |
-| Dec 1984 | £11k trust, £2,400 from four books (five more with Oxford), 1,800 G account | + Hester Pye (since May) and her cousin, Colin (since May), Joan Tilley brewing under Snape's licence in a rented room | Luton spare room; a room in Diagon Alley; the lending library; Bathilda; the primer in the window; the Prophet about to know his name |
-| Jun 1985 | ~£25k trust (35% of vault), £3k books, ~2,000 G | + [brewer], second clerk, Oxford publisher | a rented room in Diagon Alley; Neville; the Prophet |
+| Dec 1984 | £11k trust, £2,400 from four books (five more with Oxford), 1,800 G account | + Hester Pye (since May) and her cousin, Colin (since May), Joan Tilley under Snape's licence, and eight on wages in four rooms above the Luton newsagent's (the research house) | Luton spare room; a room in Diagon Alley; the lending library; Bathilda; the primer in the window; the Prophet about to know his name |
+| Jun 1985 | ~£25k trust (35% of vault), £5k books, ~4,000 G | twenty in the research house; Oxford publisher; the Hogsmeade charms master | a rented room in Diagon Alley; Neville; the Prophet |
 | Dec 1985 | ~£35k, 4,000 G, primer royalties | + 5 paid | the Weasleys; the Longbottoms; a shop lease |
 | Dec 1986 | ~£60k, 10,000 G | + 8 paid incl. two researchers | the device works; the Lovegoods; the map |
 | Feb 1988 | ~£120k, 25,000 G, + Black money offered | + Sirius | Pettigrew caught; Sirius free |

@@ -28,19 +28,25 @@
    "file": "ch05.md",
    "title": "Chapter Five",
    "dates": "September 1983 to February 1984",
-   "words": 3650
+   "words": 3662
   },
   {
    "file": "ch06.md",
    "title": "Chapter Six",
    "dates": "March to June 1984",
-   "words": 3340
+   "words": 3360
   },
   {
    "file": "ch07.md",
    "title": "Chapter Seven",
    "dates": "July to August 1984",
    "words": 4007
+  },
+  {
+   "file": "ch08.md",
+   "title": "Chapter Eight",
+   "dates": "September to December 1984",
+   "words": 3447
   }
  ]
 }

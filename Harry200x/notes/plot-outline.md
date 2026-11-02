@@ -24,7 +24,7 @@ Governing facts: 200 subjective days per real day; eyes read at about 1,500 word
 
 - **Reading speed.** Device via Flitwick: Protean-linked card that shows one word where the eye already is, at a set rate (Omniocular rate charm). Prototype Sept 1986 at ~3x; the library finished mid-1988. Gives Harry an invention with his and Flitwick's names on it. [NAME NEEDED for the device, if it is to be sold.]
 - **Output.** Ink moved directly: a word June 1984, a page Nov 1984, a clean page in any hand by 1985. Never improves past a page per picture; he does not need it to.
-- **Sleep.** Pomfrey's no in 1984; Harry revisits at eight with the literature; she holds; he accepts ten hours as the body's and stops fighting it. Time-Turner learned of in 1989 from a Department of Mysteries publication; Dumbledore refuses to ask for one until Hogwarts; granted in year two under conditions.
+- **Sleep.** Pomfrey's no in 1984; Harry revisits at eight with the literature; she holds; he accepts ten hours as the body's and stops fighting it. Time-Turner: Harry asks in 1984 whether any magic gives time and Dumbledore tells him the truth about the Ministry's hour-glasses and that he will not ask for one for a child; Harry waits with a date; granted in year two under conditions.
 - **Money, Muggle.** Trust compounding; revision books then a small publishing company owned by the trust (1986); Harry trims equity on valuation in summer 1987 and buys after October; by 1991 under a million pounds. He never gets "very rich" in the Muggle world before Hogwarts; that is a later arc.
 - **Money, wizarding.** Owl trade → shop at the wrong end of Diagon Alley (1986) run by Hester; a postal lending library of Muggle books (1985); the brewing room → a small apothecary selling standard potions cheaply (1986), profits subsidising Wolfsbane; the primer and later books; the weekly paper runs at a loss by design.
 - **Wolfsbane.** Snape's trial Nov 1984 → a hired brewer and a rented room Feb 1985 → sixty takers by 1986 → Ministry attention 1987 → Wizengamot debate and subsidy 1990. Lupin's register of real werewolves (word of mouth) becomes the only honest count.
@@ -33,7 +33,7 @@ Governing facts: 200 subjective days per real day; eyes read at about 1,500 word
 - **Parseltongue.** A grass snake at the Burrow, Aug 1985. Dumbledore's private alarm. Harry's reading on soul and mind magic runs into the wall and he files it. Dumbledore says what he suspects in 1988, after Sirius, when Harry is eight: that some of Voldemort is in the scar. Harry treats it as a fact with no action available.
 - **Patronus.** Begun 1988 after seeing what Azkaban did to Sirius; corporeal stag 1989; the destroying form only after years, at Azkaban, around year three.
 - **Spell creation.** First attempt 1985 fails. Methodology (one variable, a tester who is not the inventor, inert targets, counts) written up 1986 and sent to Pandora Lovegood, who lives. First bound spell 1987, tiny: "next" for the reading card. Fred and George as collaborators from 1986.
-- **The press.** Prophet learns of him Jan 1985; a reporter at Figg's door 1985; the primer under his own name 1985 (so the public knows him as an author at five); the weekly [NAME NEEDED] founded 1989, Lupin editing.
+- **The press.** Prophet learns of him Jan 1985; a reporter at Figg's door 1985; the primer's second edition under his own name 1985; the weekly [NAME NEEDED] founded 1987, Lupin editing.
 - **Politics.** Lucius Malfoy's letter 1986 (polite, declined); apothecaries' complaint 1987; Fudge becomes Minister 1990 and courts Harry; Harry's proxies (Dumbledore, Augusta Longbottom, Amelia Bones via Augusta) carry his arguments into the Wizengamot.
 - **Voldemort.** Background. Quirrell to Albania 1990. The Stone moved to Hogwarts 1991 against Harry's written objection; year one resolves it.
 
@@ -148,6 +148,9 @@ Governing facts: 200 subjective days per real day; eyes read at about 1,500 word
 ### Year four, 1994–95 (ch 93–100)
 - The Tournament reformed or not held. Bertha Jorkins found before she travels. The wraith still in Albania, watched.
 - Chapter 100: the world as it is: a free weekly, a Wolfsbane subsidy, an Azkaban without Dementors, muggle-borns employed, a research house with forty names, a boy of fourteen who has read everything and done a good deal and has a list that is shorter than it was and still long. Voldemort out there. Ends on the list.
+
+## Added after review (see activity-model.md, Additions)
+- Patronus from 1985 with Lupin; stag 1986. Casting-theory programme from 1985. Flitwick's first-year counts from 1985; the short wand 1987. Cauldron blanks from Sheffield 1986. Loans to Muggle-born leavers from 1986. Books-in-print catalogue 1985. Mathematics papers 1987–88. Postal revision course 1986. Sirius petition 1986. Research house: five by end 1985, ten by 1986, twenty by 1988. These are folded into chapters 9–20 at the next outline pass.
 
 ## Names needed from Jacob
 

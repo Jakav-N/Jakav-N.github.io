@@ -135,6 +135,21 @@ This is the model the chapters are cut from. Nothing here is limited by chapter 
 
 ### Hogwarts (see plot-outline.md by term).
 
+## Additions after review (things the first draft of this model under-asked of him)
+
+- **Time.** He asks Dumbledore in 1984 whether any magic gives time. Dumbledore tells him the truth: the Ministry keeps hour-glasses that turn time back, they are dangerous, they are not given to children, and he will not ask for one. Harry knows from four, wants it from four, and waits with a date (Hogwarts). Move from 1989 to Sept 1984 (ch 9 mentions it as already known).
+- **Patronus.** He asks about Dementors when he first reads of Azkaban (1983). Lupin teaches the charm from 1985, as he taught thirteen-year-olds; a mist in 1985, a corporeal stag in 1986. The destroying form still only after he has become the person it needs, and only at Azkaban.
+- **Theory.** From 1985 he runs a programme on casting itself, not only counts: hypotheses about why the wandless pace is fixed, why the wand lifts the ceiling, what "a complete picture" means in degrees, tested with Lupin and later with two paid researchers. He publishes the counts (1987) and keeps the theory private until it predicts something.
+- **Statistics at Hogwarts.** From 1985 Flitwick keeps counts in first-year Charms at Harry's request (success by movement, by wand length, by hand size). First honest data on how spells fail. Leads by 1987 to a shorter wand for small first-years, which Ollivander resists and then makes.
+- **Industrial design.** 1986: cauldron blanks cast to a drawing by a Muggle foundry in Sheffield through Hadley, finished and sold through the shop at half the price; the established cauldron shop complains; the complaint goes nowhere because the law says nothing about where iron comes from.
+- **Loans.** From 1986 the account lends to Muggle-born leavers who want to open a shop or a trade, at Muggle interest, on a written plan Harry reads; four by 1988, one failure; this is what "muggle-style loans" looks like at his scale, and it is how the research house finds its people.
+- **Books in print.** 1985: a catalogue of every wizarding book currently for sale, by subject, compiled from Flourish and Blotts' stock and Pince's cards, published yearly from the shop; the only such thing in the country; Flourish and Blotts buys fifty.
+- **Muggle research.** From 1986 he writes mathematics, under his own name with Hadley's office as address, and two papers are accepted in 1987 and 1988 in minor journals; nobody asks his age. Not fame; a foot in the door, and a correspondent at Cambridge who becomes useful later.
+- **Muggle business beyond publishing.** 1986: a postal revision course run from the publishing company, marking done by paid graduates to his scheme; two thousand pupils by 1988; this, not the books, is the Muggle income that matters before Hogwarts.
+- **The paper.** Launch 1987, not 1989. Money and Lupin are both available by then.
+- **Sirius.** 1986: a petition for a trial via Amelia Bones, found by Lupin's reports; it fails for want of evidence; it puts the case on record so that the map's evidence in 1987 moves fast.
+- **Scale of the research house.** Five paid by end 1985 (Lupin, Tilley, two Muggle-born graduates on warding and on casting, a retired Charms master in Hogsmeade); ten by 1986; twenty by 1988.
+
 ## Where the written chapters fall short of this model (to fix now)
 
 1. ch3: add the fire-guard letter to the Thursday paper.

@@ -56,7 +56,7 @@ Each chapter about 3,000 words. Close third on Harry. Dates in real time. Subjec
 - McGonagall monthly: Transfiguration surges because it is intent-driven. Fourth-year object work by December.
 
 ## Chapter 9 — Jan to Apr 1985 (4 years 5 months to 4 years 9 months)
-- The output problem. Dead ends: dictation quills (slow), copying charms (need a source object), steering an animated quill wandlessly (capped near twice normal casting speed). Then McGonagall's point that the end state must be held entire in the mind, and the observation that a page of writing is a shape. He transfigures a blank page into a written one by picturing it. A letter to Dumbledore is the first page. McGonagall's reaction. Limits: one page per cast, about two seconds each, errors where the picture is imprecise.
+- The output problem is already half solved by ink-moving (chapters 6 and 7). Here it matures: a clean page at a time, in a hand better than his own, at roughly the rate of one picture per page. Limits: he must look at the result before the next page; errors where he pictured the letters but not the ink; the two-times cap on how fast magic will take a picture. McGonagall sees it and has views on whether it is Charms or Transfiguration or neither.
 - He writes for others: letters, notes for Lupin's lessons, and a first manuscript, a plain primer on magical theory for first-years, which Dumbledore reads.
 - The Prophet, from a student's letter home: Dumbledore confirms Harry Potter is well, is in his care part of the time, and is advanced for his age. Letters start arriving by owl.
 

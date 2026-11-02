@@ -151,6 +151,17 @@ Dialogue rule: people talk in speech, not in prose. Contractions. Short sentence
 
 All six chapters were rewritten at sentence level on 2 November 2026 for the chain-of-"and" habit and stilted dialogue. New chapters are written to the rules above from the start.
 
+## Reader feedback on chapter six, third pass (verbatim)
+
+- "\"he became something dangerous\""
+- "\"was a man like any other, and a kind one, and\""
+- (the long Lupin-briefing paragraph) and "\" I am telling you so that you know what the gaps are...\"" with: "There is a place for dialogue in some cases." (Dumbledore's briefing is now spoken, not summarised.)
+- "\"and about a fortnight later your hand catches up\" - these constraints will not resolve so quickly" (Hand size is a years-long limit, not a fortnight's practice. Fixed in Lupin's line; practice can fix technique, not reach.)
+- "\"giving Dumbledore the parts Dumbledore could answer and holding back the parts he could not, and he began at the top.\""
+- "\"why nobody said the name\""
+- "\"Some answers were short. Some took an afternoon, and Harry found, to his surprise, that the afternoons were the better use of the time.\""
+- "[have you considered ink telekinesis or similar for chapter six? I don't know if you want Harry to be able to do that or not, but if you do, that's ok]" (Adopted: he moves the ink itself along a pictured path. First blotted word in June 1984, chapter six; a paragraph at a time by August, chapter seven. This replaces the page-transfiguration plan in the chapter 9 outline.)
+
 ## Derived working rules (reworked from another session's suggestions; not verbatim, not authoritative over the sections above)
 
 - Take the arithmetic literally before writing. Know what Harry has actually done with the time, year by year and field by field, so the plot is dense enough that nothing is hidden for centuries or deferred to a convenient age.

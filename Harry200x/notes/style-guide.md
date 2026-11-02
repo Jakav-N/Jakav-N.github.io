@@ -138,6 +138,12 @@ Rules added: his body is an ordinary body on ordinary time; nothing physical hap
 
 The sentence-shape rule, which matters more than any single line: my default sentence has been a chain of clauses joined by "and", often ending on a dry turn ("that did not blink enough"), or else a clipped pair of parallel statements ("He held a wand, and it was taken away. He held another."). Both are tics. Vary the shape: subordinate clauses, a semicolon now and then, sentences that start with something other than the subject, real verbs instead of "was" and "went", lengths that differ from one sentence to the next. No wry summary sentences opening a paragraph ("X was the only shop in which..."). No parallel epigrams in dialogue ("not a common core, and this is not a common feather"). Dumbledore and others speak in ordinary sentences with contractions.
 
+## Reader feedback on chapter six (verbatim)
+
+- (McGonagall's "That is not a first attempt. I do not mean that you have practised..." speech) "everybody is talking weird in general; this is not how people normally talk."
+
+Dialogue rule: people talk in speech, not in prose. Contractions. Short sentences mixed with run-ons. Reactions before explanations. A person explaining something does it the way they would to a colleague across a table, with "I mean" and "look" and half-finished thoughts, not in numbered, balanced clauses. Formal characters (McGonagall, Dumbledore) are formal in vocabulary and manner, not in syntax; they still say "that's" and "I'd rather".
+
 ## Derived working rules (reworked from another session's suggestions; not verbatim, not authoritative over the sections above)
 
 - Take the arithmetic literally before writing. Know what Harry has actually done with the time, year by year and field by field, so the plot is dense enough that nothing is hidden for centuries or deferred to a convenient age.

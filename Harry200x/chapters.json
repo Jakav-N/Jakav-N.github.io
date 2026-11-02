@@ -4,19 +4,19 @@
    "file": "ch01.md",
    "title": "Chapter One",
    "dates": "31 October 1981 to February 1982",
-   "words": 3669
+   "words": 3548
   },
   {
    "file": "ch02.md",
    "title": "Chapter Two",
    "dates": "March to December 1982",
-   "words": 3549
+   "words": 3252
   },
   {
    "file": "ch03.md",
    "title": "Chapter Three",
    "dates": "January to August 1983",
-   "words": 4383
+   "words": 4080
   },
   {
    "file": "ch04.md",
@@ -34,7 +34,7 @@
    "file": "ch06.md",
    "title": "Chapter Six",
    "dates": "March to June 1984",
-   "words": 2996
+   "words": 2981
   }
  ]
 }

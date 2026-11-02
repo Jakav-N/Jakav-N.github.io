@@ -144,6 +144,13 @@ The sentence-shape rule, which matters more than any single line: my default sen
 
 Dialogue rule: people talk in speech, not in prose. Contractions. Short sentences mixed with run-ons. Reactions before explanations. A person explaining something does it the way they would to a colleague across a table, with "I mean" and "look" and half-finished thoughts, not in numbered, balanced clauses. Formal characters (McGonagall, Dumbledore) are formal in vocabulary and manner, not in syntax; they still say "that's" and "I'd rather".
 
+## Reader feedback on chapter six, second pass (verbatim)
+
+- "\"including the part about what goes wrong\"" (stilted phrasing inside speech; rewritten)
+- "\"Remus Lupin was Dumbledore's idea, and Dumbledore told Harry about him a week before he came, in the chair by the fire, in order.\"" (summary opener with a dangling tag; rewritten as a plain sentence)
+
+All six chapters were rewritten at sentence level on 2 November 2026 for the chain-of-"and" habit and stilted dialogue. New chapters are written to the rules above from the start.
+
 ## Derived working rules (reworked from another session's suggestions; not verbatim, not authoritative over the sections above)
 
 - Take the arithmetic literally before writing. Know what Harry has actually done with the time, year by year and field by field, so the plot is dense enough that nothing is hidden for centuries or deferred to a convenient age.

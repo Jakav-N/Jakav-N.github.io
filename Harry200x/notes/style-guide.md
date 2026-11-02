@@ -116,6 +116,16 @@ Pattern: he never rereads for retention and never "goes back to" a text. He has 
 
 Pattern: coy labels for things Harry has the word for ("people like his mother", "the man with the red eyes" after he has read the name), and withheld reasons ("and why"). Also found and fixed in that pass: a timeline slip (Dumbledore's visit on a day Harry could not have been at Figg's), an observation Harry could not have made (cups "already washed"), sitcom buttons on Dudley, Figg and Mr Tibbles, an echo gag at the library desk, a false claim that the cart moved at its proper pace for him, "he stopped counting" (he cannot), a contradiction with chapter three about what he had moved, and more Dumbledore parallelism.
 
+## Reader feedback on chapter five, third pass (verbatim)
+
+- "\"It took him most of an hour, because the pictures moved and he watched them\" - I'm pretty sure wizarding pictures do not repeat for an hour long."
+- "\"and that there were several ways of not naming him and the paper used all of them\""
+- "\"and took his hand in the kitchen, and said that this would be unpleasant for a moment and that he was sorry, and Harry said, \"All right,\" and the kitchen went.\""
+- "You should fix more than just what I say is an issue, and in the future avoid bad patterns as well."
+- "\"bent over, pulling breath in\" - Harry's breathing does not run faster than other people... why would he panic so fast? And of course, \"briefly\" for Dumbledore is less brief for Harry: Harry knows this! It's not necessary to say that Harry know it, too."
+
+Rules added: his body is an ordinary body on ordinary time; nothing physical happens to it faster than it would to anyone. The narration does not keep pointing out that a moment is long for him; that was established in chapter one. Before sending a chapter, make a full pass for: chained "and"s, quips and buttons, coy labels, withheld reasons, epigrams, deliberation given a duration, rereading, the "he put it with the things he did not understand" tic, "X went" closers, and anything his body or eyes could not have done.
+
 ## Derived working rules (reworked from another session's suggestions; not verbatim, not authoritative over the sections above)
 
 - Take the arithmetic literally before writing. Know what Harry has actually done with the time, year by year and field by field, so the plot is dense enough that nothing is hidden for centuries or deferred to a convenient age.

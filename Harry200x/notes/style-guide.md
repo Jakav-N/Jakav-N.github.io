@@ -162,6 +162,13 @@ All six chapters were rewritten at sentence level on 2 November 2026 for the cha
 - "\"Some answers were short. Some took an afternoon, and Harry found, to his surprise, that the afternoons were the better use of the time.\""
 - "[have you considered ink telekinesis or similar for chapter six? I don't know if you want Harry to be able to do that or not, but if you do, that's ok]" (Adopted: he moves the ink itself along a pictured path. First blotted word in June 1984, chapter six; a paragraph at a time by August, chapter seven. This replaces the page-transfiguration plan in the chapter 9 outline.)
 
+## Reader feedback after chapter seven (verbatim)
+
+- "By the way, it seems like Harry is doing little along axes other than learning. Either this is reasonable, or it deserves a retcon. Either way, he will begin going along other axes before too long, as I mentioned in the initial big message for the story."
+- "\"The pencil had been slower than a pencil once too.\" - yeah, cuz this makes sense /s"
+
+Response: four small acts added where they belong (council letter about the canal fence, 1983; request to turn vault gold into invested pounds, Dec 1983, pending; teaching Dudley his letters, Jul 1984; Wolfsbane batch question to Snape and Sprout, and a correspondence opened with Bathilda Bagshot, Aug 1984). From chapter eight on, every chapter must show him acting on money, people, or the world, not only reading. Keep a running list of open threads in the ledger under PENDING.
+
 ## Derived working rules (reworked from another session's suggestions; not verbatim, not authoritative over the sections above)
 
 - Take the arithmetic literally before writing. Know what Harry has actually done with the time, year by year and field by field, so the plot is dense enough that nothing is hidden for centuries or deferred to a convenient age.

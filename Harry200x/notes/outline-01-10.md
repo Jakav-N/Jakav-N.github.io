@@ -56,6 +56,9 @@ Each chapter about 3,000 words. Close third on Harry. Dates in real time. Subjec
 - McGonagall monthly: Transfiguration surges because it is intent-driven. Fourth-year object work by December.
 
 ## Chapter 9 — Jan to Apr 1985 (4 years 5 months to 4 years 9 months)
+- Threads due: Snape's answer on the Wolfsbane costing (he has brewed a trial batch for Lupin and two others and says nothing to Harry about it until asked; the cost came out at a third); Hadley's first quarterly figures (up a little; dividends in); Lupin's reports continue (the Prophet's ownership, who the apothecaries are, how Zonko's and Honeydukes are run); the catalogue reaches the Easter visit; Dumbledore brings Augusta Longbottom and Neville to Figg's in March, earlier than planned, because Harry asked for children; Harry and Neville.
+- Harry's measure visible: he ranks what he could do next by how many it helps and what it needs, in his own terms, and chooses.
+- Harry asks what wizards buy that they cannot easily get, and gets Lupin to find out: the seed of a Diagon Alley trade.
 - The output problem is already half solved by ink-moving (chapters 6 and 7). Here it matures: a clean page at a time, in a hand better than his own, at roughly the rate of one picture per page. Limits: he must look at the result before the next page; errors where he pictured the letters but not the ink; the two-times cap on how fast magic will take a picture. McGonagall sees it and has views on whether it is Charms or Transfiguration or neither.
 - He writes for others: letters, notes for Lupin's lessons, and a first manuscript, a plain primer on magical theory for first-years, which Dumbledore reads.
 - The Prophet, from a student's letter home: Dumbledore confirms Harry Potter is well, is in his care part of the time, and is advanced for his age. Letters start arriving by owl.

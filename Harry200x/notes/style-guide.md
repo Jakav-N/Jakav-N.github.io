@@ -126,6 +126,18 @@ Pattern: coy labels for things Harry has the word for ("people like his mother",
 
 Rules added: his body is an ordinary body on ordinary time; nothing physical happens to it faster than it would to anyone. The narration does not keep pointing out that a moment is long for him; that was established in chapter one. Before sending a chapter, make a full pass for: chained "and"s, quips and buttons, coy labels, withheld reasons, epigrams, deliberation given a duration, rereading, the "he put it with the things he did not understand" tic, "X went" closers, and anything his body or eyes could not have done.
 
+## Reader feedback on chapter five, fourth pass (verbatim)
+
+- "\"which is not a rate anyone else gets to set\""
+- "\"It is a comfortable one, and it is yours, and until you are of age I hold the key and will spend it on your behalf when I think it wise and tell you when I do\" - this is not how Dumbledore talks..."
+- "\"and dust on the cushion, and it was dark inside, and the man who came out of the back was old in a different way from Dumbledore, with pale eyes that did not blink enough.\" - This is the most common repeated phrasing. 50% of the annoying stuff is concentrated around this phrasing. It's not just the phrasing, but also the things that go along with it. There's more possibilities for formation of sentences."
+- "\"Harry held a wand, and it was taken away. He held another...\" - normal writing does not work like this. Good authors write differently, although I don't know quite how to specify it."
+- "\"\"Holly,\" said Mr Ollivander. \"Eleven inches. Phoenix feather, which is not a common core, and this is not a common feather.\"\""
+- "You appear to have missed all of these."
+- "\"Flourish and Blotts was the only shop that day in which anyone had to tell him it was time to go.\" - this kind of wording/tone/phrasing isn't terrible, but it feels like I keep seeing it. Currently, I'm finding it annoying."
+
+The sentence-shape rule, which matters more than any single line: my default sentence has been a chain of clauses joined by "and", often ending on a dry turn ("that did not blink enough"), or else a clipped pair of parallel statements ("He held a wand, and it was taken away. He held another."). Both are tics. Vary the shape: subordinate clauses, a semicolon now and then, sentences that start with something other than the subject, real verbs instead of "was" and "went", lengths that differ from one sentence to the next. No wry summary sentences opening a paragraph ("X was the only shop in which..."). No parallel epigrams in dialogue ("not a common core, and this is not a common feather"). Dumbledore and others speak in ordinary sentences with contractions.
+
 ## Derived working rules (reworked from another session's suggestions; not verbatim, not authoritative over the sections above)
 
 - Take the arithmetic literally before writing. Know what Harry has actually done with the time, year by year and field by field, so the plot is dense enough that nothing is hidden for centuries or deferred to a convenient age.

@@ -82,6 +82,10 @@ Each period has far more scenes than a chapter can hold. A chapter takes three o
 11. Sixth birthday: four hundred owls; a letter from a werewolf in Carlisle who has been on the new potion for a year and has a job; Harry keeps that one in the drawer.
 12. Lucius's fourth letter, after the governors, cooler; Harry's answer, the same.
 13. Hagrid takes him to the edge of the Forest and a centaur speaks to him, once, and says that the sky says nothing about him, which is unusual.
+14. The list of lost charms: the week after the last book, Harry writes two hundred and forty charms the library describes and nobody uses, with book and page; Flitwick reads it in one sitting at Figg's table and goes out into the garden; Owen Pryce casts the first on an inert target in Luton with Lupin counting, and it works as written, and the second does not. [add to 13]
+15. The water-clearing charm (1703) given away in a pamphlet; Dumbledore reads the Statute with Harry line by line before it goes out; the first letter back is from a wizard in Caithness whose well has been bad for thirty years.
+16. The preserving charm on a batch of Pepperup preserves the wrong thing; the recall, which Harry writes himself in a page; Hester says it will cost a month's profit and sends it.
+17. The second shop, Hogsmeade, October; Dennis to run it; the first Hogwarts students through the door in a crowd on a Saturday.
 
 ### Pool: Jan to Jun 1987 (chapter 14, written; may be enriched)
 1. The course's first exercises; the wand put last; the girl in Cornwall. [taken]
@@ -97,6 +101,10 @@ Each period has far more scenes than a chapter can hold. A chapter takes three o
 11. Dumbledore and Harry on Voldemort, the first time Harry asks what is being done; "I am watching." "That isn't a plan." "No."
 12. The Weasleys' Easter: Percy's rat on the kitchen table, twelve years old for a garden rat, missing a toe; Harry notices and says nothing, since there is nothing to say.
 13. Sirius's file: Amelia Bones writes to Harry, unprompted, one line, that the file is still there.
+14. The heat ring: from the thermometer, a 1640 hearth-charm rebuilt to hold a number; Snape tests it for a month and buys six; the first thing the apothecaries buy from the house. [add to 14]
+15. The stopper that will not turn for a small hand, tested at the Burrow on Ron and Ginny, who try for an hour; St Mungo's writes to ask for a thousand.
+16. Mr Adeyemi from the brewery in Burton reads the brief, comes to Luton, looks at a cauldron, and says that a cauldron is a kettle with opinions; his first drawing.
+17. Ruth Marchbanks's ward kit, six charms and a card; the first one in a house in Tinworth; the cat.
 
 ### Pool: Jul to Dec 1987 (chapter 15)
 1. Petunia's kitchen, with the door shut: what Lily was like at seven; Harry gives her Lupin's and Bathilda's account; she tells him the swing in the playground and the flower, from her side, which nobody else alive knows; he never repeats it.
@@ -117,6 +125,10 @@ Each period has far more scenes than a chapter can hold. A chapter takes three o
 16. Pandora's cup pours and stops; her letter is one line and a drawing of a cup.
 17. Lucius's fifth letter, after the first issue, which is not courteous.
 18. Christmas at Hogwarts with Neville and, for the first time, Ron, who has never seen the castle and says so for two days.
+19. Mr Adeyemi's rig in the Alley room, June: paddles, a fire-box, the ring, the stirring charm; it brews Pepperup unattended under a tally charm while four people watch it for an hour and nobody speaks. In August it boils over and Joan Tilley's arm is scalded to the elbow; Harry at St Mungo's; the rig rebuilt with a Muggle cut-out; Adeyemi's letter of resignation, which Hester does not accept.
+20. St Mungo's buys Pepperup from the rig at a third of what it paid; the matron who adopted the cleaning regime writes; the Healers who resisted it do not.
+21. The ledger that totals itself on Hester's counter; she distrusts it for a month and keeps the old book beside it, and then does not.
+22. The ward kit on sale; a letter from a householder who slept through the night for the first time since 1981.
 
 ### Pool: Dec 1987 to Feb 1988 (chapter 16)
 1. The map at Christmas: looking for Percy; the name beside him; the library; Dumbledore's desk; a finger on the name. [core]
@@ -150,6 +162,9 @@ Each period has far more scenes than a chapter can hold. A chapter takes three o
 13. Dudley at eight asks Harry what it's like at his school and Harry tells him as much as he can without lying, which is a great deal.
 14. The cards go to the Hogsmeade workshop for making; a thousand pairs by August; the Ministry has heard and sends a letter asking what they are.
 15. The Statute: Harry asks Dumbledore, for the first time, why a potion that would save a Muggle child cannot be given to one; Dumbledore's answer; Harry's; nothing is settled and the question stays open for years.
+16. The dragon-pox count: a Healer paid to count cases by village for two years brings the first year's figures; one market; Harry and the Healer and Dumbledore at a table deciding who to tell.
+17. Fire: the smothering charm in the ward kit; February 1989's letter comes later, but the kit goes out now.
+18. The apothecaries' third complaint, to the Wizengamot, about the heat ring, which every one of them is using; Augusta's account; it is laughed out, which does not happen in that room.
 
 ### Pool: Sep to Dec 1988 (chapter 18)
 1. The cards on sale: the queue; a wizard writing to his wife in Aberdeen from the counter; the bowler hat asking under what law and Hester saying there isn't one. [likely]
@@ -165,6 +180,9 @@ Each period has far more scenes than a chapter can hold. A chapter takes three o
 11. The Ministry's attempt to regulate the cards: a draft law; Lupin prints the draft; the draft is withdrawn.
 12. Christmas at the Burrow with Sirius, who gets on with Arthur and not with Molly, and then with Molly.
 13. Harry and Snape: the Pepperup paper; Snape puts his name first this time and does not explain.
+14. A competitor's copy of the cards burns a kitchen in Kent; the house's cards get a mark; the copy's maker sues and loses; the weekly prints the judgment.
+15. The owner-only card, from the stopper's charm, for anyone who asks; the Ministry asks first.
+16. St Mungo's whole stock of common potions from the rigs by December; the hospital's governors write to Miss Pye; Hester frames it in the shop.
 
 ### Pool: Jan to Jun 1989 (chapter 19)
 1. The boat, March, with Bones and two Ministry men; a Dementor at the boundary; the stag does not stop; what is left; Bones's notebook. [core]
@@ -179,6 +197,9 @@ Each period has far more scenes than a chapter can hold. A chapter takes three o
 10. Harry's ninth-birthday list to himself of what he cannot do, which is shorter than it was.
 11. Mrs Figg's eightieth; the cats; Dumbledore brings a cake and Hagrid brings a better one.
 12. The Longbottoms' records, three years on: the Healer writes that there is a pattern in the wrappers, and does not know what it means, and neither does Harry.
+13. The stopper that opened in Hogsmeade; nobody hurt; the stoppers re-charmed; Harry's letter to the parents, which he writes four times.
+14. The recording card for the Wizengamot's clerks, who have never had a record of anything; the first session recorded; the first transcript, which the weekly prints.
+15. The Floo map, which nobody had made, given to the Ministry.
 
 ### Pool: Jul to Dec 1989 (chapter 20)
 1. Draco Malfoy in Flourish and Blotts, August; twenty words; the shoes. [likely]
@@ -209,6 +230,9 @@ Each period has far more scenes than a chapter can hold. A chapter takes three o
 14. Pandora's second book, dedicated to a boy who told her to stand further back.
 15. The paper at fifteen thousand; the Prophet changes its front page.
 16. Tenth birthday; Sirius gives him the motorbike and Dumbledore gives him a look.
+17. The Wales case: a Muggle-born witch who has cleared her village pump for a year with the pamphlet's charm is charged under the Statute; the house pays for her defence; the hearing; where the Statute question comes to a head and is not settled.
+18. The course in French and German; a letter from a child in Lyon.
+19. The house's brooms, cheap, with the reworked cushioning charm; Ginny's.
 
 ### Pool: Jan to Sep 1991 (chapters 29 to 35)
 1. The letter, 31 July, from McGonagall's hand; the Trace. [core]
@@ -237,7 +261,11 @@ Each period has far more scenes than a chapter can hold. A chapter takes three o
 
 See pools above; the arcs by year are: year one, Quirrell contained and the Chamber found; year two, the diary and the Horcruxes named, Azkaban cleared; year three, three Horcruxes and Crouch; year four, the Tournament not held, the cup not reached, the world as it is.
 
-## 8. Names needed from Jacob
+## 8. See also
+
+research-and-inventions.md: the programme the pools draw on; what he knows, what he makes, what it earns, what goes wrong, who does the work.
+
+## 9. Names needed from Jacob
 
 1. The shop (Hester's choice).
 2. The weekly paper (1987).

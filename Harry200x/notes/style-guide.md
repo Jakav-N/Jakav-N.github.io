@@ -50,6 +50,8 @@ This session:
 - "I wouldn't trust the style guide so much: significant portions of it weren't based in my input. The style guide is also likely longer than it should be."
 - "there are more ways to write a sentence than one."
 - "I have focused on antipatterns, but in order for things to really work out, you will need to figure out what patterns, method, style should be followed."
+- "in my first major message, I told you to not make a big deal over the experimental design. You did." (the Pandora line about WHAT WE EXPECTED; cut, and the rule above added)
+- "Re-write 11 onward, ACTUALLY GOOD... It means that everything should make sense, and be normal writing, and not have the things I've told you 50 times effectively to avoid."
 - "The quality of those two chapters is terrible in most aspects" (chapters eleven and twelve, first versions: report paragraphs with figures, thin scenes, the model pasted into prose; both rewritten as three or four full scenes each)
 - "this is a bad summary... Be careful that you do not write bad summaries. I suspect you will anyway unless you are very careful. Perhaps figure out what summaries normally look like?"
 - "Figure out what Harry would do in all the different categories over time. DO NOT artificially limit what he does by chapter space. Harry has the equivalent of hundreds of years here: do not minimize them. The ONLY stage at which compression occurs is the chapter writing." / "This applies both looking forward and looking back. Assume that the marginal cost of edits into the past is exactly the same as writing new things."
@@ -78,6 +80,8 @@ Summary. When a passage summarises rather than shows, it is still narrative: tim
 Acting. Every chapter from eight onward shows him doing at least one thing to the world beyond reading: money, letters, people, research. The ledger keeps the open threads under PENDING.
 
 Dialogue. People talk. Contractions, short answers, half-finished thoughts, reacting to the last thing said. Dumbledore is courteous and warm and explains without lecturing; McGonagall is dry and exact; Lupin is gentle and self-mocking; Figg talks to Harry as she talks to the cats; Snape is short. Formality lives in vocabulary and manner, not in syntax. No one delivers a balanced pair of clauses or a closing epigram. Give scenes dialogue rather than summarising what was said, when the saying matters.
+
+Method is not a subject. Jacob's first message: his statistics and his way of forming beliefs are "not really talked about... just something that Harry uses." The counts, the controls, the columns, the methodology are background. They may be glimpsed as a thing on a table; they are never explained, praised, or made the point of a scene, and no character lectures another about them.
 
 Humour. Comes from what happens (the cake, the cats, Mr Hadley's knees) and never from how the narrator phrases it.
 

@@ -70,7 +70,19 @@
    "file": "ch12.md",
    "title": "Chapter Twelve",
    "dates": "January to June 1986",
-   "words": 2961
+   "words": 2946
+  },
+  {
+   "file": "ch13.md",
+   "title": "Chapter Thirteen",
+   "dates": "July to December 1986",
+   "words": 2231
+  },
+  {
+   "file": "ch14.md",
+   "title": "Chapter Fourteen",
+   "dates": "January to June 1987",
+   "words": 2145
   }
  ]
 }

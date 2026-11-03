@@ -91,6 +91,7 @@ Before sending. Read the chapter once as Jacob would, marking every sentence tha
 
 ## Delivery and format
 
+- Planning files: plot-outline.md (the story, scene by scene, one document), activity-model.md (what he does, by period and category), continuity.md (facts fixed in prose), feedback-log.md. The older outline-master.md and outline-01-10.md are deleted; do not recreate them.
 - Reader artifact: https://claude.ai/artifact/DML78mAaSyaKCf3u5JPJVD, published from `Harry200x/reader.html` with `chapters.json` and the `chNN.md` files as supporting files, `root` = Harry200x. After every new or revised chapter: run `python3 -I Harry200x/notes/build_manifest.py`, republish with the changed files, and send the chapter file.
 - One file per chapter, `Harry200x/chNN.md`, heading "Chapter N" spelled out, italic date range, no title. British spelling. Close third on Harry; interludes headed as such and kept short.
 - Names for inventions, companies, the newspaper and so on are not coined without asking Jacob.

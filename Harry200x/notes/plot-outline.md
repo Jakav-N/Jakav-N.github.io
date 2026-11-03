@@ -1,178 +1,163 @@
 # Plot outline
 
-Scene-level plan. Each scene is marked **W** (write as a scene), **S** (summarise in a paragraph or two), or **O** (happens offstage; referred to only). Chapters are about 3,500 words, so a chapter holds roughly three W scenes and two or three S passages. Dates are real time. Names in [brackets] need Jacob's approval before they appear in prose.
+One document, replacing all earlier versions and revisions. The activity model (activity-model.md) says what Harry does in every category; this says what the story shows, and in what order, and why. Scenes are marked **W** (written as a scene), **S** (a paragraph or two of narrative), **O** (offstage; the ledger holds it). Names in [brackets] need Jacob.
 
-Governing facts: 200 subjective days per real day; eyes read at about 1,500 words a minute until the device; hands and voice are a child's; ten hours' sleep. Dumbledore is an ally who requires three weeks a year at Privet Drive. Mind and soul magic are walls. Horcruxes take a very long time. Harry never lies; he does not say the number 200 in public. Lighter tone. Chapter 100 lands around year three or four at Hogwarts.
+---
 
-## Revision 3 (2 Nov 2026): what the first drafts under-asked, now binding
+## 1. The spine
 
-1. **The linked cards.** From 1986 the house's charms people work on a pair of cards each master to the other, so that ink laid on one appears on the other. First working pair Christmas 1987 (two people in different rooms at Luton write to each other). On sale autumn 1988 at a Galleon a pair. By 1989 the Ministry has them, the Prophet has them, and the weekly is delivered by card to subscribers' kitchen tables on Friday mornings. The Ministry tries to regulate them in 1989 and finds it has no law that applies; Fudge's first act in 1990 is to ask Harry to come and explain them.
-2. **The index.** From 1987 a card you ask a subject of, which shows the shelf and the titles, built from Pince's cards and the books-in-print list; in the shop by 1988; in the Hogwarts library by 1989 at Pince's request, which costs her something to make.
-3. **Scale.** House of fifty by end 1986, a hundred by end 1987, a hundred and fifty by 1989, with its own building in Diagon Alley's wrong end bought outright in 1987. The largest private employer in wizarding Britain by 1988, which the Prophet says first and the Ministry says later.
-4. **The paper.** First issue autumn 1987, Lupin editing, printed on a press the house charms itself; delivered by owl until the cards, then by card. [NAME NEEDED]
-5. **Interludes.** One per two or three chapters, under a heading, a page or less, another point of view: a clerk at the Department opening Miss Pye's reply (1985); Snape reading the ninth page (1985); Hester doing the wages (1986); Petunia reading the weekly at the kitchen table (1988); Lucius Malfoy at breakfast with the Prophet (1988); Amelia Bones opening a file (1987); the Sorting Hat (1991).
-6. **Bad laws.** Harry knows from 1985 that Lupin is not on the register and that the register is a bad law; the house never asks an employee whether they are on it and never reports; Harry says so to Amelia Bones in 1986 in writing and she does not answer that paragraph. When the Ministry tries to require registration for employment in 1988, the house refuses in writing, pays the fine, and the fine is the weekly's front page.
-7. **Ingredient arbitrage.** Spring 1985: most potion ingredients are ordinary plants; Muggle herbalists and seed merchants sell them for pennies; the house buys and the shop sells at a fifth of the apothecaries' price; the apothecaries complain in 1985, not 1986; Snape says the Muggle herbs are inferior in two cases and right in the rest and the house stocks accordingly.
-8. **Dementors.** Patronus mist 1985, stag 1986. Azkaban first seen from the boat in 1988 with Sirius. The destroying form first appears in 1989, at nine, on the boat, when a Dementor comes out to the boundary and the stag does not stop at it; Dumbledore, Sirius and two Ministry men see it. The campaign to remove them runs 1990 to 1992 and succeeds in year two, with the destroying Patronus used at the island once more, under the Wizengamot's eye.
-9. **Education.** 1987: a correspondence course for wizard children under eleven, out of the primer and a dozen more plain books Harry writes in a fortnight, marked in Luton; two thousand children by 1989, which is most of them; Hogwarts' first-years in 1991 arrive knowing things, and the staff notice. Hermione finds the course at eight (1988) and writes to its author.
-10. **Theory and a journal.** The counts (1985) become a theory (1987) that predicts which spells fail in runs and why, and the prediction holds on new casters; printed in the house's own journal, founded 1987 because Transfiguration Today thought the counts were a joke; quarterly; peer-reviewed by the only method Harry trusts, which is that the reviewer repeats the counts.
-11. **The Time-Turner.** He learns in 1989, from a Department of Mysteries pamphlet Colin's successor finds, as first planned. Dumbledore's 1984 answers stay true without mentioning them.
-12. **Muggle side.** The publishing and course company (majority owned 1987); a fund Hadley runs from 1987 with outside money on Harry's dull method, which does well in the recovery; two London houses bought in 1988. Trust at about three million pounds by July 1991.
-13. **Research directions of the house, 1986 onward.** Casting theory; warding (the Gringotts door; what a ward is attached to and how); linked objects (the cards); replay and record charms (a card that plays a lesson); potions standardisation and Muggle chemistry of brewing (with Snape); healing records at St Mungo's; magical creatures' uses (with Hagrid, carefully); the werewolf count; a Muggle engineer on automation of stirring and heating under a wizard's eye.
-14. **A Muggle friend his age.** Mrs Dennison's grandson, Tom, nine in 1986, who lives in Little Whinging and plays chess at the library on Saturdays and beats Harry for a year; told nothing about magic; still writing to Harry in 1991.
+A boy whose mind runs two hundred times faster than the world, who decides at three that what matters to him is that things go well for people, and who spends the two thousand subjective years before his Hogwarts letter finding out what that costs and doing it anyway. The world he was born into is small, old, frightened of a name, badly supplied, and run by a few hundred people in one building; it has a charm for every chore and none for most of what is wrong with anyone's life. He has time, a perfect memory, a wand from four, money from four, and adults who will carry his words into rooms he cannot enter. He is not alone; that is the point of Figg, Lupin, Hester, Neville, the Weasleys, Sirius. He never lies, never says the number two hundred in public, and never gets to the other side of two walls: the one in the Longbottoms' ward and the one in his own scar. By fourteen the wizarding world is a different place and Voldemort is still out there.
 
-## Harry's standing resources, by date (so the plot never under-uses them)
+## 2. Where the drama comes from, since Voldemort stays in the background
 
-| Date | Money | People paid or working on his problems | Reach |
-|---|---|---|---|
-| Dec 1983 | vault (~50k G) via Dumbledore | Dumbledore, Figg | Figg's house, the High Street library |
-| Jan 1984 | £20 in notes; the owl tin | Figg shopping and wrapping | Figg's owl customers |
-| Apr 1984 | £10k trust (Hadley); £600 for the first book | + Lupin (tutor, Mondays, then two research afternoons), Hadley, Colin (May), Hester (May) | the Luton spare room |
-| Jul 1984 | tin of Galleons | + Flitwick (device), Snape (one question a dinner), Pince (catalogue), Hagrid, Pomfrey | Hogwarts library, staff |
-| Dec 1984 | £11k trust, £2,400 from four books (five more with Oxford), 1,800 G account | + Hester Pye (since May) and her cousin, Colin (since May), Joan Tilley under Snape's licence, and eight on wages in four rooms above the Luton newsagent's (the research house) | Luton spare room; a room in Diagon Alley; the lending library; Bathilda; the primer in the window; the Prophet about to know his name |
-| Jun 1985 | ~£25k trust (35% of vault), £5k books, ~4,000 G | twenty in the research house; Oxford publisher; the Hogsmeade charms master | a rented room in Diagon Alley; Neville; the Prophet |
-| Dec 1985 | ~£35k, 4,000 G, primer royalties | + 5 paid | the Weasleys; the Longbottoms; a shop lease |
-| Dec 1986 | ~£60k, 10,000 G | + 8 paid incl. two researchers | the device works; the Lovegoods; the map |
-| Feb 1988 | ~£120k, 25,000 G, + Black money offered | + Sirius | Pettigrew caught; Sirius free |
-| 1990 | ~£400k, 80,000 G | ~20 paid; a weekly paper; a brewing house; a shop | Wizengamot hears him by proxy; Ministry adopts Wolfsbane subsidy |
-| Jul 1991 | ~£700k, 150,000 G | ~30 paid | the letter; the Trace begins |
+- **Institutions that resist being improved**: the Ministry (licences, the register, the Dementors' contract), the apothecaries and the cauldron trade, the Prophet's monopoly, the school's governors with Lucius Malfoy on them. Each is a person or a letter, not a system.
+- **Injustice with a date on it**: Sirius in Azkaban without a trial; the Longbottoms; the werewolves; Muggle-borns turned down for reasons nobody writes down.
+- **People he cannot fix**: Lupin's grief and his fear of wanting the trial; Snape; Petunia; Pandora at her bench; Sirius after six years of Dementors.
+- **His own limits**: the two walls; his hands and eyes; sleep; the fact that most of what matters needs years.
+- **Scale**: a house of a hundred wizards paid by a child is a political fact, and the Ministry notices, and so does Lucius Malfoy.
+- **The scar**: Parseltongue at five, Dumbledore's silence, the thing in his head that Dumbledore names when Harry is eight. No action available. It sits in every chapter after that without being mentioned.
+- **The slow return**: Quirrell, the Stone, the diary, the ring; a hunt that cannot be hurried.
 
-## Threads and where they pay off
+## 3. Arcs
 
-- **Reading speed.** Device via Flitwick: Protean-linked card that shows one word where the eye already is, at a set rate (Omniocular rate charm). Prototype Sept 1986 at ~3x; the library finished mid-1988. Gives Harry an invention with his and Flitwick's names on it. [NAME NEEDED for the device, if it is to be sold.]
-- **Output.** Ink moved directly: a word June 1984, a page Nov 1984, a clean page in any hand by 1985. Never improves past a page per picture; he does not need it to.
-- **Sleep.** Pomfrey's no in 1984; Harry revisits at eight with the literature; she holds; he accepts ten hours as the body's and stops fighting it. Time-Turner: learned of in 1989 from a Department of Mysteries pamphlet (Jacob: it takes him a while to learn they exist); Dumbledore's 1984 answer, that there is no way to need less sleep he would let a child near, stays true; granted in year two under conditions.
-- **Money, Muggle.** Trust compounding; revision books then a small publishing company owned by the trust (1986); Harry trims equity on valuation in summer 1987 and buys after October; by 1991 under a million pounds. He never gets "very rich" in the Muggle world before Hogwarts; that is a later arc.
-- **Money, wizarding.** Owl trade → shop at the wrong end of Diagon Alley (1986) run by Hester; a postal lending library of Muggle books (1985); the brewing room → a small apothecary selling standard potions cheaply (1986), profits subsidising Wolfsbane; the primer and later books; the weekly paper runs at a loss by design.
-- **Wolfsbane.** Snape's trial Nov 1984 → a hired brewer and a rented room Feb 1985 → sixty takers by 1986 → Ministry attention 1987 → Wizengamot debate and subsidy 1990. Lupin's register of real werewolves (word of mouth) becomes the only honest count.
-- **People.** Figg, Lupin, Hadley, Hester, Colin, [brewer], Pince, Flitwick, Snape (thaws by degrees; never warm), McGonagall, Hagrid, Pomfrey, Sprout, Bathilda, Mrs Dennison, Dudley (reads by six; a different boy by eleven), Petunia (one honest conversation, 1987). Children: Neville (Mar 1985), the Weasleys (Aug 1985), Luna and Pandora (1986), Hermione by letter (1989) and in person (1990), Draco (1990).
-- **Sirius.** Harry asks for the trial record in 1985; there was none. The map in 1986. Scabbers arrives Sept 1987; the map shows Peter Pettigrew at Christmas 1987; Pettigrew caught; Sirius free Feb 1988. Recovery. Grimmauld Place; the locket stays with Kreacher, unnoticed until much later.
-- **Parseltongue.** A grass snake at the Burrow, Aug 1985. Dumbledore's private alarm. Harry's reading on soul and mind magic runs into the wall and he files it. Dumbledore says what he suspects in 1988, after Sirius, when Harry is eight: that some of Voldemort is in the scar. Harry treats it as a fact with no action available.
-- **Patronus.** Begun 1988 after seeing what Azkaban did to Sirius; corporeal stag 1989; the destroying form only after years, at Azkaban, around year three.
-- **Spell creation.** First attempt 1985 fails. Methodology (one variable, a tester who is not the inventor, inert targets, counts) written up 1986 and sent to Pandora Lovegood, who lives. First bound spell 1987, tiny: "next" for the reading card. Fred and George as collaborators from 1986.
-- **The press.** Prophet learns of him Jan 1985; a reporter at Figg's door 1985; the primer's second edition under his own name 1985; the weekly [NAME NEEDED] founded 1987, Lupin editing.
-- **Politics.** Lucius Malfoy's letter 1986 (polite, declined); apothecaries' complaint 1987; Fudge becomes Minister 1990 and courts Harry; Harry's proxies (Dumbledore, Augusta Longbottom, Amelia Bones via Augusta) carry his arguments into the Wizengamot.
-- **Voldemort.** Background. Quirrell to Albania 1990. The Stone moved to Hogwarts 1991 against Harry's written objection; year one resolves it.
+- **Harry**: from a mind in a cot to a boy with a list; the list is the arc. What changes is not his purpose but what he learns it costs: the ward, the grave, Lupin's face, Sirius in the hospital wing. He becomes the person the destroying Patronus needs by being that person for years, not by deciding to be.
+- **Dumbledore**: from keeper of a secret to the one adult who is told everything; his mistakes admitted (the wait, the trial he did not object to, the Stone); his secret about the scar given up in 1988.
+- **Lupin**: from a man with no work to the editor of the paper that changes what the country knows; the Sirius thread is his wound and his healing.
+- **Snape**: never warm; thaws by degrees through work; the ninth page; the Wolfsbane second ingredient; a joint paper he will not put his name to and then does.
+- **Figg**: the first person who talked to him; stays the house he goes home to; her name on everything until it needn't be.
+- **Hester Pye**: from a girl nobody would hire to the proprietor of the largest private employer in wizarding Britain, and the one who says no to him and is right about pricing.
+- **Sirius**: the face in the doorway; six years; the hospital wing; recovery that is not straight; a seat on the Wizengamot he hates and uses.
+- **Neville**: a pebble; a greenhouse; a book about plants at ten; a boy who tells his grandmother the truth about the wand in 1987.
+- **Pandora and Luna**: a woman at a bench who hears the methodology from a child and lives; a girl who asks whether he is sad.
+- **The Weasleys**: the house he is held in without asking; Arthur and the pens; the twins as collaborators; Ron as the friend who is nothing like him; Ginny on the stairs.
+- **Petunia and Dudley**: three weeks a year; a boy who reads; one honest conversation in a kitchen in 1987; a woman reading the weekly in 1988.
+- **Augusta and Amelia Bones**: the two women who carry his arguments into rooms; the vulture and the file.
+- **Lucius and Draco**: courtesy, declined; a governors' motion; a vote against; twenty words in a bookshop; a boy on a train.
+- **Hermione**: a course at eight, letters at nine, a bookshop at ten, a compartment at eleven.
+- **Flitwick, McGonagall, Pince, Hagrid, Pomfrey**: the staff who make a four-year-old's Hogwarts; each gets one scene that is theirs.
 
-## Pre-Hogwarts, chapter by chapter
+## 4. Threads and when they pay
 
-### Chapters 1–8 (written). 31 Oct 1981 to Dec 1984.
+| Thread | Begins | Pays |
+|---|---|---|
+| Reading speed | eyes, 1983 | line 1985, word 1986, library finished Aug 1986 |
+| Output | sock 1982 | a page of ink Nov 1984 |
+| The house | ten names Sept 1984 | 50 (1986), 100 (1987), 150 (1989), own building 1987 |
+| Owl trade and shop | sheet Jan 1984 | shop Sept 1985; herbs 1985; cauldrons 1986 |
+| Wolfsbane | Lupin's flask May 1984 | Tilley's batch Nov 1984; ninety 1986; v2 with Snape 1987; subsidy June 1990 |
+| Muggle money | pencil books 1984 | course 1985, publisher 1987, fund 1987, ~£3m by 1991 |
+| Linked cards | a brief 1986 | pair Nov 1987; on sale Sept 1988; paper by card 1989 |
+| The paper | idea 1985 | first issue Sept 1987 [NAME] |
+| Methodology | failure 1985 | Quibbler 1986; Pandora lives Oct 1988 |
+| Counts to theory | twenties 1984 | paper 1985 (journal: "a joke"); theory 1987; house journal 1987 |
+| Sirius | the face, 1981 | no trial 1985; Bones's file 1986; the map Dec 1987; free 9 Feb 1988 |
+| Parseltongue and the scar | snake Aug 1985 | Dumbledore tells him Dec 1988; the wall |
+| Patronus | asked 1985 | mist 1985; stag 1986; a Dementor on the boat Mar 1989; Azkaban cleared June 1993 |
+| Children | asked Sept 1983 | Neville Mar 1985; Weasleys Aug 1985; Lovegoods Jun 1986; Hermione 1988–90; Tom Dennison 1986 |
+| Bad laws | the register 1985 | the fine 1988 as a front page |
+| Correspondence course | primer 1984 | under-elevens 1987; 2,000 by 1989 |
+| Time-Turner | learned of May 1989 | refused; granted summer 1993 |
+| The Stone and Quirrell | Harry's objection Jul 1991 | resolved by Hallowe'en 1991 |
+| Horcruxes | diary Oct 1992 | ring 1993; diadem 1994; locket 1994; cup and Nagini unresolved at ch 100 |
 
-### Chapter 9 — Jan to Mar 1985 (4y5m–4y8m)
-- **W** The Prophet, second week of January: "THE BOY WHO LIVED: AT HOGWARTS?" from the Ravenclaw girl's chain. Dumbledore reads it to Harry at Figg's table and asks what Harry wants said. Harry: the truth and no more. Dumbledore's statement: Harry Potter is well, is in his care for part of each year, and is advanced for his age. Owls begin arriving at Hogwarts addressed to Harry.
-- **S** Letters: hundreds in the first fortnight. Harry answers every one that asks a question, a page of ink each, in an evening. The Prophet prints two of the replies. Molly Weasley's first letter (a jumper). Lucius Malfoy's first letter, smooth; answered honestly and declined.
-- **W** Dumbledore brings a brewer's name: [brewer, Muggle-born, Potions N.E.W.T., working in a Muggle chemist's]. The rented room at the wrong end of Diagon Alley, forty Galleons a month, taken in Hester's name. Snape's licence for aconite covers the room on condition he inspects monthly and is never thanked in print. First batch for twelve in March.
-- **S** Hadley: the revision books in four more subjects; Oxford wants a series and a name; Harry refuses the name. Trust up; Harry's reasons for half the vault go to Hadley first, who finds two errors, then to Dumbledore, who grants a further quarter (now 35%).
-- **W** Augusta and Neville Longbottom at Figg's, a Thursday in March, arranged by Dumbledore. Augusta's hat; her eye on Harry. Neville's silence and his fear that he has no magic. Harry does the small wandless things with him on the hearthrug; a pebble lifts an inch for Neville; Augusta's face. Neville and Harry agree to write. Augusta to Dumbledore in the kitchen: "That child is not four, Albus, whatever his birth certificate says," and Dumbledore not answering.
-- **O** McGonagall's Thursdays continue (fifth-year Transfiguration); Lupin's reports; Colin's Fridays.
+## 5. Chapters 1 to 12, as written
 
-### Chapter 10 — Apr to Aug 1985 (4y8m–5y0m)
-- **W** Easter at Hogwarts: Flitwick has a direction. The Protean Charm links objects so a change in one appears in the other; if a card were linked to a page and the page made to show one word at a time by the Omniocular rate charm, the card would show the words where the eye sat. He has linked a card to a page. The words do not yet come one at a time. Harry and Flitwick on the library floor with the card.
-- **S** Bathilda in spring: the book returned with Harry's notes on her notes; she is pleased and says so rudely. The grave again. Harry asks Lupin about Sirius Black for the first time at length; Lupin's answer, which is grief and anger and no doubt; Harry asks Dumbledore for the trial record and is told there was no trial, and files that.
-- **W** Harry's first attempt at spell creation, with Lupin keeping the counts: binding "next card" to a word and a flick. Weeks. The binding will not take; the effect happens when he pictures it and not when he says the word. He writes it up for Dumbledore as a failure, with the counts. Dumbledore: nobody has ever written up a failure before.
-- **S** Three weeks at Privet Drive in July. Dudley reads a Ladybird book aloud to Petunia with Harry beside him. Vernon's remark. Harry's fifth birthday the day after they leave: at Hogwarts, Hagrid's cake again, and a hundred and forty owls.
-- **W** The Burrow, August, by Floo from Dumbledore's office. Molly; Arthur, who has been buying the pens for a year and does not know whose they are, and is told; Fred and George (seven) and the first conversation about putting two charms on one object; Ron (five) and a game of Exploding Snap that Harry loses; Ginny (four) watching from the stairs. In the garden a grass snake speaks and Harry answers it before he knows he has. Ron hears. Dumbledore is told that evening and goes very still.
-- **S** Harry asks Dumbledore what it means that he can talk to snakes. Dumbledore says that Salazar Slytherin could, and Voldemort can, and that he does not know why Harry can and will not guess. Harry reads everything on Parseltongue in the library in a week and finds nothing that explains it.
+1. The scar night to the bottle. 2. Speech, reading, the cupboard, Figg. 3. The house read out, the letters in the tin, the council, Figg's Tuesdays, the question. 4. Dumbledore. 5. The crate, the Prophet, the library, London, the wand, the owl sheet, the pencil books. 6. McGonagall, Hadley, Lupin, Hester, the Wolfsbane, the quill, the ink. 7. Privet Drive, the Knight Bus, Hagrid, Pince, Snape, Flitwick, a birthday, the shape of the summer. 8. The list of thirteen; the ten names; Godric's Hollow; the ink; Tilley; New Year's Eve. 9. The Prophet; the sacks; the brewing room; Hadley; Augusta and Neville; the Patronus begun. 10. The line; Bathilda and Sirius; the spell that would not take; Dudley reads; the Burrow; the snake. 11. The shop; Snape and the ninth page (interlude); Neville's day; Christmas night. 12. The word; St Mungo's; the Lovegoods; the letter to Bones.
 
-### Chapter 11 — Sep to Dec 1985 (5y1m–5y5m)
-- **W** The shop. Hester has found a lease at the wrong end of the Alley next to the brewing room; the lending library of Muggle books goes in the back (penny-a-week by owl, which is legal, Lupin has checked twice). Harry at the counter on the first morning, under a hat, watching Hester sell a torch to a wizard who has read about him. [NAME NEEDED for the shop; Hester would name it.]
-- **S** The primer: Harry writes a plain account of magical theory for first-years in a day; Dumbledore reads it; Flourish and Blotts takes it; his name goes on it because everyone knows it anyway. Four hundred copies by Christmas. The first letter of correction comes from a nine-year-old in Kent (not yet Hermione; she is six). 
-- **W** A Prophet reporter on Mrs Figg's step. Mrs Figg and four cats. Harry decides to speak to her for ten minutes, truthfully, about what he reads and nothing about how. The piece is kind and wrong in three places; he writes to correct them and the correction is printed.
-- **S** Neville's letters; Ron's letters, which are short; Fred and George's letter, which is a drawing. Christmas at Hogwarts with Neville invited for the day.
-- **W** Snape and Harry in the dungeon over the chemistry: Harry's list of places Borage and the Muggle textbooks disagree. Snape takes the list, says most of it is wrong, says why for an hour, and keeps the list.
+## 6. Chapters 13 to 35
 
-### Chapter 12 — Jan to Jun 1986 (5y6m–5y11m)
-- **W** The device works. March. Flitwick's card shows one word, then the next, where the eye sits, at a rate set by a dial, and Harry reads a page of Borage in a fifth of the time and then asks for the dial to go further. It goes to about three times his eye's pace before the words blur. The library is now about eighteen months. Flitwick sits on the floor and does not say anything for a while.
-- **S** Lucius Malfoy's second letter, with an invitation to Wiltshire; Harry's answer. Hadley: the publishing company, owned by the trust, with an editor hired in Oxford; twelve revision books in print; the trust at £50k.
-- **W** The methodology. Harry writes four pages on how to try a new spell without being hurt by it: one change at a time; inert targets; counts; a caster who is not the inventor for the first live trial; what "the magic does what it is given" means for a half-held picture. Xenophilius Lovegood prints it in the Quibbler. Pandora Lovegood writes back with a correction and three questions.
-- **S** Wolfsbane: sixty takers; Lupin's honest register at ninety; a second brewer. The Ministry's first letter asking under what licence. Snape's reply, which Dumbledore does not let Harry read.
-- **W** The Lovegoods, June, with the Weasleys walking over the hill. Pandora's workroom. Luna, five, who asks Harry whether he is sad, and listens to the answer.
+Three or four W scenes each; the rest offstage. Interludes marked.
 
-### Chapter 13 — Jul to Dec 1986 (6y0m–6y5m)
-- **S** Three weeks at Privet Drive. Dudley at six reads for himself; Petunia has let him keep Harry's letters in a box. Vernon has had a word with Harry about "that woman's business" and been told that it is Harry's, which went badly and then nowhere.
-- **W** The map. Harry asks Lupin, in the context of the catalogue, whether anything shows where everyone in a building is. Lupin goes quiet and then tells him about the map and Filch's office. Dumbledore retrieves it. Harry and the map at the staff table; the castle's passages; the map's insults. Dumbledore keeps it in his desk.
-- **W** Fred and George at Hogwarts for a week in August, Dumbledore's idea. Two charms on one object done properly: the counts, the inert targets, the twins' impatience and their first product that does not explode. The friendship.
-- **S** The Burrow again; Ron and chess; Ginny and the broom nobody is meant to know she rides.
-- **W** The apothecaries' complaint to the Ministry about the brewing room's prices, autumn. Dumbledore's letter in reply. Lucius Malfoy's name among the complainants' supporters. Harry's first look at how the Wizengamot is made up, with Lupin's report in front of him, and the list of who owes whom.
+### 13 — Jul to Dec 1986 (6y0m to 6y5m)
+- **W** The library finished. A Tuesday in August; the last book; Pince takes the last card and puts it in the eleventh shoebox and says, for the first time in two years, a whole sentence to him, which is that she had thought she would be dead before anyone read it all and had been wrong about which of them would be.
+- **W** The map. Harry asks Lupin, over the index brief, whether anything shows where everyone in a building is; Lupin's face; Filch's office; Dumbledore retrieves it from a drawer marked Confiscated and Highly Dangerous; the four of them at the staff table with it open: Moony, Wormtail, Padfoot, Prongs, and Lupin's hand flat on the parchment.
+- **W** The governors. Lucius Malfoy moves that the board inquire into "the presence of a minor not enrolled at the school"; Dumbledore attends; Augusta Longbottom attends uninvited; the motion fails by one vote. Told from Harry's side, waiting at Figg's with Lupin, and then from Augusta's account over tea, which is better than being there.
+- **S** Fred and George at Hogwarts for a week (inert targets, counts, their first thing that doesn't explode). Tom Dennison and chess on Saturdays. The counts paper printed in the autumn with a sour editorial. Snape's verdict on the ninth page: right.
+- **O** The house at fifty; the linked-card brief begins; the ingredient trade; the apothecaries' complaint; Lucius's fourth letter.
 
-### Chapter 14 — Jan to Aug 1987 (6y6m–7y1m)
-- **S** The library at two-thirds. Harry's counts on his own casting pass twenty thousand trials; he writes them up as a paper with no theory in it and sends it to Transfiguration Today under his name; it is printed with an editorial saying nobody has ever counted before.
-- **W** Hadley in July: valuations. Harry does not predict a crash and says so; he says that prices are high against earnings by every measure he knows and that he would like a third in cash by September. Hadley argues; Harry wins; October proves him lucky rather than right, and he says that too.
-- **W** The first bound spell. "Next", for the reading card, so that Flitwick and anyone else can use the device without Harry. Months of attempts across 1986 and 1987; the connection that finally takes is a word Harry has used for "next" to himself since the cot. It works for Flitwick on the first try. Harry is seven. Flitwick writes to the two people who know more than he does.
-- **S** Summer at Hogwarts; Neville's week; the Longbottoms' ward at St Mungo's, which Augusta takes Harry to at his request. Frank and Alice. Harry reads everything on spell damage afterwards and reaches the wall, and tells Augusta plainly that he has reached it.
-- **S** Three weeks at Privet Drive; Petunia's one honest conversation, in the kitchen, about Lily, which Harry does not report to anyone.
+### 14 — Jan to Jun 1987 (6y5m to 6y11m)
+- **W** The course. Twelve plain books for children under eleven written in a fortnight in December; the first lesson posted in January to four hundred children whose parents read the Prophet; Harry marking the first week's returned exercises himself at Figg's table to learn what children got wrong, which was not what he had expected, and rewriting lesson two overnight.
+- **W** Snape and the second ingredient: the dungeon, a Muggle thermometer, a pound of the ingredient, the two things it is, and a potion that costs a tenth of Belby's; Snape's name on the paper, then not, then yes, on the condition that Harry's is first because it was his question.
+- **Interlude: Amelia Bones** opens a second file, this one about a house in Luton, and reads Lupin's report on the register, which someone has sent her anonymously, and recognises the hand.
+- **S** The journal's first number; the theory that predicts runs; Hadley's fund; the publisher bought; Pandora's letters; Neville tells Augusta about the wand (reported by Augusta: "He told me. I'd known for a year. We did not discuss it.").
+- **O** House at seventy; Hadley's valuations; the mathematics paper.
 
-### Chapter 15 — Sep 1987 to Feb 1988 (7y1m–7y6m)
-- **S** Percy Weasley to Hogwarts with a rat called Scabbers. Harry's weekly at Hogwarts with the device.
-- **W** Christmas 1987. Harry, in Dumbledore's office with the map open, looking for Ron's brother to say hello, and reading the name beside Percy's in Gryffindor tower. Peter Pettigrew. He does not know the name; he looks it up in the library in a quarter of an hour: dead, 1981, Order of Merlin, a finger. He goes back to the office and puts the map in front of Dumbledore and his finger on the name.
-- **W** The rat. McGonagall, Dumbledore and a jar. Pettigrew forced back into a man in the Headmaster's office; his face; what he says; Veritaserum from Snape's store. Harry present at Dumbledore's insistence and his own. Lupin arrives by Floo and has to be held.
-- **S** The Ministry. Bagnold; Crouch's successor at Law Enforcement, Amelia Bones; the wrangling over a man already convicted without trial; the Prophet. Sirius Black released on the ninth of February 1988.
-- **W** Sirius at Hogwarts, in the hospital wing, grey and thirty-eight and twenty-eight. Harry at the door. "You held me. Your heart was going fast." Sirius's face. This is the scene the first chapter was for.
+### 15 — Jul to Dec 1987 (7y0m to 7y5m)
+- **W** Petunia's kitchen. The three weeks; Dudley at the table with the weekly's first issue, which Mrs Figg has sent round; Petunia asks Harry, with the door shut, what Lily was like at seven, and he tells her what Lupin and Bathilda have told him, and she tells him one thing nobody has, and he never repeats it.
+- **W** The first issue. Lupin at the charmed press at two in the morning; the front page is the werewolf count beside the register and a table of apothecary prices beside the shop's; the Prophet's reply on Monday; Cuffe's letter to Dumbledore; three thousand copies gone by Friday.
+- **W** The pair. November, Luton, two rooms: a Muggle-born girl of twenty writes her name on a card and it appears on a card in the next room in her own hand, and the house stops work for the afternoon.
+- **S** Scabbers goes to Hogwarts with Percy. Pandora's bench; her first near-miss on an inert target, reported in a letter with a drawing. Hermione does not exist yet in Harry's life.
+- **O** House at a hundred; the building bought; Sirius's file.
 
-### Chapter 16 — Mar to Aug 1988 (7y7m–8y0m)
-- **W** Sirius's recovery, which is slow and not straight. Lupin and Sirius. Harry reads what the Muggle books say about what happens to people after years in a cell and applies none of it directly and some of it sideways. Sirius wants to give Harry everything; Harry wants him to fund the brewing room; they compromise on both.
-- **S** Grimmauld Place opened; Kreacher; the house; Sirius refuses to live there; the locket in the cabinet is not noticed by anyone.
-- **S** The library finished, June 1988. Harry is seven years and eleven months old. Pince gives him the shoebox, which is now eleven boxes, and says nothing, and he gives them back.
-- **W** Dumbledore tells Harry what he suspects about the scar. Harry asks three questions, gets two answers and one "I don't know", reads for a month, reaches the wall, and tells Dumbledore that he has reached it and will stop. Dumbledore: good.
-- **S** The Patronus begun, with Lupin, at Sirius's request, because Sirius will not say what Azkaban was like and Harry has read enough to know. A silver mist by August.
+### 16 — Dec 1987 to Feb 1988 (7y5m to 7y7m)
+- **W** The map at Christmas: Harry looking for Percy to say hello, and the name beside him. Peter Pettigrew. A quarter of an hour in the library: dead, 1981, a finger, an Order of Merlin. The map in front of Dumbledore and a finger on the name.
+- **W** The rat. McGonagall, Dumbledore, a jar, the Headmaster's office; a man where a rat was; Veritaserum from Snape's store; what Pettigrew says; Lupin through the fire, held by Hagrid.
+- **W** The hospital wing, 9 February 1988. Sirius Black, thirty-eight and twenty-eight, grey. Harry at the door. "You held me. Your heart was going fast." The scene the first chapter was written for.
+- **S** The Ministry: Bones; Bagnold; the Prophet; the weekly's front page, which is one sentence and a date.
+- **Interlude: Lucius Malfoy** at breakfast with both papers.
 
-### Chapters 17–20 — Sep 1988 to Dec 1989 (8y1m–9y5m)
-- **S** Sirius as guardian of record; Harry's three weeks at Privet Drive kept; Sirius and Petunia in the same hall, once.
-- **W** The weekly paper. Harry's case to Dumbledore and Sirius: the Prophet is the only paper and it is owned by one family and frightened of the Ministry; a weekly that prints what is true and what things cost would change what people know. Lupin as editor, because he writes plainly and nobody will give him another job. [NAME NEEDED.] First issue autumn 1989; circulation three thousand by Christmas; loss by design.
-- **W** Pandora Lovegood's experiment, 1989 (canon 1990): the methodology holds; the spell fails on an inert target instead of on her; she writes to Harry that evening. This is the retcon that matters most and it should be quiet.
-- **S** Hermione Granger, nine, writes from Winchester about an error in the primer's second edition. She is right. Harry writes back. Twelve letters by the end of the year.
-- **W** The Time-Turner learned of, from a Department of Mysteries pamphlet Colin's successor finds; Harry's case to Dumbledore; Dumbledore's refusal, with reasons, until Hogwarts; Harry's acceptance, which costs him something and is seen to.
-- **S** The corporeal Patronus, a stag, in Dumbledore's office, 1989. Sirius leaves the room.
-- **S** Money: trust past £300k after the recovery; the publishing company; the shop and apothecary profitable; the brewing house supplies a hundred and forty; Lupin's honest register at two hundred and sixty.
+### 17 — Mar to Aug 1988 (7y7m to 8y0m)
+- **W** Sirius's recovery, which is not straight: a good week, a bad one, Lupin and Sirius in Figg's kitchen at three in the morning, Harry awake and not coming down. The Muggle books on what cells do to people, read and used sideways.
+- **W** The boat. Azkaban from a quarter of a mile, in June, with Sirius and Dumbledore, because Harry asked; the cold; Sirius's hand on his shoulder; a Dementor at the boundary; the stag, which stops at the boundary this time. A new first item on the list.
+- **W** Hermione's letter. Eight, from Winchester, about lesson four of the course, which has an error; she is right; she has found two more; Harry writes back; the reply is twelve pages and has a bibliography.
+- **S** Grimmauld Place opened; Kreacher; a cabinet nobody opens. The register fine: the Ministry requires registration for employment, the house refuses in writing, pays, and prints the fine. Dumbledore and Hadley agree the trust will have the other half of the vault, two years being up.
+- **O** The cards go to the Hogsmeade workshop for making.
 
-### Chapters 21–28 — 1990 (9y5m–10y5m)
-- **W** Fudge becomes Minister and comes to Hogwarts to meet Harry, who is nine, and leaves having agreed to nothing and liked him.
-- **W** The Wizengamot debate on a Wolfsbane subsidy, which Harry does not attend and hears about from Augusta Longbottom and Amelia Bones, who carried his figures. It passes narrowly. Lucius Malfoy votes against and writes Harry a courteous letter afterwards.
-- **S** Draco Malfoy, ten, at Flourish and Blotts, with his father. Twenty words.
-- **W** Hermione in person, Diagon Alley, summer 1990, with her parents, who are dentists and have questions for Harry about wizarding teeth that he cannot answer and finds out.
-- **S** Quirrell's leave of absence; Dumbledore's letter from him from Albania; Harry's written objection to bringing anything of Flamel's into a school.
-- **W** Azkaban, from the outside, by boat, with Sirius and Dumbledore, because Harry asked. The cold at a quarter of a mile. Sirius's hand on his shoulder. Harry's list gets a new first item.
-- **S** The three weeks at Privet Drive; Dudley at ten; Petunia reading the weekly, which she has had Mrs Figg send round for a year.
+### 18 — Sep to Dec 1988 (8y1m to 8y5m)
+- **W** The cards on sale. A Galleon a pair; the shop's queue down the Alley; a wizard writing to his wife in Aberdeen from the counter and crying; the Ministry's man in the bowler hat, back, asking under what law, and Hester telling him there isn't one.
+- **W** Pandora's bench, October: the experiment that would have killed her goes off on an inert target in a shielded room with Xenophilius counting, and the room is wrecked and she is not; her letter that evening, three lines, and Luna's postscript.
+- **W** Dumbledore tells him about the scar. Christmas night, the room over the lake; what he has suspected since the snake; what it would mean; three questions, two answers and an I don't know. A month at the wall, then: "I've reached it. I'll stop." "Good."
+- **Interlude: Petunia** reading the weekly at the kitchen table, delivered by card, which she does not understand and reads anyway.
+- **S** The paper by card; Fudge's rise; the weekly at eight thousand; the Patronus stag in Dumbledore's office, and Sirius leaving the room.
 
-### Chapters 29–35 — Jan to Sep 1991 (10y5m–11y1m)
-- **W** The letter, 31 July 1991, at Hogwarts, handed to him by McGonagall, who says that she has waited seven years to do this properly. The Trace begins; his magic is watched for the first time in his life.
-- **S** Diagon Alley with the Weasleys and Hermione; Ollivander's again, for nothing; Hagrid and an owl.
-- **W** The Dursleys told that he is going to Hogwarts, which they knew; Petunia on the step, as she was in 1981.
-- **W** The Hogwarts Express, with Ron, Hermione, Neville, and a boy called Draco who comes to the compartment to see.
-- **W** The Sorting. The Hat's conversation is the longest it has had. [DECIDE: Gryffindor with Ron and Neville, or elsewhere. Default Gryffindor; Harry's reason is Neville.]
-- **S** Quirrell at the staff table; the scar; Harry tells Dumbledore that evening.
+### 19 — Jan to Jun 1989 (8y5m to 8y11m)
+- **W** The boat again, March, with two Ministry men and Amelia Bones, because the Ministry has asked to see what the boy's Patronus does. A Dementor comes to the boundary. The stag does not stop. What is left is not a Dementor. Nobody speaks on the way back; Bones writes in a notebook.
+- **W** The Time-Turner. A pamphlet in Colin's successor's rucksack; Harry's case to Dumbledore, four pages; Dumbledore's refusal, with reasons, and the condition under which he will ask in future; Harry's acceptance, which costs him something and is seen to.
+- **W** The index in the Hogwarts library, at Pince's request, which is the first thing she has ever asked him for.
+- **S** House at a hundred and fifty; the Wizengamot's first debate on the Dementors, which goes nowhere; Hermione's twelfth letter; Neville's plant book, forty pages, which Sprout reads.
+- **O** Tom Dennison beats him at chess for the last time.
 
-## Hogwarts, by term (chapters 36–100)
+### 20 — Jul to Dec 1989 (9y0m to 9y5m)
+- **W** Draco Malfoy in Flourish and Blotts with his father, August; twenty words; Lucius's courtesy; Draco's look at Harry's shoes.
+- **W** The Wolfsbane subsidy in the Wizengamot, November, as Augusta tells it over tea and Sirius tells it at the same table differently: it fails by four.
+- **W** Christmas at Grimmauld Place with the Weasleys, Lupin, Sirius, Neville and Augusta; Kreacher; the tapestry; Sirius and Molly in the kitchen; a cabinet that stays shut.
+- **S** Bagnold's retirement announced; Fudge; the paper's leader on the Dementors' contract, which prints the contract.
+
+### 21 to 28 — 1990 (9y5m to 10y5m)
+- **W** Fudge at Hogwarts, newly Minister, meeting a nine-year-old and leaving having agreed to nothing and liked him.
+- **W** The subsidy passes, June, by three; Lucius's letter afterwards, courteous.
+- **W** Hermione in Diagon Alley with her parents, July; her parents' questions about wizarding teeth; Harry finding out.
+- **W** Quirrell's letter from Albania on Dumbledore's desk; Harry's written objection to the Stone coming to a school; Dumbledore's answer, which is the first time he has said no to Harry's reasoning rather than his age.
+- **W** Sirius takes the Black seat on the Wizengamot and hates it; his first speech, which Augusta rewrites.
+- **S** Three weeks at Privet Drive; Dudley at ten, reading the weekly; Vernon's one question about the money, answered. The second Dementor, in the autumn, on the boat, before the Wizengamot's committee.
+- **Interlude: the Sorting Hat**, on its shelf, hearing Dumbledore and McGonagall discuss next September.
+
+### 29 to 35 — Jan to Sep 1991 (10y5m to 11y1m)
+- **W** The letter, 31 July, handed to him by McGonagall, who has waited seven years to do it properly. The Trace: the first time in his life anyone has been able to watch his magic.
+- **S** Diagon Alley with the Weasleys and Hermione; Ollivander, for nothing; Hagrid and an owl.
+- **W** Privet Drive: Petunia on the step, as she was in 1981.
+- **W** The train: Ron, Hermione, Neville, and a boy called Draco who comes to see.
+- **W** The Sorting. The Hat's longest conversation. [DECIDE: Gryffindor, for Neville. Default.]
+- **S** Quirrell at the staff table; the scar; Dumbledore told that evening.
+
+## 7. Hogwarts
 
 ### Year one, 1991–92 (ch 36–55)
-- Harry's timetable: independent study, with teaching duties in first-year Charms and Potions theory under Flitwick and Snape; he sits the O.W.L.s in June at Dumbledore's arrangement and the Ministry's reluctance.
-- Quirrell contained by Hallowe'en: scar, Harry's inference, Dumbledore's trap; Voldemort's wraith leaves Quirrell and goes; Quirrell lives, damaged. The Stone destroyed with Flamel's agreement at Christmas.
-- The Chamber found in the spring: Myrtle, the tap, Parseltongue; the basilisk spoken to, blind-folded by negotiation, and moved to the Forest's far side under Hagrid's eye; a thousand years of loneliness in a snake's account of itself. Venom given, not taken.
-- Friends: Ron, Hermione, Neville, the twins, Ginny by letter. House politics; Draco's father's politics.
-- Business and press from school by owl; Hester runs the shops; the weekly reaches eight thousand.
+Independent study and a teaching role under Flitwick and Snape; O.W.L.s in June over the Ministry's objections. Quirrell contained by Hallowe'en: the scar, the inference, Dumbledore's trap; the wraith leaves; Quirrell lives. The Stone destroyed at Christmas with Flamel's consent. The Chamber found in spring: Myrtle, the tap, Parseltongue; a thousand-year-old basilisk spoken to and moved, blindfolded by agreement, to the far side of the Forest under Hagrid; venom given. Ron, Hermione, Neville, the twins; the house system seen from inside; the paper and the house run by owl and card from school.
 
 ### Year two, 1992–93 (ch 56–75)
-- Lupin teaches Defence (no Lockhart). Lucius plants the diary anyway; Ginny; Harry notices in October; the diary opened to the venom, and Dumbledore learns what a Horcrux is and that there are more. The hunt begins and is slow: the ring located 1993.
-- Azkaban: the weekly's campaign; the Wizengamot; the Dementors' contract with the Ministry examined; Harry's Patronus studied by Unspeakables at his invitation.
-- The Time-Turner granted for the summer under written conditions.
-- St Mungo's: hygiene, records, statistics; Harry's trust funds a ward.
+Lupin teaches Defence. Lucius plants the diary anyway; Ginny; Harry notices in October; the diary and the venom; Dumbledore learns what a Horcrux is and that there are more; the hunt begins and is slow. Azkaban: the committee, the contract, the Wizengamot; June 1993, the Dementors removed, the destroying Patronus at the island under the Wizengamot's eye; the prison re-staffed. The Time-Turner granted for the summer under written conditions.
 
 ### Year three, 1993–94 (ch 76–92)
-- Azkaban. The Dementors removed; the destroying Patronus used once, at the island, with Sirius and Dumbledore present, after two years of Harry becoming the kind of person for whom it works. The prison re-staffed. This is the climax of the pre-Voldemort story.
-- Barty Crouch Jr found in his father's house by the trail Winky leaves and Harry's reading of what a house-elf's loyalty does to a record; Crouch Sr's long crime exposed; Voldemort's 1994 plan dies before it is made.
-- Pettigrew in Azkaban's new regime; Sirius well.
+The ring found at the Gaunt shack, and Dumbledore does not put it on, because Harry is there. The diadem through the Grey Lady, whom Harry has been interviewing since year one. The locket through Kreacher, when Harry finally asks him the right question. Crouch Jr found in his father's house by Winky's trail and Harry's reading of what an elf's loyalty does to a record; Crouch Sr's crime; Voldemort's 1994 plan dies before it is made. Pettigrew in the new Azkaban. St Mungo's records, five years on, showing something in the Longbottoms' ward that nobody expected; not a cure.
 
 ### Year four, 1994–95 (ch 93–100)
-- The Tournament reformed or not held. Bertha Jorkins found before she travels. The wraith still in Albania, watched.
-- Chapter 100: the world as it is: a free weekly, a Wolfsbane subsidy, an Azkaban without Dementors, muggle-borns employed, a research house with forty names, a boy of fourteen who has read everything and done a good deal and has a list that is shorter than it was and still long. Voldemort out there. Ends on the list.
+The Tournament not held; Bertha Jorkins found before she travels; the wraith in Albania watched. The cup in the Lestrange vault, which the goblins will not open, and a negotiation that is not finished. Chapter 100: the world as it is, seen in one day from the Alley to the Ministry to the Burrow; a boy of fourteen; the list, shorter than it was, still long; Voldemort out there; two Horcruxes left and one of them in the room.
 
-## Added after review (see activity-model.md, Additions)
-- Patronus from 1985 with Lupin; stag 1986. Casting-theory programme from 1985. Flitwick's first-year counts from 1985; the short wand 1987. Cauldron blanks from Sheffield 1986. Loans to Muggle-born leavers from 1986. Books-in-print catalogue 1985. Mathematics papers 1987–88. Postal revision course 1986. Sirius petition 1986. Research house: five by end 1985, ten by 1986, twenty by 1988. These are folded into chapters 9–20 at the next outline pass.
+## 8. Names needed from Jacob
 
-## Names needed from Jacob
-
-1. The shop at the wrong end of Diagon Alley (Hester would name it).
-2. The weekly paper (1989).
-3. The reading device, if it is ever sold.
-4. The brewer hired in 1985.
-5. Whether Harry's primer has a title or is just "the primer".
+1. The shop (Hester's choice).
+2. The weekly paper (1987).
+3. The linked cards, if they are to be sold under a name (1988).
+4. Whether the primer has a title.
+5. Joan Tilley, Hester Pye, Dennis, Colin, Tom Dennison, Mrs Dennison, Mr Hadley: confirm or change.

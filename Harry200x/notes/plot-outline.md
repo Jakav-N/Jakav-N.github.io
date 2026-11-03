@@ -45,7 +45,8 @@ A boy whose mind runs two hundred times faster than the world, who decides at th
 | The house | ten names Sept 1984 | 50 (1986), 100 (1987), 150 (1989), own building 1987 |
 | Owl trade and shop | sheet Jan 1984 | shop Sept 1985; herbs 1985; cauldrons 1986 |
 | Wolfsbane | Lupin's flask May 1984 | Tilley's batch Nov 1984; ninety 1986; v2 with Snape 1987; subsidy June 1990 |
-| Muggle money | pencil books 1984 | course 1985, publisher 1987, fund 1987, ~£3m by 1991 |
+| Muggle money | pencil books 1984 | course 1985; publisher 1987; the GCSE year 1988 (every revision book in England out of date, his sixteen a year ahead); fund 1987; ~£900k 1988, ~£8m 1991, ~£40m 1995 |
+| Wealth, wizarding | the tin 1984 | capital kept and income given from 1986; building bought 1987; ~500,000 G 1988, the largest private concern after Gringotts and the Prophet; ~1.2m G 1990; a goblin director asks to meet him 1989; ~3m G 1993 |
 | Linked cards | a brief 1986 | pair Nov 1987; on sale Sept 1988; paper by card 1989 |
 | The paper | idea 1985 | first issue Sept 1987 [NAME] |
 | Methodology | failure 1985 | Quibbler 1986; Pandora lives Oct 1988 |
@@ -115,6 +116,7 @@ Each period has far more scenes than a chapter can hold. A chapter takes three o
 15. The stopper that will not turn for a small hand, tested at the Burrow on Ron and Ginny, who try for an hour; St Mungo's writes to ask for a thousand.
 16. Mr Adeyemi from the brewery in Burton reads the brief, comes to Luton, looks at a cauldron, and says that a cauldron is a kettle with opinions; his first drawing.
 17. Ruth Marchbanks's ward kit, six charms and a card; the first one in a house in Tinworth; the cat.
+18. The GCSE: Hadley brings the new syllabuses in February, three hundred pages, and says every revision book in the country is about to be wrong; Harry reads them in an evening and rewrites sixteen subjects in March, a day each; the company prints for 1988; Hadley says it is the first time he has seen a publisher a year ahead of the examiners.
 
 ### Pool: Jul to Dec 1987 (chapter 15)
 1. Petunia's kitchen, with the door shut: what Lily was like at seven; Harry gives her Lupin's and Bathilda's account; she tells him the swing in the playground and the flower, from her side, which nobody else alive knows; he never repeats it.
@@ -139,6 +141,7 @@ Each period has far more scenes than a chapter can hold. A chapter takes three o
 20. St Mungo's buys Pepperup from the rig at a third of what it paid; the matron who adopted the cleaning regime writes; the Healers who resisted it do not.
 21. The ledger that totals itself on Hester's counter; she distrusts it for a month and keeps the old book beside it, and then does not.
 22. The ward kit on sale; a letter from a householder who slept through the night for the first time since 1981.
+23. The GCSE books go to the printers in July; Harry at the Oxford office in a hat, seven, watching forty people work on his pages and saying nothing; the editor, who does not know, says the author must be a schoolmaster with no life.
 
 ### Pool: Dec 1987 to Feb 1988 (chapter 16)
 1. The map at Christmas: looking for Percy; the name beside him; the library; Dumbledore's desk; a finger on the name. [core]
@@ -210,6 +213,8 @@ Each period has far more scenes than a chapter can hold. A chapter takes three o
 13. The stopper that opened in Hogsmeade; nobody hurt; the stoppers re-charmed; Harry's letter to the parents, which he writes four times.
 14. The recording card for the Wizengamot's clerks, who have never had a record of anything; the first session recorded; the first transcript, which the weekly prints.
 15. The Floo map, which nobody had made, given to the Ministry.
+16. Gringotts: a goblin director asks, through Hester, to meet the house's owner; Harry goes in a hat with Sirius waiting outside; an hour on rates and nothing else; at the door the director says the bank has not had a customer it could talk to since 1811.
+17. Hester says the number aloud, once, at the long table, because the auditors need it said; the room is quiet; Harry says that a third of it goes where it has always gone and the rest stays, and why.
 
 ### Pool: Jul to Dec 1989 (chapter 20)
 1. Draco Malfoy in Flourish and Blotts, August; twenty words; the shoes. [likely]

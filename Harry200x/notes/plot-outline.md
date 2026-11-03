@@ -68,6 +68,16 @@ A boy whose mind runs two hundred times faster than the world, who decides at th
 
 Each period has far more scenes than a chapter can hold. A chapter takes three or four, whole, and leaves the rest offstage; a scene not taken may be taken later, referred to, or dropped. Every scene here has a place, people, and a turn. Pools are deliberately overfull; that is the point.
 
+### Items from Jacob's first message not yet placed, now placed
+- **Gamp's law.** He reads it in the library in the summer of 1984 (the five exceptions, in a book of 1660 that states them as law and offers no reason) and, having five houses of gold and a vault that does nothing, spends an evening on whether gold can be made, and concludes from the book and from Dumbledore that it cannot by any spell, and that the one thing said to do it is alchemy, which the book calls nigh impossible and Dumbledore calls Nicolas Flamel's. He files it. (Pool: Jul–Aug 1984; a paragraph in chapter 7 at the next pass, or a line in chapter 8's office scene.)
+- **Potions and intent.** Joan Tilley, 1985: "It knows when you don't mean it." A line, not a lesson. (Pool: Feb 1985.)
+- **The ceiling on casting.** The brother and sister from Hull find in 1986 that nobody can cast faster than a certain rate whatever they do, and that Harry's wandless rate is about twice it; it is written in the house's journal as a number and never explained. (Pool: 1986.)
+- **Public health.** The dragon-pox count (1988) is in; add: Muggle-born children arrive at Hogwarts vaccinated against Muggle diseases and pure-blood children do not, and in 1989 the house pays for a Healer to say so in print, and the Prophet calls it an insult. (Pool: 1989.)
+- **Forensics.** Pettigrew by the map; Crouch Jr by Winky's trail; add: in 1990 Harry asks Bones why the Ministry has no record of which wand cast what, when every wand leaves a trace a Prior Incantato can read, and she says nobody has ever kept one, and he pays for a clerk to start. (Pool: 1990.)
+- **Disaster management.** After Quirrell (autumn 1991) Harry writes Hogwarts an evacuation plan, four pages, and McGonagall runs it as a drill in November, the first in the school's history; the first-years enjoy it and the seventh-years do not. (Pool: autumn 1991.)
+- **Agronomy.** Neville's book (1989) is written with Sprout and with a Muggle book on soil that Colin's successor found; two of the greenhouses are re-bedded on it; Sprout says the Fanged Geraniums have never been so cross. (Pool: 1989.)
+- **Rituals.** Rare; none before Hogwarts; the one that matters is Voldemort's, offstage, in 1994, which does not happen because Pettigrew is in Azkaban.
+
 ### Pool: Jul to Dec 1986 (chapter 13, written; may be enriched)
 1. The last book (varnish, 1870); Pince's sentence; the lawn. [taken]
 2. The map out of Filch's drawer; the four names; seven passages. [taken]

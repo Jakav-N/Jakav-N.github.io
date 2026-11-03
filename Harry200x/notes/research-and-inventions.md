@@ -95,3 +95,14 @@ Written plainly, as things that happen to a workshop and a shop: materials, peop
 
 ## What the chapters must show (not report)
 A thing working for the first time in a room with people in it. A thing failing and someone hurt or frightened. Someone buying a thing and what it does for them. A fight with whoever the thing displaces. A figure said aloud by someone who has to say it. A recall notice. Harry reciting a page from 1611 to a man who then casts it.
+
+
+## Staffing and directions (binding)
+
+Research headcount (house total in brackets): Nov 1984, 6 (8); Mar 1985, 10 (14); Dec 1985, 16 (30); Dec 1986, 28 (50); Dec 1987, 50 (100), Oxford's forty Muggle staff separate; 1989, 70 (150); 1991, 80 (170); 1994, 100 (200). The limit is supply: about forty Hogwarts leavers a year, a quarter Muggle-born; by 1987 he has hired most of the capable unemployed, and takes retired wizards, Squibs for wandless work, Muggle-born leavers from Ireland and France, and trains leavers by brief. Every researcher writes a report a week; he reads all of them.
+
+Directions: 1984–85, his own limits and the first list (counts, the reading device, warding in print, potions by batch and cost, the werewolf count, demand). 1986, what nobody uses (the 240 lost charms cast one by one; products from the ones that work; warding in practice; linked objects begun; St Mungo's records; dragon pox; Muggle chemistry with Snape). 1987, making and binding (cards, heat ring, ledger, automation, press, index, casting theory, the first bound spell and its etymology, the Floo survey, pedagogy, a legal unit of two). 1988–89, production research (owner-only and recording cards, fire charm, rigs for every common potion, broom cushioning, owl logistics, Floo map, short wands with Ollivander, soil, the Patronus with the Unspeakables, vaccination counted). 1990–91, scale and the state (the index everywhere, the Wizengamot record, Statute law, the course in French and German, Dementors read about only). Hogwarts: venom, Dementors, the five-year ward records, Time-Turner mechanics, the Chamber.
+
+Not researched by the house: soul and mind magic beyond reading; the Dark Arts; anything needing the Restricted Section (asked of Dumbledore by title); anything on a person before an inert target; anything on himself.
+
+A direction is chosen by the list: what is wrong, what it needs, whether the house can supply it, and the cost in people, who are the scarce thing.

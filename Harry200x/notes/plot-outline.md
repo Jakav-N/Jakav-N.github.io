@@ -46,7 +46,7 @@ A boy whose mind runs two hundred times faster than the world, who decides at th
 | Owl trade and shop | sheet Jan 1984 | shop Sept 1985; herbs 1985; cauldrons 1986 |
 | Wolfsbane | Lupin's flask May 1984 | Tilley's batch Nov 1984; ninety 1986; v2 with Snape 1987; subsidy June 1990 |
 | Muggle money | pencil books 1984 | course 1985; publisher 1987; the GCSE year 1988 (every revision book in England out of date, his sixteen a year ahead); fund 1987; ~£900k 1988, ~£8m 1991, ~£40m 1995 |
-| Wealth, wizarding | the tin 1984 | capital kept and income given from 1986; building bought 1987; ~500,000 G 1988, the largest private concern after Gringotts and the Prophet; ~1.2m G 1990; a goblin director asks to meet him 1989; ~3m G 1993 |
+| Wealth, wizarding | the tin 1984 | capital kept; the causes funded at what they can use (under 30,000 G a year by 1988); the surplus changed to pounds at Gringotts quarterly from 1987 and sent to the Muggle side (the company, wells, vaccines); the Prophet's "Potter drain" 1988; building bought 1987; ~500,000 G 1988, the largest private concern after Gringotts and the Prophet; ~1.2m G 1990; a goblin director asks to meet him 1989; ~3m G 1993 |
 | Linked cards | a brief 1986 | pair Nov 1987; on sale Sept 1988; paper by card 1989 |
 | The paper | idea 1985 | first issue Sept 1987 [NAME] |
 | Methodology | failure 1985 | Quibbler 1986; Pandora lives Oct 1988 |
@@ -196,6 +196,7 @@ Each period has far more scenes than a chapter can hold. A chapter takes three o
 14. A competitor's copy of the cards burns a kitchen in Kent; the house's cards get a mark; the copy's maker sues and loses; the weekly prints the judgment.
 15. The owner-only card, from the stopper's charm, for anyone who asks; the Ministry asks first.
 16. St Mungo's whole stock of common potions from the rigs by December; the hospital's governors write to Miss Pye; Hester frames it in the shop.
+17. The Potter drain: the Prophet's piece on Galleons leaving for Muggle wells; Hadley's figure of what a Galleon's worth of pounds does in a village with no water; the weekly prints both; Arthur Weasley is asked at the Ministry whether it is legal and says, after a day in the library, that it is, and is not thanked.
 
 ### Pool: Jan to Jun 1989 (chapter 19)
 1. The boat, March, with Bones and two Ministry men; a Dementor at the boundary; the stag does not stop; what is left; Bones's notebook. [core]

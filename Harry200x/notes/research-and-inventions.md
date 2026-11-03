@@ -48,7 +48,29 @@ Briefs written by Harry; people who read, count, brew, cast, and build; a tester
 ### 1989–91: scale
 - **The index** in the Hogwarts library (1989) and then in every house that wants one. **A card that records speech** for an hour and gives it back, from the Omniocular charm and the cards, for the Wizengamot's clerks, who have never had a record. **The Floo**: a survey of how it is routed, which nobody has done, and a map, which the Ministry asks for and is given. **Broom safety**: a cushioning charm reworked for the house's brooms, which are the first cheap ones. **The course** in French and German by 1990 through Muggle-born translators.
 - **Sleep**: nothing. **Time**: the pamphlet, 1989; refused.
-- Earnings 1989: about 160,000 Galleons; 1990: 220,000; 1991: 280,000, all but wages and a reserve spent on Wolfsbane, the course, the paper, the loans, St Mungo's, and the house's own research. Muggle: trust about £3m by July 1991.
+- Earnings 1989: about 160,000 Galleons; 1990: 220,000; 1991: 280,000.
+
+## Wealth, corrected (Jacob: he gets rich, in both economies, as a means)
+
+He keeps the capital and gives from the income. Rule from 1986: a third of profit to the causes (Wolfsbane at cost, the course, the paper's loss, the loans, St Mungo's), the rest reinvested or held. He owns, through Hester's name until 1991 and his own after: the building at the wrong end of the Alley (bought outright 1987), the shops in the Alley and Hogsmeade, the brewing house, half the Hogsmeade card workshop (all of it from 1989), the press, the Luton buildings. Gringotts holds the house's balance; a goblin director asks to meet him in 1989, because the house is the bank's largest commercial depositor, and he goes, in a hat, and they talk about nothing but rates for an hour and understand each other.
+
+| | Net worth, wizarding | Position |
+|---|---|---|
+| 1986 | ~60,000 G | a shop and a brewing room |
+| 1988 | ~500,000 G in buildings, stock, workshop and balance | the largest private concern after Gringotts and the Prophet |
+| 1990 | ~1.2m G | richer than any wizard outside the old families |
+| 1993 | ~3m G | richer than most of them |
+
+**Muggle.** Pushed, not drifted. The GCSE replaces O-levels in 1988 and every revision book in England goes out of date at once; the Oxford company, which he owns, has his sixteen subjects rewritten for the new syllabus in the spring of 1987 before most publishers have read it, and prints two hundred thousand copies for September 1988. The postal course is advertised nationally from 1988 and has twelve thousand pupils by 1990 at six pounds a month. Hadley's fund takes outside money from 1987 on the dull method and does well in the recovery. Two London houses in 1988, sold in 1989 before the fall. A sixth of the Muggle profit to the well-digging charity from 1986, chosen on two sentences.
+
+| | Muggle, net | Note |
+|---|---|---|
+| 1986 | ~£60k | trust and a quarter of the publisher |
+| 1988 | ~£900k | the GCSE year; the company's value |
+| 1991 | ~£8m | company, trust, fund interest |
+| 1995 | ~£40m | the company sold a stake in 1994 to a larger publisher on Hadley's advice; the rest kept |
+
+Very rich by any ordinary standard at fourteen; small beside what the house is to its own world, which is the difficulty Jacob named. Nobody in the Muggle world knows the owner's age until 1993, when a Sunday paper finds out and Hadley says yes.
 
 ## What goes wrong
 

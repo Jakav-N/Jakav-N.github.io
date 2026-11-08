@@ -1,16 +1,48 @@
 # Chapter 13: The Flower
 
-The film was on the Saturday evening of the tenth, on the other channel, and they watched it in the living room with the lights off because Vernon liked them off for films.
+The film about the missiles was on the Saturday evening of the tenth, and they watched it in the living room with the lights off. Vernon said at the start that it was American rubbish, and stayed. Dudley was sent to bed and came down twice. Petunia sat at the end of the sofa with her hands in her lap, and when it ended nobody said anything. Vernon turned the set off and went up. Petunia stayed where she was, in the dark, and Harry, who had learned when to leave a room, left it. The film had told him nothing he didn't know. He had watched it to see what a hundred million people had seen, and now he had.
 
-Vernon said at the start that it was American rubbish. He stayed. Dudley was sent to bed and came down twice and was sent back twice. Petunia sat at the end of the sofa with her hands in her lap, and for the last twenty minutes Harry watched her face more than the screen. He had read the medical literature and the strategic literature, and the film was less exact than either, as he had expected. That didn't matter. The film wasn't for people who had read the literature.
+* * *
 
-When it ended nobody said anything. Vernon turned the set off and went up. Petunia stayed where she was, in the dark, and Harry, who had learned when to leave a room, left it.
+Pell came on the Tuesday with the trust's accounts, which Harry had asked him to bring rather than post, and which Harry read in the time it took Pell to sit down. Forty-five thousand pounds, half of it in shares that had gone up.
 
-He lay on his bed and thought about the number he had arrived at in November, and about the hundred million Americans and the however many million British who had now had the feeling without the number. One of those two things moved governments. It wasn't the number. He had suspected as much since the Falklands and now he was fairly sure. He didn't like it, and he put it with the other facts about the world that he was going to have to use rather than argue with.
+"I want to spend some of it on people," Harry said.
+
+Pell put his pen down. "The deed says education."
+
+"The deed says books and education. I've read it. I'm not reading as fast as I could because I'm waiting for books to arrive, and I'm not writing as much as I could because Rachel types two afternoons a week and the letters have passed a hundred and fifty. I want a secretary whose whole job is the letters. I want someone with a reader's ticket to the British Library who'll fetch what I ask for and photocopy what can't be borrowed. Two people. About sixteen thousand a year between them."
+
+"That's a third of the trust."
+
+"It's a third of the trust this year. The royalties come in March. They go up if I write more, and I write more if other people do the fetching and the typing. I've done the arithmetic. I'll dictate it to you if you'd like to check it."
+
+Pell said that he would like to check it, and did, that evening, and telephoned on the Wednesday to say that the arithmetic was right and that he would advertise.
 
 * * *
 
 Dumbledore came the next Saturday with the third- and fourth-year books, a history of the school he said was the only honest one, and a thin volume he called theory.
+
+He had also brought the thing Harry had asked for in November, after a month of Prophet reports of votes: the rules of the Wizengamot, sixty pages, the procedures of the body that decided what the Prophet reported as decided. Harry put them on the arm of the sofa to read that night, and asked for three more things while Dumbledore was there to be asked.
+
+"The vault is for my schooling and my keep. Books are schooling. I'd like the current list from the bookshop in Diagon Alley, and to buy everything on it that isn't a textbook I already have."
+
+"That is several hundred books."
+
+"Yes."
+
+Dumbledore considered it. "I will bring you the list. I will buy what you mark on it, fifty a month, through myself, because this house will not hold them faster than that and because an order for four hundred books on one account would be remarked upon. You may choose the order they come in."
+
+"Theory first. Second thing. Does the school library have a catalogue?"
+
+"It has. Madam Pince has kept it for thirty years and would not care to be asked for an index to it. I can bring you a copy of the catalogue in January."
+
+"Thank you. Third thing. Can my galleons pay a wizard to do work for me?"
+
+Dumbledore looked at him for a moment. "Through me. Discreetly. What work?"
+
+"Copying. The Ministry keeps records that are open to anyone who asks for them, and I don't think anyone asks. I'd like someone to ask, and to copy what they're given, and to send it here. Wizengamot proceedings first, for the last five years. Then whatever else is open."
+
+"I will find someone," said Dumbledore, and did not say who, and Harry did not ask.
 
 Harry read the theory that evening and decided it was philosophy, because it was all argument and no experiment. The third- and fourth-year books were the first-year books with more in them. The spells were harder and the lists were longer and there was still no table. He added them to his.
 
@@ -18,9 +50,7 @@ The table was two hundred and twelve rows by the end of the week, in the quill's
 
 Twenty-six of the two hundred and twelve had a named inventor. All twenty-six were modern, if the last four hundred years counted as modern, which in this subject they had to. Every one of the twenty-six was a combination, or a narrowing, or a new handle on something already in the table: a charm that did what two older charms did one after the other, a jinx that was an older jinx aimed at knees. The hundred and eighty-six with no inventor were older than anyone's record of them. Fourteen of those had words he could find no root for, in Latin or Greek or anything else he had read.
 
-He had thought since the summer that nobody had invented a new kind of magic in living memory. He now thought that nobody had invented one in recorded history, and that the people who wrote the books hadn't noticed because they had never put the rows side by side. He didn't know what to do with that yet. He put the fourteen rootless spells in a letter to Flitwick, through McGonagall, with the thought that their words might be the sounds the effects were first given, before anyone had thought to make words mean anything, and asked whether that was nonsense. Flitwick wrote back in January to say that he didn't know, and that he would like to argue about it properly, and the argument began.
-
-The rest of December went on Russian, from a grammar and a dictionary and a Landau volume Rachel found in a second-hand shop, because the best of the physics was in Russian and the translations ran three years behind. By New Year he could read a paper in it, slowly, which for him was a page a minute. He decided to do the same with German in January.
+He had thought since the summer that nobody had invented a new kind of magic in living memory. He now thought that nobody had invented one in recorded history, and that the people who wrote the books hadn't noticed because they had never put the rows side by side. He didn't know what to do with that yet. He sent the fourteen rootless words to Flitwick, through McGonagall, and asked whether anyone knew where they came from. Flitwick wrote back in January that nobody did, and that he would like to argue about it properly.
 
 * * *
 
@@ -70,9 +100,9 @@ He gave presents, because it was the first Christmas he had had money, and he ha
 
 She looked at the frame for a moment, and he watched her understand what he meant by it. She put it away in the bureau without a word. He noticed that there was no anger in the way she did it.
 
-McGonagall sent a biscuit tin, and under the biscuits, flat on the bottom, was a copy of the rules of the Wizengamot, with a note: *I thought you might like to know how things are decided.* Dumbledore brought a book on the theory of charms from the school library, written in the eighteenth century, which turned out to be the first magical book Harry had read that asked questions instead of answering them. Hagrid sent a wooden flute he had carved himself. Petunia gave him a book she had chosen this time, a history of the Romans for children. He read it because she had chosen it, and it was good.
+McGonagall sent a tin of shortbread and a note that said she expected to hear about the match by Easter. Dumbledore brought a book on the theory of charms from the school library, written in the eighteenth century, which turned out to be the first magical book Harry had read that asked questions instead of answering them. Hagrid sent a wooden flute he had carved himself. Petunia gave him a book she had chosen this time, a history of the Romans for children. He read it because she had chosen it, and it was good.
 
-He read the rules on Christmas afternoon while Marge slept in Vernon's chair. There were sixty pages. He went through them a second time in his head and found, on the second pass, the sentence he was going to need.
+He went through the rules of the Wizengamot a second time on Christmas afternoon, in his head, while Marge slept in Vernon's chair, and found on the second pass the sentence he was going to need.
 
 * * *
 
@@ -88,11 +118,13 @@ Harry sat on his bed for a long time. He didn't go through the day. He kept the 
 
 * * *
 
-He spent January on the thing that had failed in November.
+Pat Loomis started on the ninth of January. She had been a school secretary for twenty years and was not alarmed by anything. She took the letters, the filing and Rachel's typewriter, and had a system by the end of the week, which Harry improved on the Friday and she improved back on the Monday. Owen Price started on the sixteenth. He was a research student in history who needed the money and had a reader's ticket, and his job was to come on Tuesdays with what Harry had asked for the week before and go away with the next list. The lists were long. He said so in the second week. Harry said that he knew, and that Owen should tell him when a week's list couldn't be done in a week, and Owen said that it couldn't, and the list was cut by a third. The third went to a second student in March.
+
+The rest of January, when nobody was in the room, went on the thing that had failed in November.
 
 The question was simple. He could not make a light and lift a feather in the same instant. Forty tries in November, forty more in December, nothing. Either it couldn't be done or he was picturing it wrong, and he had spent two months on the second possibility and had run out of ways to picture it. So in January he stopped trying to do two things at once and tried to find out how close together two things could be.
 
-He did it in the kitchen on a Sunday morning while the house was at church, because the kitchen had the clock. Feather up, light on, feather up, light on, as fast as he could make the pictures, counting pairs while the second hand crossed from the twelve to the four. Twenty seconds. Thirty pairs. Sixty things, one after the other, at three a second, which was the pace: the rate at which a hand could move a wand, that he had found behind the shed in September and that faster did nothing against. He could do two things at that rate, alternating, all morning. He could not do two in the same instant, however he pictured them.
+He did it in the kitchen early on a Sunday morning, before anyone else was up, because the kitchen had the clock. Feather up, light on, feather up, light on, as fast as he could make the pictures, counting pairs while the second hand crossed from the twelve to the four. Twenty seconds. Thirty pairs. Sixty things, one after the other, at three a second, which was the pace: the rate at which a hand could move a wand, that he had found behind the shed in September and that faster did nothing against. He could do two things at that rate, alternating, all morning. He could not do two in the same instant, however he pictured them.
 
 He sat at the kitchen table and thought about it. He had told McGonagall in September that whatever was on the other side of the picture took pictures one at a time, and he had meant the rate. He had been more right than he knew. It took one picture at a time. Not two small ones. Not one big one with two things in it. One. He put it in the table under the pace, as the second thing he was sure was true about the channel and not about him, and found that he was pleased in a way he had not been since the page first turned on its own. Two facts since the bottle was not many. It was two more than the books had.
 
@@ -110,21 +142,19 @@ McGonagall came on the fourteenth with the fifth-year transfiguration text and, 
 
 She made a note and went on to the text, and they spent the afternoon on the chapter about conservation of mass, which Harry had read in August and had questions about that the chapter did not answer.
 
-Alice Fenwick's second letter came with the January summary. She wrote that her uncle had been killed in the war the year before Harry was born, and that this was why her family talked about Harry at all, and that she hadn't said so in the first letter because she hadn't wanted it to be the point. She sent drawings of the castle from four sides. He wrote back about the Prophet, which she also read, and asked what she thought of what was in it. Her answer, when it came in February, was the first account he had of the Prophet from inside the world it was written for.
-
-The rest of the month went on German, which was easier than Russian, and on the BBC, which asked through Pell whether it might make a film about him. He said yes, with conditions, and noticed that the producer agreed to all of them too quickly.
+Alice Fenwick's second letter came with the January summary. Her uncle had been killed in the war the year before Harry was born, which was why her family talked about Harry at all, and she hadn't said so the first time because she hadn't wanted it to be the point. She sent drawings of the castle from four sides. He wrote back about the Prophet and asked what she thought of what was in it.
 
 * * *
 
 Dumbledore came on the last Saturday in January, and Harry had the rules ready.
 
-"I've read what Professor McGonagall sent me," he said when they were sitting down. "Section nine. The Chief Warlock may require a hearing before the full Wizengamot for any person held in custody without one. That's you."
+"I've read the rules you brought me," he said when they were sitting down. "Section nine. The Chief Warlock may require a hearing before the full Wizengamot for any person held in custody without one. That's you."
 
 "It is."
 
 "Sirius Black has been in Azkaban for two years and three months without a hearing. I'd like you to require one."
 
-Dumbledore was quiet for a while. He did not look surprised, and Harry had not expected him to. He had let the rules be sent, in a biscuit tin, by way of McGonagall, and a man did not do that by accident.
+Dumbledore was quiet for a while. He did not look surprised, and Harry had not expected him to. He had brought the rules himself, knowing what was in them.
 
 "No," he said.
 

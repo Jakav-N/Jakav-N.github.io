@@ -138,7 +138,7 @@ He had a theory about wands by then and had been carrying it since the galleon a
 
 McGonagall was quiet for a while.
 
-"That is roughly what the oldest texts say," she said. "Nobody has said it as plainly in three hundred years. How would you test it?"
+"That is roughly what the oldest texts say," she said. "How would you test it?"
 
 He told her. He would need to hold a wand and do the feather, and see whether the picture needed was smaller, and whether the feather went where it was sent. Then the light. Then the lock. The same four things, with and without, and the counts beside each other.
 
@@ -146,7 +146,7 @@ He told her. He would need to hold a wand and do the feather, and see whether th
 
 "I know."
 
-"Then we understand each other," said McGonagall, and wrote something in her own notes, which she had started making in September and had stopped pretending she wasn't.
+"Then we understand each other," said McGonagall, and wrote something in her notes.
 
 * * *
 

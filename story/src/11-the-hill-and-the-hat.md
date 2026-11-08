@@ -62,9 +62,9 @@ McGonagall's spectacles caught the light. "Explain."
 
 He explained. He told her about the bottle, the cupboard, the counts, the feather, the page that turned itself, the light that would not hold steady, and the bag of sugar that would not move. He told her about the pace: that a picture made faster than a hand could move a wand did nothing at all, however exact, and that one made at the pace of a hand did what the picture said. He told her that whatever was on the other side of the picture took pictures one at a time and at a fixed rate, that the rate was not his, and that this was the only thing he had found in nine months that he was sure was a fact about magic rather than a fact about him.
 
-She did not say anything for a long time by his clock, and a respectable time by the room's.
+She did not say anything for a while.
 
-"Mr Potter," she said at last, "I have taught transfiguration for twenty-seven years. I have read everything written on the theory of the subject in English and most of what has been written in Latin. I have never heard anyone describe the pace of casting as a property of the magic rather than of the caster. It is simply assumed to be the caster. It has always been assumed to be the caster."
+"Mr Potter," she said at last, "the books treat the pace of casting as a property of the caster. A quick wand, a slow wand. They do not consider the other possibility." She was quiet for a moment. "I should like to see your counts."
 
 "Has anyone tested it?"
 

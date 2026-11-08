@@ -214,8 +214,11 @@ Avoid, every time:
 - Scenes that end by stating their theme.
 - Anything in the neighbourhood of computer security. Harry's later software work is described at the level of "wrote a program for" and "sold it."
 - Harry writing anything down for his own benefit. He dictates for others, or remembers.
+- Adults marvelling at Harry. No "I have never heard anyone describe," no "nobody has said it so plainly in three hundred years," no "the most interesting thing to come into the department in my time." By now his competence sits within the range of what the people around him expect, as Zorian's does; an adult shows they have noticed by what they do next (a harder question, a note made, a lesson changed), once, in passing. The narrator does not do it either: no "the first letter the Lancet had ever printed from a three-year-old."
 
 ## 7. Working rules for the outlines and chapters
+
+**Main line and side-pursuits.** The chapters spend their time on the main line: magic (the table, the wandless practice, the pace and one picture at a time, what a wand is, wards, the rootless spells); the night and his parents (the file, Sirius, Pettigrew, Remus, Petunia's memories); Dumbledore and the wizarding world (the Prophet, the Wizengamot, Malfoy, Hogwarts through McGonagall, Hagrid and Alice Fenwick); and the Dursleys. Mathematics, physics, languages, the correspondence, the muggle press, inventions, the trust and the muggle fame belong in the month outlines, where they stay dense, and reach the chapters as a summary sentence or a background beat, not as scenes, except where they touch the main line (money for books and a wand; fame as a tool for the hearing). Chapter 12 had the balance wrong. From chapter 13 the proportion is about four parts main line to one part everything else.
 
 - Outlines are written in ordinary sentences, with names, the way the chapters are. Compressed notation, headings used as sentences, and semicolon lists train the wrong habits and they show up in the prose.
 - Outlines come in blocks of ten chapters. Write the months first, without reference to chapter boundaries, each with a week-by-week block of what Harry is working on across every front he has; then derive the chapter map and beat sheets from the months and put them after the months in the file. The months should hold far more than the chapters can.

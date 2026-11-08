@@ -34,3 +34,9 @@ nav a:hover { text-decoration: underline; }
 .note.small { font-size: 0.85rem; margin-top: 3rem; }
 ol.chapters { padding-left: 1.5em; }
 ol.chapters li { margin: 0.4em 0; }
+
+h3 { font-weight: normal; font-size: 1.05rem; margin: 2rem 0 0.8rem; color: var(--muted); }
+table { border-collapse: collapse; margin: 1.2em 0; font-size: 0.92rem; width: 100%; }
+td, th { border-bottom: 1px solid var(--rule); padding: 0.4em 0.6em; text-align: left; vertical-align: top; }
+ul { padding-left: 1.3em; } li { margin: 0.3em 0; }
+main.outline p + p { text-indent: 0; margin-top: 0; }

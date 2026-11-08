@@ -55,9 +55,33 @@ def convert(md: str):
             flush()
             title = line[2:].strip()
             out.append("<h1>" + inline(title) + "</h1>")
+        elif line.startswith("### "):
+            flush()
+            out.append("<h3>" + inline(line[4:].strip()) + "</h3>")
         elif line.startswith("## "):
             flush()
             out.append("<h2>" + inline(line[3:].strip()) + "</h2>")
+        elif line.startswith("|"):
+            flush()
+            cells = [c.strip() for c in line.strip().strip("|").split("|")]
+            if all(set(c) <= set("-: ") for c in cells):
+                continue
+            tag = "th" if not out or not out[-1].endswith("</tr>") else "td"
+            if tag == "th" and out and out[-1].startswith("<table"):
+                tag = "td"
+            row = "".join(f"<{tag}>{inline(c)}</{tag}>" for c in cells)
+            if out and out[-1].endswith("</tr>"):
+                out[-1] = out[-1] + f"<tr>{row}</tr>"
+            else:
+                out.append(f"<table><tr>{row}</tr>")
+            # close later
+        elif line.startswith("- "):
+            flush()
+            item = "<li>" + inline(line[2:].strip()) + "</li>"
+            if out and out[-1].endswith("</ul>"):
+                out[-1] = out[-1][:-5] + item + "</ul>"
+            else:
+                out.append("<ul>" + item + "</ul>")
         elif line.strip() in ("* * *", "***", "---"):
             flush()
             out.append('<hr class="break">')
@@ -67,6 +91,7 @@ def convert(md: str):
         else:
             para.append(line.strip())
     flush()
+    out = [o + "</table>" if o.startswith("<table") else o for o in out]
     return title, "\n".join(out)
 
 
@@ -103,7 +128,7 @@ INDEX = """<!DOCTYPE html>
 <ol class="chapters">
 {items}
 </ol>
-<p class="note small">Working notes: <a href="outline/bible.md">story bible</a> &middot; <a href="outline/01-10.md">outline, chapters 1&ndash;10</a> &middot; <a href="outline/11-20.md">outline, chapters 11&ndash;20</a></p>
+<p class="note small">Working notes: <a href="outline/bible.html">story bible</a> &middot; <a href="outline/01-10.html">outline, chapters 1&ndash;10</a> &middot; <a href="outline/11-20.html">outline, chapters 11&ndash;20</a></p>
 </main>
 </body>
 </html>
@@ -124,6 +149,12 @@ def main():
         next_html = f'<a class="next" href="{next_}.html">Next &rarr;</a>' if next_ else "<span></span>"
         (OUT / f"{stem}.html").write_text(
             PAGE.format(title=html.escape(title), story=STORY_TITLE, body=body, prev=prev_html, next=next_html),
+            encoding="utf-8",
+        )
+    for f in sorted((ROOT / "outline").glob("*.md")):
+        title, body = convert(f.read_text(encoding="utf-8"))
+        (ROOT / "outline" / f"{f.stem}.html").write_text(
+            PAGE.format(title=html.escape(title or f.stem), story=STORY_TITLE, body=body, prev="<span></span>", next="<span></span>"),
             encoding="utf-8",
         )
     items = "\n".join(f'<li><a href="chapters/{stem}.html">{inline(title)}</a></li>' for stem, title, _ in entries)

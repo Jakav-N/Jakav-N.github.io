@@ -154,33 +154,34 @@ Harry's standing limits, which he treats as an engineering problem: time (sleep;
 
 ## 6. Style rules
 
-The author's standing instruction: write it like a human wrote it, in the manner of HPMOR. Concretely:
+Two reference texts, and the register sits between them: *Harry Potter and the Methods of Rationality* for the shape of the reasoning and the arguing dialogue, and *Mother of Learning* for the plainness of the prose and the closeness to the character's own practical voice. When in doubt, lean toward the second. The author's standing instruction is that it should read like a person wrote it.
 
-- Long clear sentences with subordinate clauses that carry reasoning. Vary length. Paragraphs can run.
-- Reasoning is shown as reasoning: premises, the inference, what would change his mind. Not announced ("Harry reasoned that"). Not summarised afterward.
-- Dialogue argues. Characters answer the question that was asked, or visibly do not. Attribution is plain ("said"). Double quotes.
-- The narrator is dry, occasionally direct, never arch. One narrator aside per scene at most.
-- Direct thought in italics, sparingly. No italics for emphasis more than two or three times a chapter.
-- Understatement over intensity. The sad thing is said once and left.
-- British vocabulary for the setting (nappy, cot, pushchair, jumper, crisps, lavatory). Spelling British.
-- Summary is allowed and useful: months can pass in a paragraph if the paragraph is specific.
+What the register is:
+
+- **Plain diction.** Say the thing. A figure of speech is rare and concrete (a hand that sets off like a boat leaving harbour), never decorative. No lyrical cadences, no sentences built for sound.
+- **The character's own voice.** Thought is rendered in free indirect style, in Harry's idiom, including the questions he asks himself and his casual reactions. Casual beats ("Oh well." "Huh." "That was useful to know.") are fine. Portentous fragments ("Something shifted.") are not. In chapters 1 and 2 he is pre-verbal and the narrator has to supply the words; from chapter 3 he has them, and from chapter 4 he thinks in full sentences and the narration should lean on that heavily.
+- **Reasoning laid out as reasoning.** The puzzle, the candidate explanations, what would tell them apart, what he will do next. His hedges are his own ("probably," "he couldn't be sure"). Conclusions are marked plainly. Not announced ("Harry reasoned that"), not summarised afterwards.
+- **Summary in plain voice.** Weeks can pass in a sentence ("A month went by with little to show for it"), as long as the sentence is specific.
+- **Dialogue carries scenes** whenever there is anyone to talk to. People answer the question asked, or visibly do not. Tags are plain ("said"). Small comic misalignments between what people mean and what they hear. Double quotes.
+- **Minimal narrator.** No aphorisms about the human condition, no "it is worth bearing in mind," no stepping outside the story to comment on it. One wry observation per scene at most, and it should be one Harry could have made.
+- **Paragraphs vary.** Short ones are reactions or turns, not drama.
+- **Understatement.** The sad thing is said once and left. Emotion is practical ("Being repeatedly stabbed in the chest hurts").
+- British vocabulary and spelling for the setting (nappy, cot, pushchair, jumper, lavatory).
 
 Avoid, every time:
 
-- Short clauses chained with "and" for rhythm.
-- Stating the obvious or restating what a scene has shown.
+- Short clauses chained with "and" for rhythm. This was the main fault of the first drafts of chapters 1 and 2; one "and" joins two things, and a third thing gets its own sentence.
+- Stating the obvious, or restating what a scene has shown.
 - "It wasn't X. It was Y." and its relatives.
-- Single-word or fragment sentences for punch. Paragraph-ending one-liners more than once a chapter.
+- Fragment sentences for punch; paragraph-ending one-liners more than once a chapter.
 - "Something shifted." "Suddenly." "A testament to." "In that moment."
-- Reflexive tricolons. Rhetorical questions in narration. Present-participle tails ("he said, his voice breaking").
+- Reflexive tricolons. Rhetorical questions in narration (Harry may ask himself questions; the narrator may not ask the reader any). Present-participle tails ("he said, his voice breaking").
 - Coining a term, or capitalising one of Harry's private concepts into a Name. Ask the author first if a coinage seems needed.
 - Overloading an existing word with a special meaning it does not have.
-- Emphasis everywhere. Therapy-speak. Characters explaining their own feelings in abstractions.
+- Emphasis everywhere; italics for stress more than two or three times a chapter. Therapy-speak. Characters explaining their own feelings in abstractions.
 - Scenes that end by stating their theme.
 - Anything in the neighbourhood of computer security. Harry's later software work is described at the level of "wrote a program for" and "sold it."
 - Harry writing anything down for his own benefit. He dictates for others, or remembers.
-
----
 
 ## 7. Working rules for the outlines and chapters
 

@@ -1,0 +1,147 @@
+# Chapter 5: The Little Whinging Branch Library
+
+It took him six attempts and seventeen days to get into a building that was half a mile away and open to the public six days a week.
+
+The first attempt was the obvious one. On the Tuesday after he finished the house he asked Petunia, at the sink, whether they could go to the library, because it was on the High Street and it was free. She asked what he wanted with a library. He said books. She said he'd had books, and that was the end of it. He had not expected anything else; the point of asking had been the same as in March, to be sure of what did not work before spending effort on what might.
+
+The second was Dudley. There was a poster in the window at Tesco on the Thursday for Saturday Story Hour at the library, with puppets, and Harry pointed it out to Dudley from the trolley while Petunia was choosing cereal, and said that the puppets would be at the library on Saturday, and Dudley, who liked puppets, wanted to go. Petunia said they'd see. Harry had learned the meaning of *we'll see* in his first month in the house.
+
+The third was Dudley again, on the Saturday morning, reminded. Vernon had golf, Petunia had the Hoover, and nobody was going anywhere.
+
+The fourth was Yvonne. Yvonne came on Wednesdays with her boy, who was a year older than Dudley and went to Story Hour, and Harry waited until the boy was within earshot of the two women and asked him about the puppets. The boy, pleased to be asked, said there was a crocodile and a lady who did all the voices, and Yvonne said over his head that Petunia really should take Dudley, it was lovely, Mrs Ashworth did the voices herself, and Petunia said she might. That was better than *we'll see*. It was not a yes.
+
+The fifth attempt worked, and was a failure. On Saturday the fourteenth Petunia took Dudley to Story Hour and left Harry at Mrs Figg's. He sat on Mrs Figg's floor with Mr Tibbles and a Christie he had already read, and considered how he had managed to move the family half a mile toward the books and leave himself behind, and concluded that he had solved the wrong problem. Getting Petunia to the library had been the easy part. The hard part was being worth bringing.
+
+The sixth attempt was the coat. On the Thursday he said to Petunia, in Dudley's hearing, that Dudley might like Harry to come on Saturday to carry Dudley's coat, so that Dudley's hands were free for the puppets. Dudley, who had never had anyone to carry his coat, wanted that very much. Petunia looked at Harry for a moment with the expression she used when she suspected him of something and could not say what, and then, because arranging Mrs Figg was more trouble than putting a second child in the car, said he could come if he behaved.
+
+He had not told a lie at any point. He noticed that about himself, afterwards, and was not sure yet why it mattered to him, only that it did.
+
+* * *
+
+The library was a low brick building between a bank and a shoe shop, and it smelled of paper and floor polish and the rain on people's coats. Harry stood inside the door with Dudley's coat over his arm and took it in.
+
+It did not take long. There was a desk, and behind the desk a woman in her forties with grey in her hair and a cardigan the colour of mustard. There was a children's corner with cushions and small chairs and a rail of picture books, where Petunia was steering Dudley. There was a wall of fiction, and beyond it, in long bays that went to the back of the building, the nonfiction. On the end of the first bay there was a chart, and Harry read it in two looks. The books were arranged by number, the numbers meant subjects, and the chart said which. Five hundred was science. Six hundred was technology. Nine hundred was history. Three hundred was something called social sciences, which the chart broke down further into things like economics and law and education, and he filed the whole of it and understood that he was standing in a building that had been sorted for him in advance by someone who had thought about it carefully, which was a thing that had never happened to him before.
+
+"Go and look at the picture books," Petunia said, not looking at him, and sat down on a small chair beside Dudley with her handbag on her knees. She did not want to watch him. She wanted, he understood, to be somewhere he was not. The children's corner would do, and so would he, provided he was quiet.
+
+He walked to the five hundreds.
+
+The shelves were higher than he was. There was a wooden stool on castors at the end of the bay, which he had seen the mustard woman push with her foot, and he pushed it with both hands until it was where he wanted and climbed onto it. The thickest book on the shelf at the height of his face was a general guide to science, nine hundred pages, from 1972. He took it down with both arms, sat on the stool with it open across his knees, and began.
+
+A page took him about ten seconds of looking, and a second and a half of turning. He had not finished the book when Story Hour ended, nor nearly. But he had three hundred pages of it, and a thin book from the same shelf with photographs of Jupiter taken by a spacecraft that had gone past it in 1979, which the nine-hundred-page book did not know about, because it had been written before. He had never had two books disagree before. He found that he liked it very much.
+
+The woman in the mustard cardigan passed the end of the bay twice while he was there. The first time she saw a very small boy with a very large book in his lap and thought, as anyone would, that he was copying someone. The second time she stopped for a moment, because he had a different book now, and because his eyes were doing something she could not account for. They were not going along the lines. They were going about the page in small jumps, a dozen of them, and then he turned the page. She watched him do it twice, and then Story Hour was ending and a child was crying somewhere and she went to see to it, and did not think about it again until Tuesday.
+
+* * *
+
+Petunia found the Tuesday session because Dudley had liked the puppets and because Yvonne went on Tuesdays. So on the Tuesday they went again. Harry carried the coat, went to the five hundreds, finished the science book, and started on the atlas, which was a different kind of reading, nearly all looking, and which told him where everything was.
+
+There was a man in the armchair by the periodicals. He had been there on Saturday too, reading a magazine with a red top, and he was there now with the same magazine or another like it, a man of seventy or so in a tweed jacket with a face that had spent a long time outdoors. He had been watching Harry over the top of the magazine for some minutes, with the expression of a man who is enjoying something and does not want it to stop. When Harry came past him with the atlas held against his chest in both arms, the man said, in the voice adults use for jokes they do not expect to be understood:
+
+"Any good?"
+
+Harry had been thinking, since Saturday, about how to begin. He had decided that it would need to be with someone who read, because someone who read would know what he was looking at, and that it would need to be small, so that he could stop. He stopped walking.
+
+"The atlas is fine," he said. "The science one's out of date on Jupiter. There's a book over there with photographs from a spacecraft that went past in 1979, and the big one doesn't know about them. But the chemistry's all right, as far as I can tell."
+
+The man laughed. It was a real laugh, short, the laugh of someone who has been told a good joke, and then it stopped, because Harry had not laughed, and was standing there holding the atlas and looking at him, and nothing in his face had suggested a joke. The man looked at him for a long moment. Harry watched him look. There was a great deal of time in which to watch, and he used it. He saw the man's face go from amusement to something more careful, saw him decide to say something, and saw him decide not to.
+
+Petunia's voice came from the children's corner. Dudley wanted his coat.
+
+"I have to go," Harry said, and went. The man watched him all the way to the door.
+
+* * *
+
+On Saturday the man was in the armchair again, and had clearly been thinking.
+
+He let Harry get settled on the stool with a book first. It was a medical dictionary, which Harry had chosen because people died of things, and he wanted to know what things. Then the man got up and came and stood at the end of the bay, with his hands in his jacket pockets, and said, "Here's one for you, then. My tea goes cold on the windowsill every morning. Never once gone hot on its own. Why's that?"
+
+Harry had read the chapter on that. He had read it on the first Saturday and thought about it for most of a subjective week, because it had seemed to him at first that it must be wrong, and then that it was the most interesting thing in the book. He put a finger in the dictionary to keep his place.
+
+"Because there are more ways for it to be cold than hot," he said. "The heat's in the tea, and it could stay in the tea, but there are only a few ways for all of it to stay in one place and an enormous number of ways for it to be spread out through the room. So it spreads out. Not because it has to. Because if you count the ways, nearly all of them are spread out, and the tea is going to end up in one of the ways there are most of. The book says nothing stops it going the other way. It's just that you'd have to wait longer than there's been a world."
+
+The man did not say anything.
+
+"It's in that one," Harry said, pointing at the nine-hundred-page book. "Chapter seven. I can show you the page if you want."
+
+"How old are you?"
+
+"Two. Nearly three."
+
+The man said, "Right," in the tone of someone putting down something heavy. He stood there a while longer, then went back to his chair, and did not read his magazine. Behind the desk the woman in the cardigan was watching the two of them. Harry saw that she had heard some of it, that she did not know what to make of it, and that she was not going to come over. Not yet.
+
+* * *
+
+On the last Tuesday in May he read a textbook about psychology.
+
+He had gone looking for it on purpose. He had known for a while what he was, in the sense that the Mail had a word for it and used it about children who played the violin on television, but he had not known what the word meant to the people whose job it was to know, and the textbook told him. It told him about the tests, what they measured and how, and he could see from the sample questions that he would go off the top of any of them, and that the people giving the test would then not know what they had. It told him about a man in America who had followed a thousand clever children for fifty years and found that most of them did well enough. It told him, in a shorter passage, about the children at the very top, a long way above the rest, and about the woman who had studied them and what she had found, which was that the cleverest children were the loneliest, and that the loneliness did them more harm than anything else, because there was nobody their own age who could talk to them and nobody older who thought they needed talking to. He read that passage three times. He did not think it was wrong. He thought it was describing something that had already happened to him and that he had been too busy to notice, and that the difference between him and those children was that he had never expected anyone to talk to him, and so had spent the time on the sounds instead.
+
+It also told him, in the chapter on development, what happened to children whose homes were judged unfit. He read that twice as well, and took the numbers from it, because he had a decision to make and the decision needed numbers.
+
+In four visits he had read eight books all the way through and parts of a dozen more, and he knew exactly how far into each he had got. It was more than he had read in his life before May. It was three hours a week, against the twelve a day he could have used, in a building that shut at five and would not lend him anything, because lending needed a card and a card needed an adult, and Petunia was not going to put her name to a book about thermodynamics for a child of two.
+
+It was not enough. He had known it would not be, and had come anyway, because something is more than nothing and because he had needed to see the inside of the building to know what he was choosing between. Now he had seen it. He went home with Dudley's coat over his arm and that night, in the cupboard, he began.
+
+* * *
+
+It took him three nights, which was about three hours of the house's time and twenty-five days of his own, and he did not hurry it, because it was the first decision he had ever made that could not be taken back.
+
+He laid out what he could do.
+
+He could do nothing. He could go on carrying the coat, read for three hours a week, keep his head down, and wait to be older. He gave this a very high chance of working and a very low value. Three hours a week was a book or two. He had no idea how long he would have to wait to be old enough for the Dursleys to let him out of their sight, and every month of waiting was a subjective decade spent on the sounds of a house he already knew by heart.
+
+He could run away. He was two foot ten. He would be found inside a day, by a policeman or a shopkeeper or the woman from number seven, and brought back to a house that would then know he was capable of running, and he would lose the library and gain a lock. He put the chance of it going any other way at nothing worth counting.
+
+He could tell the Dursleys everything. Not the small version he had tried in March, but all of it: that he could read, that he had read the house, that he needed more and would be no trouble. He had been listening to Petunia through the floor for five months and he thought he understood what she was afraid of, and it was not the cost of books. She was afraid of the thing that moved bottles. She had been afraid of it since the first week, and she was afraid of it in a way that had a shape, as if she had seen it before, somewhere, and knew where it led. Everything else about him, the reading and the watching and the stillness, she filed in the same drawer as the bottle, and the drawer was marked with whatever had killed his parents. He did not think that kind of fear could be negotiated with. He gave telling them one chance in ten, and the other nine were the cupboard and no library at all.
+
+He could tell someone outside the house. Not everyone; one person, who read, and who could pass it on to people who could do something. That would bring attention, testing, and probably the newspaper, and after that the Dursleys could not shut him in a cupboard without someone asking where he was. He went over what could go wrong. The Dursleys would be angry, but their anger would have a ceiling once there were people watching. He might be taken away. The textbook said that children in homes like this one were mostly left where they were with what it called support. The house was clean and he was fed. He put being taken away at perhaps one in five, and spent a long time on whether one in five of an unknown place was better or worse than the certainty of this one, and decided that it was not a reason to stay. And the attention might reach whatever the Dursleys were afraid of. He did not know what that was. He knew only that Petunia's fear fastened on the thing he could do, so the rule was simple and absolute. The thing he could do stayed hidden, whatever else he told anyone. If anyone tested him in ways that might show it, he would refuse, say that he was refusing, and not say why.
+
+He could not do it alone and in public, because he could not leave the house alone, which left him the one person, at the library, with Petunia occupied.
+
+He chose that, and then, because it seemed to him the fair thing and because her answer would tell him something, he decided to ask Petunia once more first, properly, with nothing held back except the one thing.
+
+* * *
+
+He did it at breakfast on the Friday, with Vernon gone and Dudley at his cereal.
+
+"Aunt Petunia."
+
+She was at the sink. She did not turn round.
+
+"I can read," Harry said. "I've been able to since April. I've read everything in the house, and the encyclopaedia, and the dictionary, and all the books at the library I could reach in the time. I'm not making it up and I can show you. I need books. A lot of them. I need to go to the library more than twice a week, or for you to take some out for me on a card. I'll be no trouble about it. I'm asking you first, before I ask anyone else."
+
+Petunia turned round.
+
+Her face had gone white, properly white, the way faces go in books and he had not seen go in life. She looked at him for a long time, by either clock, and then she said, quietly and without any shake in it at all:
+
+"You'll say nothing of this. To anyone. Do you hear me? Nothing. Or it's the cupboard, and no library, and nothing, ever again."
+
+"I hear you," Harry said, which was true.
+
+She turned back to the sink. He ate his toast. He had his answer. It was the one he had expected, and it had settled the larger question as well, the one he had not quite let himself put: whether, if he waited and behaved and gave them time, the Dursleys would ever give him what he needed. They would not. She had not asked how he had learned, or whether it was true, or why he wanted books; she had not said a word about the reading at all. She had heard *I'll ask someone else* and gone white, and everything she had said after that had been about keeping him in the house. He finished the toast, and was sorry, in a way he turned over for some time and could not quite account for, and then put it down.
+
+* * *
+
+On Saturday Petunia sat with Dudley in the children's corner and the woman in the mustard cardigan sat on a small chair with a crocodile on her hand, and Harry took a book from the nine hundreds and walked to the armchair by the periodicals.
+
+The man looked up. Harry opened the book, found the page, and read him a paragraph aloud. It was about the hand and the tool, and how the one had made the other and been remade by it in turn. He read it clearly in a child's voice. When he had finished he closed the book on his finger and told the man what he thought the paragraph meant, where it was right, and the one place where he thought the author had got ahead of his evidence.
+
+The man listened to all of it. Then he looked past Harry toward the desk and raised one hand. The woman in the cardigan, who had finished with the crocodile and had been watching them since the first sentence, came over.
+
+"I can read," Harry said to both of them, before either could speak. He had decided the order of it in the cupboard and he kept to the order. "I've been able to for about seven weeks. My aunt knows and has told me not to tell anyone. I'm telling you because I need books and I don't think there's another way to get them. I'd be grateful if you'd tell someone who can do something about it. A teacher, or the newspaper, or whoever you think. I'm not supposed to be talking to you. She's going to be very angry. Please don't let that stop you."
+
+The woman crouched down so that her face was level with his, which nobody had done before.
+
+"How old are you, love?"
+
+"Two years and ten months."
+
+She looked at the man. The man looked at her. Neither of them said anything, and in the silence the Story Hour ended behind them in a small stampede, and Petunia came round the end of the fiction shelves with Dudley by the hand and saw the three of them, the man and the woman and Harry with the book, and stopped as if she had walked into glass.
+
+"He copies things," she said. Her voice was high. "He doesn't understand them. He just copies."
+
+"He's just explained Boltzmann to me, madam," the man said. He said it quite mildly. "On Saturday he explained Voyager. I don't know what you call that where you're from, but where I'm from we don't call it copying."
+
+Petunia did not answer. She crossed the floor, took the book out of Harry's hands and put it into the woman's, took Harry's wrist, and walked both boys out of the building at a speed that made Dudley complain, and the door swung shut behind them, slowly, as doors did, and Harry watched the two faces through the glass for the whole of the time it took.
+
+Inside, Mrs Ashworth stood holding a copy of *The Ascent of Man* with a child's fingerprints on the cover, and looked at Mr Hobday.

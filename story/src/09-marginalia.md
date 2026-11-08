@@ -1,0 +1,113 @@
+# Chapter 9: Marginalia
+
+Dumbledore came back on the Friday evening with a trunk.
+
+It was a small trunk, old, with brass corners. He carried it up the stairs himself, set it on the floor of Harry's room between two stacks of Blackwell's, opened it, and stood back. There were eight books in it and a photograph.
+
+"These are what every child in my world is given at eleven," he said. "They are not good books. They are the books there are. When you have read them, which I imagine will not take long, tell me what you think of them, and I will bring more. I would ask you to keep them in this room."
+
+Harry had already taken out the top one. It was called *The Standard Book of Spells, Grade 1*, and it had a drawing on the cover of a wand with sparks coming out of it, and the sparks were moving.
+
+"Books that move," he said.
+
+"Pictures that move. The books, mostly, stay where they are put." Dumbledore reached past him and took out the photograph, which was in a plain card frame, and held it for a moment before he handed it over. "This is yours. I have had it since the week after. I did not know, until Tuesday, whether you were old enough for it. I am still not sure, and I have decided that it is not my decision."
+
+Harry took it.
+
+It was his parents. He knew his mother at once, from the shoebox and the swing, older now, with the red hair down past her shoulders and her head turned a little toward the man beside her, who was tall and untidy and wore glasses and had Harry's hair, exactly Harry's hair, and was laughing at something outside the frame. Between them, held up, in a jumper with a letter on it, was a baby of about a year, looking at the camera with great seriousness. And they were moving. His mother's hair lifted in a wind he could not feel. His father turned his head and said something to her, soundlessly, and she laughed, and looked down at the baby, and up at the camera, and his father looked at the camera too, and then it began again.
+
+He did not go through it at speed. He could have. He could have taken it in twenty looks and had it for ever, every frame of it, and he found that he did not want to. He wanted to sit on the floor of his room and watch it at the speed it was happening, which was the speed of the world, which meant that each time his mother turned her head it took her most of a minute of his, and he let it. Dumbledore stood by the door and did not say anything, and after a while went quietly down the stairs, and Harry did not hear him go.
+
+* * *
+
+He read the eight books by Sunday night, and then he read them again, slowly, over the following week, which was the first time since April that he had read anything twice.
+
+The second time was for the arguing.
+
+They were not good books. Dumbledore had been right about that, and had said it in the voice of a man who had been saying it at staff meetings for fifty years. The Standard Book of Spells was a list. Here was a thing you could do; here were the words you said to do it; here was the way you moved the wand, with a drawing of the wand moving; and then the next thing. There were sixty-one of them. Four had the name of the person who had first done them, with a date; the other fifty-seven did not. The book did not remark on this. Harry, who had spent a fortnight that spring learning why English spelling was the way it was, remarked on it a great deal. Where had the other fifty-seven come from? Who had decided that *Wingardium Leviosa* went with the swish and the flick and not with something else? The book did not know. The book did not seem to think it was a question.
+
+*Magical Theory* was worse, because it had the word in its title. He had expected, from the title, something like the encyclopaedia's article on Newton: a few principles from which the rest followed. What he got was a list of observations with the word *law* in front of some of them. Spells needed words and movement and intention, said Waffling, and then did not ask which of the three did what, or what happened if you had two without the third, or whether anyone had tried. Harry had tried. He had been trying since January with none of the three but the last, and he had a feather in a drawer that said Waffling was at best incomplete.
+
+*A Beginner's Guide to Transfiguration* said that changing one thing into another was a matter of will and visualisation, with a wand, and then spent two hundred pages on exceptions and never came back to what visualisation was or why a wand. *A History of Magic* recorded that the people who could do this had hidden themselves from everyone else in 1692 and gave the reasons, and did not mention anywhere in four hundred pages that the people they had hidden from had since been to the moon. *Fantastic Beasts* was a very good list of animals that did not say which were related to which, as if nobody had thought to ask. *Magical Drafts and Potions* was cookery with the chemistry left out. *The Dark Forces* was the only one of the eight that seemed to have been written by someone frightened of its subject, and he read it twice for that reason.
+
+Nobody kept data. That was the thing that stayed with him, when he had finished the second reading and sat on the floor among the eight books with his hands in his lap. Sixty-one spells, and not one table of how often each of them failed, or for whom, or under what conditions. A science without a Bacon, let alone a Newton. He had read, that month, about how the muggle world had got from where this one was to where it was now, and it had taken three hundred years and had begun with people writing things down. He began, that night, to write things down, in the only place he had, which was his head: every spell in the eight books, with its words and its movement and its effect and its inventor if it had one and the page it was on, in a table that by the end of the week had four columns and sixty-one rows and that he could see, when he shut his eyes, as clearly as the kitchen clock.
+
+* * *
+
+The feather came out of Petunia's duster. He took one on the Monday while she was at the shops, shut his door, put it on the floor, and sat down in front of it.
+
+He knew what he was doing now, which was the difference. For five months in the cupboard he had been pointing a thing he had no name for at a light bulb and counting. Now he had the name, and he had a book that described, in a drawing with little arrows, exactly what happened to a feather when the thing was done properly with a wand and two words: it rose, straight up, and hung. He did not have a wand or the two words. He had the picture. He made it the way he had learned to make the bulb, every barb of the feather exact, the air under it, the rise, and put the feeling behind it. The feather lay on the carpet and did nothing.
+
+He had expected that. He had expected to need hundreds. He kept count, because he always kept count. On the fortieth attempt the feather twitched. On the ninetieth it lifted, an inch, for about a second, and lay down again, and he sat looking at it with his heart going at the slow heavy pace his heart went at and thought: *forty*. Not four hundred. The bulb had taken four hundred. The difference was that he knew what he was aiming at.
+
+By the Friday it was one in twenty. By the tenth of July it was one in five. He did it for half an hour morning and evening with the door shut, kept the counts, varied what he could vary, and found what he had found in the cupboard, which was that the picture mattered and the feeling mattered and nothing else did. He noticed, around the end of the first week, where he was getting the feeling from. In the cupboard it had been the night. Now, without his deciding it, it was the grey report, the fifteen million, the forty thousand a day. He sat with that for a while, because it seemed to him a strange thing to use and a stranger thing to have found himself using without noticing. He decided that it was all right, and that he would watch it.
+
+On the twentieth he tried something he had been meaning to try since the bulb. The picture took him about a second of the room's time to make, because he made it carefully; he had never tried to make it faster, because there had never been a reason to. He had two hundred seconds for every one of the room's. He made the picture in a fraction of that, complete and exact, the whole feather and the whole rise in what would have been a blink, and held it. Nothing happened at all. He tried again, slower. Nothing. He slowed it to about the pace a hand would take to swish and flick, and the feather rose.
+
+He tried it ten more times each way and the result did not change. He did not understand it. The picture was the same picture; he could hold it just as exactly at either speed; and at one speed it worked and at the other it did not, as if the thing on the other side could only take the picture in at a certain rate, like a tap. He put it in the table, in a fifth column he had not planned to have, and underlined it. It was the first thing in the table that had not come out of a book.
+
+* * *
+
+The glasses came on the twenty-eighth of June. They were round, because those were the frames the National Health Service gave children. He put them on in the optician's, and the clock on the wall had numbers, the optician's face had lines in it, and the shop sign across the road said what it said. He had thought the world was slightly furred at a distance, the way the encyclopaedia's older photographs were furred, and had assumed that was how the world was. Petunia drove him home without speaking and he looked out of the window the whole way at a street he had been down two hundred times and had never seen.
+
+He read faster with them. He could hold a page further off and take more of it in each look. A page went from eight seconds to five, and the turning of it was now most of the time.
+
+* * *
+
+Mrs Figg came round on the Saturday after Dumbledore's visit with a cake.
+
+She stood on the step with it in both hands and asked Petunia if she might come in, and Petunia, who had let a wizard and a psychologist and three television crews through that door in a fortnight, let her in too, and Mrs Figg sat on the sofa with Harry and put the cake on the table and did not seem to know what to do with her hands now they were empty.
+
+"I'm a friend of Professor Dumbledore's," she said. "He said I could tell you. I've been here two years. In Wisteria Walk. He asked me to keep an eye on you, and he asked me not to be too kind, so they'd keep sending you round, and I did what he asked, and I'm sorry for it. I've wanted to say that for a long time."
+
+Harry looked at her. He had worked most of this out in the week since Dumbledore had said *Sunday*, because there had to have been someone who told him about the cupboard, and there was only one house in Little Whinging he had ever been sent to. He found that he was not angry. He turned the fact over to be sure, and he was not. She had been a woman with a cardigan and four cats and an instruction, and she had read him the names of the cats for an hour on the worst winter of his life, and what else could she have done?
+
+"You read me the albums," he said. "In December. Nobody had talked to me for an hour before. I don't think you were doing what he asked very well."
+
+Mrs Figg's face did something, and she looked at the cake.
+
+"Mrs Figg," Harry said. "The cats. They look at people. Mr Tibbles sat on me the first day and looked at me for an hour. Cats don't do that. What are they?"
+
+She told him. They were part Kneazle, a kind of magical cat, clever, that could tell when someone was not to be trusted, and they had liked him from the first, which she had thought at the time was a good sign and had not been allowed to say so. It was the first magical creature anyone had ever described to him. He asked her questions about Kneazles for twenty minutes, and she answered what she could, and it was the longest conversation anyone had had with him in the house that was not an interview.
+
+* * *
+
+The rest of July assembled itself around him. He let it, and steered where he could.
+
+A solicitor called Pell came on the fourth, sent by Dr Whitlock, a thin man from Guildford with a loud tie who said he would do the work for nothing because it was the most interesting thing that had happened to his practice in twenty years and he was not fool enough to pretend otherwise. He brought a draft of something called a trust deed, which would hold the money that was starting to come in and spend it on what Harry needed, and he read it aloud, because Harry asked him to, and Harry stopped him in the fourth clause and said that the way it was written the trustees could decide what Harry needed without asking him, and was that what was meant? Pell looked at the clause for a while. Then he laughed, properly, and crossed it out with his pen. Harry decided that he would keep him.
+
+Pell brought the cassette recorder two days later, a flat grey thing with a microphone on a lead, because Harry had asked him how he could write things down when his hands could not keep up, and Pell had thought about it and said: don't. Talk. He had a typist. Harry sat at his desk that evening with the microphone in front of him and dictated, for the first time in his life, and it was the strangest hour he had spent since the cupboard, because speaking was the fastest way he had of getting anything out of his head and into the world and it was still so slow that he could compose and discard a dozen sentences in the time it took to say one. He said the sixty-one spells into it, with their columns. The typist in Guildford, Pell reported later, had asked whether it was for a story.
+
+A woman from social services came on the sixth and sat in the kitchen with a form and asked him questions, and he answered them, because they were questions and he did not lie. Did they feed him? Yes. Was he clean and warm? Yes. Did he have his own room? Yes, since the sixteenth of June. Where had he slept before that? In the cupboard under the stairs, since January. Were his aunt and uncle kind to him? No. Did they hit him? No. Was there anything he wanted to tell her? Only that he did not want to be moved, and that he thought it was better now, and that he would like her to write that down. She wrote it down. Petunia stood by the sink through all of it with her back to the room, and when the woman had gone Harry said to her back, "I'm sorry about this," and meant it, and she did not answer.
+
+On the ninth he was on television again, at nine o'clock on a Saturday night, live, on a programme that Vernon watched, and this time there was an audience. He sat on a sofa that was much too big, and the man with the Irish voice asked him questions, and the audience laughed at the answers. He did not understand at first why they were laughing, because he was not making jokes. Then he did understand, which was that the sight of him was the joke, the smallness and the seriousness together, and that it was not an unkind laugh, and he let them. He had a book. He read it through the applause. The man asked what it was, and he said. The man asked if it was any good, and Harry said that the author was wrong about something in the second chapter but put it right by the fifth. The laugh that came then went on for a very long time. He worked out on the drive home why, and filed it under things that people found funny that were not jokes, which was a file that was going to get large.
+
+A man came from Cambridge on the twelfth with a trunk of his own and a colleague and a great many tests, and tested Harry from nine in the morning until four, and went quiet somewhere around lunchtime and stayed quiet. He asked, at the end, whether Harry would like to come to Cambridge, where there were libraries, and Harry said he would like the libraries very much and would not like to spend his days on trains, and that a reader's ticket somewhere he could be driven to in half an hour would do more good than Cambridge, and the man from Cambridge thought about this and agreed, and wrote a letter.
+
+Three publishers came. He chose the one whose editor asked him how he had known when he had got a word right, before anyone had ever told him, which was the only question any of them had asked that he had had to think about. Over three evenings at the end of the month he dictated a short book for parents on how he had learned to read, with the subtitles and the pairs and the exceptions, and a method that anyone could use with a television and a patient afternoon. The typist in Guildford typed it. He read the typescript in an hour and marked eleven errors, and the publisher sent a cheque to the trust that made Pell sit down.
+
+Dudley came to his door every afternoon at four and was read to for twenty minutes. Petunia allowed it because it was educational. Dudley, who had hit Harry with a spoon on his first morning in the house and with an engine the following May, sat on the end of the bed and listened to stories about a bear with his mouth open, and by the end of the month could pick out twelve words on a page, and was so pleased with himself about it that Harry found he did not mind the spoon as much as he had.
+
+* * *
+
+His birthday was a Sunday, and it was the first one that was a day.
+
+He knew it was his birthday because he had read it off a certificate in April, and he had not expected anyone else to know. He came down to breakfast and there was a cake on the table. It was not Petunia's. It was lopsided and enormous and had been made by someone with very large hands, and there was a card propped against it in handwriting that sloped in every direction, and Dumbledore was in Vernon's chair with a cup of tea, as if he had been there for some time.
+
+The card said that Hagrid hoped Harry was well, and that he had known Harry's mum and dad, and that it was him who had carried Harry to his aunt's, and that Professor Dumbledore said he could come and see Harry soon, and that it was signed with lots of love.
+
+"I remember him," Harry said. "He has a beard. He was crying."
+
+"He usually is," said Dumbledore, "on your account. He has asked after you every week for two years." He reached down beside the chair. "I have brought you something, and I have been undecided about it for a month, and I have decided, as before, that it is not mine to decide."
+
+They were two books, old, with cracked spines, and Harry knew what they were before he had them open, because the titles were two of the eight in the trunk. Inside the cover of the first, in a round hand in green ink, was a name. *Lily Evans.* Under it, in the same hand, later, smaller, *L. Potter*.
+
+He turned the pages.
+
+She had written in the margins. Not everywhere; where she had something to say. Beside a passage on the theory of the Levitation Charm she had written *this is backwards, see p.112*, and on page 112, *no it isn't, I was wrong, see p.40*. Beside a list of ingredients she had written a different quantity and underlined it twice. She had corrected the author's Latin in three places. In the Potions book, on the inside back cover, there was a drawing in pencil of a very round man with a moustache like a walrus and a waistcoat straining at its buttons, labelled, with an affection that was also a joke, *Professor S.*, and under it, in a different, spikier hand that was not hers, *you've made him too thin*.
+
+Harry sat with the books in his lap for a long time by either clock, and then said, "Thank you," and Dumbledore inclined his head and did not say anything, which was the right thing.
+
+Mrs Figg came at eleven with a card from the cats. Petunia, at lunch, put a paperback beside his plate without a word; it was a children's book she had bought at Tesco without reading the title, and he had read it in May, and he thanked her and meant it, and she said "Yes, well," and went to the sink. Vernon gave him a pound coin, which was new that year and which he examined with interest. Dudley gave him a drawing of a dinosaur, and looked at it, and took it back.
+
+That night he went through the day, and it was the first time in his life that a birthday had been something to go through. He kept the cake and the card and the pound and the dinosaur. He kept his mother's hand in green ink, saying she had been wrong, and the other hand that was not hers saying that the professor was too thin. He kept all of it, and lay in the dark with the night still a long way from over, and found that he did not, for once, want to spend it on anything else.

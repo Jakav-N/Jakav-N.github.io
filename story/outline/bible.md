@@ -185,7 +185,7 @@ Avoid, every time:
 
 ## 7. Working rules for the outlines and chapters
 
-- Outlines come in blocks of ten chapters, organised by month, dense enough that far more happens than the chapters can hold. Every week Harry is working on something across every front he has.
+- Outlines come in blocks of ten chapters. Write the months first, without reference to chapter boundaries, each with a week-by-week block of what Harry is working on across every front he has; then derive the chapter map and beat sheets from the months and put them after the months in the file. The months should hold far more than the chapters can.
 - Each month entry records: his age and state; what he is working on (by project); dated events; the Dursleys; Mrs Figg and the wizarding side; what the muggle world is doing that reaches him; what the chapters take from it.
 - Chapters are about 3,000 words. Write no more than two chapters ahead of the author's reading position unless told otherwise.
 - When the author redirects, update the outlines to match and delete what was superseded. No notes about what is not being done.

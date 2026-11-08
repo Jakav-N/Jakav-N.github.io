@@ -44,7 +44,7 @@ He had been reading twelve hours a day since Tuesday, in the cupboard and then i
 
 The question was the one he had been carrying since the library: how big was the world, what was wrong with it, and how much.
 
-Dr Whitlock had brought him the answer to the first part, because he had asked her for something true about the world and she had taken him at his word. It was a report from an organisation in Geneva, grey, with tables. The tables said how many children died each year before they were five, where, and of what. The number was a little under fifteen million. He read it, did the division, and read it again. Forty thousand a day. Seventeen hundred an hour. He had been in the room with the report for an hour. He sat for a while with that.
+Dr Whitlock had brought him the answer to the first part, because he had asked her for something true about the world and she had taken him at his word. It was a report from an organisation in Geneva, grey, with tables. The tables said how many children died each year before they were five, where, and of what. The number was a little under fifteen million. He read it, did the division, and went over the tables again in his head. Forty thousand a day. Seventeen hundred an hour. He had been in the room with the report for an hour. He sat for a while with that.
 
 Then he did a thing that he would do many times afterwards and that he did for the first time that evening without quite knowing he was doing it: he tried to feel it, found that he could not, and looked at the fact that he could not.
 

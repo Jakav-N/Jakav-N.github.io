@@ -1,0 +1,36 @@
+:root {
+  --bg: #fbf8f1;
+  --fg: #23201c;
+  --muted: #6b655c;
+  --rule: #d9d2c4;
+  --link: #5a3e1b;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #15140f; --fg: #e4ded2; --muted: #9a927f; --rule: #332f27; --link: #d6b27a; }
+}
+html { background: var(--bg); color: var(--fg); }
+body {
+  margin: 0;
+  font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 1.125rem;
+  line-height: 1.65;
+}
+main { max-width: 36em; margin: 0 auto; padding: 1.5rem 1rem 4rem; }
+h1 { font-weight: normal; font-size: 1.6rem; margin: 2rem 0 2rem; line-height: 1.25; }
+h2 { font-weight: normal; font-style: italic; font-size: 1.2rem; margin: 2.5rem 0 1rem; }
+p { margin: 0 0 1em; text-align: left; }
+main p + p { text-indent: 1.4em; margin-top: -0.35em; }
+blockquote { margin: 1em 2em; color: var(--muted); }
+hr.break { border: 0; text-align: center; margin: 2em 0; }
+hr.break::after { content: "\2042"; color: var(--muted); letter-spacing: 0.3em; }
+a { color: var(--link); }
+nav.top, nav.bottom { max-width: 36em; margin: 0 auto; padding: 1rem; font-size: 0.95rem; }
+nav.top { border-bottom: 1px solid var(--rule); }
+nav.bottom { display: flex; justify-content: space-between; border-top: 1px solid var(--rule); }
+nav a { text-decoration: none; }
+nav a:hover { text-decoration: underline; }
+.index h1 { font-size: 2rem; }
+.note { color: var(--muted); }
+.note.small { font-size: 0.85rem; margin-top: 3rem; }
+ol.chapters { padding-left: 1.5em; }
+ol.chapters li { margin: 0.4em 0; }

@@ -1,0 +1,191 @@
+# Story bible
+
+Working title: *Harry Potter and the Speed of Thought* (placeholder until the author picks one).
+
+Hundred chapters of about 3,000 words. Roughly 35 before Hogwarts. Close third person on Harry, with short titled interludes from other points of view. Written in the register of *Harry Potter and the Methods of Rationality*: reasoning shown as reasoning, dialogue that argues, a dry narrator, understatement, comedy from the gap between how Harry's mind works and how everyone expects a child's to.
+
+This file holds what must stay fixed. The block outlines (`01-10.md` and so on) hold what happens month by month. When something here is superseded, replace it; do not annotate it.
+
+---
+
+## 1. The premise, exactly
+
+Everything is as in canon up to the night of 31 October 1981, except the rules of magic in section 4.
+
+That night, the combination of Lily's sacrifice and the rebounding Killing Curse left Harry's brain running about two hundred times faster than a human brain runs. Nothing else about him changed. It cannot be replicated, cannot be undone, and does not fade. It is the one unrealistic thing in the story; everything downstream of it is worked out as honestly as possible.
+
+What "the brain only" means in practice:
+
+- **Thinking, perceiving, remembering, deciding** run at 200x. Subjectively, the world moves at one two-hundredth of its speed.
+- **The body is normal.** Muscles, bones, growth, hormones, digestion, the inner ear, the retina's chemistry, the cochlea's mechanics, the spinal reflexes: all on body time. He is a small child with a small child's body, and later an eleven-year-old with an eleven-year-old's.
+- **Reaction time** is better than normal but not superhuman: roughly 150 ms where an adult's is 250, because most of a reaction is transduction and muscle, not thought. He is very hard to surprise and only slightly hard to hit.
+- **Eyes** are limited by saccades (three or four a second) and by acuity. Each fixation is about fifty subjective seconds of an unchanging picture. He can plan every eye movement. Reading, once fluent, is eye-limited at roughly 800 to 1,000 words a minute of real time, which to him is four or five words a subjective minute: reading feels like a slow lecture he has time to argue with, predict, and check. He almost always knows how a paragraph ends before it does.
+- **Hearing**: pitch is normal (the cochlea does the frequency work); rhythm is stretched. A syllable lasts most of a subjective minute, a sentence a quarter of a subjective hour. Speech, to him, is a slow tide of sound with a shape he can study. It is the richest input he has for the first two years.
+- **Motor control** had to be relearned in the first weeks (his internal clocks ran 200x against a body that did not), and after that he moves well, because he can plan every movement and watch it happen. Skill acquisition is faster than normal per attempt but attempts happen on body time: perhaps three to five times a normal child's rate, no more, and his hands are still a child's hands.
+- **Output is the scarcest thing he has.** Speech is about 150 words a minute, roughly half a percent of his inner speech. A child's handwriting is a few words a minute. He never writes anything down for himself; he remembers it. He writes or speaks only for other people, and he compresses. From mid-1983 his default output is dictation into a cassette recorder, typed by someone else. The ink telekinesis that solves this comes much later (1985 to 1986).
+- **Sleep** is on body time. He sleeps the hours a child his age sleeps. Dreams are long and mostly unrecalled. Subjectively a night is a skip, which in the first years is a mercy and later the thing he most resents.
+- **Pain** lasts two hundred times longer. Teething, fever, the healing scar. He learns attention control very early because he has to, and it becomes one of his most useful skills.
+- **Emotion**: hormones arrive on body time, thought on brain time. He can think all the way round a feeling before the feeling has finished arriving. He still has the feeling. Toddler affect with adult-speed reflection is the engine of the early chapters' comedy and their sadness.
+- **Memory**: infant memory until about his second birthday, with one exception: the night, and the doorstep conversation, which he replayed so constantly that they survived. In July 1982 he discovers deliberate replay (going through the day each night fixes it) and from then on retains everything he hears or reads. Assume no capacity limit, ever.
+- **Boredom** is the first enemy. The world is a still photograph most of the time. The only things that move at a pace he finds natural are flies, dripping taps, snowflakes, the second hand, bees, smoke, the rise of a firework. He develops an eye for slow beauty.
+
+### The arithmetic, for reference
+
+| Real time | Subjective time |
+|---|---|
+| 1 second | 3 minutes 20 seconds |
+| 1 minute | 3 hours 20 minutes |
+| 1 hour | 8 days 8 hours |
+| 1 waking day (14 h) | about 4 months |
+| 1 week | about 2 years 3 months (waking) |
+| 1 month | about 10 years |
+| 1 year | about 120 years (waking) |
+
+Do not quote these numbers in the prose more than once or twice in the whole story. The narrator gives the idea early and then trusts the reader.
+
+---
+
+## 2. Development schedule (the author's numbers; keep them)
+
+| Real age | Date | State |
+|---|---|---|
+| 15 m to 2 y 7 m | Nov 1981 to Mar 1983 | Input-starved toddler. Mental age climbs from 1 to about 6 by Jan 1983. Understands ordinary speech by spring 1982, knows letters as shapes by autumn 1982, letters as sounds by Nov 1982 (Countdown), can sound out simple words by Dec 1982 (Ceefax). |
+| 2 y 8 m | 28 Mar to ~17 Apr 1983 | Teletext subtitles give him sound and spelling together. Cracks fluent reading in about two weeks. |
+| 2 y 9 m | 18 Apr to 2 May 1983 | Reads everything in the house. Mental age about 15. |
+| 2 y 9 m to 10 m | 2 to 16 May 1983 | Two weeks getting the family to the library. |
+| 2 y 10 m | 17 to 31 May 1983 | Four library visits of about ninety minutes. Decides it is not enough. |
+| 2 y 10 m | 1 to 4 Jun 1983 | Deliberates; asks Petunia once, properly; reveals himself at the library on Saturday 4 June. |
+| 2 y 10 m | 6 to 17 Jun 1983 | Local paper (Fri 10), national (Tue 14), television (Wed 15), worldwide (by Fri 17). Reads twelve hours a day through it. Decides what he is for. |
+| 2 y 10 m | Sat 18 Jun 1983 | Daily Prophet front page. Hogwarts learns at breakfast. |
+| 2 y 11 m | Tue 21 Jun 1983 | Dumbledore visits. Harry learns about magic; Dumbledore learns about the speed. |
+| 2 y 11 m to 3 y 0 m | 22 Jun to 31 Jul 1983 | A month of reading, muggle and magical. Mental age: graduate student. Third birthday is the first birthday. |
+| 3 to 4 | Aug 1983 to Jul 1984 | Twelve hours of reading a day. All muggle subjects to doctoral level. Most of the Hogwarts curriculum's books. Wandless practice. First money. |
+| 4 to 5 | Aug 1984 to Jul 1985 | Nine hours reading; one hour body (writing, typewriter, sport, hands-on skills); one hour skills that cannot be read (programming, dozens of trades and occupations); half an hour wandless magic; half an hour making money. Several hundred years of effective age by the end. |
+| 5 | ~Aug 1985 | Dumbledore judges him mature. Wand. Access to the wizarding world. |
+| 5 to 6½ | Aug 1985 to Jan 1987 | Four hours reading, four hours the Hogwarts curriculum (mastered in eighteen months with tutors of every kind), five hours against his limits: ink telekinesis, the page-reading spell, after which he never reads with his eyes again and reading time is redistributed. Research and businesses begin; everything that can be delegated is. |
+| 6½ to 7½ | 1987 | Best in the world in every magical discipline. A third of the ventures fail; the rest grow. |
+| 9 | 1989 | About $10 billion. Dozens of muggle and dozens of magical businesses, the muggle ones private and unattributed. Influence in the Wizengamot; wide popular support, dampened by his age. |
+| 11 | Jul 1991 | About $40 billion. A theory of magic. Knows most muggle fields better than their leading researchers. The letter. |
+| 11 | Sep 1991 | Hogwarts. The remaining 65 chapters. |
+
+Harry's standing limits, which he treats as an engineering problem: time (sleep; no Time-Turner yet, and he will not learn they exist for a while), input (solved in stages: speech, print, the reading spell), output (speech, dictation, then ink telekinesis), money, influence and popularity (wanted only as instruments), close allies, and his age, which cannot be changed and which he resents only in the practical sense.
+
+---
+
+## 3. Harry
+
+**Character.** Curious, patient because he has had to be, warm toward individuals and clear-eyed about them. Not a cynic. Not a wit for its own sake; funny mostly by being literal. He wants things badly and plans for them calmly. He is not angry at the Dursleys; he has had too long to think about them for anger to survive, and he understands them better than they understand themselves. He misses his mother in a way he has made room for rather than got over.
+
+**The decision.** From about his third birthday (the week of 13 to 20 June 1983, reading twelve hours a day while the world's press waits in the hall) he concludes that what matters to him is that things go well for people, that very little in the world is arranged to make that happen, and that he has a resource no one else has. He does not call it anything. He does not announce it. It shows in what he chooses.
+
+**Rules he adopts, and why.** He has read enough history by June 1983 to know how people with unusual power go wrong, and he picks cheap insurance:
+
+- He will not lie. He will decline, say "I can't discuss that," or stay silent. He decides in June 1983 that deliberately performing below his ability in order to mislead is a lie in all but form, and stops doing it (he had been talking at Dudley's level in front of adults since March 1982; that ends with the reveal).
+- He will not steal, and where he must take he makes restitution that exceeds the taking.
+- He will not kill, and will not harm people. Harm to interests only with informed consent or as a side effect he has tried to minimise and accounts for honestly.
+- Laws bind him when they are good. When they are not, he still counts the cost of breaking them truthfully, including the cost to trust in laws generally.
+- The speed stays private. Dumbledore learns it on 21 June 1983. A handful of others later, each for a reason. His capabilities in general are not hidden; hiding them would cost more than it saves.
+
+**Method.** He thinks like a Bayesian who knows Bayesian methods are rarely tractable: he keeps rough probabilities, updates on evidence, notices when a sample is three observations, and distrusts his own confidence in proportion to how much he wants a thing. He understands statistics deeply from 1983 on. None of this is lectured. It is visible in how he decides, in what he counts, and in the occasional dry aside from the narrator.
+
+**Speech.** From the reveal onward he speaks as he thinks, in a three-year-old's voice. Adults find it uncanny for about a minute and then forget to. He compresses. He asks questions in the order that gets the most information soonest. He does not fill silence.
+
+**What he never does.** Write for himself. Pretend. Waste a real minute if a subjective day can be spent instead. Hold a grudge long enough for it to matter.
+
+---
+
+## 4. The magic system (author's rules; these override canon where they differ)
+
+**Primitives.** There is a fixed set of fundamental magical effects. No one has created a new one in living memory or recorded history; nobody can prove it is impossible, but no one has done it. The same holds for potion primitives, where some development is still possible at the level of recipes and interactions.
+
+**Spells** are bindings of an incantation and a wand movement to a primitive or a combination of primitives. Most common spells are ancient bindings whose makers are unknown. About one in ten commonly used spells was invented by a known person. Inventing a spell means making a new binding; it is very difficult and requires some real connection, felt or symbolic, between the effect and the words and motion you bind it to. Complicated spells are built like programs out of primitives, and like programs they have bugs. Spell creation is dangerous for that reason. Combination is possible, rare, and underused.
+
+**Warding** is attaching spells to things: objects and places easily, people with difficulty, and other referents besides (times, conditions, relations).
+
+**Rituals** exist, akin to spells and potions, and rarely come up.
+
+**Intent and mind matter.** All spells and potions are shaped by the caster's intent and state of mind. Transfiguration (no incantation or set movement, though a wand is used) and the Patronus are the clearest cases.
+
+**Wandless and nonverbal magic** work by visualising the effect well enough that magic reads the visualisation as a spell. Because Harry visualises at 200x, he will be far better at this than anyone, once he knows what he is doing. Limits: beyond a certain speed magic stops reading a visualisation as a spell, so he can cast wandlessly at most about twice as fast as the fastest ordinary casting; and wandless casting is weaker and less precise than wanded. He discovers the speed ceiling in August 1983, before he knows why it is there.
+
+**Accidental magic** is this same mechanism in children: want plus a vivid enough picture. Harry does not lose it with age. His early incidents are listed in the block outline. Before 21 June 1983 he has no word for it and the narrator describes it rather than naming it.
+
+**Gamp's law.** No primitive can create food, create gold, or reverse ageing. Alchemy can get around Gamp's law and is close to impossible.
+
+**The Trace** is laid with the Hogwarts letter. Harry has none until July 1991. His childhood magic is undetected by the Ministry; it is seen only by the Dursleys, later by Dumbledore's wards.
+
+**Dementors** feed on suffering and the soul; permanent harm requires direct contact. The Patronus, cast from a happy memory, is a shield. Cast with the right intent by someone genuinely good beyond almost anyone, and centred on the destruction of evil and the increase of good, it can destroy them.
+
+**Practical spells.** There are many useful spells that never appear in canon. To find them, think about what limits wizards face (time, distance, attention, labour, information) and what a competent people would have built.
+
+**Things Harry notices about this system when he first reads the textbooks (June to August 1983)**, which the later outlines build on: the field has no theory, only recipes; the inventory of spells is treated as a given; nobody has catalogued primitives or asked what the full set is; incantations have etymologies that might carry information; wand motion, incantation and intent are three channels that could be studied separately; wards are a programming model nobody has written down; nobody keeps data.
+
+---
+
+## 5. Fixed facts of setting
+
+**Dates.** Harry born 31 July 1980. Dudley born 23 June 1980. The attack: Saturday 31 October 1981. Hagrid has Harry through Sunday 1 November; the flight passes over Bristol; Harry is left on the doorstep that night with a warming and sleeping charm. Petunia finds him on the morning of Monday 2 November 1981.
+
+**4 Privet Drive.** Downstairs: hall with the cupboard under the stairs on the left; front living room with the television; back kitchen and dining area with French windows to the garden; downstairs lavatory. Upstairs: Vernon and Petunia's room (front), Dudley's room (front, smaller), the box room (back, smallest), the guest room (back; Marge's when she stays). Attached garage. Garden: lawn, Petunia's borders, a shed, a fence Petunia talks over.
+
+**Where Harry sleeps.** A travel cot in the box room among boxes, a broken lamp, Vernon's golf clubs, and Grandad Evans's encyclopaedia (Nov 1981). A larger cot (Jan 1982). A mattress on the floor with a stair gate across the door (Mar 1982). The cupboard under the stairs, with a bolt fitted outside in Feb 1983, from the first week of January 1983. The box room again, as his bedroom, from 16 June 1983.
+
+**The encyclopaedia.** A twelve-volume general encyclopaedia from 1962, red cloth, gold lettering on the spines (A–B, C–D, and so on), bought on instalments in Cokeworth for the Evans girls' education and inherited by Petunia when her parents died in the late seventies. It is the first printed thing Harry can reach and the spine letters are how he learns alphabetical order. It stays on the box-room shelf when the room becomes Dudley's playroom.
+
+**Television.** Old three-channel set with no remote until December 1982. New 26-inch set with teletext and a remote control for Christmas 1982, bought to match the Polkisses'; the old set goes to the kitchen. Teletext page 888 (subtitles) is the key that unlocks reading. Real schedule points used: Play School and schools programmes (Words and Pictures, Look and Read) in the mornings; the Falklands coverage (April to June 1982); Channel 4 and Countdown from 2 November 1982; BBC Breakfast Time from 17 January 1983 and TV-am from 1 February 1983; Wogan on Saturday nights in 1983.
+
+**Print in the house.** Vernon's Daily Mail every morning and the Mail on Sunday (from its launch, May 1982); Petunia's Woman's Own and the Radio Times; a Collins dictionary by Vernon's crossword chair; two cookbooks; a Reader's Digest home repair manual; the Argos catalogue; the Yellow Pages and a Surrey A–Z; a Jeffrey Archer and two Catherine Cooksons; Dudley's Ladybird and Mr Men books; the King James Bible from the Evans house, in the bureau; the bureau folder with Harry's birth certificate (Harry James Potter, 31 July 1980, Godric's Hollow; father James Potter; mother Lily Potter formerly Evans), an NHS card, and a covering letter from a Lincoln's Inn solicitor dated November 1981; a shoebox of Evans family photographs in which a red-haired girl appears up to about the age of ten and then does not.
+
+**Mrs Figg.** Arabella Figg, Wisteria Walk, two streets away. Squib. Installed by Dumbledore in mid-November 1981 and told to keep an eye on the boy and not to be so kind that the Dursleys stop sending him. Cats: Mr Tibbles, Snowy, Mr Paws, Tufty, part-Kneazle, who watch Harry with an attention he recognises. Her house smells of cabbage; she shows him cat photographs because it is the most boring kind thing she can think of; she keeps a shelf of Agatha Christies and a child's atlas. From late June 1983 Dumbledore allows her to be openly kind.
+
+**The library.** Little Whinging branch library, High Street. Saturday Story Hour 10:30; Tuesday toddler session 2:00. Mrs Joan Ashworth, children's librarian, late forties, Lancastrian. Mr Alan Hobday, seventy, retired engineer (Vickers), who reads the Economist in the armchair by the periodicals on Tuesdays and Saturdays, and whose question "Any good?" starts everything.
+
+**Muggle people who matter from June 1983.** Tom Brayley, junior reporter, Surrey Advertiser (weekly, Fridays), who breaks the story after Hobday phones the paper. Dr Anne Whitlock, senior educational psychologist, Surrey County Council, who does the first assessment on 13 June and becomes Harry's steadiest adult advocate. Geoffrey Pell, solicitor, Guildford, who sets up the trust pro bono and buys the cassette recorder. Dr Peter Lowry, developmental psychologist, Cambridge, who visits on 12 July with a trunk of books and gets Harry a reader's ticket at a university library. Rachel Dunne, 24, physics postgraduate at the University of Surrey, hired by the trust in August 1983 to take Harry to the library in Guildford twice a week, fetch inter-library loans, and type; the first adult to talk to him as a colleague. Yvonne, Petunia's friend. The Polkisses (Piers), neighbours. Marge Dursley and Ripper.
+
+**The trust.** The Harry Potter Educational Trust, deed executed 14 July 1983. Trustees: Pell, Whitlock, Vernon Dursley (minority, at his insistence). Income from June 1983: the Daily Mail exclusive (£8,000, split 60/40 trust/Dursleys after Harry renegotiates with Vernon on 19 June and adds an honesty clause), television fees, and a London publisher's advance (£15,000) for a short book Harry dictates over three evenings at the end of July on how he learned to read, written for parents. Spending: books, inter-library loan fees, Rachel Dunne's wages, a climbing frame, postage.
+
+**The wizarding side, 1981 to 1983.** Minister: Millicent Bagnold. Head of Magical Law Enforcement: Bartemius Crouch Sr, diminished since his son's conviction. Cornelius Fudge: Junior Minister, Magical Accidents and Catastrophes. Sirius Black in Azkaban since November 1981 without trial; Dumbledore believes him guilty. Peter Pettigrew presumed dead. Remus Lupin working muggle jobs in the north; Dumbledore has told him "not yet." Snape teaching Potions. Rita Skeeter, 32, writes the Prophet's muggle-watch column and breaks the story on Saturday 18 June 1983 ("THE BOY WHO LIVED, AMONG MUGGLES"). Lucius Malfoy reads it and decides there is no hurry about anything. Harry's Gringotts trust vault is held under Dumbledore's key; Harry learns of it on 21 June 1983 and gets an accounting in September.
+
+**What Dumbledore does about the fame (June 1983).** Adds anti-Apparition wards over the property and intruder alarms keyed to magical persons; rejects a Fidelius as too disruptive to the Dursleys' muggle life and pointless now the address is in the papers; puts an owl redirection on Harry so that wizarding post goes to Hogwarts to be screened (he tells Harry this; Harry's conditions, agreed in August: a monthly summary and every letter from anyone who knew his parents); visits Bagnold on 19 June to forestall a Ministry visit; tells Figg she may be kind; in August adds a muggle-attention-dampening charm to the back garden so Harry can practise out of sight, as a compromise rather than a prohibition.
+
+**What Dumbledore knows and withholds.** Knows the speed from 21 June 1983, infers it came from the night, and wonders whether it is "the power the Dark Lord knows not." Suspects something about the scar; does not know what. Tells Harry nothing of the prophecy. Promises not to lie to him and says plainly that he will not tell him everything; agrees to try to say when he is withholding. Limits Harry's contact with the wizarding world until he judges him mature (August 1985): no wand, no Diagon Alley, visitors only by his arrangement (Hagrid in September 1983, McGonagall the same month).
+
+---
+
+## 6. Style rules
+
+The author's standing instruction: write it like a human wrote it, in the manner of HPMOR. Concretely:
+
+- Long clear sentences with subordinate clauses that carry reasoning. Vary length. Paragraphs can run.
+- Reasoning is shown as reasoning: premises, the inference, what would change his mind. Not announced ("Harry reasoned that"). Not summarised afterward.
+- Dialogue argues. Characters answer the question that was asked, or visibly do not. Attribution is plain ("said"). Double quotes.
+- The narrator is dry, occasionally direct, never arch. One narrator aside per scene at most.
+- Direct thought in italics, sparingly. No italics for emphasis more than two or three times a chapter.
+- Understatement over intensity. The sad thing is said once and left.
+- British vocabulary for the setting (nappy, cot, pushchair, jumper, crisps, lavatory). Spelling British.
+- Summary is allowed and useful: months can pass in a paragraph if the paragraph is specific.
+
+Avoid, every time:
+
+- Short clauses chained with "and" for rhythm.
+- Stating the obvious or restating what a scene has shown.
+- "It wasn't X. It was Y." and its relatives.
+- Single-word or fragment sentences for punch. Paragraph-ending one-liners more than once a chapter.
+- "Something shifted." "Suddenly." "A testament to." "In that moment."
+- Reflexive tricolons. Rhetorical questions in narration. Present-participle tails ("he said, his voice breaking").
+- Coining a term, or capitalising one of Harry's private concepts into a Name. Ask the author first if a coinage seems needed.
+- Overloading an existing word with a special meaning it does not have.
+- Emphasis everywhere. Therapy-speak. Characters explaining their own feelings in abstractions.
+- Scenes that end by stating their theme.
+- Anything in the neighbourhood of computer security. Harry's later software work is described at the level of "wrote a program for" and "sold it."
+- Harry writing anything down for his own benefit. He dictates for others, or remembers.
+
+---
+
+## 7. Working rules for the outlines and chapters
+
+- Outlines come in blocks of ten chapters, organised by month, dense enough that far more happens than the chapters can hold. Every week Harry is working on something across every front he has.
+- Each month entry records: his age and state; what he is working on (by project); dated events; the Dursleys; Mrs Figg and the wizarding side; what the muggle world is doing that reaches him; what the chapters take from it.
+- Chapters are about 3,000 words. Write no more than two chapters ahead of the author's reading position unless told otherwise.
+- When the author redirects, update the outlines to match and delete what was superseded. No notes about what is not being done.
+- Keep the first appearance of every named original character in the block outline, with the date.

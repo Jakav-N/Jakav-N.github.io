@@ -158,6 +158,7 @@ Two reference texts, and the register sits between them: *Harry Potter and the M
 
 What the register is:
 
+- **Names.** The narrator knows who everyone is even when Harry does not, and uses the names: Petunia, Vernon, Dudley, Hagrid, Mrs Figg, the television, the Hoover, the encyclopaedia. A description stands in for a name only when the description is the point of the sentence, and never as a running substitute ("the round child," "the box," "the giant" were faults of the first drafts).
 - **Plain diction.** Say the thing. A figure of speech is rare and concrete (a hand that sets off like a boat leaving harbour), never decorative. No lyrical cadences, no sentences built for sound.
 - **The character's own voice.** Thought is rendered in free indirect style, in Harry's idiom, including the questions he asks himself and his casual reactions. Casual beats ("Oh well." "Huh." "That was useful to know.") are fine. Portentous fragments ("Something shifted.") are not. In chapters 1 and 2 he is pre-verbal and the narrator has to supply the words; from chapter 3 he has them, and from chapter 4 he thinks in full sentences and the narration should lean on that heavily.
 - **Reasoning laid out as reasoning.** The puzzle, the candidate explanations, what would tell them apart, what he will do next. His hedges are his own ("probably," "he couldn't be sure"). Conclusions are marked plainly. Not announced ("Harry reasoned that"), not summarised afterwards.
@@ -185,6 +186,7 @@ Avoid, every time:
 
 ## 7. Working rules for the outlines and chapters
 
+- Outlines are written in ordinary sentences, with names, the way the chapters are. Compressed notation, headings used as sentences, and semicolon lists train the wrong habits and they show up in the prose.
 - Outlines come in blocks of ten chapters. Write the months first, without reference to chapter boundaries, each with a week-by-week block of what Harry is working on across every front he has; then derive the chapter map and beat sheets from the months and put them after the months in the file. The months should hold far more than the chapters can.
 - Each month entry records: his age and state; what he is working on (by project); dated events; the Dursleys; Mrs Figg and the wizarding side; what the muggle world is doing that reaches him; what the chapters take from it.
 - Chapters are about 3,000 words. Write no more than two chapters ahead of the author's reading position unless told otherwise.

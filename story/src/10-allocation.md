@@ -4,11 +4,11 @@ By the second week of August the days had a shape, and the shape was his.
 
 He woke at half past six without being woken, which was a thing his body had decided on its own. He came down to a kitchen in which Vernon had already left and Petunia was at the sink, and he ate cereal with Breakfast Time on, because it was still the fastest way to find out what had happened in the world overnight, and because he had been watching it since January and had not yet broken the habit. At seven he went upstairs and read.
 
-He read until twelve. He had a system now, which he had arrived at in July after a fortnight of reading whatever was on top of the nearest stack: the subjects took turns, so that no two days running went to the same one, and each had a week of his own time to settle before he came back to it. Monday was physics and chemistry. Tuesday was mathematics, which had turned out to be the subject in which thinking fast was nearly the whole of the game, and which he therefore rationed, because he could have done nothing else. Wednesday was the body and its diseases. Thursday was money and how people arranged themselves. Friday was history, and the week's Economist, which came on Fridays and which he read cover to cover in forty minutes and then thought about for most of a subjective month. Saturday was philosophy and the books that did not fit anywhere. Sunday was the eight books from the trunk, the two green-inked ones, and the table.
+He read until twelve. He had a system now, which he had arrived at in July after a fortnight of reading whatever was on top of the nearest stack. He had split what there was to know into sixty subjects, which was a rough cut and he knew it, and they took turns, so that each came round every two or three weeks and had time to settle before he came back to it. Physics and chemistry and the mathematics they leaned on took the most days, because there was the most of them. Then medicine and the body; then economics and law and how people arranged themselves; then history, which he was doing a second time from the front; then geology and astronomy and engineering and linguistics and the half-dozen others that had less written about them and needed fewer days. Friday mornings began with the Economist, which came with the post, took him eight minutes to read and most of an hour to think about, and told him what the week's arguments were going to be about before the Mail had them. Saturday was philosophy and the books that fitted nowhere. Sunday was the eight books from the trunk, the two with green ink in them, and the table.
 
 At twelve he stopped, whatever he was in the middle of, and went into the garden for an hour.
 
-That had taken some working out. He had not wanted to. There were books in the room and an hour was two hundred hours and he could feel every one of them going. But he had read enough about the body that summer to know that his did not care in the least how fast he thought, and that a child who sat on a bed for twelve hours a day would grow up with the bones and the lungs of a child who sat on a bed, and that the wanting was, in this case, exactly what it had been with the bottle: a feeling, to be noticed and set beside the facts. The trust had bought a climbing frame. He climbed it. He ran round the lawn until he was out of breath, which took longer each week. He ate what Petunia put in front of him and asked for more, and she gave it to him, since June, without comment. He was thin, and he had been thin for twenty months because food had been a thing he was given, and he had decided in July that it was going to be a thing he got.
+That had taken some working out. He had not wanted to. There were books in the room and an hour was two hundred hours and he could feel every one of them going. He had solved most of that by taking a book into the garden in his head. Mathematics went with him best, because mathematics was the one subject that came in a form he could carry whole: a hard text, the kind with no padding and a definition on every page and exercises at the end of each chapter that the author had not bothered to make easy. He would have the chapter from the morning, and he would climb the frame or run the lawn and work the exercises as he went, one after another, until he had the intuition the author had left out, and then the next chapter. By the end of August he had done every exercise in two books that way, and had come to think that mathematics was the subject in which his speed counted for most, because it was the subject that compressed furthest, so that a page of it held more thinking than a page of anything else. But he had read enough about the body that summer to know that his did not care in the least how fast he thought, and that a child who sat on a bed for twelve hours a day would grow up with the bones and the lungs of a child who sat on a bed, and that the wanting was, in this case, exactly what it had been with the bottle: a feeling, to be noticed and set beside the facts. The trust had bought a climbing frame. He climbed it. He ran round the lawn until he was out of breath, which took longer each week. He ate what Petunia put in front of him and asked for more, and she gave it to him, since June, without comment. He was thin, and he had been thin for twenty months because food had been a thing he was given, and he had decided in July that it was going to be a thing he got.
 
 At one on Tuesdays and Fridays Rachel came.
 
@@ -20,7 +20,7 @@ The job was to drive him to the university library in Guildford on Tuesdays and 
 
 The first thing Rachel had said to him, on the eighth, standing in his room looking at the stacks, was: "Right. What do you want to read?"
 
-He had given her the list. It was eleven typed pages, four hundred titles, in order of priority within subject, and he had dictated it over two evenings from what the Economist's reviews and the bibliographies of the books he already had told him existed.
+He had given her the list. It was eleven typed pages, four hundred titles, in order of priority within subject, and he had dictated it over two evenings from the bibliographies of the books he already had and the publishers' catalogues Mrs Ashworth had sent round.
 
 She read the first page. She read the second. She looked at him over the top of the third and said, "The library's not going to have half of these."
 
@@ -32,7 +32,7 @@ She looked at him for a moment longer, and then she laughed, not the laugh peopl
 
 The garden had another use, which he kept for the end of the hour, when he was tired enough to be still.
 
-He had moved the practice out of his room because the room had a window onto the street, and a man with a camera had stood on the pavement for most of July. The garden had a fence, Petunia's borders, and a corner behind the shed where he could sit with his back to the house and not be seen from any window. It was there that he did his half-hour, with a feather, and then a pencil, and then, in the second week of August, a book.
+He had moved the practice out of his room because the window faced the street, and he had been photographed through it once in June. The garden had a fence, Petunia's borders, and a corner behind the shed where he could sit with his back to the house and not be seen from any window. It was there that he did his half-hour, with a feather, and then a pencil, and then, in the second week of August, a book.
 
 The feather was one in two by the middle of the month. He had stopped being surprised by it. The pencil, which was heavier and which he could roll along the paving stone from one crack to the next about one time in six, taught him that weight mattered, or that his picture of weight mattered, which was not the same thing and which he put in the table as a question. The book taught him more than either.
 
@@ -44,23 +44,11 @@ The thing about speed held. He tested it every day, because it was the strangest
 
 * * *
 
-The table had forty typed pages by the end of the month. Rachel typed it on Tuesday and Friday evenings from the cassettes, and on the second Friday she came up the stairs with the pages in her hand and said, "What is this?"
+The table had forty pages of parchment by the end of the month, in the quill's narrow hand, and it lived in the trunk with the books. Rachel had never seen it. She had seen the trunk, which was old and had brass corners and was locked whenever she was in the room, and on the second Friday she asked what was in it.
 
-"A table."
+"Things I've been asked not to talk about," Harry said. "I'm sorry. It isn't that I don't trust you."
 
-"I can see it's a table. It's sixty-one rows of Latin that isn't quite Latin, with hand movements. Somebody called Goshawk is cited on every row and I can't find a Goshawk in the catalogue. What's it for?"
-
-Harry had thought about this moment since July, because he had known it would come with anyone who typed for him. He had decided what he would do about it, and it was the thing he had decided about everything.
-
-"I can't tell you yet," he said. "I'm sorry. It's not that I don't trust you. It's a thing I've been asked not to talk about, and I think the person who asked has a reason, and I'd rather not say even that much, but you asked, so."
-
-She looked at the pages and then at him.
-
-"That's fine," she said. "You'll tell me when you can?"
-
-"If I can."
-
-"Fair enough," said Rachel. She put the pages on the desk and asked him about the second column instead, which was the one with the hand movements in it, and whether he wanted the diagrams redrawn, because hers were terrible.
+She looked at the trunk and then at him. "Fair enough," she said, and asked him instead whether he wanted the Landau in Russian or wait for the English, and he said Russian, and she wrote it down.
 
 He had noticed something in the table that week, on the Sunday, going over it, and it was in the fourth column. Of the sixty-one spells in the first book, four had inventors. He had the second-year book now, with seventy more, and nine of those had inventors, and every one of the thirteen named men and women had lived in the last three hundred years. The ones without names were the old ones. The lifting charm and the lighting charm and the unlocking charm had no maker and no date. Neither book said so, and he had begun to suspect that nobody had ever said so, because nobody had ever put the sixty-one in a column and looked down it. He did not know what it meant. He thought it probably meant something, and he put it at the top of the list for Saturday.
 
@@ -68,7 +56,7 @@ He had noticed something in the table that week, on the Sunday, going over it, a
 
 Dumbledore came on the last Saturday in August, in the afternoon, and Harry gave him the list.
 
-It was sixty pages. Rachel had typed it. It had everything he had wanted to ask since June that he had not been able to ask anyone else, in order of how much the answer would change, and he had expected Dumbledore to take it away. Dumbledore sat down in Vernon's chair and read it.
+It was sixty pages of parchment in the quill's hand. It had everything he had wanted to ask since June that he had not been able to ask anyone else, in order of how much the answer would change, and he had expected Dumbledore to take it away. Dumbledore sat down in Vernon's chair and read it.
 
 He read it in about ten minutes. Harry sat on the sofa and watched him do it, and it was the hardest ten minutes he had spent since the cupboard, because the old man read the way everybody read, down the page and over, at the speed of the world, and Harry had sixty pages in his head and knew what was on each of them and had to sit and watch a page that he could have taken in with twelve looks take a hundred and twenty seconds, which was six and a half hours of his, sixty times. He did not fidget. He had decided in the first minute that he would not, and he thought he managed it, and Dumbledore, turning the last page, looked up and said, "That was very hard for you," and Harry said, "Yes," and did not ask how he had known.
 
@@ -152,14 +140,14 @@ He took a twelfth sheet and wrote it through to the end, and did not stop at the
 
 * * *
 
-The Economist came on the last Friday of the month, with a Landau that Rachel had found in Guildford and said she had never seen anyone look so pleased about. He had them both on the kitchen table on the Saturday morning with his cereal. Breakfast Time was on. He looked up at it, reached over, and turned it off.
+The Economist came on the last Friday of the month, and with it a Landau that Rachel had found in a second-hand shop in Guildford and said she had never seen anyone look so pleased about. On the Saturday morning he had both on the kitchen table next to his cereal. Breakfast Time was on. He looked up at it, reached over, and turned it off.
 
-Petunia, at the sink, turned round at the silence.
+Petunia turned round from the sink at the silence.
 
-He did not say anything, because there was nothing to say that would have made sense to her. The box in the front room had taught him to talk. It had given him the Falklands and Countdown and the subtitles and Russell Grant, and he had sat in front of it for twenty months because it was the only thing in the house that moved. It was still moving. It was simply that there was, for the first time, something better in the room, and he turned back to it.
+He didn't explain, because the explanation wouldn't have meant anything to her. The television had taught him to talk. It had given him the Falklands and Countdown and the subtitles, and for twenty months he had sat in front of it because it was the only thing in the house that moved. It still moved. It still told him things. There was just better information on the table now, and only so many hours, and the television had lost.
 
-That night he had too much day.
+That night he ran out of night.
 
-He had noticed it coming for a fortnight. The going-through, which had been the spine of every night since July of the year before, took as long as the day had been full, and the days were fuller now than they had ever been: twelve hours of books, each page of which he had, the library, Rachel, the garden, Dudley's twenty minutes, the table. He had begun, without deciding to, to go through some of it quickly, the cereal and the stairs and the drive, and he had noticed that he was doing it. He lay now in the dark with the night half gone by the house's clock and the day not yet finished by his, and thought about what he was losing, and whether it mattered, and how he would know.
+He had seen it coming for a fortnight. Going through the day had been the fixed point of every night since the summer before last, and it took as long as the day had been full, and the days were fuller now than they had ever been: nine hours of reading with every page kept, the library, Rachel, the garden and the feather, Dudley's twenty minutes, the questions for Dumbledore. For two weeks he had been skipping the dull parts, the cereal and the stairs and the drive, without quite deciding to. He lay in the dark with the clock downstairs past three and the day still not finished, and thought about what he was losing by skipping, and whether it mattered, and how he would even tell.
 
-He found that he was almost pleased. It was the first limit he had come up against since the night that was not a door or a bolt or a person. It was arithmetic. He had two hundred seconds for every one of the world's, and that was not, after all, an infinite number, and he had finally filled it. He did not know what to do about it yet. He thought that was going to be the shape of a great many things from now on, and that it was a better shape than the one he had started with, and he went on going through the day, slowly, as if he had all night, and did not.
+He found he didn't mind as much as he'd expected. Every limit he had met so far had been a person or a door. This one was arithmetic. Two hundred seconds for every one of the world's was a large number, but it was a number, and he had finally used it up. He didn't know what to do about that yet. He suspected he was going to meet a lot of problems like it from now on, and that they were better problems than the ones he'd had. He went back to going through the day, slowly, and was still somewhere in the afternoon when he fell asleep.

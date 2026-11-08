@@ -72,7 +72,7 @@ The folder was in the bureau too, in the second drawer, and he read it on the la
 
 It was thin. On top was a certificate with a crest, which said that HARRY JAMES POTTER had been born on the 31st of July 1980 at Godric's Hollow, and that his father was JAMES POTTER and his mother was LILY POTTER, formerly EVANS.
 
-He stood and looked at it for a long time by either clock.
+He stood and looked at it for a long time.
 
 He had known his name was Harry, and that Potter was the sound Dumbledore had used for him on the doorstep. He had not known the day. The 31st of July: so he had been two years old on the last day of last July, and Petunia had looked at him oddly over breakfast and looked away, and he had kept the look for nine months without knowing what it was, and now he did. He had not known his father's name. James. He had not known his mother's. He had had her voice, her hair across her face, and the sound Sirius had made saying her name. Now he had the word. Lily. Formerly Evans. Evans was the name written inside the Bible, on the flyleaf, in old ink: *Harold Evans and Rose Evans, married 1956*, and under it two more lines in the same hand, *Petunia, born 1958*, and *Lily, born 30th January 1960*. So that was where Petunia came from. He had worked out months ago, from "Petunia's sister's" and the stiffness that went with it, that his mother and Petunia had been sisters. It was different to see it written down by someone whose job it was to write things down.
 

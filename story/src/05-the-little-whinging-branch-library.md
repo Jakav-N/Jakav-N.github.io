@@ -112,7 +112,7 @@ She was at the sink. She did not turn round.
 
 Petunia turned round.
 
-Her face had gone white, properly white, the way faces go in books and he had not seen go in life. She looked at him for a long time, by either clock, and then she said, quietly and without any shake in it at all:
+Her face had gone white, properly white, the way faces go in books and he had not seen go in life. She looked at him for a long time, and then she said, quietly and without any shake in it at all:
 
 "You'll say nothing of this. To anyone. Do you hear me? Nothing. Or it's the cupboard, and no library, and nothing, ever again."
 

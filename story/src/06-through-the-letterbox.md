@@ -30,7 +30,7 @@ Vernon looked after her, then down at Harry. Whatever he had been going to say n
 
 "I understand you," Harry said. "The library's already done, though. They know."
 
-Vernon shut the door. The bolt went across. Harry lay back down on the mattress in the dark and let out a breath he had been holding for some time by either clock, and then began, because there was nothing else to do and because it was the plan, to wait.
+Vernon shut the door. The bolt went across. Harry lay back down on the mattress in the dark and let out a breath he had been holding since the door opened, and then began, because there was nothing else to do and because it was the plan, to wait.
 
 * * *
 

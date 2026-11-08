@@ -124,13 +124,13 @@ Dumbledore was silent for long enough that Harry heard the kitchen clock.
 
 "Grief and guilt look alike from the outside, Harry. Especially at night, especially to a child. I do not say that to dismiss what you saw. I say it because it is true."
 
-"I know it's true," Harry said. "I'm not saying it means anything. I'd like to see the record of his trial."
+"I know it's true," Harry said. "I'm not saying it means anything. I'd like to read the record of his trial."
 
-"There was no trial."
+"I will bring you what the Ministry has."
 
-Harry did not say anything for three minutes of his own, which was a second of the room's, and in those three minutes he went through what he had been told since June by this man, every sentence of it, and found that it was the first time one of the sentences had come with a hole in it that he could put his hand through.
+Harry noticed the shape of that. It was not *I will bring you the record*. He had been listening to this man choose his words for two months, and he knew the sound of a sentence that had been built to be true, and he did not ask what the difference was, because he would be able to read it for himself when the pages came.
 
-"I'd like to come back to that," he said.
+"Thank you," he said. "I'd like to come back to this."
 
 "Yes," said Dumbledore. "I rather thought you might."
 

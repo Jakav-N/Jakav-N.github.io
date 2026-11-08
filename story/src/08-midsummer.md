@@ -56,9 +56,9 @@ Harry sat with that. He had tried that word on in the cupboard, among others, an
 
 "Because your mother was a witch and your aunt is not, and the gift went to the younger sister, and that is a hard thing to be the elder of. And because the last time anything from my world came into her life it was you, on a step, with a letter from me that asked a great deal of her and explained less than it should have. She has reason."
 
-"What did I do to the bottle?"
+"When I was sixteen months old I wanted a bottle very badly, and it slid across the table to me. Since then it's happened by itself about ten times, and for the last eight months I've been making it happen on purpose, in a cupboard, and counting. What is that?"
 
-Dumbledore's eyebrows went up a little. "Tell me about the bottle."
+Dumbledore's eyebrows went up a little. "Tell me about it. All of it."
 
 Harry told him. He told him about the bottle in the first week of December 1981, the television in February, the engine on the wardrobe in May, his hair in September, Dudley and the cushion in October, and then the cupboard: the bulb on the four hundred and somethingth attempt, one in thirty by the end of January, one in twenty in February, the catch, the spider, the rules. He gave the dates and the counts. He did not give the speed, because he had not yet decided about that, and he watched the old man's face while he talked and saw it go from attention to something stiller than attention, and stay there.
 
@@ -170,7 +170,7 @@ The tea came. Petunia set the tray down without looking at either of them and to
 
 Harry had believed he knew what he would do about this question, and found, now that it was in the room, that he had to decide again. He allowed himself three seconds of the room's time, which was ten minutes of his own and the longest he had ever paused in a conversation. The man had told him the truth about his parents when a lie would have been easier. *I'd rather not say* was not a lie, but it was a door shut in the face of the one person in the world who might know what was on the other side of it. And he had been alone with this for twenty months, and here, in Vernon's chair, was someone who could understand it.
 
-"I think faster than other people," he said. "A lot faster. About two hundred times. I've measured it against the kitchen clock; the second hand moves once every three minutes or so of mine. It started the night my mother died, at the same moment as the pain in my head, so I think they're connected, but I don't know how. I remember everything because I have time to go over it. I learned to read in a fortnight because a fortnight was about seven years. I don't tell people. I told Dr Whitlock I'd rather not say, and she let me not say. I'm telling you because I think you'd work it out, and because I don't lie, and because I think you might know what it is."
+"I think faster than other people," he said. "A lot faster. About two hundred times. I worked it out against the kitchen clock. If I count the way people count aloud, one elephant, two elephant, I get a little over two hundred while the second hand goes from one mark to the next, and it's the same every time I do it. It started the night my mother died, at the same moment as the pain in my head, so I think they're connected, but I don't know how. I remember everything because I have time to go over it. I learned to read in a fortnight because a fortnight was about seven years. I don't tell people. I told Dr Whitlock I'd rather not say, and she let me not say. I'm telling you because I think you'd work it out, and because I don't lie, and because I think you might know what it is."
 
 Dumbledore did not say anything.
 
@@ -182,7 +182,7 @@ He did not say anything for a stretch that was long by Harry's clock and not sho
 
 "Two hundred."
 
-"About. It might be a hundred and eighty. It isn't a hundred and it isn't a thousand."
+"A little over. It depends what you call one of my seconds, so I can't make it exact. But it's the same every time I count, and it isn't a hundred and it isn't a thousand."
 
 "How old are you, Harry? By your own reckoning."
 

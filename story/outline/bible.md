@@ -41,6 +41,8 @@ What "the brain only" means in practice:
 | 1 month | about 10 years |
 | 1 year | about 120 years (waking) |
 
+How he measures it: his only external anchor is a clock, so the number is a count. He counts at the pace people count aloud and gets a little over two hundred counts while the kitchen clock's sweep second hand travels from one mark to the next, the same every time. The unit is his own speaking-pace second, so "about two hundred" is as exact as the number honestly gets, and he says so when asked. He never says "three minutes of mine" or the like without saying what he is counting.
+
 Do not quote these numbers in the prose more than once or twice in the whole story. The narrator gives the idea early and then trusts the reader.
 
 ---
@@ -160,6 +162,7 @@ What the register is:
 
 - **Names.** The narrator knows who everyone is even when Harry does not, and uses the names: Petunia, Vernon, Dudley, Hagrid, Mrs Figg, the television, the Hoover, the encyclopaedia. A description stands in for a name only when the description is the point of the sentence, and never as a running substitute ("the round child," "the box," "the giant" were faults of the first drafts).
 - **Plain diction.** Say the thing. A figure of speech is rare and concrete (a hand that sets off like a boat leaving harbour), never decorative. No lyrical cadences, no sentences built for sound.
+- **Questions people can answer.** Harry frames every question so that the person asked can understand it from what they know. He does not refer to a thing by a private name, or ask about an event the listener has not been told of, without first saying what happened. ("What did I do to the bottle?" was a fault of the first draft of chapter 8.)
 - **The character's own voice.** Thought is rendered in free indirect style, in Harry's idiom, including the questions he asks himself and his casual reactions. Casual beats ("Oh well." "Huh." "That was useful to know.") are fine. Portentous fragments ("Something shifted.") are not. In chapters 1 and 2 he is pre-verbal and the narrator has to supply the words; from chapter 3 he has them, and from chapter 4 he thinks in full sentences and the narration should lean on that heavily.
 - **Reasoning laid out as reasoning.** The puzzle, the candidate explanations, what would tell them apart, what he will do next. His hedges are his own ("probably," "he couldn't be sure"). Conclusions are marked plainly. Not announced ("Harry reasoned that"), not summarised afterwards.
 - **Summary in plain voice.** Weeks can pass in a sentence ("A month went by with little to show for it"), as long as the sentence is specific.

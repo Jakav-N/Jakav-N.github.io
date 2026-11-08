@@ -1,0 +1,99 @@
+# Chapter 4: Page Eight Eight Eight
+
+The sequence was text, eight, eight, eight. He had it by Wednesday, from watching Vernon's thumb.
+
+Knowing it and using it were different things. The remote control lived on the arm of Vernon's chair in the evenings and on the mantelpiece in the day. Harry could reach neither, and if he had been seen pressing buttons on it, the remote would have gone the way of the encyclopaedia. Dudley, on the other hand, was allowed to hold it for an hour every evening, and had the remote in his hands most afternoons when Petunia wanted him quiet, and Dudley liked anything that made the screen do something.
+
+So on Thursday afternoon, while Petunia was on the telephone, Harry climbed onto the sofa next to Dudley and said, "Press that one."
+
+Dudley pressed it. The picture went to teletext.
+
+"Now that one. Three times."
+
+Dudley pressed it three times, and the picture came back with a black strip across the bottom of it and white writing on the strip, and Dudley said, "Writing!" with the satisfaction of a boy who has made something happen, and from then on he made it happen whenever the remote was in his hands, without needing to be asked, because it was his trick now.
+
+Vernon found the writing an irritation and turned it off when he noticed it. He did not often notice. He read the paper in the evenings and looked up for the news, and the news did not have writing. Petunia found, by the second week, that with the writing on she could follow her afternoon serial through the noise Dudley made, and after that she stopped minding it. "Leave it, Vernon," she said one evening, when he reached for the remote, "I can hear her with it on," and Vernon, who did not care about the serial, left it.
+
+Not everything had writing. Harry found out which programmes did from the Radio Times, which he could read at about seventy words in a hundred and which marked them with a small symbol. The schools programmes on BBC2 in the mornings had it, and some of them had more than that: there was one that put a word on the screen and then said it, slowly, and then took the word apart into its sounds and put it back together, which was a thing made by people who had spent their lives teaching children to read and knew exactly where the difficulty was. Petunia left the schools programmes on because they were educational for Dudley. Dudley ignored them. Harry sat in the high chair and took every word they offered. Some of the children's programmes at four had the writing, as did the serial Petunia followed. The news did not, which did not matter, because the news was in the paper the next morning.
+
+Easter came on the Sunday. Dudley had eggs. Harry had one, from Mrs Figg, which he ate slowly over two days because nobody was going to give him another. On the Monday the Dursleys went to Marge's and Harry went to Wisteria Walk.
+
+* * *
+
+The work itself was not difficult. It was only large.
+
+He listened, he looked, and he put the two together. A woman on the screen said a word and the word sat under her in white letters, and Harry had the pair. The next word made another pair. By the end of an afternoon he had several thousand pairs, and the regular ones he had already, so he set those aside and looked at the rest, which were the words that did not sound the way they were spelled. There were a great many of these. He had expected that. What he had not expected was how much order there was inside the disorder. *Enough* and *rough* and *tough* went one way; *though* and *dough* went another; *through* went a third; *bough* and *plough* a fourth; *thought* and *bought* a fifth; and a word spelled that way was one of those five things and nothing else. The rules did not tell you which. But five was not many, and he could remember which, because he could remember everything, and it turned out that nearly every unkind word in English was unkind in one of a small number of ways. The schools programme that took words apart had a whole lesson on *ough*, and he gathered from it that the people who taught reading knew perfectly well that the language was a mess and taught it anyway, and that the children learning it were not expected to manage it in an afternoon.
+
+He had the sense to see that he was not managing it in an afternoon either. He was managing it in about ten days of afternoons, with a memory that lost nothing and eight days of his own to spend on every hour of the television's, and even then it was the schools programme that handed him the key to *ough*. He did not feel clever. He felt like someone who had been given a very long ladder and had finally been let near a wall.
+
+By the second Sunday in April there was no word in the Radio Times he could not sound out. Slowly, and one shape at a time. But he could do it.
+
+* * *
+
+He had assumed that reading meant going along the lines, because that was how Vernon read the paper, eyes moving left to right and lips moving slightly; it was how Petunia read her magazines, and how the man on the schools programme ran his pencil under the words. For the first few days he read that way too. It was slow in a way that he recognised, because it was the same way that everything was slow: the eyes moved at the speed of the body, the body moved at the speed of the world, and he sat behind them with a great deal of time on his hands, waiting for the next word to arrive.
+
+Then, on a Wednesday, with the Mail on the counter and Petunia upstairs, he noticed something about the place where his eyes were resting.
+
+The word under them was sharp. The words either side of it were sharp. The words above and below, on the lines above and below, were nearly sharp, and the ones beyond those were a grey blur that he could half make out, and all of this was there at once, in the one look, before his eyes moved at all. He had been looking at one word and ignoring the rest. He did not need to. He could keep the look. He kept everything else; he had kept the doorstep for a year and a half and every day since July without trying. If he kept this look, the whole patch of it, the sharp centre and the half-sharp ring and the grey beyond, and then moved his eyes and kept the next look, and then the next, he would have the page, all of it, in his head, where it did not need eyes at all.
+
+He tried it on the front page of the Mail. It took him twenty-two looks, because he was being careful, and at the end of them he shut his eyes and read the front page of the Mail in the dark. The blurred words at the edge of one look were the sharp words at the centre of the next, and where they were still unclear he knew what they must be from the words around them, and where he did not know he could open his eyes and look. He read it twice, in his head, in the time it took Petunia to come down three stairs. Then he looked at the second page.
+
+The reading, he understood, had never been the slow part. The looking was the slow part, and the looking had just become a matter of twenty or thirty looks a page instead of three or four hundred. After that the page was simply there. Reading it was thinking, and thinking was the one thing he had never been short of time for.
+
+He spent the rest of April finding out what the limits were, because there were always limits. Fewer looks meant more blur, and there was a point past which the blur could not be made out from the words around it, which for the Mail's print was about fifteen looks and for the encyclopaedia's smaller type was nearer thirty. Holding the page further from his face let each look cover more of it, but the print smeared past about a foot and a half, in a way he assumed was the fault of the print and which was in fact the fault of his eyes, though nobody would tell him that for two months. Poor light cost him looks. And when all of that was settled, the thing that took longest, by a wide margin, was turning the page. His hands were a toddler's hands. A page took them a second and a half. He could have the whole of a page in his head in five seconds and then sit for a second and a half, which was five minutes of his own, watching his own fingers find the corner.
+
+It was a strange thing to discover, at two and three-quarters, that he could read a book faster than he could hold it. He did not think anyone had ever had that problem before.
+
+At Mrs Figg's on Easter Monday he read two of her Agatha Christies, standing at the shelf, in the hour after lunch, and was well into a third when she came in with the tea. She saw a very small boy holding a paperback. Her eyes went past him and then came back, because something about the way he was holding it was wrong. She stood in the doorway with the cup and watched his eyes hop about the page in a pattern that had nothing to do with lines, and watched him turn the page after a few seconds, and turn it again.
+
+"Harry?"
+
+He looked up. "Yes, Mrs Figg?"
+
+She opened her mouth, and seemed to think about what she was going to say, and then thought better of it. "Nothing, dear," she said. She went and sat down, and did not say anything else about it, then or later. He went back to the book. He had the sense, when he thought about it that night, that she had seen something and decided not to have seen it; that this was a kind thing to have done; and that it had not been done for his sake alone.
+
+* * *
+
+After that he read the house.
+
+The house did not take long. Getting at the house took a fortnight, because he lived in a cupboard with a bolt on it, and the encyclopaedia lived in Dudley's playroom, and he was watched. But a thing that he could get his hands on for five minutes he could have, and over the second half of April he got his hands on all of it.
+
+The Mail he read every morning in the twenty minutes it lay on the counter before Petunia wrapped the peelings in it. He read all of it. He read the news and the letters and the advertisements and the racing and the television page and the horoscope, and the horoscope interested him in a way that had nothing to do with believing it. Russell Grant on Breakfast Time said that Tuesday would bring an unexpected visitor for those born under Leo, and the Mail's own astrologer said something different about Tuesday for the same people, and Harry had read enough of the encyclopaedia's article on the planets to know that neither of them could be right for a reason, so he began keeping a tally of what each of them said and what happened, and by June he had enough of a sample to be sure of something he had been fairly sure of in April.
+
+The encyclopaedia he read in the playroom with Dudley, a volume at a time, and when Petunia was out he carried a volume down to the cupboard and read it there and carried it back, which was the only rule he broke that month, and he put every one of them back exactly where it had been. The twelve volumes took him most of the fortnight. They were from 1962, and the world had three billion people in them and no moon landings, and a good deal of what they said about physics had been overtaken, which he knew because the Mail said so in passing and because the schools programmes said so on purpose. He read them anyway, every word. They were the largest single thing he had ever been given, and when he finished the last page of the last one he sat on the playroom floor among Dudley's cars with volume twelve shut in his lap and felt something that he would later recognise as the feeling of having finished a very long meal and found himself still hungry.
+
+He read the Collins dictionary that lived by Vernon's chair, in snatches, and found in it the word for the look on Voldemort's face in the doorway, and decided it was not big enough. He read the Radio Times. He read the Argos catalogue, which was a list of every object in the world with a price beside it, and learned from it what things cost: that the new television had cost more than Petunia spent on food in a month, and that there were a great many things people were expected to want. He read the Yellow Pages under L and found LIBRARIES, and under it the Little Whinging Branch Library on the High Street, with a telephone number and opening hours. He read the opening hours several times. He read the Surrey A to Z and learned where he was, which was twenty-five miles from London in a street that was one of forty streets laid out the same way. He read Petunia's two cookbooks and found that cooking was chemistry done by people who did not call it that. He read the Reader's Digest home repair manual and understood, for the first time, what the boiler was doing when it made its sequence of sounds. He read Vernon's one novel, which was about two men who hated each other for four hundred pages and was, he decided, less a story than a document about what grown men wished they were like. He read Petunia's two Catherine Cooksons, every one of Dudley's books, the handbook for the car, and the manual for the television, which explained on page nine exactly how to turn on the subtitles, and which he read anyway, because it was there.
+
+He read the Bible. It was Petunia's parents' Bible, from the bureau. It took him two sittings, and he came out of it with a great many thoughts, the first of which was that it was the only book in the house that expected to be believed.
+
+* * *
+
+The folder was in the bureau too, in the second drawer, and he read it on the last Thursday in April while Petunia was at the fence with the woman from number seven.
+
+It was thin. On top was a certificate with a crest, which said that HARRY JAMES POTTER had been born on the 31st of July 1980 at Godric's Hollow, and that his father was JAMES POTTER and his mother was LILY POTTER, formerly EVANS.
+
+He stood and looked at it for a long time by either clock.
+
+He had known his name was Harry, and that Potter was the sound Dumbledore had used for him on the doorstep. He had not known the day. The 31st of July: so he had been two years old on the last day of last July, and Petunia had looked at him oddly over breakfast and looked away, and he had kept the look for nine months without knowing what it was, and now he did. He had not known his father's name. James. He had not known his mother's. He had had her voice, her hair across her face, and the sound Sirius had made saying her name. Now he had the word. Lily. Formerly Evans. Evans was the name written inside the Bible, on the flyleaf, in old ink: *Harold Evans and Rose Evans, married 1956*, and under it two more lines in the same hand, *Petunia, born 1958*, and *Lily, born 30th January 1960*. So that was where Petunia came from. He had worked out months ago, from "Petunia's sister's" and the stiffness that went with it, that his mother and Petunia had been sisters. It was different to see it written down by someone whose job it was to write things down.
+
+Under the certificate was a card with his name on it from the National Health Service, and under that a letter, on thick paper, from a firm of solicitors in Lincoln's Inn, dated November 1981, which said that the enclosed documents related to the child Harry James Potter and were forwarded for Mrs Dursley's retention, and which said nothing else at all. He read it four times looking for the nothing else, and it was not there. Under that was Dudley's certificate: Dudley Vernon Dursley, born the 23rd of June 1980, which made Dudley five weeks older than Harry rather than the several months he had assumed from the size of him.
+
+And under everything, at the bottom of the drawer, was a shoebox.
+
+It had photographs in it. They were small and square and most of them had gone the colour of weak tea. A couple in their twenties outside a terraced house in a street that was not this street. A baby. Two little girls on a beach, one dark and thin with her arms folded, one smaller with red hair, laughing at something out of the picture. The same two girls older, in school uniform, in a back yard. The red-haired one on a swing. The red-haired one holding a cat. The dark one alone, at twelve or so, by a Christmas tree. The dark one alone, in a cap and gown. The dark one with Vernon. The dark one with Dudley. The red-haired one was in none of the later ones, and Harry went back through the box to be sure, and she was not.
+
+She was about nine in the one on the swing. She was laughing in that one too. He had never seen her face in a photograph, or in daylight, or in any light but the landing light coming past Voldemort's shoulder; he had never seen it still. He looked at it now for as long as he dared, with Petunia's voice coming through the French windows from the fence. Then he put the photographs back in the order they had been in, the box in the bottom of the drawer, and the folder on top of it, shut the drawer, and went and sat in the kitchen where he was supposed to be.
+
+He did not go through the day that night. He went through the photograph.
+
+* * *
+
+By the second of May he had read everything in the house that had writing on it, and he sat in the cupboard that evening with the light off and took stock.
+
+He had the shape of the world. It was a big place with four and a half billion people in it, according to the Mail, or three, according to the encyclopaedia, and it had countries and governments and money and wars, and two of the wars had been large enough that his grandparents and his parents had each had one. It had universities, which were places where people were paid to know things. It had newspapers, which told you what had happened and were sometimes wrong about it, and were always sure. It had libraries, which lent books to anyone for nothing. One of them was on the High Street, and he had read its opening hours. It had a man called Uri Geller who bent spoons by looking at them, and the Mail could not decide whether to believe him, and Harry had read the Mail's account very carefully and had an opinion.
+
+He had his own name, the day he was born, the name of the place, which was not in the A to Z or the encyclopaedia's atlas, and the names of his mother and father. He had his mother's face at nine. He had, for his parents' deaths, exactly one account, which was two words long and had been said at Christmas lunch by Vernon in the voice Vernon used when he lied about his golf.
+
+And he had, for the first time in his life, read himself to a standstill. There was nothing left in the house. He had turned the Argos catalogue into economics and the cookbooks into chemistry and the car's handbook into something, and there was no more. He knew now what more looked like, because the encyclopaedia had told him: libraries, and universities, and a thing it called the British Museum Reading Room, which had a copy of every book published in the country. He wanted all of it. He wanted it with the same whole-hearted want that had once moved a bottle, and he had learned that wanting was not the problem.
+
+The problem was that he was two years and nine months old, and under the stairs, with a bolt on the door, and the library was half a mile away.

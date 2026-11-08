@@ -103,7 +103,7 @@ INDEX = """<!DOCTYPE html>
 <ol class="chapters">
 {items}
 </ol>
-<p class="note small">Working notes: <a href="outline/bible.md">story bible</a> &middot; <a href="outline/01-10.md">outline, chapters 1&ndash;10</a></p>
+<p class="note small">Working notes: <a href="outline/bible.md">story bible</a> &middot; <a href="outline/01-10.md">outline, chapters 1&ndash;10</a> &middot; <a href="outline/11-20.md">outline, chapters 11&ndash;20</a></p>
 </main>
 </body>
 </html>
